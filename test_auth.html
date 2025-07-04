@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teste de Autenticação RAG</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .test { margin: 10px 0; padding: 10px; border: 1px solid #ccc; }
+        .success { background-color: #d4edda; }
+        .error { background-color: #f8d7da; }
+        input, button { padding: 8px; margin: 5px; }
+    </style>
+</head>
+<body>
+    <h1>🔐 Teste de Autenticação RAG System</h1>
+    
+    <div>
+        <input type="password" id="password" placeholder="Digite a senha" value="123">
+        <button onclick="testAuth()">Testar Autenticação</button>
+    </div>
+    
+    <div id="results"></div>
+
+    <script>
+        const API_BASE = 'http://localhost:8000';
+        
+        async function testAuth() {
+            const password = document.getElementById('password').value;
+            const results = document.getElementById('results');
+            results.innerHTML = '<div class="test">🔄 Testando...</div>';
+            
+            try {
+                // Teste 1: Health Check
+                console.log('Testing health with password:', password);
+                const healthResponse = await fetch(`${API_BASE}/health`, {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': `Bearer ${password}`,
+                        'Content-Type': 'application/json'
+                    }
+                });
+                
+                let healthResult = '';
+                if (healthResponse.ok) {
+                    const healthData = await healthResponse.json();
+                    healthResult = `<div class="test success">✅ Health Check: ${healthData.message}</div>`;
+                } else {
+                    const errorData = await healthResponse.text();
+                    healthResult = `<div class="test error">❌ Health Check: ${healthResponse.status} - ${errorData}</div>`;
+                }
+                
+                // Teste 2: Stats
+                const statsResponse = await fetch(`${API_BASE}/stats`, {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': `Bearer ${password}`,
+                        'Content-Type': 'application/json'
+                    }
+                });
+                
+                let statsResult = '';
+                if (statsResponse.ok) {
+                    const statsData = await statsResponse.json();
+                    statsResult = `<div class="test success">✅ Stats: ${statsData.documents.count} documentos</div>`;
+                } else {
+                    const errorData = await statsResponse.text();
+                    statsResult = `<div class="test error">❌ Stats: ${statsResponse.status} - ${errorData}</div>`;
+                }
+                
+                results.innerHTML = healthResult + statsResult;
+                
+                // Se tudo funcionou, testar localStorage
+                if (healthResponse.ok && statsResponse.ok) {
+                    localStorage.setItem('rag_password', password);
+                    results.innerHTML += '<div class="test success">✅ Senha salva no localStorage</div>';
+                    results.innerHTML += '<div class="test success">🎉 <strong>Autenticação funcionando perfeitamente!</strong></div>';
+                }
+                
+            } catch (error) {
+                console.error('Erro:', error);
+                results.innerHTML = `<div class="test error">❌ Erro de conexão: ${error.message}</div>`;
+                results.innerHTML += '<div class="test error">🔧 Verifique se o backend está rodando em http://localhost:8000</div>';
+            }
+        }
+        
+        // Testar automaticamente ao carregar
+        window.onload = () => {
+            setTimeout(testAuth, 1000);
+        };
+    </script>
+</body>
+</html>
