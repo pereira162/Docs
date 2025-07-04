@@ -1,0 +1,15 @@
+Este é um documento de teste para validar o sistema RAG.
+
+O sistema deve ser capaz de:
+1. Extrair o texto deste documento
+2. Processá-lo com Docling
+3. Permitir fazer download do conteúdo processado
+4. Responder perguntas sobre o conteúdo usando IA local (Ollama)
+
+Tecnologias utilizadas:
+- Docling para processamento de documentos
+- Ollama para IA local
+- FastAPI para backend
+- React para frontend
+
+Este é um teste para validar se todas as funcionalidades estão funcionando corretamente.

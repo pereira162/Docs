@@ -1,118 +1,53 @@
----
-applyTo: '**'
----
-Provide project context and coding guidelines that AI should follow when generating code, answering questions, or reviewing changes.
+# **Contexto do Projeto e Diretrizes para Assistente de IA**
 
-# Contexto do Projeto e Diretrizes para Assistente de IA
+## **1\. Objetivo Principal**
 
-## Visão Geral
-Este projeto nasceu de uma necessidade prática: criar um sistema online (site) para processar e consultar documentos (links de arquivos ou sites) de forma eficiente, usando técnicas de RAG (Retrieval-Augmented Generation) e IA generativa. O objetivo é permitir que qualquer pessoa possa adicionar documentos via URL e fazer perguntas sobre o conteúdo, recebendo respostas contextualizadas, sem custos e com deploy 100% online.
+O objetivo deste projeto é criar uma ferramenta, primariamente utilizando Docling, para **extrair, processar e salvar informações** de uma vasta gama de fontes e tipos de arquivo (documentos, imagens, sites, etc.).
 
-## Evolução da Discussão
-- **Fase 1:** Inicialmente, discutimos uma arquitetura robusta (FastAPI, Next.js, PostgreSQL, Qdrant, Docker, etc.), mas percebemos que seria caro e complexo para o objetivo de uso pessoal/protótipo.
-- **Fase 2:** O foco mudou para uma solução totalmente gratuita, simples e fácil de hospedar, mesmo que com limitações de armazenamento e performance.
-- **Fase 3:** Documentamos toda a arquitetura, stack, fluxos e limitações, e partimos para a implementação de um MVP funcional, priorizando:
-  - Deploy rápido (Railway, Vercel, Qdrant Cloud)
-  - Autenticação simples (senha única)
-  - Processamento temporário (sem necessidade de banco relacional)
-  - Facilidade de uso e manutenção
+O resultado final deve ser uma coleção de arquivos **organizados e em formato de fácil leitura para IA (como Markdown ou JSON)**, otimizados para uso em sistemas de RAG (Retrieval-Augmented Generation). A função primária é a extração e o download dos dados processados. A capacidade de fazer perguntas sobre os documentos é uma funcionalidade secundária.
 
-## Stack e Arquitetura
-- **Backend:** FastAPI (Python), embeddings com sentence-transformers, armazenamento vetorial no Qdrant Cloud, deploy no Railway.
-- **Frontend:** React (Vite, TypeScript, Tailwind), deploy no Vercel.
-- **Fluxo:**
-  1. Usuário adiciona URL de documento
-  2. Backend extrai texto, faz chunking e gera embeddings
-  3. Chunks são armazenados no Qdrant
-  4. Usuário faz perguntas; backend busca chunks relevantes e retorna para o frontend
+## **2\. Critérios Essenciais (Regras Não Negociáveis)**
 
-## Limitações e Decisões
-- **100% gratuito:** Todas as ferramentas em tier free (Railway, Qdrant, Vercel)
-- **Sem login complexo:** Apenas senha fixa para acesso
-- **Armazenamento temporário:** Não há persistência longa nem banco relacional
-- **Documentação detalhada:** Todos os passos, comandos e decisões estão documentados em `README.md` e `DEPLOY.md`
+Estas são as diretrizes mais importantes. Todas as sugestões, códigos e respostas da IA devem segui-las rigorosamente.
 
-## Como o Assistente de IA deve atuar
-- **Seguir a arquitetura e fluxos já definidos** (não sugerir upgrades pagos ou complexidade desnecessária)
-- **Priorizar simplicidade e baixo custo**
-- **Respeitar as limitações dos tiers gratuitos**
-- **Ajudar a evoluir o MVP de forma incremental** (ex: suporte a PDF, melhorias de UX, otimizações)
-- **Referenciar sempre os arquivos principais:**
-  - `backend/main.py` (API e lógica)
-  - `frontend/src/App.tsx` (interface)
-  - `DEPLOY.md` (deploy e troubleshooting)
-  - `README.md` (visão geral e exemplos)
+* **Custo Zero:** A solução deve ser **100% gratuita**. Não utilize ou sugira serviços de nuvem pagos, APIs com custos, ou qualquer componente que tenha um limite baixo no plano gratuito e que possa levar a cobranças.  
+* **Sem Limites de Uso:** O sistema não deve ter limite de armazenamento ou de número de arquivos. Para alcançar isso, o foco deve ser o uso de **recursos locais da máquina do usuário** (cache no disco, sistema de arquivos) para todo o armazenamento de dados.  
+* **Foco na Extração e Formatação:** A prioridade é o fluxo:  
+  1. Receber uma fonte (URL, caminho de arquivo).  
+  2. Identificar o tipo de arquivo e usar a melhor ferramenta para **extrair o conteúdo bruto** (ex: OCR para imagens).  
+  3. Limpar, formatar e "chunk" (dividir) o texto.  
+  4. Salvar o resultado localmente em um formato estruturado (**Markdown ou JSON**), em uma estrutura de pastas organizada.  
+* **Suporte Amplo a Arquivos:** A ferramenta deve ser capaz de processar os seguintes formatos:  
+  * **Essenciais:** PDF, DOCX, Imagens (JPG, PNG, etc.), HTML (URLs).  
+  * **Desejáveis (Explorar Soluções):** Vídeos, Planilhas (XLS, XLSX), Apresentações (PPT, PPTX).  
+* **Tecnologia é um Meio, Não um Fim:** A stack tecnológica específica **não é importante**. A IA deve sugerir a solução mais **simples e direta** que cumpra os critérios acima, utilizando bibliotecas de código aberto e gratuitas.
 
-## Exemplos de perguntas que podem surgir
-- Como adicionar um novo tipo de documento?
-- Como melhorar a extração de texto?
-- Como escalar para mais documentos?
-- Como personalizar a interface?
+## **3\. Sugestões de Ferramentas (Local-First)**
 
-## Resumo
-O objetivo é manter o sistema simples, funcional e gratuito, com deploy fácil e documentação clara. O assistente de IA deve sempre contextualizar suas respostas com base nessas premissas e nos arquivos do projeto.
+Para cumprir o critério de suporte a arquivos, a IA deve sugerir bibliotecas que rodem localmente:
 
----
+* **PDF:** PyPDF2, pdfplumber (para extração mais robusta de tabelas e layout).  
+* **DOCX:** python-docx.  
+* **Imagens (OCR):** pytesseract (requer instalação do Tesseract OCR no sistema).  
+* **Planilhas:** pandas, openpyxl.  
+* **Apresentações:** python-pptx.  
+* **Vídeos (Transcrição e Análise Visual):**  
+  * **Áudio:** Whisper (executado localmente) ou Vosk para transcrever a fala.  
+  * **Visual:** FFmpeg para extrair frames (imagens) do vídeo em intervalos. pytesseract para aplicar OCR nesses frames e extrair texto de slides, código, etc.
 
-**Qualquer dúvida ou sugestão de melhoria, consulte a documentação e mantenha o foco na simplicidade e viabilidade gratuita.**
+## **4\. Como o Assistente de IA Deve Atuar**
 
+* **Pense "Local-First":** Sempre que precisar processar arquivos, sua primeira sugestão deve ser uma biblioteca que funcione offline.  
+* **Simplicidade Acima de Tudo:** Evite arquiteturas complexas quando um script ou uma ferramenta dedicada como Docling for suficiente.  
+* **Foque no Problema, Não na Ferramenta (além do Docling):** Concentre-se em resolver o problema funcional ("como extrair texto de um PPTX?") usando as bibliotecas mais simples e gratuitas disponíveis para, se necessário, complementar a ferramenta principal.  
+* **Ignore o Histórico de Stacks Complexas:** Desconsidere discussões anteriores sobre stacks com FastAPI, Next.js, Qdrant Cloud, etc.
 
-# Copilot Instructions for AI Agents
+## **5\. Exemplos de Interação Ideal**
 
-## Project Overview
-- **Purpose:** RAG (Retrieval-Augmented Generation) system for processing documents via URL and answering questions using AI.
-- **Architecture:**
-  - **Backend:** FastAPI (Python), sentence-transformers for embeddings, Qdrant Cloud for vector storage, deployed on Railway.
-  - **Frontend:** React (Vite, TypeScript, Tailwind), deployed on Vercel.
-  - **Data Flow:** User submits document URL → Backend extracts & chunks text → Embeddings generated → Chunks stored in Qdrant → User queries → Backend retrieves relevant chunks → Results shown in frontend.
+**Pergunta do Usuário:** "Como posso extrair o texto de uma imagem e salvá-lo em JSON?"
 
-## Key Files & Directories
-- `backend/main.py`: FastAPI app, all API endpoints, Qdrant integration, embedding logic, authentication.
-- `backend/requirements.txt`: Python dependencies (FastAPI, Qdrant, sentence-transformers, etc).
-- `frontend/src/App.tsx`: Main React app, handles authentication, document upload, querying, and result display.
-- `frontend/package.json`: Frontend dependencies and scripts.
-- `DEPLOY.md`: Step-by-step deploy and troubleshooting guide.
-- `README.md`: Project summary, stack, and usage examples.
+* **Resposta CORRETA (✅):** "Podemos usar a biblioteca pytesseract para fazer o OCR da imagem e extrair o texto. Depois, estruturamos essa saída em um arquivo JSON. O processo seria: 1\. Carregar a imagem com uma biblioteca como a Pillow. 2\. Passar a imagem para o pytesseract para obter o texto. 3\. Criar um dicionário Python com o texto e metadados (como o nome do arquivo) e salvá-lo como um arquivo JSON. Aqui está um exemplo de código..."
 
-## Developer Workflows
-- **Backend:**
-  - Run locally: `python main.py` (after installing requirements and setting env vars)
-  - Deploy: Railway (env vars: `SITE_PASSWORD`, `QDRANT_URL`, `QDRANT_API_KEY`, `PORT`)
-- **Frontend:**
-  - Run locally: `npm run dev` (Vite)
-  - Deploy: Vercel (env var: `VITE_API_URL`)
-- **Environment:**
-  - All secrets/configs via environment variables (see `.env.example`)
-  - Password-based auth (single password, no user accounts)
+**Pergunta do Usuário:** "Como posso processar um vídeo para extrair o máximo de informação?"
 
-## Project-Specific Patterns & Conventions
-- **Chunking:** Documents are split into ~500-word overlapping chunks before embedding.
-- **Embeddings:** Uses `sentence-transformers/all-MiniLM-L6-v2` (384-dim vectors).
-- **Qdrant:** Each chunk stored as a vector with metadata (content, source_url, title, chunk_index, timestamp).
-- **Endpoints:**
-  - `/add-document`: Add document by URL
-  - `/query`: Query for relevant chunks
-  - `/stats`: System stats
-  - `/clear`: Clear all data (dev only)
-- **Frontend:**
-  - Auth state stored in `localStorage`
-  - API base URL set via `VITE_API_URL` env var
-  - All API calls require Bearer token (password)
-
-## Integration Points
-- **Qdrant Cloud:** External vector DB, free tier (1GB)
-- **Railway:** Backend hosting, free tier (512MB RAM)
-- **Vercel:** Frontend hosting
-
-## Examples
-- Add document: POST `/add-document` with `{ url, title? }` and Bearer token
-- Query: POST `/query` with `{ query, max_results }` and Bearer token
-
-## Non-Obvious Details
-- **No user accounts:** Only a single password for access (set via env var)
-- **Document size limit:** ~50k characters per document
-- **Free tier constraints:** Backend may sleep, Qdrant storage is limited
-- **PDF support:** Basic (HTML preferred); for advanced PDF, extend backend
-
----
-For more, see `DEPLOY.md` and `README.md`. When in doubt, check `main.py` (backend) and `App.tsx` (frontend) for real usage patterns.
+* **Resposta CORRETA (✅):** "Para uma solução local e gratuita, podemos combinar duas estratégias: 1\. **Extrair o áudio** com FFmpeg e transcrevê-lo com Whisper para obter a fala. 2\. **Extrair frames visuais** com FFmpeg (ex: um a cada 10 segundos) e usar pytesseract para ler o texto de qualquer slide ou código na tela. O resultado final seria um arquivo .md que combina a transcrição com o conteúdo visual identificado em cada timestamp, criando um documento rico e pesquisável."

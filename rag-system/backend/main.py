@@ -1,4 +1,4 @@
-# RAG Docling System - Servidor principal
+# RAG Docling System - Servidor principal com Docling avançado
 
 from fastapi import FastAPI, HTTPException, Depends, status, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
@@ -19,6 +19,7 @@ import uuid
 import io
 import zipfile
 from datetime import datetime
+import subprocess
 
 # Load environment variables
 load_dotenv()
@@ -30,8 +31,8 @@ logger = logging.getLogger("rag_docling_system")
 # Initialize FastAPI
 app = FastAPI(
     title="RAG Docling System", 
-    version="2.0.0",
-    description="Sistema RAG completo com processamento real de documentos"
+    version="2.1.0",
+    description="Sistema RAG completo com Docling avançado, Ollama e gerenciamento de documentos"
 )
 
 # CORS Configuration - PERMITIR TODAS AS ORIGENS PARA DESENVOLVIMENTO
@@ -111,29 +112,112 @@ class ExportRequest(BaseModel):
     format: str = "json"
     include_metadata: bool = True
 
-# Enhanced AI with real document processing
+# Enhanced AI with Docling and Ollama integration
 class EnhancedAI:
     @staticmethod
-    def extract_text_from_content(content: bytes, filename: str) -> str:
-        """Extract text from different file types"""
+    def extract_text_with_docling(content: bytes, filename: str) -> Dict:
+        """Extract text using Docling for advanced document processing"""
         try:
-            if filename.endswith('.txt'):
-                return content.decode('utf-8', errors='ignore')
-            elif filename.endswith('.md'):
-                return content.decode('utf-8', errors='ignore')
-            elif filename.endswith('.pdf'):
-                # Simple PDF text extraction
-                text = content.decode('utf-8', errors='ignore')
-                return f"PDF Content: {filename}\n{text[:5000]}"
-            else:
-                return f"Arquivo: {filename}\nTamanho: {len(content)} bytes\nConteúdo processado."
+            # Try to import Docling
+            try:
+                from docling.document_converter import DocumentConverter
+                from docling.datamodel.base_models import DocumentStream
+                from docling.chunking import HybridChunker
+                logger.info(f"Using Docling for advanced processing of {filename}")
+                
+                # Create document stream
+                buf = io.BytesIO(content)
+                source = DocumentStream(name=filename, stream=buf)
+                
+                # Convert with Docling
+                converter = DocumentConverter()
+                result = converter.convert(source)
+                
+                if result.status.success:
+                    doc = result.document
+                    
+                    # Extract metadata
+                    metadata = {
+                        "title": doc.name or filename,
+                        "pages": getattr(doc, 'page_count', 0),
+                        "tables": len([item for item in doc.texts if hasattr(item, 'label') and 'table' in str(item.label).lower()]),
+                        "images": len([item for item in doc.texts if hasattr(item, 'label') and 'image' in str(item.label).lower()]),
+                        "processing_method": "docling"
+                    }
+                    
+                    # Export to markdown for better structure preservation
+                    full_text = doc.export_to_markdown()
+                    
+                    # Create chunks using Docling's HybridChunker
+                    chunker = HybridChunker()
+                    chunks = []
+                    
+                    for chunk in chunker.chunk(doc):
+                        chunk_data = {
+                            "text": chunk.text,
+                            "metadata": chunk.meta.export_json_dict() if hasattr(chunk.meta, 'export_json_dict') else {}
+                        }
+                        chunks.append(chunk_data)
+                    
+                    return {
+                        "text": full_text,
+                        "chunks": chunks,
+                        "metadata": metadata,
+                        "success": True
+                    }
+                else:
+                    logger.warning(f"Docling failed to process {filename}, falling back to simple extraction")
+                    
+            except ImportError:
+                logger.warning("Docling not available, using fallback extraction")
+            except Exception as e:
+                logger.error(f"Docling processing error: {e}")
+            
+            # Fallback to simple extraction
+            return EnhancedAI.extract_text_simple(content, filename)
+            
         except Exception as e:
-            logger.error(f"Error extracting text: {e}")
-            return f"Erro ao extrair texto do arquivo {filename}"
+            logger.error(f"Error in text extraction: {e}")
+            return {
+                "text": f"Erro ao extrair texto do arquivo {filename}: {str(e)}",
+                "chunks": [],
+                "metadata": {"processing_method": "error", "error": str(e)},
+                "success": False
+            }
 
     @staticmethod
-    def chunk_text(text: str, chunk_size: int = 1000, overlap: int = 200) -> List[str]:
-        """Split text into overlapping chunks"""
+    def extract_text_simple(content: bytes, filename: str) -> Dict:
+        """Simple text extraction fallback"""
+        try:
+            if filename.lower().endswith('.txt'):
+                text = content.decode('utf-8', errors='ignore')
+            elif filename.lower().endswith('.md'):
+                text = content.decode('utf-8', errors='ignore')
+            elif filename.lower().endswith('.pdf'):
+                text = content.decode('utf-8', errors='ignore')[:10000]  # Limit for safety
+            else:
+                text = f"Arquivo: {filename}\nTamanho: {len(content)} bytes\nConteúdo processado com método simples."
+            
+            # Simple chunking
+            chunks = EnhancedAI.chunk_text_simple(text)
+            
+            return {
+                "text": text,
+                "chunks": [{"text": chunk, "metadata": {}} for chunk in chunks],
+                "metadata": {"processing_method": "simple", "file_size": len(content)},
+                "success": True
+            }
+        except Exception as e:
+            return {
+                "text": f"Erro na extração simples: {str(e)}",
+                "chunks": [],
+                "metadata": {"processing_method": "error", "error": str(e)},
+                "success": False
+            }
+
+    @staticmethod
+    def chunk_text_simple(text: str, chunk_size: int = 1000, overlap: int = 200) -> List[str]:
+        """Simple text chunking for fallback"""
         if len(text) <= chunk_size:
             return [text]
         
@@ -163,29 +247,60 @@ class EnhancedAI:
         return chunks
 
     @staticmethod
-    async def generate_response(query: str, context_chunks: List[str], mode: str = "auto") -> tuple[str, str]:
-        """Generate enhanced response"""
-        
-        if mode == "gemini" and GOOGLE_API_KEY:
-            try:
-                # Simulated Gemini response for now
-                context = "\n\n".join(context_chunks[:3])
-                response = f"""**Resposta baseada nos documentos (Simulado Gemini):**
+    def check_ollama_available() -> bool:
+        """Check if Ollama is available"""
+        try:
+            result = subprocess.run(
+                ["ollama", "list"], 
+                capture_output=True, 
+                text=True, 
+                timeout=10
+            )
+            return result.returncode == 0
+        except Exception:
+            return False
 
-Baseado no contexto fornecido para "{query}":
+    @staticmethod
+    async def generate_response_ollama(query: str, context_chunks: List[str], model: str = "llama3.2:1b") -> tuple[str, str]:
+        """Generate response using Ollama"""
+        try:
+            if not EnhancedAI.check_ollama_available():
+                raise Exception("Ollama não está disponível")
+            
+            # Prepare context
+            context = "\n\n".join(context_chunks[:3])
+            
+            prompt = f"""Baseado no contexto fornecido, responda à pergunta de forma precisa e informativa.
 
-{context[:800]}
+CONTEXTO:
+{context[:2000]}
 
-Esta é uma resposta simulada do Gemini. Para usar o Gemini real, instale: `pip install google-generativeai`
+PERGUNTA: {query}
 
-💡 **Informação:** {len(context_chunks)} trechos relevantes encontrados."""
-                return response, "gemini"
+RESPOSTA:"""
+            
+            # Call Ollama
+            result = subprocess.run(
+                ["ollama", "run", model, prompt],
+                capture_output=True,
+                text=True,
+                timeout=30
+            )
+            
+            if result.returncode == 0:
+                response = result.stdout.strip()
+                return f"🤖 **Resposta do Ollama ({model}):**\n\n{response}\n\n💡 *{len(context_chunks)} trechos relevantes encontrados.*", "ollama"
+            else:
+                raise Exception(f"Ollama error: {result.stderr}")
                 
-            except Exception as e:
-                logger.error(f"Gemini error: {e}")
-                # Fallback to local
-        
-        # Enhanced local AI response
+        except Exception as e:
+            logger.error(f"Ollama error: {e}")
+            # Fallback to local processing
+            return await EnhancedAI.generate_response_local(query, context_chunks)
+
+    @staticmethod
+    async def generate_response_local(query: str, context_chunks: List[str]) -> tuple[str, str]:
+        """Enhanced local AI response"""
         if not context_chunks:
             return "❌ Nenhum documento encontrado para responder sua pergunta.", "local"
         
@@ -215,6 +330,35 @@ Esta é uma resposta simulada do Gemini. Para usar o Gemini real, instale: `pip 
 🤖 *Resposta gerada com IA local.*"""
         
         return response, "local"
+
+    @staticmethod
+    async def generate_response(query: str, context_chunks: List[str], mode: str = "auto") -> tuple[str, str]:
+        """Generate enhanced response with multiple AI options"""
+        
+        # Gemini mode
+        if mode == "gemini" and GOOGLE_API_KEY:
+            try:
+                context = "\n\n".join(context_chunks[:3])
+                response = f"""**Resposta baseada nos documentos (Simulado Gemini):**
+
+Baseado no contexto fornecido para "{query}":
+
+{context[:800]}
+
+Esta é uma resposta simulada do Gemini. Para usar o Gemini real, instale: `pip install google-generativeai`
+
+💡 **Informação:** {len(context_chunks)} trechos relevantes encontrados."""
+                return response, "gemini"
+                
+            except Exception as e:
+                logger.error(f"Gemini error: {e}")
+        
+        # Ollama mode
+        if mode == "ollama" or (mode == "auto" and EnhancedAI.check_ollama_available()):
+            return await EnhancedAI.generate_response_ollama(query, context_chunks)
+        
+        # Local fallback
+        return await EnhancedAI.generate_response_local(query, context_chunks)
 
 # Enhanced search function
 def enhanced_search(query: str, max_results: int = 5) -> List[Dict]:
@@ -278,7 +422,7 @@ async def health_check():
 
 @app.post("/add-document", dependencies=[Depends(verify_token)])
 async def add_document(document: DocumentRequest):
-    """Add document from URL with real processing"""
+    """Add document from URL with advanced Docling processing"""
     try:
         logger.info(f"Processing document from URL: {document.url}")
         
@@ -289,35 +433,48 @@ async def add_document(document: DocumentRequest):
         # Extract filename
         filename = document.url.split('/')[-1] or "document.txt"
         
-        # Extract and process text
+        # Extract and process text with Docling
         content = response.content
-        text = EnhancedAI.extract_text_from_content(content, filename)
+        extraction_result = EnhancedAI.extract_text_with_docling(content, filename)
         
-        # Create chunks
-        chunks = EnhancedAI.chunk_text(text)
+        if not extraction_result["success"]:
+            raise HTTPException(status_code=500, detail=f"Falha no processamento: {extraction_result.get('metadata', {}).get('error', 'Erro desconhecido')}")
+        
+        text = extraction_result["text"]
+        chunks_data = extraction_result["chunks"]
+        processing_metadata = extraction_result["metadata"]
         
         doc_id = str(uuid.uuid4())
         documents_db[doc_id] = {
             "content": text,
-            "chunks": chunks,
+            "chunks": [chunk["text"] for chunk in chunks_data],
+            "chunks_metadata": chunks_data,
             "metadata": {
-                "title": document.title or filename,
+                "title": document.title or processing_metadata.get("title", filename),
                 "source_url": document.url,
                 "document_id": doc_id,
                 "filename": filename,
                 "created_at": datetime.now().isoformat(),
                 "size_bytes": len(content),
-                "chunks_count": len(chunks),
-                "processing_time": time.time()
+                "chunks_count": len(chunks_data),
+                "processing_time": time.time(),
+                "processing_method": processing_metadata.get("processing_method", "unknown"),
+                "pages": processing_metadata.get("pages", 0),
+                "tables": processing_metadata.get("tables", 0),
+                "images": processing_metadata.get("images", 0)
             }
         }
         
         return {
             "message": "Documento processado e adicionado com sucesso!",
             "document_id": doc_id,
-            "chunks_created": len(chunks),
+            "chunks_created": len(chunks_data),
             "file_size": len(content),
-            "processing_time": time.time() - documents_db[doc_id]["metadata"]["processing_time"]
+            "processing_time": time.time() - documents_db[doc_id]["metadata"]["processing_time"],
+            "processing_method": processing_metadata.get("processing_method"),
+            "pages": processing_metadata.get("pages", 0),
+            "tables": processing_metadata.get("tables", 0),
+            "images": processing_metadata.get("images", 0)
         }
         
     except Exception as e:
@@ -326,42 +483,55 @@ async def add_document(document: DocumentRequest):
 
 @app.post("/upload-document", dependencies=[Depends(verify_token)])
 async def upload_document(file: UploadFile = File(...), title: Optional[str] = Form(None)):
-    """Upload and process document file"""
+    """Upload and process document file with advanced Docling processing"""
     try:
         logger.info(f"Processing uploaded file: {file.filename}")
         
         # Read file content
         content = await file.read()
         
-        # Extract and process text
-        text = EnhancedAI.extract_text_from_content(content, file.filename)
+        # Extract and process text with Docling
+        extraction_result = EnhancedAI.extract_text_with_docling(content, file.filename)
         
-        # Create chunks
-        chunks = EnhancedAI.chunk_text(text)
+        if not extraction_result["success"]:
+            raise HTTPException(status_code=500, detail=f"Falha no processamento: {extraction_result.get('metadata', {}).get('error', 'Erro desconhecido')}")
+        
+        text = extraction_result["text"]
+        chunks_data = extraction_result["chunks"]
+        processing_metadata = extraction_result["metadata"]
         
         doc_id = str(uuid.uuid4())
         documents_db[doc_id] = {
             "content": text,
-            "chunks": chunks,
+            "chunks": [chunk["text"] for chunk in chunks_data],
+            "chunks_metadata": chunks_data,
             "metadata": {
-                "title": title or file.filename,
+                "title": title or processing_metadata.get("title", file.filename),
                 "source_file": file.filename,
                 "document_id": doc_id,
                 "filename": file.filename,
                 "created_at": datetime.now().isoformat(),
                 "size_bytes": len(content),
-                "chunks_count": len(chunks),
+                "chunks_count": len(chunks_data),
                 "content_type": file.content_type,
-                "processing_time": time.time()
+                "processing_time": time.time(),
+                "processing_method": processing_metadata.get("processing_method", "unknown"),
+                "pages": processing_metadata.get("pages", 0),
+                "tables": processing_metadata.get("tables", 0),
+                "images": processing_metadata.get("images", 0)
             }
         }
         
         return {
             "message": "Arquivo processado e adicionado com sucesso!",
             "document_id": doc_id,
-            "chunks_created": len(chunks),
+            "chunks_created": len(chunks_data),
             "file_size": len(content),
-            "processing_time": time.time() - documents_db[doc_id]["metadata"]["processing_time"]
+            "processing_time": time.time() - documents_db[doc_id]["metadata"]["processing_time"],
+            "processing_method": processing_metadata.get("processing_method"),
+            "pages": processing_metadata.get("pages", 0),
+            "tables": processing_metadata.get("tables", 0),
+            "images": processing_metadata.get("images", 0)
         }
         
     except Exception as e:
@@ -424,7 +594,7 @@ async def query_documents(query: QueryRequest) -> QueryResponse:
 
 @app.get("/documents", dependencies=[Depends(verify_token)])
 async def list_documents():
-    """List all processed documents"""
+    """List all processed documents with enhanced metadata"""
     documents = []
     for doc_id, doc_data in documents_db.items():
         metadata = doc_data.get('metadata', {})
@@ -437,6 +607,10 @@ async def list_documents():
             "chunks_count": metadata.get('chunks_count', 0),
             "size_bytes": metadata.get('size_bytes', 0),
             "created_at": metadata.get('created_at'),
+            "processing_method": metadata.get('processing_method', 'unknown'),
+            "pages": metadata.get('pages', 0),
+            "tables": metadata.get('tables', 0),
+            "images": metadata.get('images', 0),
             "content_preview": doc_data.get('content', '')[:200] + "..." if len(doc_data.get('content', '')) > 200 else doc_data.get('content', '')
         })
     
@@ -445,6 +619,107 @@ async def list_documents():
         "total_count": len(documents),
         "total_chunks": sum(doc.get('chunks_count', 0) for doc in documents)
     }
+
+@app.get("/documents/{document_id}", dependencies=[Depends(verify_token)])
+async def get_document(document_id: str):
+    """Get specific document details"""
+    if document_id not in documents_db:
+        raise HTTPException(status_code=404, detail="Documento não encontrado")
+    
+    doc_data = documents_db[document_id]
+    return {
+        "id": document_id,
+        "content": doc_data.get('content', ''),
+        "chunks": doc_data.get('chunks', []),
+        "chunks_metadata": doc_data.get('chunks_metadata', []),
+        "metadata": doc_data.get('metadata', {})
+    }
+
+@app.delete("/documents/{document_id}", dependencies=[Depends(verify_token)])
+async def delete_document(document_id: str):
+    """Delete specific document"""
+    if document_id not in documents_db:
+        raise HTTPException(status_code=404, detail="Documento não encontrado")
+    
+    doc_metadata = documents_db[document_id].get('metadata', {})
+    title = doc_metadata.get('title', 'Documento sem título')
+    
+    del documents_db[document_id]
+    logger.info(f"Document deleted: {document_id} - {title}")
+    
+    return {
+        "message": f"Documento '{title}' deletado com sucesso",
+        "document_id": document_id
+    }
+
+@app.post("/documents/{document_id}/export", dependencies=[Depends(verify_token)])
+async def export_single_document(document_id: str, export_request: ExportRequest):
+    """Export single document"""
+    if document_id not in documents_db:
+        raise HTTPException(status_code=404, detail="Documento não encontrado")
+    
+    doc_data = documents_db[document_id]
+    metadata = doc_data.get('metadata', {})
+    
+    # Create export data for single document
+    export_data = {
+        "export_info": {
+            "created_at": datetime.now().isoformat(),
+            "document_id": document_id,
+            "document_title": metadata.get('title', 'Untitled'),
+            "total_chunks": len(doc_data.get('chunks', [])),
+            "format": export_request.format,
+            "include_metadata": export_request.include_metadata
+        },
+        "document": {
+            "id": document_id,
+            "content": doc_data.get('content', ''),
+            "chunks": doc_data.get('chunks', [])
+        }
+    }
+    
+    if export_request.include_metadata:
+        export_data["document"]["metadata"] = metadata
+        export_data["document"]["chunks_metadata"] = doc_data.get('chunks_metadata', [])
+    
+    # Create zip file
+    zip_buffer = io.BytesIO()
+    with zipfile.ZipFile(zip_buffer, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+        
+        # JSON export
+        json_content = json.dumps(export_data, indent=2, ensure_ascii=False)
+        zip_file.writestr(f"{metadata.get('title', 'document')}_{document_id}.json", json_content)
+        
+        # Markdown export
+        md_content = f"# {metadata.get('title', 'Documento')}\n\n"
+        md_content += f"**ID:** {document_id}\n"
+        md_content += f"**Exportado:** {export_data['export_info']['created_at']}\n"
+        md_content += f"**Chunks:** {export_data['export_info']['total_chunks']}\n\n"
+        
+        if export_request.include_metadata:
+            md_content += f"## Metadata\n\n```json\n{json.dumps(metadata, indent=2)}\n```\n\n"
+        
+        md_content += f"## Conteúdo\n\n{doc_data.get('content', '')}\n\n"
+        
+        md_content += f"## Chunks ({len(doc_data.get('chunks', []))})\n\n"
+        for i, chunk in enumerate(doc_data.get('chunks', [])):
+            md_content += f"### Chunk {i+1}\n\n{chunk}\n\n"
+        
+        zip_file.writestr(f"{metadata.get('title', 'document')}_{document_id}.md", md_content)
+        
+        # Individual chunks
+        for i, chunk in enumerate(doc_data.get('chunks', [])):
+            zip_file.writestr(f"chunks/chunk_{i+1}.txt", chunk)
+    
+    zip_buffer.seek(0)
+    
+    title_safe = "".join(c for c in metadata.get('title', 'document') if c.isalnum() or c in (' ', '-', '_')).rstrip()
+    
+    return StreamingResponse(
+        io.BytesIO(zip_buffer.read()),
+        media_type="application/zip",
+        headers={"Content-Disposition": f"attachment; filename={title_safe}_{document_id}.zip"}
+    )
 
 @app.post("/export", dependencies=[Depends(verify_token)])
 async def export_documents(export_request: ExportRequest):
@@ -534,9 +809,32 @@ async def export_documents(export_request: ExportRequest):
 
 @app.get("/stats", dependencies=[Depends(verify_token)])
 async def get_stats():
-    """Get system statistics"""
+    """Get enhanced system statistics"""
     total_chunks = sum(len(doc.get('chunks', [])) for doc in documents_db.values())
     total_size = sum(doc.get('metadata', {}).get('size_bytes', 0) for doc in documents_db.values())
+    
+    # Count documents by processing method
+    processing_methods = {}
+    for doc in documents_db.values():
+        method = doc.get('metadata', {}).get('processing_method', 'unknown')
+        processing_methods[method] = processing_methods.get(method, 0) + 1
+    
+    # Check Ollama availability
+    ollama_available = EnhancedAI.check_ollama_available()
+    ollama_models = []
+    if ollama_available:
+        try:
+            result = subprocess.run(["ollama", "list"], capture_output=True, text=True, timeout=5)
+            if result.returncode == 0:
+                # Parse ollama list output
+                lines = result.stdout.strip().split('\n')[1:]  # Skip header
+                for line in lines:
+                    if line.strip():
+                        parts = line.split()
+                        if len(parts) >= 1:
+                            ollama_models.append(parts[0])
+        except Exception:
+            pass
     
     return {
         "vector_storage": {
@@ -546,37 +844,47 @@ async def get_stats():
         },
         "documents": {
             "count": len(documents_db),
-            "total_size_mb": round(total_size / (1024 * 1024), 2)
+            "total_size_mb": round(total_size / (1024 * 1024), 2),
+            "processing_methods": processing_methods
         },
         "system": {
             "data_path": str(DATA_PATH),
             "gemini_configured": bool(GOOGLE_API_KEY),
-            "local_ai_available": True
+            "local_ai_available": True,
+            "ollama_available": ollama_available,
+            "ollama_models": ollama_models
         },
         "ai_config": {
             "current_mode": current_ai_mode,
-            "available_modes": ["auto", "gemini", "local"],
-            "gemini_configured": bool(GOOGLE_API_KEY)
+            "available_modes": ["auto", "gemini", "local", "ollama"],
+            "gemini_configured": bool(GOOGLE_API_KEY),
+            "ollama_available": ollama_available
         }
     }
 
 @app.get("/ai-config", dependencies=[Depends(verify_token)])
 async def get_ai_config():
-    """Get AI configuration"""
+    """Get AI configuration with Ollama support"""
+    ollama_available = EnhancedAI.check_ollama_available()
     return {
         "current_mode": current_ai_mode,
-        "available_modes": ["auto", "gemini", "local"],
+        "available_modes": ["auto", "gemini", "local", "ollama"],
         "gemini_configured": bool(GOOGLE_API_KEY),
-        "local_ai_available": True
+        "local_ai_available": True,
+        "ollama_available": ollama_available
     }
 
 @app.post("/ai-config", dependencies=[Depends(verify_token)])
 async def set_ai_config(config: AIConfigRequest):
-    """Set AI configuration"""
+    """Set AI configuration with Ollama support"""
     global current_ai_mode
     
-    if config.ai_mode not in ["auto", "gemini", "local"]:
+    if config.ai_mode not in ["auto", "gemini", "local", "ollama"]:
         raise HTTPException(status_code=400, detail="Modo de IA inválido")
+    
+    # Check if Ollama is available when trying to set it
+    if config.ai_mode == "ollama" and not EnhancedAI.check_ollama_available():
+        raise HTTPException(status_code=400, detail="Ollama não está disponível")
     
     current_ai_mode = config.ai_mode
     logger.info(f"AI mode set to: {current_ai_mode}")

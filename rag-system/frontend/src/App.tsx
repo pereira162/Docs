@@ -20,11 +20,28 @@ interface QueryResponse {
   query: string;
   answer: string;
   sources: DocumentResult[];
+  ai_mode_used: string;
 }
 
 interface DocumentAdd {
   url: string;
   title?: string;
+}
+
+interface Document {
+  id: string;
+  title: string;
+  filename: string;
+  source_url?: string;
+  source_file?: string;
+  chunks_count: number;
+  size_bytes: number;
+  created_at: string;
+  processing_method?: string;
+  pages?: number;
+  tables?: number;
+  images?: number;
+  content_preview: string;
 }
 
 interface Stats {
@@ -36,11 +53,20 @@ interface Stats {
   documents: {
     count: number;
     total_size_mb: number;
+    processing_methods?: { [key: string]: number };
   };
   system: {
     data_path: string;
-    models_path: string;
     gemini_configured: boolean;
+    local_ai_available: boolean;
+    ollama_available?: boolean;
+    ollama_models?: string[];
+  };
+  ai_config: {
+    current_mode: string;
+    available_modes: string[];
+    gemini_configured: boolean;
+    ollama_available?: boolean;
   };
 }
 
@@ -59,6 +85,19 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [message, setMessage] = useState('');
   const [stats, setStats] = useState<Stats | null>(null);
+  const [documents, setDocuments] = useState<Document[]>([]);
+  const [showDocuments, setShowDocuments] = useState(false);
+
+  // Auto-hide message after 2 seconds
+  useEffect(() => {
+    if (message) {
+      console.log('📄 RAG System Log:', message); // Log to console
+      const timer = setTimeout(() => {
+        setMessage('');
+      }, 2000);
+      return () => clearTimeout(timer);
+    }
+  }, [message]);
 
   useEffect(() => {
     // Verificar se já está autenticado
@@ -116,6 +155,129 @@ function App() {
     } catch (error) {
       console.error('Erro ao carregar estatísticas:', error);
     }
+  };
+
+  const loadDocuments = async () => {
+    try {
+      const response = await fetch(`${API_BASE}/documents`, {
+        headers: {
+          'Authorization': `Bearer ${password}`
+        }
+      });
+
+      if (response.ok) {
+        const data = await response.json();
+        setDocuments(data.documents);
+      }
+    } catch (error) {
+      console.error('Erro ao carregar documentos:', error);
+    }
+  };
+
+  const deleteDocument = async (docId: string, docTitle: string) => {
+    if (!confirm(`Tem certeza que deseja deletar "${docTitle}"?`)) {
+      return;
+    }
+
+    setLoading(true);
+    try {
+      const response = await fetch(`${API_BASE}/documents/${docId}`, {
+        method: 'DELETE',
+        headers: {
+          'Authorization': `Bearer ${password}`
+        }
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        setMessage(`✅ ${data.message}`);
+        loadDocuments();
+        loadStats();
+      } else {
+        setMessage(`❌ Erro: ${data.detail}`);
+      }
+    } catch (error) {
+      setMessage(`❌ Erro: ${error}`);
+    }
+
+    setLoading(false);
+  };
+
+  const exportDocument = async (docId: string, docTitle: string) => {
+    setLoading(true);
+    try {
+      const response = await fetch(`${API_BASE}/documents/${docId}/export`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${password}`
+        },
+        body: JSON.stringify({
+          format: 'json',
+          include_metadata: true
+        })
+      });
+
+      if (response.ok) {
+        const blob = await response.blob();
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.style.display = 'none';
+        a.href = url;
+        a.download = `${docTitle}_${docId}.zip`;
+        document.body.appendChild(a);
+        a.click();
+        window.URL.revokeObjectURL(url);
+        document.body.removeChild(a);
+        setMessage(`✅ Download iniciado: ${docTitle}`);
+      } else {
+        const data = await response.json();
+        setMessage(`❌ Erro no export: ${data.detail}`);
+      }
+    } catch (error) {
+      setMessage(`❌ Erro: ${error}`);
+    }
+
+    setLoading(false);
+  };
+
+  const exportAllDocuments = async () => {
+    setLoading(true);
+    try {
+      const response = await fetch(`${API_BASE}/export`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${password}`
+        },
+        body: JSON.stringify({
+          format: 'json',
+          include_metadata: true
+        })
+      });
+
+      if (response.ok) {
+        const blob = await response.blob();
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.style.display = 'none';
+        a.href = url;
+        a.download = `rag_export_${new Date().toISOString().split('T')[0]}.zip`;
+        document.body.appendChild(a);
+        a.click();
+        window.URL.revokeObjectURL(url);
+        document.body.removeChild(a);
+        setMessage('✅ Download completo iniciado');
+      } else {
+        const data = await response.json();
+        setMessage(`❌ Erro no export: ${data.detail}`);
+      }
+    } catch (error) {
+      setMessage(`❌ Erro: ${error}`);
+    }
+
+    setLoading(false);
   };
 
   const addDocument = async (e: React.FormEvent) => {
@@ -338,27 +500,136 @@ function App() {
         {/* Status e Estatísticas */}
         {stats && (
           <div className="bg-white rounded-lg shadow p-6 mb-8">
-            <h2 className="text-lg font-semibold text-gray-900 mb-4">📈 Estatísticas do Sistema</h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-              <div className="bg-blue-50 p-4 rounded-lg">
-                <div className="text-sm text-blue-600 font-medium">Total de Chunks</div>
-                <div className="text-2xl font-bold text-blue-900">{stats.vector_storage.total_chunks}</div>
-              </div>
-              <div className="bg-green-50 p-4 rounded-lg">
-                <div className="text-sm text-green-600 font-medium">Documentos</div>
-                <div className="text-2xl font-bold text-green-900">{stats.documents.count}</div>
-              </div>
-              <div className="bg-purple-50 p-4 rounded-lg">
-                <div className="text-sm text-purple-600 font-medium">Tamanho Total</div>
-                <div className="text-2xl font-bold text-purple-900">{stats.documents.total_size_mb} MB</div>
-              </div>
-              <div className="bg-yellow-50 p-4 rounded-lg">
-                <div className="text-sm text-yellow-600 font-medium">IA Gemini</div>
-                <div className="text-2xl font-bold text-yellow-900">
-                  {stats.system.gemini_configured ? '✅' : '❌'}
-                </div>
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-lg font-semibold text-gray-900">📈 Estatísticas do Sistema</h2>
+              <div className="flex gap-2">
+                <button
+                  onClick={() => {setShowDocuments(!showDocuments); if (!showDocuments) loadDocuments();}}
+                  className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 text-sm"
+                >
+                  {showDocuments ? '� Estatísticas' : '📄 Documentos'}
+                </button>
+                {stats.documents.count > 0 && (
+                  <button
+                    onClick={exportAllDocuments}
+                    disabled={loading}
+                    className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 text-sm"
+                  >
+                    💾 Export Todos
+                  </button>
+                )}
               </div>
             </div>
+
+            {!showDocuments ? (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                <div className="bg-blue-50 p-4 rounded-lg">
+                  <div className="text-sm text-blue-600 font-medium">Total de Chunks</div>
+                  <div className="text-2xl font-bold text-blue-900">{stats.vector_storage.total_chunks}</div>
+                </div>
+                <div className="bg-green-50 p-4 rounded-lg">
+                  <div className="text-sm text-green-600 font-medium">Documentos</div>
+                  <div className="text-2xl font-bold text-green-900">{stats.documents.count}</div>
+                </div>
+                <div className="bg-purple-50 p-4 rounded-lg">
+                  <div className="text-sm text-purple-600 font-medium">Tamanho Total</div>
+                  <div className="text-2xl font-bold text-purple-900">{stats.documents.total_size_mb} MB</div>
+                </div>
+                <div className="bg-yellow-50 p-4 rounded-lg">
+                  <div className="text-sm text-yellow-600 font-medium">IA Disponível</div>
+                  <div className="text-sm font-bold text-yellow-900">
+                    {stats.system.gemini_configured && '🤖 Gemini '}
+                    {stats.system.ollama_available && '🦙 Ollama '}
+                    🧠 Local
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <div className="space-y-4">
+                <div className="text-sm text-gray-600 mb-4">
+                  Total: {documents.length} documentos | {stats.vector_storage.total_chunks} chunks
+                </div>
+                
+                {documents.length === 0 ? (
+                  <div className="text-center py-8 text-gray-500">
+                    📁 Nenhum documento encontrado
+                  </div>
+                ) : (
+                  <div className="space-y-3 max-h-96 overflow-y-auto">
+                    {documents.map((doc) => (
+                      <div key={doc.id} className="border border-gray-200 rounded-lg p-4">
+                        <div className="flex items-start justify-between">
+                          <div className="flex-1">
+                            <h3 className="font-medium text-gray-900 mb-1">
+                              📄 {doc.title}
+                            </h3>
+                            <div className="text-sm text-gray-600 space-y-1">
+                              <div>📁 {doc.filename}</div>
+                              <div>🧩 {doc.chunks_count} chunks | 📏 {formatFileSize(doc.size_bytes)}</div>
+                              {doc.processing_method && (
+                                <div>⚙️ {doc.processing_method}
+                                  {doc.pages && ` | 📄 ${doc.pages} páginas`}
+                                  {doc.tables && ` | 📊 ${doc.tables} tabelas`}
+                                  {doc.images && ` | 🖼️ ${doc.images} imagens`}
+                                </div>
+                              )}
+                              <div>🕒 {new Date(doc.created_at).toLocaleString()}</div>
+                            </div>
+                            <p className="text-sm text-gray-500 mt-2 line-clamp-2">
+                              {doc.content_preview}
+                            </p>
+                          </div>
+                          <div className="flex flex-col gap-2 ml-4">
+                            <button
+                              onClick={() => exportDocument(doc.id, doc.title)}
+                              disabled={loading}
+                              className="px-3 py-1 bg-green-600 text-white rounded text-xs hover:bg-green-700 disabled:opacity-50"
+                            >
+                              💾 Export
+                            </button>
+                            <button
+                              onClick={() => deleteDocument(doc.id, doc.title)}
+                              disabled={loading}
+                              className="px-3 py-1 bg-red-600 text-white rounded text-xs hover:bg-red-700 disabled:opacity-50"
+                            >
+                              🗑️ Deletar
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+            )}
+
+            {/* Processing Methods Statistics */}
+            {stats.documents.processing_methods && !showDocuments && (
+              <div className="mt-6 pt-4 border-t border-gray-200">
+                <h3 className="text-sm font-medium text-gray-700 mb-3">Métodos de Processamento</h3>
+                <div className="flex flex-wrap gap-2">
+                  {Object.entries(stats.documents.processing_methods).map(([method, count]) => (
+                    <span key={method} className="px-2 py-1 bg-gray-100 text-gray-700 rounded text-xs">
+                      {method}: {count}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Ollama Models */}
+            {stats.system.ollama_models && stats.system.ollama_models.length > 0 && !showDocuments && (
+              <div className="mt-4 pt-4 border-t border-gray-200">
+                <h3 className="text-sm font-medium text-gray-700 mb-3">🦙 Modelos Ollama Disponíveis</h3>
+                <div className="flex flex-wrap gap-2">
+                  {stats.system.ollama_models.map((model) => (
+                    <span key={model} className="px-2 py-1 bg-orange-100 text-orange-700 rounded text-xs">
+                      {model}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         )}
 
