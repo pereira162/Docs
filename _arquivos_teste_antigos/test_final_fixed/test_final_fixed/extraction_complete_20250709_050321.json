@@ -1,0 +1,64 @@
+{
+  "extraction_info": {
+    "timestamp": "20250709_050321",
+    "pages": 2,
+    "total_chunks": 2,
+    "duration": 5.644373416900635
+  },
+  "pages": [
+    {
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+      "title": "Tour the AutoCAD UI",
+      "language": "en",
+      "videos": [
+        {
+          "video_id": "84a711e0-a331-11ed-a98a-599257d1f9b8",
+          "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+          "detection_type": "video_direct"
+        }
+      ],
+      "text_chunks_count": 1,
+      "video_chunks_count": 0,
+      "extracted_at": "2025-07-09T05:03:18.348745"
+    },
+    {
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+      "title": "New Features Overview (Video)",
+      "language": "en",
+      "videos": [
+        {
+          "video_id": "456a54d0-8b7e-11ed-9908-f35030c405cf",
+          "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+          "detection_type": "video_direct"
+        }
+      ],
+      "text_chunks_count": 1,
+      "video_chunks_count": 0,
+      "extracted_at": "2025-07-09T05:03:20.611407"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm#text_chunk_0",
+      "text": "Tour the AutoCAD UI Tour the AutoCAD UI View a demo of the basic tools in the user interface. Related Concepts The Hitchhiker's Guide to AutoCAD What's New in AutoCAD 2024 New Features Overview (Video)",
+      "type": "text_content",
+      "metadata": {
+        "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+        "page_title": "Tour the AutoCAD UI",
+        "chunk_index": 0,
+        "extracted_at": "2025-07-09T05:03:18.348745"
+      }
+    },
+    {
+      "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm#text_chunk_0",
+      "text": "New Features Overview (Video) New Features Overview (Video) This video shows the key enhancements in this release. Related Concepts What's New in AutoCAD 2024 Related Reference New AutoCAD Commands and System Variables Reference Updated AutoCAD Commands and System Variables Reference",
+      "type": "text_content",
+      "metadata": {
+        "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+        "page_title": "New Features Overview (Video)",
+        "chunk_index": 0,
+        "extracted_at": "2025-07-09T05:03:20.611407"
+      }
+    }
+  ]
+}

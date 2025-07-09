@@ -1,0 +1,66 @@
+{
+  "file_info": {
+    "filename": "Atividades_alunos.xlsx",
+    "size_bytes": 130514,
+    "size_mb": 0.12,
+    "created": "2025-07-08T23:04:10.510325",
+    "modified": "2025-07-08T22:36:09.012495",
+    "extension": ".xlsx"
+  },
+  "workbook_info": {
+    "total_sheets": 15,
+    "sheet_names": [
+      "1E",
+      "1F",
+      "1G",
+      "1H",
+      "1I",
+      "1J",
+      "1K",
+      "2H",
+      "2I",
+      "2J",
+      "2K",
+      "8A",
+      "8B",
+      "8C",
+      "3A"
+    ],
+    "active_sheet": "1E",
+    "properties": {
+      "title": null,
+      "creator": "openpyxl",
+      "description": null,
+      "subject": null,
+      "keywords": null,
+      "category": null,
+      "created": "2025-07-09 02:05:47.827382",
+      "modified": "2025-07-09 02:05:47.827382"
+    }
+  },
+  "worksheets": {
+    "1E": {
+      "name": "1E",
+      "shape": {
+        "rows": 35,
+        "columns": 15
+      },
+      "columns": [
+        "Unnamed: 0",
+        "MATÉRIA: PENSAMENTO COMPUTACIONAL",
+        "Unnamed: 2",
+        "Unnamed: 3",
+        "Unnamed: 4",
+        "Unnamed: 5",
+        "Unnamed: 6",
+        "Unnamed: 7",
+        "Unnamed: 8",
+        "Unnamed: 9",
+        "limites",
+        0.15,
+        "Unnamed: 12",
+        "Unnamed: 13",
+        "Unnamed: 14"
+      ],
+      "data_types": {
+        "Unnamed: 0": 

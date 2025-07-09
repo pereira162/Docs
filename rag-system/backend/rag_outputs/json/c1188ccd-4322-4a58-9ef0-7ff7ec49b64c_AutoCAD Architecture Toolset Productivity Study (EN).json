@@ -1,0 +1,773 @@
+{
+  "metadata": {
+    "filename": "c1188ccd-4322-4a58-9ef0-7ff7ec49b64c_AutoCAD Architecture Toolset Productivity Study (EN).pdf",
+    "total_pages": 24,
+    "pages_processed": 24,
+    "tables_found": 17,
+    "processed_at": "2025-07-06T15:55:17.488042"
+  },
+  "content": [
+    {
+      "page_number": 1,
+      "text": "The benefits of\nusing the Architecture\ntoolset in AutoCAD\nThe benefits of using the Architecture toolset in AutoCAD 1",
+      "tables": [],
+      "has_content": true
+    },
+    {
+      "page_number": 2,
+      "text": "Introduction\nThe Architecture toolset (previously referred to as AutoCAD\nArchitecture®) is now included with AutoCAD® as a specialized toolset.\nIt is built specifically to create and modify software-based design and\ndocumentation productivity for architects.\nPurpose-built architectural design tools help eliminate errors and provide\naccurate information to the user, allowing more time for architectural\ndesign. This study details the productivity gains that users may experience\nwhen using AutoCAD with the Architecture toolset rather than just basic\nAutoCAD when designing and documenting a building.\nExecutive summary\nDesigned by Autodesk and commissioned to an independent consultant,\nthis study explores common architectural design challenges when\npreparing construction documents in basic AutoCAD and the potential\nproductivity gains by using the Architecture toolset. A set of design\ndocuments were recreated using both basic AutoCAD and AutoCAD with\nthe Architecture toolset, with tasks ranging from drawing floor plans\nand sections to creating details and making revisions. The Architecture\ntoolset provided a 61% overall productivity gain over the time taken to\naccomplish the demonstrated tasks in basic AutoCAD (depending on user\nexpertise level with the Architecture toolset).\nThe benefits of using the Architecture toolset in AutoCAD 2",
+      "tables": [],
+      "has_content": true
+    },
+    {
+      "page_number": 3,
+      "text": "Key findings\nUsing the Architecture toolset:\nFaster\nCreation of floor plans was 53% faster.\nReduced\nThe time taken to create architectural elevations\nwas reduced by 79%.\nSaved\nDetailing and scheduling time was reduced by up to 70%.\nGained\nThere was an overall productivity gain of 61%.\nThe benefits of using the Architecture toolset in AutoCAD 3",
+      "tables": [],
+      "has_content": true
+    },
+    {
+      "page_number": 4,
+      "text": "The study\nThis study explored nine common design challenges and showed direct\ncomparisons of the time and effort required to accomplish each specific\ntask in basic AutoCAD versus with the Architecture toolset.*\nThe same tasks were completed up to 79% faster\nusing AutoCAD with the Architecture toolset.*\nThe performance results in this paper were achieved by one user, with\nexpert-level experience, using both basic AutoCAD and AutoCAD with\nthe Architecture toolset and conducting comparative tests on the same\nsample AutoCAD project of a small one-story village school. The tasks\nare comprehensive in nature. The total time it took to complete each task\nusing both basic AutoCAD and AutoCAD with the Architecture toolset is\ndocumented in each case.\nIt was assumed during the study that all symbols and title blocks needed\nin basic AutoCAD for the design process were local to the document.\nSearching time is subjective and the methodologies allowed for the quick\nplacement of required blocks in the shortest amount of time possible.\nA detailed description of the study follows.\nThe benefits of using the Architecture toolset in AutoCAD 44",
+      "tables": [],
+      "has_content": true
+    },
+    {
+      "page_number": 5,
+      "text": "Design task 1\nFloor plans\nWhen working with basic AutoCAD, a set of\nconstruction documents created by the architect\nwould begin with the floor plans. Before that process\nstarts, any styles and symbols that will be used need\nto be created and developed: text styles, dimension\nstyles, standard blocks, etc. This includes building\nobjects, such as wall styles, doors, windows columns,\nbeams, and symbols, such as tags, used to identify\nrooms and the building objects themselves.\nThe Architecture toolset includes a huge library of\nthousands of predefined building objects added to\ntool palettes. These objects can also be customized to\nsuit the individual project if needed. The task was to\ndevelop floor plans for a simple building project.\nSteps\n1. Create a ground floor plan\n2. Add appropriate walls, doors, and windows as well\nas set out internal fixtures (furniture)\nThe benefits of using the Architecture toolset in AutoCAD 5",
+      "tables": [],
+      "has_content": true
+    },
+    {
+      "page_number": 6,
+      "text": "Floor plans AutoCAD Architecture toolset\nSet up project 10:00 15:00\nCreate a structural grid 45:00 40:00\nCreate wall outlines 15:00 10:00\nCreate custom windows and doors 60:00 0:00\nCreate custom walls 60:00 0:00\nAdd dimensions and tags 30:00 30:00\nGenerate roof 45:00 30:00\nTotal time to complete task 265:00 125:00\nTime savings with the Architecture toolset 53%\n(Figures shown in minutes and seconds)\nAdvantages\n• The Architecture toolset provides a huge library of architectural\ncomponents, including multi-level blocks, which allow for more\nproductivity when setting up your architectural designs. Regular\nAutoCAD blocks can still be used, but the blocks must be moved and\nrotated to align with elements such as the structural grid, walls, and\ndimension annotation. Inserting multi-view blocks (MvBlocks) from\nAutoCAD DesignCenter will also increase productivity if users use\nthem in their plans. The elevation views will automatically pick the\nintelligent views of these blocks.\n• The XREF Compare function will also allow for the easier comparison of\nexisting and new design revisions of structural grids and wall outlines.\nThe benefits of using the Architecture toolset in AutoCAD 66",
+      "tables": [
+        [
+          [
+            "Floor plans",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Set up project",
+            "10:00",
+            "15:00"
+          ],
+          [
+            "Create a structural grid",
+            "45:00",
+            "40:00"
+          ],
+          [
+            "Create wall outlines",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Create custom windows and doors",
+            "60:00",
+            "0:00"
+          ],
+          [
+            "Create custom walls",
+            "60:00",
+            "0:00"
+          ],
+          [
+            "Add dimensions and tags",
+            "30:00",
+            "30:00"
+          ],
+          [
+            "Generate roof",
+            "45:00",
+            "30:00"
+          ],
+          [
+            "Total time to complete task",
+            "265:00",
+            "125:00"
+          ],
+          [
+            "Time savings with the Architecture toolset",
+            "",
+            "53%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 7,
+      "text": "Design task 2\nElevations\nThe task was to create the four primary elevations of the architectural\nproject: north, south, east, and west. The Architecture toolset provides\nyou with the facility to create elevations easily and quickly from the 3D\narchitectural model. In basic AutoCAD, the building plans only existed\nas 2D drawings, so any elevations or sections must be created by\nprojecting lines from the floor plans, like using a drawing board. Any\ndoors or windows also must be recreated in elevation as new blocks to\nbe inserted into the elevations and/or sections.\nSteps:\n• Create project geometry (walls, doors, windows) from floor plans\n• Create 2D blocks in elevation (doors and windows)\n• Complete elevations and adding annotation where required\nThe benefits of using the Architecture toolset in AutoCAD 7",
+      "tables": [
+        [
+          [
+            "Elevations",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create project geometry from floor plans",
+            "45:00",
+            "1:00"
+          ],
+          [
+            "Create 2D blocks of windows and doors for elevations",
+            "30:00",
+            "0:00"
+          ],
+          [
+            "Complete elevations",
+            "120:00",
+            "40:00"
+          ],
+          [
+            "Total time to complete task",
+            "195:00",
+            "41:00"
+          ],
+          [
+            "Time savings with the Architecture toolset",
+            "",
+            "79%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 8,
+      "text": "Elevations AutoCAD Architecture toolset\nCreate project geometry from floor plans 45:00 1:00\nCreate 2D blocks of windows and doors for\n30:00 0:00\nelevations\nComplete elevations 120:00 40:00\nTotal time to complete task 195:00 41:00\nTime savings with the Architecture toolset 79%\n(Figures shown in minutes and seconds)\nAdvantages\n• The Architecture toolset can save vast amounts of tedious 2D editing\ntime that would be required in basic AutoCAD. During this task, it\nwas obvious that building the 3D model with the Architecture toolset\nwould be far more beneficial than trying to create the project from\n2D due to the automatic generation of both elevations and sections\nwith the Architecture toolset.\n• The Architecture toolset also provides great cataloging tools that\nallow you to ensure that all fixtures, such as doors and windows,\nuse the appropriate materials as all this information is already\nassociated with them when you bring them from the library into the\nproject. Inserting multi-view blocks (MvBlocks) from DesignCenter\nwill increase productivity if users use them in their plans. The\nelevation views will automatically pick the intelligent views of these\nblocks, which can then be brought into the elevations.\nTThhee bbeenneeffiittss ooff uussiinngg tthhee AArrcchhiitteeccttuurree ttoooollsseett iinn AAuuttooCCAADD 88",
+      "tables": [
+        [
+          [
+            "Elevations",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create project geometry from floor plans",
+            "45:00",
+            "1:00"
+          ],
+          [
+            "Create 2D blocks of windows and doors for elevations",
+            "30:00",
+            "0:00"
+          ],
+          [
+            "Complete elevations",
+            "120:00",
+            "40:00"
+          ],
+          [
+            "Total time to complete task",
+            "195:00",
+            "41:00"
+          ],
+          [
+            "Time savings with the Architecture toolset",
+            "",
+            "79%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 9,
+      "text": "Design task 3\nReflected ceiling plans\nThe task was to generate an arrangement of ceiling grids and light\nfixtures in the reflected ceiling plan for the project. To do this in basic\nAutoCAD, the floor plans were copied and layers that would not be\nneeded were either frozen or turned off. A new hatch pattern was then\nused to represent the ceiling tiles with the perimeter of the ceiling (and\nany subsequent partitions) outlined with the polyline command.\nThe light fittings and fixtures were created with dynamic blocks and\nadded to a new tool palette, with the drag-and-drop method being used\nto add them to the ceiling plan.\nThe Architecture toolset allows you to create rooms and spaces from\nthe 3D model, automatically creating outlines for rooms which also\nallows for automatic creation of ceiling grids. The Architecture toolset’s\nextensive content library provided pre-drawn light fixtures, which\ncould be dragged and dropped into the ceiling grids from AutoCAD\nDesignCenter with no further editing required.\nSteps:\n• Draw the ground floor ceiling plan\n• Create and add lighting fixtures to the ceiling plan\nThe benefits of using the Architecture toolset in AutoCAD 9",
+      "tables": [
+        [
+          [
+            "Reflected ceiling plans",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create the ground floor ceiling plan",
+            "60:00",
+            "40:00"
+          ],
+          [
+            "Create and add light fixtures to the ceiling",
+            "20:00",
+            "20:00"
+          ],
+          [
+            "Total time to complete task",
+            "80:00",
+            "60:00"
+          ],
+          [
+            "Time Savings with the Architecture toolset",
+            "",
+            "25%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 10,
+      "text": "Reflected ceiling plans AutoCAD Architecture toolset\nCreate the ground floor ceiling plan 60:00 40:00\nCreate and add light fixtures to the ceiling 20:00 20:00\nTotal time to complete task 80:00 60:00\nTime Savings with the Architecture toolset 25%\n(Figures shown in minutes and seconds)\nAdvantages\nThe Architecture toolset provides the following\nadvantages:\n• Automatically generates ceiling grids from existing\nroom and space outlines\n• Features an extensive content library of pre-drawn\nlighting fixture blocks\n• Automatically inserts lighting fixtures from\nDesignCenter with no further editing required\n• Avoids costly errors\nThe benefits of using the Architecture toolset in AutoCAD 10",
+      "tables": [
+        [
+          [
+            "Reflected ceiling plans",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create the ground floor ceiling plan",
+            "60:00",
+            "40:00"
+          ],
+          [
+            "Create and add light fixtures to the ceiling",
+            "20:00",
+            "20:00"
+          ],
+          [
+            "Total time to complete task",
+            "80:00",
+            "60:00"
+          ],
+          [
+            "Time Savings with the Architecture toolset",
+            "",
+            "25%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 11,
+      "text": "Design task 4\nBuilding sections\nBuilding sections are an important part of construction documentation. The\nArchitecture toolset can create building sections using the 3D model in the\nsame way sections were created in Task 2.\nLike in Task 2, the building plans only existed as 2D drawings in basic\nAutoCAD, so any building sections must be created by projecting lines from\nthe floor plans, like using a drawing board. In this case though, any doors\nor windows had already been created as blocks to be inserted into the\nelevations and could be used in the sections.\nSteps:\n• Create project geometry (walls, doors, windows) from floor plans\n• Create additional 2D blocks in section (doors, windows, and walls\nwhere applicable)\n• Complete sections and add annotation where required\nThe benefits of using the Architecture toolset in AutoCAD 11",
+      "tables": [
+        [
+          [
+            "Building sections",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create building section going WEST-EAST",
+            "110:00",
+            "40:00"
+          ],
+          [
+            "Create building section going NORTH-SOUTH",
+            "108:00",
+            "37:00"
+          ],
+          [
+            "Total time to complete task",
+            "218:00",
+            "77:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "65%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 12,
+      "text": "Building sections AutoCAD Architecture toolset\nCreate building section going WEST-EAST 110:00 40:00\nCreate building section going NORTH-SOUTH 108:00 37:00\nTotal time to complete task 218:00 77:00\nTime Savings with Architecture toolset 65%\n(Figures shown in minutes and seconds)\nAdvantages\nThe Architecture toolset offers huge time savings\nhere because:\n• Building sections can be created automatically with\nsimilar tools to those used for elevations\n• Section marks can be straight or staggered\n• Building sections (and elevations) can be refreshed\nshould their positioning in the model change\nThe benefits of using the Architecture toolset in AutoCAD 1122",
+      "tables": [
+        [
+          [
+            "Building sections",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create building section going WEST-EAST",
+            "110:00",
+            "40:00"
+          ],
+          [
+            "Create building section going NORTH-SOUTH",
+            "108:00",
+            "37:00"
+          ],
+          [
+            "Total time to complete task",
+            "218:00",
+            "77:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "65%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 13,
+      "text": "Design task 5\nSheet layouts\nThe Architecture toolset offers the same sheet set functionality that basic\nAutoCAD does, so the preparation of sheet layouts for the project in both\napplications was similar. Once the sheets were generated, files could be\ndragged and dropped to create viewports of individual project elements such\nas floor plans, elevations, and sections.\nSteps:\n• Create sheet set for the project\n• Create a project cover sheet with a perspective view of the project\n• Create sheets for floor plans, ceiling plans, elevations, and sections\n• Place appropriate views on sheets\n• Create page setups for plotting and printing\nThe benefits of using the Architecture toolset in AutoCAD 13",
+      "tables": [
+        [
+          [
+            "Sheet layouts",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create sheet sets",
+            "60:00",
+            "06:00"
+          ],
+          [
+            "Create cover sheet (including perspective view)",
+            "70:00",
+            "25:00"
+          ],
+          [
+            "Create sheets for plans, elevations, and sections",
+            "53:00",
+            "18:00"
+          ],
+          [
+            "Place views on sheets",
+            "55:00",
+            "14:00"
+          ],
+          [
+            "Create page setups",
+            "10:00",
+            "10:00"
+          ],
+          [
+            "Total time to complete task",
+            "248:00",
+            "73:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "71%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 14,
+      "text": "Sheet layouts AutoCAD Architecture toolset\nCreate sheet sets 60:00 06:00\nCreate cover sheet (including perspective view) 70:00 25:00\nCreate sheets for plans, elevations, and sections 53:00 18:00\nPlace views on sheets 55:00 14:00\nCreate page setups 10:00 10:00\nTotal time to complete task 248:00 73:00\nTime Savings with Architecture toolset 71%\n(Figures shown in minutes and seconds)\nAdvantages\n• The project model is in 3D, so no extra drafting is needed to create\nsheet views, especially the perspective view on the cover sheet\n• Any subsequent changes to the sheets can be refreshed and require\nno re-drafting\n• Additional sheet set tools provide productivity gains, saving time on\nsheet set creation\nThe benefits of using the Architecture toolset in AutoCAD 14",
+      "tables": [
+        [
+          [
+            "Sheet layouts",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create sheet sets",
+            "60:00",
+            "06:00"
+          ],
+          [
+            "Create cover sheet (including perspective view)",
+            "70:00",
+            "25:00"
+          ],
+          [
+            "Create sheets for plans, elevations, and sections",
+            "53:00",
+            "18:00"
+          ],
+          [
+            "Place views on sheets",
+            "55:00",
+            "14:00"
+          ],
+          [
+            "Create page setups",
+            "10:00",
+            "10:00"
+          ],
+          [
+            "Total time to complete task",
+            "248:00",
+            "73:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "71%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 15,
+      "text": "Design task 6\nDetails\nArchitectural construction projects, by their nature, contain many sheets of\nlarge-scale details. Often, a single ‘typical’ details sheet is created, rather\nthan numerous time-consuming sheets of every individual detail in the proj-\nect. This task comprised of creating two wall details: corner and section.\nSteps:\n• Create an enlarged plan view from which to take the detail views\n• Create detail views from the enlarged plan view\n• Add detail components to detail and enhance detail views\n• Add appropriate view annotation on detail sheets\nThe benefits of using the Architecture toolset in AutoCAD 15",
+      "tables": [
+        [
+          [
+            "Details",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create an enlarged plan view",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Create a section through wall corner for detail",
+            "90:00",
+            "15:00"
+          ],
+          [
+            "Create a section through wall for section detail",
+            "45:00",
+            "20:00"
+          ],
+          [
+            "Total time to complete task",
+            "150:00",
+            "45:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "70%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 16,
+      "text": "Details AutoCAD Architecture toolset\nCreate an enlarged plan view 15:00 10:00\nCreate a section through wall corner for detail 90:00 15:00\nCreate a section through wall for section detail 45:00 20:00\nTotal time to complete task 150:00 45:00\nTime Savings with Architecture toolset 70%\n(Figures shown in minutes and seconds)\nAdvantages\nCreating sections with basic AutoCAD is a time-consuming\ntask, especially in 2D drawings. The Architecture toolset\nprovides substantial time savings, primarily due to the\n3D model and pre-designed multi-level blocks in the\ncontent library.\n• Details are created from 3D model sections where\nthe drawing information is already in place\n• Blocks from the content library provide all the\nnecessary graphical information for the details\n• The block libraries in the Blocks palette can also be\nutilized in the Architecture toolset to centralize blocks\nin the cloud\n• Detail components can be added to enhance the\ndetail views\nThe benefits of using the Architecture toolset in AutoCAD 1166",
+      "tables": [
+        [
+          [
+            "Details",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Create an enlarged plan view",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Create a section through wall corner for detail",
+            "90:00",
+            "15:00"
+          ],
+          [
+            "Create a section through wall for section detail",
+            "45:00",
+            "20:00"
+          ],
+          [
+            "Total time to complete task",
+            "150:00",
+            "45:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "70%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 17,
+      "text": "Design task 7\nSchedules\nAll construction projects need schedules. This accounts for the necessary\nbuilding elements, such as windows, doors, and other associated fixtures.\nSchedules provide the necessary information to cost and catalog a project.\nManufacturer, size, description, and item cost can be included.\nBasic AutoCAD requires this information in blocks with attributes, and there is\nno refresh option should that attribute information change. The Architecture\ntoolset content library already has a lot of this information contained in the\npre-drawn blocks. If used in the project and changed, a block from the library\nwill trigger the appropriate schedule in the project to be refreshed to show\nthe current details.\nSteps:\n• Add the appropriate tags to windows and doors in a floor plan\n• Create a window schedule from the tagged windows\n• Add the schedule to the floor plan\n• Any updates to the windows will appear on the refreshed schedule\nThe benefits of using the Architecture toolset in AutoCAD 17",
+      "tables": [
+        [
+          [
+            "Schedules",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Add tags to floor plan, including windows and doors",
+            "25:00",
+            "10:00"
+          ],
+          [
+            "Create a window schedule; select windows",
+            "35:00",
+            "10:00"
+          ],
+          [
+            "Add schedule to floor plan drawing",
+            "N/A",
+            "01:00"
+          ],
+          [
+            "Total time to complete task",
+            "60:00",
+            "21:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "65%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 18,
+      "text": "Schedules AutoCAD Architecture toolset\nAdd tags to floor plan, including windows and doors 25:00 10:00\nCreate a window schedule; select windows 35:00 10:00\nAdd schedule to floor plan drawing N/A 01:00\nTotal time to complete task 60:00 21:00\nTime Savings with Architecture toolset 65%\n(Figures shown in minutes and seconds)\nAdvantages\nThe time savings provided by the Architecture toolset are substantial:\n• Necessary information for scheduling is already in the pre-drawn\ncontent library blocks\n• Inserting multi-view blocks (MvBlocks) from DesignCenter will\nincrease productivity, if users use them in their plans\n• Schedules are easily created and refreshed\n• Schedule styles are automatic, whereas they must be created in\nbasic AutoCAD\nTThhee bBeenneeffiittss ooff uussiinngg tthhee AArrcchhiitteeccttuurree ttoooollsseett iinn AAuuttooCCAADD 1188",
+      "tables": [
+        [
+          [
+            "Schedules",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Add tags to floor plan, including windows and doors",
+            "25:00",
+            "10:00"
+          ],
+          [
+            "Create a window schedule; select windows",
+            "35:00",
+            "10:00"
+          ],
+          [
+            "Add schedule to floor plan drawing",
+            "N/A",
+            "01:00"
+          ],
+          [
+            "Total time to complete task",
+            "60:00",
+            "21:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "65%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 19,
+      "text": "Design task 8\nAutomatic project\nreports\nThere will always be changes in architectural projects—it is unavoidable.\nTypical issues that often come up are changes to the positioning of doors\nand windows and the positioning of internal partition walls to accommo-\ndate the use of the building. In this task, the positioning of some windows\nand doors were changed, and the subsequent project drawings and sheets\nwere updated to follow suit. The basic AutoCAD drawings did not contain any\nintelligent objects, so even small changes caused a considerable amount of\nmanual rework. Moving walls, doors, or windows meant adjoining lines must\nbe redrawn.\nIn the Architecture toolset, intelligent objects maintained their relationships\nand design changes could be implemented quickly and easily with updates\nalso automatically reflected in elevations, sections, and details.\nSteps:\n• Reposition/change doors and windows in floor plans\n• Update drawings and sheets accordingly\nThe benefits of using the Architecture toolset in AutoCAD 19",
+      "tables": [
+        [
+          [
+            "Automatic project reports",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Reposition or change doors and windows",
+            "30:00",
+            "12:00"
+          ],
+          [
+            "Update drawings by reloading references",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Update sheets to reflect new information",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Total time to complete task",
+            "60:00",
+            "32:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "47%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 20,
+      "text": "Automatic project reports AutoCAD Architecture toolset\nReposition or change doors and windows 30:00 12:00\nUpdate drawings by reloading references 15:00 10:00\nUpdate sheets to reflect new information 15:00 10:00\nTotal time to complete task 60:00 32:00\nTime Savings with Architecture toolset 47%\n(Figures shown in minutes and seconds)\nAdvantages\n• As you can see, it takes an hour to make the simplest of changes\nrequired by this task using basic AutoCAD. That time is halved by\nusing the Architecture toolset, due to the ability to refresh drawings\nand sheets automatically after any changes are made.\nThe benefits of using the Architecture toolset in AutoCAD 20",
+      "tables": [
+        [
+          [
+            "Automatic project reports",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Reposition or change doors and windows",
+            "30:00",
+            "12:00"
+          ],
+          [
+            "Update drawings by reloading references",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Update sheets to reflect new information",
+            "15:00",
+            "10:00"
+          ],
+          [
+            "Total time to complete task",
+            "60:00",
+            "32:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "47%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 21,
+      "text": "Design task 9\nCoordination and\npublishing\nThe coordination and publishing of an architectural project can be very\ntime-consuming. Architects must ensure that the completed drawings go out\non time, that all callouts refer to the proper drawings on the correct sheets,\nand so on. Then, the drawings go out for production and even the smallest\nerror can be costly.\nThis task involved implementing some minor modifications to the project\ndrawings, adding additional callouts, and linking them to the appropriate\nviews on the sheets. The project was then published from the available sheet\nset created.\nSteps:\n• Add callouts, corrections, and additions to the project drawings\n• Publish the project using the sheet set available\nThe benefits of using the Architecture toolset in AutoCAD 21",
+      "tables": [],
+      "has_content": true
+    },
+    {
+      "page_number": 22,
+      "text": "Coordination and publishing AutoCAD Architecture toolset\nAdd callouts, corrections and additions to drawings 55:00 40:00\nPublish from project sheet set 20:00 08:00\nTotal time to complete task 75:00 48:00\nTime Savings with Architecture toolset 36%\n(Figures shown in minutes and seconds)\nAdvantages\n• Basic AutoCAD has the same sheet set publishing tools as the\nArchitecture toolset. However, the Architecture toolset does have\nother publishing tools built-in, which speeds up the publishing\nprocess. To save time, the drawings were published as DWF files, a\nmedium developed by Autodesk as a portable document format.\n• The DWF files published from the Architecture toolset also contained\nall the necessary callouts required to link to the elevations, sections,\nand details in the project, making it easy for the recipient of the files\nto locate referenced views by clicking on the appropriate callouts.\nTThhee bBeenneeffiittss ooff uussiinngg tthhee AArrcchhiitteeccttuurree ttoooollsseett iinn AAuuttooCCAADD 2222",
+      "tables": [
+        [
+          [
+            "Coordination and publishing",
+            "AutoCAD",
+            "Architecture toolset"
+          ],
+          [
+            "Add callouts, corrections and additions to drawings",
+            "55:00",
+            "40:00"
+          ],
+          [
+            "Publish from project sheet set",
+            "20:00",
+            "08:00"
+          ],
+          [
+            "Total time to complete task",
+            "75:00",
+            "48:00"
+          ],
+          [
+            "Time Savings with Architecture toolset",
+            "",
+            "36%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 23,
+      "text": "Conclusion\nIn this Architecture toolset productivity study, the nine design tasks\nanalyzed were just a few examples of how the Architecture toolset can\nprovide tools and workflows to make you more productive. With the\nArchitecture toolset, it is possible to save about 61% of the 2D CAD\nworking time when compared to basic AutoCAD.*\nProject tasks AutoCAD Architecture toolset Time Savings\n1 Floor plans 265:00 125:00 53%\n2 Elevations 195:00 41:00 79%\n3 Reflected ceiling plans 80:00 60:00 25%\n4 Building sections 218:00 77:00 65%\n5 Sheet layouts 248:00 73:00 71%\n6 Details 150:00 45:00 70%\n7 Schedules 60:00 21:00 65%\n8 Project modifications 60:00 32:00 47%\n9 Coordination and publishing 75:00 48:00 36%\nTotal time 1351:00 522:00\nOverall time savings with\n61%\nArchitecture toolset\n(Figures shown in minutes and seconds)\nThe advantages of the Architecture toolset\nBased on these nine selected tasks, the Architecture toolset provides a level\nof productivity for architects that is not possible with general-purpose CAD\napplications such as basic AutoCAD. Because the Architecture toolset is\nbuilt specifically for architectural design, you could realize immediate and\nsubstantial productivity benefits such as the ones discussed in this paper.\n*As with all performance tests, results may vary based on machine, operating system, filters, and even source material.\nWhile every effort has been made to make the tests as fair and objective as possible, your results may differ. Product\ninformation and specifications are subject to change without notice. Autodesk provides this information “as is”, without\nwarranty of any kind, either express or implied.\nThe benefits of using the Architecture toolset in AutoCAD 23",
+      "tables": [
+        [
+          [
+            "Project Task",
+            "AutoCAD",
+            "Architecture toolset",
+            "Time Savings"
+          ],
+          [
+            "Floor plans",
+            "265:00",
+            "125:00",
+            "53%"
+          ],
+          [
+            "Elevations",
+            "195:00",
+            "41:00",
+            "79%"
+          ],
+          [
+            "Reflected ceiling plans",
+            "80:00",
+            "60:00",
+            "25%"
+          ],
+          [
+            "Building sections",
+            "218:00",
+            "77:00",
+            "65%"
+          ],
+          [
+            "Sheet layouts",
+            "248:00",
+            "73:00",
+            "71%"
+          ],
+          [
+            "Details",
+            "150:00",
+            "45:00",
+            "70%"
+          ],
+          [
+            "Schedules",
+            "60:00",
+            "21:00",
+            "65%"
+          ],
+          [
+            "Project modifications",
+            "60:00",
+            "32:00",
+            "47%"
+          ],
+          [
+            "Coordination and publishing",
+            "75:00",
+            "48:00",
+            "36%"
+          ],
+          [
+            "Total time",
+            "1351:00",
+            "522:00",
+            ""
+          ],
+          [
+            "Overall time savings",
+            "",
+            "",
+            "61%"
+          ]
+        ]
+      ],
+      "has_content": true
+    },
+    {
+      "page_number": 24,
+      "text": "Autodesk is a registered trademark of Autodesk, Inc., and/or its subsidiaries and/or affiliates in the USA and/or other countries. All other brand names, product\nnames, or trademarks belong to their respective holders. Autodesk reserves the right to alter product and services offerings, and specifications and pricing at any\ntime without notice, and is not responsible for typographical or graphical errors that may appear in this document.\n© 2022 Autodesk, Inc. All rights reserved.\nThe benefits of using the Architecture toolset in AutoCAD 24",
+      "tables": [],
+      "has_content": true
+    }
+  ]
+}

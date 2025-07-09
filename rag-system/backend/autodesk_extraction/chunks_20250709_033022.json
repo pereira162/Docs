@@ -1,0 +1,290 @@
+[
+  {
+    "id": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Subscription Benefits Installation AutoCAD Release Notes New Features and UI Overview Videos New Features UI Overview Getting Started Videos Creating Sections Customizing Wall Cleanups Detailing Your Designs Managing Your Drawings Managing Spaces Create Renovating Design Working With Roombook Learn What's New in AutoCAD 2024 Hitchhiker's Guide to AutoCAD Learning Resources Tutorials AutoCAD Architecture Resources What's New Frequently Used Commands Frequently Used System Variables AutoCAD Resources Commands | New | Updated | Obsolete System Variables | New | Updated | Obsolete Shortcut | Temporary Override Keys Customization | CAD Administration Developer Documentation Glossary FAQs Connect Autodesk Community Autodesk Discussion Groups Autodesk Blogs AUGI Downloads Offline Help Autodesk App",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/",
+      "page_title": "AutoCAD Architecture 2024 Help | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:02.772295",
+      "url": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/#chunk_1",
+    "text": "Community Autodesk Discussion Groups Autodesk Blogs AUGI Downloads Offline Help Autodesk App Store Installation Release Notes | System Requirements",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/",
+      "page_title": "AutoCAD Architecture 2024 Help | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:02.772295",
+      "url": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm#chunk_0",
+    "text": "What's New in AutoCAD New Features Overview (Video) What's New in AutoCAD 2024 Try What's New in AutoCAD 2024 What's New in Previous Releases AutoCAD Foundations Getting Started Have You Tried AutoCAD User's Guide Cross Platform Subscription Benefits Customization and AutoLISP Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn What's New in AutoCAD 2024 Learn about new features in this release of AutoCAD 2024. Updates 2024.1 Highlights Autodesk Assistant The AI-guided assistant is now available in AutoCAD and AutoCAD LT. Markup Import and Markup Assist This release includes improvements to Markup Assist that make markup detection more effective. Trace The Traces palette has been updated to make it easier to create a new trace or import markup. Activity Insights Some of the drawing event labels have been",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "page_title": "AutoCAD 2024 Help | What's New in AutoCAD 2024 | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:11.945061",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "domain": "help.autodesk.com",
+      "description": "Learn about new features in this release of AutoCAD 2024."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm#chunk_1",
+    "text": "import markup. Activity Insights Some of the drawing event labels have been updated for clarity. Additional enhancements File Open : Improved file open performance when opening a drawing that contains large numbers of annotation scales. Large numbers of annotation scales can occur when there are lots of drawing references that might pull in additional annotation scales. Pan and Zoom : General performance improvements when using pan and zoom commands. 2024 Highlights New Features Overview (Video) This video shows the key enhancements in this release. Activity Insights Activity Insights provides an understanding of the past actions that you or others have performed with regard to your drawings. Smart Blocks: Placement The new smart block functionality can offer placement suggestions based on where you've placed that block before in the",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "page_title": "AutoCAD 2024 Help | What's New in AutoCAD 2024 | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:11.945061",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "domain": "help.autodesk.com",
+      "description": "Learn about new features in this release of AutoCAD 2024."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm#chunk_2",
+    "text": "placement suggestions based on where you've placed that block before in the drawing. Smart Blocks: Replacement Replace specified block references by selecting from a palette of suggested similar blocks. Markup Assist This release includes improvements to Markup Assist that make it easier to bring markups into your drawing. Trace Updates The Trace environment continues to improve and now includes the new COPYFROMTRACE command and new settings controls on the toolbar. Autodesk Docs Improvements Improved performance and navigation on the Start tab for drawings stored on Autodesk Docs. Start Tab Updates The Start tab continues to be improved in this release including new options to sort and search recent drawings. File Tab Menu Use the new file tab menu to switch between drawings, create or open a drawing, save",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "page_title": "AutoCAD 2024 Help | What's New in AutoCAD 2024 | Autodesk",
+      "chunk_index": 2,
+      "extracted_at": "2025-07-09T03:29:11.945061",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "domain": "help.autodesk.com",
+      "description": "Learn about new features in this release of AutoCAD 2024."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm#chunk_3",
+    "text": "tab menu to switch between drawings, create or open a drawing, save all drawings, close all drawings, and more. Layout Tab Menu Use the new layout tab menu to switch between layouts, create a layout from a template, publish layouts, and more. Sheet Set Manager for Web Improvements This release includes several enhancements for publishing and transmitting of drawing packages (eTransmit) in Sheet Set Manager for Web. Additional enhancements PDFSHX System Variable : Set PDFSHX to 2 to store text objects that use SHX fonts as hidden text when the drawing is exported to a PDF. This makes the text searchable and selectable in the PDF. 3D Graphics : Below is a list of improvements that have been made to the Shaded (Fast) and Shaded with Edges (Fast)",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "page_title": "AutoCAD 2024 Help | What's New in AutoCAD 2024 | Autodesk",
+      "chunk_index": 3,
+      "extracted_at": "2025-07-09T03:29:11.945061",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "domain": "help.autodesk.com",
+      "description": "Learn about new features in this release of AutoCAD 2024."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm#chunk_4",
+    "text": "have been made to the Shaded (Fast) and Shaded with Edges (Fast) visual styles. Support for Map 3D and Civil 3D Large coordinate system support Selection (Fence, Lasso, Polygon) Paper space support Point cloud support Line weights Dimming of Xrefs and locked layers General stability, visual fidelity, and performance improvements 2D Graphics : Below is a list of improvements that have been made to the 2D graphics system. Pan performance is improved for drawings with raster images or wipeouts Display performance is improved for trace background, Markup Import and Markup Assist, and ViewCube Layout switching performance improvement Note: Turn on hardware acceleration for better performance and responsiveness in AutoCAD. Related Concepts New Features Overview (Video) Related Reference New AutoCAD Commands and System Variables Reference Updated AutoCAD Commands and",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "page_title": "AutoCAD 2024 Help | What's New in AutoCAD 2024 | Autodesk",
+      "chunk_index": 4,
+      "extracted_at": "2025-07-09T03:29:11.945061",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "domain": "help.autodesk.com",
+      "description": "Learn about new features in this release of AutoCAD 2024."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm#chunk_5",
+    "text": "Reference New AutoCAD Commands and System Variables Reference Updated AutoCAD Commands and System Variables Reference Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "page_title": "AutoCAD 2024 Help | What's New in AutoCAD 2024 | Autodesk",
+      "chunk_index": 5,
+      "extracted_at": "2025-07-09T03:29:11.945061",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-3890D5F7-04CB-4F3B-97FF-7A9577D41852.htm",
+      "domain": "help.autodesk.com",
+      "description": "Learn about new features in this release of AutoCAD 2024."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-05888E6B-C50C-4659-B584-EECF4E130833.htm#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Videos Video: AutoCAD Architecture 2016 New Features Overview Video: Creating Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Video: Working With Roombook Getting Started Workflow and User Interface Conceptual Design Designing with Architectural Objects Design Utilities Documentation Other Utilities Roombook Subscription Benefits Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn Video: Customizing Wall Cleanups Learn how to customize wall cleanup to get your desired results. Video Player is loading. Play Play Mute Current Time 0:00 / Duration 6:28 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-05888E6B-C50C-4659-B584-EECF4E130833.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Customizing Wall Cleanups | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:20.573031",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-05888E6B-C50C-4659-B584-EECF4E130833.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-05888E6B-C50C-4659-B584-EECF4E130833.htm#chunk_1",
+    "text": "Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x 1x Descriptions descriptions off , selected Captions captions off , selected English Captions Chapters Audio Track Fullscreen This is a modal window. Related Concepts About Troubleshooting Wall Cleanups About Guidelines for Successful Wall Cleanup About Wall Cleanups and Priorities Video: Creating Sections Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Video: Working With Roombook Related Tasks To Specify Cleanup for Individual Walls Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-05888E6B-C50C-4659-B584-EECF4E130833.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Customizing Wall Cleanups | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:20.573031",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-05888E6B-C50C-4659-B584-EECF4E130833.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-B678C768-2E66-401F-A2B7-54022554D205.htm#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Videos Video: AutoCAD Architecture 2016 New Features Overview Video: Creating Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Video: Working With Roombook Getting Started Workflow and User Interface Conceptual Design Designing with Architectural Objects Design Utilities Documentation Other Utilities Roombook Subscription Benefits Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn Video: Managing Spaces Learn how to use AutoCAD Architecture 2024 toolset 's space planning tools that automatically detects boundaries making the calculation of room square footage fast and easy. Video Player is loading. Play Play Mute Current Time 0:00 / Duration 2:11 Loaded :",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-B678C768-2E66-401F-A2B7-54022554D205.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Managing Spaces | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:28.494648",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-B678C768-2E66-401F-A2B7-54022554D205.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-B678C768-2E66-401F-A2B7-54022554D205.htm#chunk_1",
+    "text": "loading. Play Play Mute Current Time 0:00 / Duration 2:11 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x 1x Descriptions descriptions off , selected Captions captions off , selected English Captions Chapters Audio Track Fullscreen This is a modal window. Related Concepts About Space Evaluation About Display Themes Video: Creating Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Create Renovating Design Video: Working With Roombook Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-B678C768-2E66-401F-A2B7-54022554D205.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Managing Spaces | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:28.494648",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-B678C768-2E66-401F-A2B7-54022554D205.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-72935B4D-8B1E-4DBC-8380-0D7C05C45F4D.htm#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Subscription Benefits Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn AutoCAD Architecture 2024 Toolset Frequently Used Commands A list of frequently used AutoCAD Architecture 2024 toolset Commands Commands 2DSECTIONRESULTREFRESH (Command) AEC3DPRINT (Command) AECDWGSETUP (Command) AECDWGUNITSSETUP (Command) AECSELECTSIMILAR (Command) ANNOREVISIONCLOUDADD (Command) CONSTRUCTIONLINE (Command) CONTENTBROWSER (Command) DIMADD (Command) DIMATTACH (Command) DIMEDITOVERRIDES (Command) DIMEXTLINESADD (Command) DIMOVERRIDE (Command) DIMSTYLE (Command) DISPLAYMANAGERCONFIGSSELECTION (Command) DOORADD (Command) DTLANNOMLEADERADD (Command) DTLCOMPMANAGER (Command) EXPORTTOAUTOCAD (Command) EXTRUDELINEWORK (Command) LINEWORKTRIM (Command) MASSELEMENTADD (Command) MVBLOCKADD (Command) MVBLOCKDEFEDIT (Command) OBJECTDISPLAY (Command) OBJECTVIEWER (Command) PROJECTBROWSER (Command) PROJECTNAVIGATORTOGGLE (Command) PROJECTPALETTESTARTUP (Command) REMAPLAYERS (Command) ROOFADD (Command) SCHEDULEADD (Command) SCHEDULETAG (Command) SETPALETTEGROUP (Command) SLABADD (Command) SPACEADD (Command) STAIRADD (Command) STYLEMANAGER (Command) WALLADD (Command)",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-72935B4D-8B1E-4DBC-8380-0D7C05C45F4D.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | AutoCAD Architecture 2024 Toolset Frequently Used Commands | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:37.154976",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-72935B4D-8B1E-4DBC-8380-0D7C05C45F4D.htm",
+      "domain": "help.autodesk.com",
+      "description": "A list of frequently used AutoCAD Architecture 2024 toolset Commands"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-72935B4D-8B1E-4DBC-8380-0D7C05C45F4D.htm#chunk_1",
+    "text": "SETPALETTEGROUP (Command) SLABADD (Command) SPACEADD (Command) STAIRADD (Command) STYLEMANAGER (Command) WALLADD (Command) WALLADDSELECTED (Command) WALLCLEANUPI (Command) WALLSTYLEEDIT (Command) WINDOWADD (Command) Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-72935B4D-8B1E-4DBC-8380-0D7C05C45F4D.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | AutoCAD Architecture 2024 Toolset Frequently Used Commands | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:37.154976",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-72935B4D-8B1E-4DBC-8380-0D7C05C45F4D.htm",
+      "domain": "help.autodesk.com",
+      "description": "A list of frequently used AutoCAD Architecture 2024 toolset Commands"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-87DAB120-05C8-414A-A6C0-1AC6BCFDBFEF.htm#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Videos Video: AutoCAD Architecture 2016 New Features Overview Video: Creating Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Video: Working With Roombook Getting Started Workflow and User Interface Conceptual Design Designing with Architectural Objects Design Utilities Documentation Other Utilities Roombook Subscription Benefits Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn Video: Creating Sections Learn how to use the Project Navigator to help automate the creation and management of your construction documents. Video Player is loading. Play Play Mute Current Time 0:00 / Duration 2:29 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-87DAB120-05C8-414A-A6C0-1AC6BCFDBFEF.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Creating Sections | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:45.533124",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-87DAB120-05C8-414A-A6C0-1AC6BCFDBFEF.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-87DAB120-05C8-414A-A6C0-1AC6BCFDBFEF.htm#chunk_1",
+    "text": "Duration 2:29 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x 1x Descriptions descriptions off , selected Captions captions off , selected English Captions Chapters Audio Track Fullscreen This is a modal window. Related Concepts About Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Video: Working With Roombook Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-87DAB120-05C8-414A-A6C0-1AC6BCFDBFEF.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Creating Sections | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:45.533124",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-87DAB120-05C8-414A-A6C0-1AC6BCFDBFEF.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm#chunk_0",
+    "text": "What's New in AutoCAD New Features Overview (Video) What's New in AutoCAD 2024 Try What's New in AutoCAD 2024 What's New in Previous Releases AutoCAD Foundations Getting Started Have You Tried AutoCAD User's Guide Cross Platform Subscription Benefits Customization and AutoLISP Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn AutoCAD 2024 New Features Overview (Video) This video shows the key enhancements in this release. Video Player is loading. Play Play Mute Current Time 0:00 / Duration 6:46 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x 1x Descriptions descriptions off , selected Captions captions off , selected English Captions Chapters Intro , selected Start Tab Autodesk Projects File and Layout tab Menus Activity Insights Smart Blocks: Placement Smart Blocks: Replacement",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+      "page_title": "AutoCAD 2024 Help | New Features Overview (Video) | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:29:53.479584",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+      "domain": "help.autodesk.com",
+      "description": "This video shows the key enhancements in this release."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm#chunk_1",
+    "text": "and Layout tab Menus Activity Insights Smart Blocks: Placement Smart Blocks: Replacement Markup Assist Trace Updates Audio Track Fullscreen This is a modal window. Related Concepts What's New in AutoCAD 2024 Related Reference New AutoCAD Commands and System Variables Reference Updated AutoCAD Commands and System Variables Reference Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+      "page_title": "AutoCAD 2024 Help | New Features Overview (Video) | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:29:53.479584",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-0E96BDF7-DE27-4C35-A78B-800F535DAA84.htm",
+      "domain": "help.autodesk.com",
+      "description": "This video shows the key enhancements in this release."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm#chunk_0",
+    "text": "What's New in AutoCAD New Features Overview (Video) What's New in AutoCAD 2024 Try What's New in AutoCAD 2024 What's New in Previous Releases AutoCAD Foundations Getting Started Have You Tried AutoCAD User's Guide Cross Platform Subscription Benefits Customization and AutoLISP Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn Tour the AutoCAD UI (Video) View a demo of the basic tools in the user interface. Video Player is loading. Play Play Mute Current Time 0:00 / Duration 4:49 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x 1x Descriptions descriptions off , selected Captions captions off , selected English Captions Chapters Audio Track Fullscreen This is a modal window. Related Concepts The Hitchhiker's Guide to AutoCAD What's New in AutoCAD",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+      "page_title": "AutoCAD 2024 Help | Tour the AutoCAD UI | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:30:01.727979",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+      "domain": "help.autodesk.com",
+      "description": "View a demo of the basic tools in the user interface."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm#chunk_1",
+    "text": "window. Related Concepts The Hitchhiker's Guide to AutoCAD What's New in AutoCAD 2024 New Features Overview (Video) Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+      "page_title": "AutoCAD 2024 Help | Tour the AutoCAD UI | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:30:01.727979",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-WhatsNew/files/GUID-B7040851-266C-48CB-9682-654F3A6B8086.htm",
+      "domain": "help.autodesk.com",
+      "description": "View a demo of the basic tools in the user interface."
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/?page=commands#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Subscription Benefits Installation AutoCAD Release Notes Click a letter for an alphabetical list of commands. 3D A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/?page=commands",
+      "page_title": "AutoCAD Architecture 2024 Help | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:30:09.474915",
+      "url": "https://help.autodesk.com/view/ARCHDESK/2024/ENU/?page=commands",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-6D4DD97D-8DCF-4DCB-AF17-D45B0AE64D1B.htm#chunk_0",
+    "text": "What's New in AutoCAD Architecture What's New in AutoCAD Architecture 2024 Toolset What's New in Previous Releases AutoCAD Architecture User's Guide Videos Video: AutoCAD Architecture 2016 New Features Overview Video: Creating Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Video: Working With Roombook Getting Started Workflow and User Interface Conceptual Design Designing with Architectural Objects Design Utilities Documentation Other Utilities Roombook Subscription Benefits Installation AutoCAD Release Notes Share Email Facebook Twitter LinkedIn Video: Working With Roombook Learn how to work with Roombook to calculate all the visible surfaces and materials of walls, floors, ceiling as well as the room per space. Video Player is loading. Play Play Mute Current Time 0:00 / Duration 6:37 Loaded :",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-6D4DD97D-8DCF-4DCB-AF17-D45B0AE64D1B.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Working With Roombook | Autodesk",
+      "chunk_index": 0,
+      "extracted_at": "2025-07-09T03:30:17.268862",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-6D4DD97D-8DCF-4DCB-AF17-D45B0AE64D1B.htm",
+      "domain": "help.autodesk.com"
+    }
+  },
+  {
+    "id": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-6D4DD97D-8DCF-4DCB-AF17-D45B0AE64D1B.htm#chunk_1",
+    "text": "loading. Play Play Mute Current Time 0:00 / Duration 6:37 Loaded : 0% 0:00 Progress : 0% Playback Rate 2x 1.5x 1.25x 1x , selected 0.5x 1x Descriptions descriptions off , selected Captions captions off , selected English Captions Chapters Audio Track Fullscreen This is a modal window. Related Concepts About Roombook for AutoCAD Architecture 2024 Toolset About Roombook Basics Video: Creating Sections Video: Customizing Wall Cleanups Video: Detailing Your Designs Video: Managing Your Drawings Video: Managing Spaces Video: Create Renovating Design Was this information helpful? Yes No",
+    "metadata": {
+      "source_url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-6D4DD97D-8DCF-4DCB-AF17-D45B0AE64D1B.htm",
+      "page_title": "AutoCAD Architecture 2024 Help | Video: Working With Roombook | Autodesk",
+      "chunk_index": 1,
+      "extracted_at": "2025-07-09T03:30:17.268862",
+      "url": "https://help.autodesk.com/cloudhelp/2024/ENU/AutoCAD-Architecture/files/GUID-6D4DD97D-8DCF-4DCB-AF17-D45B0AE64D1B.htm",
+      "domain": "help.autodesk.com"
+    }
+  }
+]

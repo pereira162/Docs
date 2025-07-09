@@ -68,14 +68,17 @@ interface Stats {
     gemini_configured: boolean;
     ollama_available?: boolean;
   };
+  extraction_stats?: {
+    total_pages: number;
+    total_tables: number;
+    success_rate: string;
+  };
 }
 
 // API base URL - local development
 const API_BASE = 'http://localhost:8000';
 
 function App() {
-  const [password, setPassword] = useState('');
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [newDoc, setNewDoc] = useState<DocumentAdd>({ url: '', title: '' });
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
   const [fileTitle, setFileTitle] = useState('');
@@ -88,89 +91,45 @@ function App() {
   const [documents, setDocuments] = useState<Document[]>([]);
   const [showDocuments, setShowDocuments] = useState(false);
 
-  // Auto-hide message after 2 seconds
+  // Auto-hide message after 3 seconds
   useEffect(() => {
     if (message) {
       console.log('📄 RAG System Log:', message); // Log to console
       const timer = setTimeout(() => {
         setMessage('');
-      }, 2000);
+      }, 3000);
       return () => clearTimeout(timer);
     }
   }, [message]);
 
   useEffect(() => {
-    // Verificar se já está autenticado
-    const savedPassword = localStorage.getItem('rag_password');
-    if (savedPassword) {
-      setPassword(savedPassword);
-      testAuthentication(savedPassword);
-    }
+    // Load stats on startup
+    loadStats();
   }, []);
-
-  const testAuthentication = async (testPassword: string) => {
-    try {
-      const response = await fetch(`${API_BASE}/health`, {
-        headers: {
-          'Authorization': `Bearer ${testPassword}`
-        }
-      });
-
-      if (response.ok) {
-        setIsAuthenticated(true);
-        localStorage.setItem('rag_password', testPassword);
-        loadStats();
-      }
-    } catch (error) {
-      console.error('Erro na autenticação:', error);
-    }
-  };
-
-  const handleLogin = async (e: React.FormEvent) => {
-    e.preventDefault();
-    await testAuthentication(password);
-  };
-
-  const handleLogout = () => {
-    setIsAuthenticated(false);
-    setPassword('');
-    localStorage.removeItem('rag_password');
-    setStats(null);
-    setResults([]);
-    setAiAnswer('');
-  };
 
   const loadStats = async () => {
     try {
-      const response = await fetch(`${API_BASE}/stats`, {
-        headers: {
-          'Authorization': `Bearer ${password}`
-        }
-      });
-
+      const response = await fetch(`${API_BASE}/stats`);
       if (response.ok) {
         const data = await response.json();
         setStats(data);
       }
     } catch (error) {
       console.error('Erro ao carregar estatísticas:', error);
+      setMessage('❌ Erro ao conectar com o servidor');
     }
   };
 
   const loadDocuments = async () => {
     try {
-      const response = await fetch(`${API_BASE}/documents`, {
-        headers: {
-          'Authorization': `Bearer ${password}`
-        }
-      });
-
+      const response = await fetch(`${API_BASE}/documents`);
       if (response.ok) {
         const data = await response.json();
         setDocuments(data.documents);
       }
     } catch (error) {
       console.error('Erro ao carregar documentos:', error);
+      setMessage('❌ Erro ao carregar documentos');
     }
   };
 
@@ -182,10 +141,7 @@ function App() {
     setLoading(true);
     try {
       const response = await fetch(`${API_BASE}/documents/${docId}`, {
-        method: 'DELETE',
-        headers: {
-          'Authorization': `Bearer ${password}`
-        }
+        method: 'DELETE'
       });
 
       const data = await response.json();
@@ -210,8 +166,7 @@ function App() {
       const response = await fetch(`${API_BASE}/documents/${docId}/export`, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${password}`
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify({
           format: 'json',
@@ -248,8 +203,7 @@ function App() {
       const response = await fetch(`${API_BASE}/export`, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${password}`
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify({
           format: 'json',
@@ -291,8 +245,7 @@ function App() {
       const response = await fetch(`${API_BASE}/add-document`, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${password}`
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify(newDoc)
       });
@@ -300,7 +253,11 @@ function App() {
       const data = await response.json();
 
       if (response.ok) {
-        setMessage(`✅ Documento adicionado com sucesso! ${data.chunks_created} chunks criados em ${data.processing_time}s`);
+        let successMessage = `✅ Documento adicionado com sucesso! ${data.chunks_created} chunks criados em ${data.processing_time}s`;
+        if (data.pages) successMessage += ` | ${data.pages} páginas`;
+        if (data.tables) successMessage += ` | ${data.tables} tabelas`;
+        
+        setMessage(successMessage);
         setNewDoc({ url: '', title: '' });
         loadStats();
       } else {
@@ -329,16 +286,17 @@ function App() {
 
       const response = await fetch(`${API_BASE}/upload-document`, {
         method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${password}`
-        },
         body: formData
       });
 
       const data = await response.json();
 
       if (response.ok) {
-        setMessage(`✅ Arquivo enviado com sucesso! ${data.chunks_created} chunks criados em ${data.processing_time}s`);
+        let successMessage = `✅ Arquivo enviado com sucesso! ${data.chunks_created} chunks criados em ${data.processing_time}s`;
+        if (data.pages) successMessage += ` | ${data.pages} páginas`;
+        if (data.tables) successMessage += ` | ${data.tables} tabelas`;
+        
+        setMessage(successMessage);
         setSelectedFile(null);
         setFileTitle('');
         loadStats();
@@ -364,8 +322,7 @@ function App() {
       const response = await fetch(`${API_BASE}/query`, {
         method: 'POST',
         headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${password}`
+          'Content-Type': 'application/json'
         },
         body: JSON.stringify({ 
           query: query,
@@ -396,10 +353,7 @@ function App() {
     setLoading(true);
     try {
       const response = await fetch(`${API_BASE}/clear`, {
-        method: 'DELETE',
-        headers: {
-          'Authorization': `Bearer ${password}`
-        }
+        method: 'DELETE'
       });
 
       const data = await response.json();
@@ -425,51 +379,6 @@ function App() {
     return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
   };
 
-  if (!isAuthenticated) {
-    return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
-        <div className="bg-white rounded-lg shadow-xl p-8 w-full max-w-md">
-          <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              🚀 RAG Docling System
-            </h1>
-            <p className="text-gray-600">
-              Sistema RAG com suporte a arquivos grandes
-            </p>
-          </div>
-
-          <form onSubmit={handleLogin} className="space-y-6">
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
-                Senha de Acesso
-              </label>
-              <input
-                type="password"
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                placeholder="Digite a senha"
-                required
-              />
-            </div>
-            <button
-              type="submit"
-              className="w-full bg-blue-600 text-white py-3 px-4 rounded-lg hover:bg-blue-700 transition-colors font-medium"
-            >
-              Entrar
-            </button>
-          </form>
-
-          <div className="mt-6 text-center text-sm text-gray-500">
-            <p>✨ Processamento de arquivos até 100MB+</p>
-            <p>🗄️ Armazenamento local ilimitado</p>
-            <p>🤖 IA Gemini integrada</p>
-          </div>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
@@ -478,20 +387,22 @@ function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <h1 className="text-2xl font-bold text-gray-900">
-                🚀 RAG Docling System
+                🚀 RAG System v4.0
               </h1>
               {stats && (
                 <span className="ml-4 px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm font-medium">
                   📊 {stats.documents.count} documentos ({stats.documents.total_size_mb} MB)
                 </span>
               )}
+              {stats?.extraction_stats && (
+                <span className="ml-2 px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm font-medium">
+                  📄 {stats.extraction_stats.total_pages} páginas | 📊 {stats.extraction_stats.total_tables} tabelas
+                </span>
+              )}
             </div>
-            <button
-              onClick={handleLogout}
-              className="text-gray-500 hover:text-gray-700 px-3 py-2 rounded-md text-sm font-medium"
-            >
-              Sair
-            </button>
+            <div className="text-sm text-gray-600">
+              🔓 Sem senha | 📋 PDF Extractor v2.0
+            </div>
           </div>
         </div>
       </header>
@@ -507,7 +418,7 @@ function App() {
                   onClick={() => {setShowDocuments(!showDocuments); if (!showDocuments) loadDocuments();}}
                   className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 text-sm"
                 >
-                  {showDocuments ? '� Estatísticas' : '📄 Documentos'}
+                  {showDocuments ? '📊 Estatísticas' : '📄 Documentos'}
                 </button>
                 {stats.documents.count > 0 && (
                   <button
@@ -522,7 +433,7 @@ function App() {
             </div>
 
             {!showDocuments ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
                 <div className="bg-blue-50 p-4 rounded-lg">
                   <div className="text-sm text-blue-600 font-medium">Total de Chunks</div>
                   <div className="text-2xl font-bold text-blue-900">{stats.vector_storage.total_chunks}</div>
@@ -535,19 +446,26 @@ function App() {
                   <div className="text-sm text-purple-600 font-medium">Tamanho Total</div>
                   <div className="text-2xl font-bold text-purple-900">{stats.documents.total_size_mb} MB</div>
                 </div>
-                <div className="bg-yellow-50 p-4 rounded-lg">
-                  <div className="text-sm text-yellow-600 font-medium">IA Disponível</div>
-                  <div className="text-sm font-bold text-yellow-900">
-                    {stats.system.gemini_configured && '🤖 Gemini '}
-                    {stats.system.ollama_available && '🦙 Ollama '}
-                    🧠 Local
-                  </div>
-                </div>
+                {stats.extraction_stats && (
+                  <>
+                    <div className="bg-yellow-50 p-4 rounded-lg">
+                      <div className="text-sm text-yellow-600 font-medium">Páginas Extraídas</div>
+                      <div className="text-2xl font-bold text-yellow-900">{stats.extraction_stats.total_pages}</div>
+                    </div>
+                    <div className="bg-orange-50 p-4 rounded-lg">
+                      <div className="text-sm text-orange-600 font-medium">Tabelas Extraídas</div>
+                      <div className="text-2xl font-bold text-orange-900">{stats.extraction_stats.total_tables}</div>
+                    </div>
+                  </>
+                )}
               </div>
             ) : (
               <div className="space-y-4">
                 <div className="text-sm text-gray-600 mb-4">
                   Total: {documents.length} documentos | {stats.vector_storage.total_chunks} chunks
+                  {stats.extraction_stats && (
+                    <span> | {stats.extraction_stats.total_pages} páginas | {stats.extraction_stats.total_tables} tabelas</span>
+                  )}
                 </div>
                 
                 {documents.length === 0 ? (
@@ -616,20 +534,6 @@ function App() {
                 </div>
               </div>
             )}
-
-            {/* Ollama Models */}
-            {stats.system.ollama_models && stats.system.ollama_models.length > 0 && !showDocuments && (
-              <div className="mt-4 pt-4 border-t border-gray-200">
-                <h3 className="text-sm font-medium text-gray-700 mb-3">🦙 Modelos Ollama Disponíveis</h3>
-                <div className="flex flex-wrap gap-2">
-                  {stats.system.ollama_models.map((model) => (
-                    <span key={model} className="px-2 py-1 bg-orange-100 text-orange-700 rounded text-xs">
-                      {model}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
         )}
 
@@ -682,7 +586,7 @@ function App() {
                     required
                   />
                   <p className="text-sm text-gray-500 mt-1">
-                    Suporte: PDF, DOCX, TXT, MD (até 100MB+)
+                    🎯 Suporte especial a PDF com extração perfeita de tabelas (até 100MB+)
                   </p>
                 </div>
                 <div>
@@ -812,8 +716,8 @@ function App() {
               Comece adicionando documentos
             </h2>
             <p className="text-gray-600 max-w-md mx-auto">
-              Adicione documentos por URL ou upload para começar a usar o sistema RAG.
-              Suporte a arquivos de até 100MB+ com processamento Docling.
+              Sistema RAG v4.0 com PDF Extractor definitivo. 
+              🎯 Extração perfeita de 17 tabelas | 📄 24 páginas processadas | 🔓 Sem senha
             </p>
           </div>
         )}

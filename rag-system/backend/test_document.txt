@@ -1,0 +1,23 @@
+Este é um documento de teste para o sistema RAG Local-First.
+
+O sistema agora implementa os seguintes princípios:
+
+1. Local-First: Todo processamento acontece localmente
+2. Extração como função primária: O foco principal é extrair e processar conteúdo
+3. Exportação estruturada: Os documentos são salvos em múltiplos formatos
+4. Zero dependências externas: Não requer serviços na nuvem
+
+Características técnicas:
+- Suporte a múltiplos formatos (PDF, DOCX, Excel, PowerPoint, Imagens)
+- OCR integrado com EasyOCR
+- Docling avançado para processamento de PDF
+- Estrutura de arquivos organizada
+- API RESTful para interação
+
+Este documento será processado e convertido em:
+- Markdown estruturado
+- JSON com metadados
+- Chunks para processamento
+- Arquivos de metadados
+
+Testando o sistema completo em julho de 2025!

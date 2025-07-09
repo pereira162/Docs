@@ -1,0 +1,16 @@
+{
+  "document_id": "c1188ccd-4322-4a58-9ef0-7ff7ec49b64c",
+  "title": "AutoCAD Architecture Toolset Productivity Study (EN).pdf",
+  "filename": "AutoCAD Architecture Toolset Productivity Study (EN).pdf",
+  "source_file": "data\\uploads\\c1188ccd-4322-4a58-9ef0-7ff7ec49b64c_AutoCAD Architecture Toolset Productivity Study (EN).pdf",
+  "file_size": 7405539,
+  "processing_method": "PDF Extractor v2.0",
+  "pages": 24,
+  "tables": 17,
+  "created_at": "2025-07-06T15:55:16.521341",
+  "outputs": {
+    "markdown": "data\\markdown\\c1188ccd-4322-4a58-9ef0-7ff7ec49b64c.md",
+    "json": "data\\json\\c1188ccd-4322-4a58-9ef0-7ff7ec49b64c.json",
+    "chunks": "data\\chunks\\c1188ccd-4322-4a58-9ef0-7ff7ec49b64c.json"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "video_id": "ff89oHwvNsM",
+  "extraction_date": "20250709_023428",
+  "files_created": {
+    "transcript_json": "youtube_extracted_data\\transcripts\\ff89oHwvNsM_20250709_023428_transcript.json",
+    "metadata": "youtube_extracted_data\\metadata\\ff89oHwvNsM_20250709_023428_metadata.json",
+    "chunks": "youtube_extracted_data\\chunks\\ff89oHwvNsM_20250709_023428_chunks.json",
+    "analysis": "youtube_extracted_data\\rag_content\\ff89oHwvNsM_20250709_023428_analysis.json",
+    "text": "youtube_extracted_data\\rag_content\\ff89oHwvNsM_20250709_023428_text.txt",
+    "chunks_csv": "youtube_extracted_data\\chunks\\ff89oHwvNsM_20250709_023428_chunks.csv",
+    "database": "youtube_extracted_data\\database\\youtube_transcripts.db"
+  },
+  "statistics": {
+    "total_segments": 1156,
+    "total_chunks": 75,
+    "text_length": 35649,
+    "duration_minutes": 43.508
+  },
+  "metadata": {
+    "video_id": "ff89oHwvNsM",
+    "url": "https://www.youtube.com/watch?v=ff89oHwvNsM",
+    "extraction_date": "2025-07-09T02:34:26.739622",
+    "extractor_version": "1.0.0",
+    "title": "All about tool palettes with Ryan Wunderlich",
+    "description": "IMAGINiT expert Ryan Wunderlich shares some of his favorite AutoCAD Tips \\u0026 Tricks when working with tool palettes. \\n• What is a Tool Palette\\n•  What can you put into it\\n• Customizing \\u0026 Creating\\n• Sharing Tool Palettes"
+  },
+  "analysis_summary": {
+    "statistics": {
+      "total_characters": 35649,
+      "total_words": 6925,
+      "total_sentences": 2,
+      "average_words_per_segment": 5.990484429065744,
+      "total_duration_minutes": 43.508
+    },
+    "content_analysis": {
+      "language_detected": "en",
+      "transcript_type": "generated",
+      "readability_score": 0
+    },
+    "keywords": [
+      "that",
+      "here",
+      "this",
+      "palette",
+      "tool",
+      "have",
+      "going",
+      "right",
+      "palettes",
+      "your"
+    ],
+    "topics": [
+      "tecnologia"
+    ],
+    "sentiment": "positive"
+  }
+}
