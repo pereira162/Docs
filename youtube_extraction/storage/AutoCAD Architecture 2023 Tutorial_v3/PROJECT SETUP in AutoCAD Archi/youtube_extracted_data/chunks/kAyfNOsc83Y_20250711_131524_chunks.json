@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "yeah so before you start a project you\nneed to set up base foundation on which\nall your drawings will be upon so that's\nwhat we'll be doing in this video\n[Music]\nhi everyone thank you for joining me on\nepisode number two for one bedroom\nseries all right so if you miss episode\nnumber one you need to go back and you\nneed to watch that one so check the\ndescription below for that video all\nright so what we're doing is to draw a\none bedroom house from start to finish\nall right this one in particular",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 499,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "at we're doing is to draw a\none bedroom house from start to finish\nall right this one in particular that's\na pretty simple pretty neat result a\nrectangle and we're going to roof it up\nwe're gonna try to model as much as we\ncan and yeah we're gonna have dimensions\nwith Anna Jordan the property we're\ngonna do everything a great thing okay\nso today's video is about setting up our\nset up yeah so before you start a\nproject you need to set now this\nfoundation on which all your drawings\nwill be upon bu",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "e you start a\nproject you need to set now this\nfoundation on which all your drawings\nwill be upon but before you start to set\nup you need to figure out which unit of\nmeasurement you're gonna use and in\norder to do that you need to know what\nunit is acceptable in the country that\narea in Jamaica we use the metric system\nso we have the imperial system and we\nhave the metric system so if you don't\nknow what these are this is what they\nlook like okay so that imperial system\nare the standard system d",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "ow what these are this is what they\nlook like okay so that imperial system\nare the standard system deals with feet\nand inches while the metric system deals\nwith millimeters meters kilometres that\nkind of stuff the imperial system is\nrepresented in fractions\nwhile the metric system is represented\ndecimals Jamaica in this case requires\nmillimeters I personally prefer to use\nthe imperial system look I prefer\nfractions or decimals in this case for\nsome reason I just think it's easier for\nme to under",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 86,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "I prefer\nfractions or decimals in this case for\nsome reason I just think it's easier for\nme to understand 12-feet is easier to\nremember than three thousand five\nhundred and twenty nine millimeters so\nwe will be doing this project in feet\nand inches however there is a way that\nyou can use the program to show both\ndimensions so that it is no acceptable\nbypass constant you get alright so\nthat's the first thing you need once you\nhave decided then we can know the set of\nour project on that system whi",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 500,
+    "word_count": 95,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "irst thing you need once you\nhave decided then we can know the set of\nour project on that system whichever one\nyou choose to use the same principles\napply I just needed to explain that now\nwe're going to move over to other kind\nof where you need to understand what's\nhappening and how to go about setting up\nyour project all right let's go alright\nso here we are on the computer so I have\nboth units of measurement on my install\non my computer I have imperial and I\nhave metric so whichever one you'r",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "of measurement on my install\non my computer I have imperial and I\nhave metric so whichever one you're\ngonna use we're going to use well I'm\ngonna use imperial for this project so\nif you're gonna use metric of course you\nwould want to select that one now if\nyou're not seeing one on your screen\nthen what you can do is just follow what\nI'm doing here so we're good to go to\ncontrol panel and we will go to programs\nand features right here and look for\nautocad architecture and then we're\ngonna say cha",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "o to programs\nand features right here and look for\nautocad architecture and then we're\ngonna say change all right\nall right so what we're looking at here\nis that is the installer for autocad\narchitecture you should be familiar with\nthis screen when you were installing the\nsoftware all right so what we're going\nto click on is this one over here add\nour more features\nand that will bring up this option so as\nyou can see I have both units selected\nall right no that is the reason why you\ncan see that",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 500,
+    "word_count": 96,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "on so as\nyou can see I have both units selected\nall right no that is the reason why you\ncan see that I have both here because I\nalready had them both selected here so\nif you need one or the other you would\ngo ahead and slipped and follow through\nwith the instructions okay so since I\nalready have them both I'll just X this\noff all right and then once you're done\nwith that then we'll open up autocrat\nall right so here we are on the AutoCAD\ndashboard so the first thing we're going\nto do is to set u",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "t\nall right so here we are on the AutoCAD\ndashboard so the first thing we're going\nto do is to set up our project so let's\ngo ahead look for the project browser\nicon at the top here it's gonna bring\nyou to what we call the project browser\nall right now when you're going to open\na project or create a new project this\nis where you would start as I said you\nwould open your project here as well\nbecause if you notice this is the folder\nthat they are saved in so we have\ndocuments my documents are that",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "e if you notice this is the folder\nthat they are saved in so we have\ndocuments my documents are that's my\nprojects and you can see all your arms\nwill be stored here and if you open this\none which is the one that you see over\nhere and you go inside you will see that\nit has multiple files what happened is\nthat it creates a separate file for each\nelement of your project alright so we\nwould put the first floor on a separate\nin a separate file we put a ground-floor\nin a separate file and so on and so",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "rst floor on a separate\nin a separate file we put a ground-floor\nin a separate file and so on and so\nforth and I will explain to you why it\nworks like that all right so you want to\nensure that you open your project from\nthis browser all right so of course I\nhave this project open now I'm going to\nclose it and we're going to start a new\nproject\nall right so we click on this button but\ncreate a new folder first gonna give our\ndrawing a number so d03\nsince that's we're at jar number three\nwe're gon",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "folder first gonna give our\ndrawing a number so d03\nsince that's we're at jar number three\nwe're gonna call this one more one bed\nhouse all right so that's that open it\nup there now once we're inside of that\nfolder we're gonna treat a new project\nso go ahead I'm gonna give our project a\nnumber it's important that you give your\nproject a number guys\nall right so great that in mind of\ncourse we're gonna call this one dead\nroom house and you can add a description\nlike one bedroom dwelling to be\ncon",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "onna call this one dead\nroom house and you can add a description\nlike one bedroom dwelling to be\nconstructed at our in Hut field\nManchester Jamaica whatever something\nneeded to put a description if you want\nyou don't have to of course we're not\ngonna use a template at this time\nbecause we didn't create in so I'm gonna\nsay okay now your project has been\ncreated so if I should bring this folder\nback up\n[Music]\nnow you see that it has been treated\nhere all right so put that away\nand once you see th",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "up\n[Music]\nnow you see that it has been treated\nhere all right so put that away\nand once you see that it is bold that\nmean that project is active so we can\nclose all right good\nso know that that's done what happened\nnow is that list this becomes active and\nthis is called your project navigator\nnow if you're not seeing this what you\nwould do is click on it up here so you'd\nfind it up here click on it you get it\nback alright so now we're in actually\ninside of our one bedroom house project\njuror n",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 499,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "it you get it\nback alright so now we're in actually\ninside of our one bedroom house project\njuror number three description all right\nso now this is where you're gonna set up\nyour project all right and the project\nNavigator is the is responsible for\ncombining all your files this is where\nall your files are kept in an organized\nfashion all right so you would have\nproject settings here you would do your\ndrawings in here you would create your\nviews and then finally you would create\nyour sheets and",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 498,
+    "word_count": 92,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "your\ndrawings in here you would create your\nviews and then finally you would create\nyour sheets and everything would be in\nan organized fashion right here alright\nso first thing we need to do is to setup\na project so we go click on this edit\nproject button\nalright that's already there that's\nalready there that good we're gonna\nchange these to guess yes\nand then we're gonna find some templates\nso being that we're gonna use Imperial\nwe're gonna select CTV alright go ahead\nImperial CTB open and we'",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 500,
+    "word_count": 91,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "eing that we're gonna use Imperial\nwe're gonna select CTV alright go ahead\nImperial CTB open and we're gonna do the\nsame thing for sheet templates we're\ngonna say go down to sheet imperial CTV\nopen and then you would select the size\nsheet that you want to use on this\nproject so we're gonna use 24 by 36\nwhich is too big for a tiny one-bedroom\nhouse but this would be like a regular\nsheet size that we would use in Jamaica\nall right\nespecially for a residential project\nalright good so then we would",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 499,
+    "word_count": 96,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "e would use in Jamaica\nall right\nespecially for a residential project\nalright good so then we would apply and\nthen we would say ok and of course we\nwould say yes make sure you read through\nthese stuff before you click\nall right good so now that your project\nis zipped\nwe can no need to sit or levels all\nright\nso I want to explain to you what levels\nare before we move on now I have this\nlittle drawing here and I have a ruler\nof course I was a teacher so I\nunderstand how to point with ruler so\nyeah",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "ng here and I have a ruler\nof course I was a teacher so I\nunderstand how to point with ruler so\nyeah\nso what I have here is a television and\nI want to explain what levels are all\nright so a building can be broken down\ninto levels all right and it levels\nsimply mean if you have multi-story\nbuildings you would have level one which\nwould be the lowest floor and then level\ntwo level three level floor number four\nas you go up\nall right now this project is just a one\nbedroom really actually we don't n",
+    "start_char": 7600,
+    "end_char": 8100,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "number four\nas you go up\nall right now this project is just a one\nbedroom really actually we don't need to\nbreak it up in levels but I want to do\nsomething for demonstration purpose so\nwhat we're gonna do is to put the\nfoundation what is below the ground on a\nseparate level and then we're going to\nput everything above which would be the\nthe first floor itself or the ground\nfloor on a level four itself so what's\ngonna happen is that we're gonna put\nso we're gonna call the finished floor\nlevel the",
+    "start_char": 8000,
+    "end_char": 8500,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "self so what's\ngonna happen is that we're gonna put\nso we're gonna call the finished floor\nlevel the finished floor level we're\ngonna call it the zero line so this is\nthe zero line now we're gonna make the\nfoundation four feet below all right so\nlet's say the foundation is going to\nlook something like this\nso we're gonna make the foundation four\nfeet below the zero line below the\nfinish for a level and then we're gonna\nmake the wall\neverything above from the finished floor\nlevel to the wall plat",
+    "start_char": 8400,
+    "end_char": 8900,
+    "char_count": 500,
+    "word_count": 94,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "l and then we're gonna\nmake the wall\neverything above from the finished floor\nlevel to the wall plate we're gonna make\nthat ten feet all right\nso bear that in mind when we are gonna\ncreate our levels all right so let's\nlook at that how do we set that up on\nthe computer so go ahead and click on\nthe levels setting and the first in one\nenter is is the foundation I want to\nstart from butter all right so we're\ngonna name this one over this level\nfoundation\n[Music]\nhowdy-doo you why it's gonna be four",
+    "start_char": 8800,
+    "end_char": 9300,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "so we're\ngonna name this one over this level\nfoundation\n[Music]\nhowdy-doo you why it's gonna be four\nfeet below zero which would make it\nminus four okay so this would nomicon\nminus four feet so let's do that\n- four feet all right\nand then here you'll put in how tall do\nyou want the foundation of course if it\nis minus four feet below that's where I\nwanted to start it's gonna be four feet\nhigh so four feet high\nam I gonna put in an ID for F I'm gonna\nput in my description foundati\nall right then w",
+    "start_char": 9200,
+    "end_char": 9700,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "ur feet high\nam I gonna put in an ID for F I'm gonna\nput in my description foundati\nall right then we're gonna make sure\nthat this is selected okay and you\ncreate a new level what happened now\nbecause this was selected the new level\nwill now are to adjust elevation so now\nour level our first level now which\nwould be ground level this now starts at\nthe zero mark as you can see here but\nnow we want to be 10 feet that's 10 inch\n10 feet high enter and then we would\ncall this level 1 it has an IB let",
+    "start_char": 9600,
+    "end_char": 10100,
+    "char_count": 500,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "to be 10 feet that's 10 inch\n10 feet high enter and then we would\ncall this level 1 it has an IB let's get\nlet's name it actually we're on floor\nI'm gonna call this floor\nso we have the we have our lentils we\nhave Foundation which which is four feet\nbelow that's where it's gonna start and\nwe have lower ground floor which is\ngoing to be starting at zero mark all\nright guys so that's how we're gonna do\nthat all right and you can always come\nback and change these and of course if\nyou had more level",
+    "start_char": 10000,
+    "end_char": 10500,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "do\nthat all right and you can always come\nback and change these and of course if\nyou had more levels you would continue\nto create more level so let's say for\ninstance we had a second floor or we had\nan upper floor it would now begin at ten\nfeet level and we would want it to be\nanother ten feet high and that would\nhave an ID of two and of course we would\ngive it a description but we're not\ngonna need this so let's remove that and\nthen we're gonna say okay yes so now you\ncan see that it's being p",
+    "start_char": 10400,
+    "end_char": 10900,
+    "char_count": 499,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "eed this so let's remove that and\nthen we're gonna say okay yes so now you\ncan see that it's being populated here\nall right and please check the zero and\nthese measurements here to make sure\nthat they're in Imperial or metric\nwhichever system that you're using\nalright so moving down the list we have\nwhat is called divisions all right no\ndivisions again for a small project like\nthis you don't need divisions but I'm\ngonna be using it for demonstration\npurpose all right\nso divisions is really if yo",
+    "start_char": 10800,
+    "end_char": 11300,
+    "char_count": 500,
+    "word_count": 92,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "divisions but I'm\ngonna be using it for demonstration\npurpose all right\nso divisions is really if you were to\nbreak up a building into sections let's\nsay you have the West Wing the East Wing\nand the north wing and so on and so\nforth if you had let's say a garage that\nis being attached to the house or if you\nhave an accessory building somewhere\nelse you would add divisions to your\nproject so we're gonna add one\nall right we're gonna call it the main\nbuilding and what I did should I give it\ndescri",
+    "start_char": 11200,
+    "end_char": 11700,
+    "char_count": 500,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "gonna add one\nall right we're gonna call it the main\nbuilding and what I did should I give it\ndescription mean Billy enter\nstupid em hi okay so we have a division\nall right so everything here is set up\nwe're good to go let's go down to\nconstruct no this is where you would now\nstart to draw alright so we're gonna\ncreate the different files that we need\nto draw inside of so we need to create\nsome construct so we're gonna write\nright-click on that new I was a new\nconstruct so we're gonna give this",
+    "start_char": 11600,
+    "end_char": 12100,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Alright guys so here we are back in AutoCAD architecture 2020 that's the version I'm using and so today we're gonna be creating some additional views and\nget some deeper understanding of how to use the views manager inside of the views tab.\nAlright so in the previous episode I think it was episode 12 that's where we went through and\nwould have created all of these views you're looking at here so we do have a 3D view which is the\none I currently have open and we also have you know all the other v",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "e do have a 3D view which is the\none I currently have open and we also have you know all the other views that we will need\nincluding some sectional elevations and a couple of details and so on and so forth so all we need\nour a couple of other details to wrap up our views and then we can start to add details to these views\nsuch as dimensions and attations and that kind of stuff and then after that's done we would add them to\nor sheets where it would then be printed.",
+    "start_char": 400,
+    "end_char": 870,
+    "char_count": 469,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "of stuff and then after that's done we would add them to\nor sheets where it would then be printed. Alright the views we'll be adding are detailed views okay\nwe do have 3 details so far as you can see don't here we do have a Eve detail we have foundation\nfooting detail and we also have the ridge detail and if I should open this drawing up you can see that we have\nall three views right here.",
+    "start_char": 770,
+    "end_char": 1164,
+    "char_count": 392,
+    "word_count": 80,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "ge detail and if I should open this drawing up you can see that we have\nall three views right here. Alright and these were taken from our sectional elevation views so\nif I open this guy up you can see that we have three collotes we do have the Eve footing and the\nridge and calling these out with their bubbles they shop in this drawing because this is where we\nplace them and as we place these views on sheets these are fields here will be populated with numbers\nand also these will become populated with the sheet number and the drawing number itself.",
+    "start_char": 1064,
+    "end_char": 1618,
+    "char_count": 553,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "h numbers\nand also these will become populated with the sheet number and the drawing number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1518,
+    "end_char": 1703,
+    "char_count": 184,
+    "word_count": 33,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "number itself. Alright so\nit is within this drawing that we are going to add some additional views.",
+    "start_char": 1603,
+    "end_char": 1703,
+    "char_count": 99,
+    "word_count": 18,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

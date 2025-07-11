@@ -1,0 +1,356 @@
+Hello everyone welcome to another episode of the One Bedrooms.
+This is the first 16 we need to go back and watch the links in the description.
+Alright so we have moved over into the next phase of this project and this video will be
+that first video of detailing where we will start to add dimensions and text and annotations
+and stuff like that.
+So I hope you have the time so stick around and I think you will learn a lot.
+So yeah let's jump into it.
+Zinn.
+Alright so what we're going to do is to add window tags and door tags to this drawing.
+So far you can see that I've added some dimensions and of course I know you know how
+to do this already.
+If you have watched my one click dimensions video we got all of these dimensions which
+just a couple clicks so these are like easy pickings now and we added some room tags as you
+can see these were taken from the spaces that we had done in the project from earlier
+on.
+Of course I did turn a layer off so I'm not sure what I'm talking about so if I turn this
+on you remember that space looking thing that's where these tags come from.
+Alright so you definitely want to tag.
+Definitely want to tag your spaces with their names of the rooms and then turn it off.
+So of course we can move these in where we want and then we're going to just add some tags
+to these windows and the doors and also create a schedule for these.
+If you notice we're not seeing three of our windows and if you have been following the
+episodes coming up you would know how to fix this by clicking on that little guide down
+here and raising the cut plane from three to four feet six inches so that we can see
+the windows.
+Alright good so now we can go ahead and tag.
+We're going to start with doors so let's go over to annotate and we're going to click on
+door tag.
+So this is the room tag tool that I use to tag the rooms so of course you can go ahead
+and do that.
+We're going to do some door tags now so once you click on it all you need to do is select
+the door that you want to tag.
+So we're going to do the first door here and it gives you a little graphic there to
+illustrate what it would look like.
+You're going to place it where you want it now so I'm going to place it like right here.
+Then it brings this dialog box up where we can enter information about this door so
+we can enter like framing material, glazing, head to detail, blah blah blah blah.
+Remove that.
+I did enter that early but I don't want it to be here anymore.
+Alright so these are things you can enter into the door so this would be door one.
+Hit okay and it leaves the tag there.
+We're going to do the second door which would be this one.
+We're going to hit and it brings it up.
+Remove that.
+Hit okay.
+So we have door number two and this would be door number three.
+Of course you can enter your numbers manually by clicking here and just typing in the
+number that would be reflected outside.
+We're going to hit okay.
+Alright guys so that's all the doors we have no bearing mind that if we have
+two or more doors that are the same exact size style then you would want to give those
+two doors are three doors the same number okay so if this door and this door were the same
+then they both would be saying zero one.
+But because this is an exterior door this is an interior door there are two different doors
+even though they are the same size.
+Alright so two different doors you have to give them two different numbers.
+This one is obviously smaller so that would definitely need us and a different number.
+And the same thing applies when we move to windows.
+These four windows at the front of the building are the exact same size, same style, same
+material, same everything.
+So we want to make sure that all of these windows have the same number likewise with
+two kitchen windows these are the same so we're going to give those the same number.
+This window is obviously different so that's going to have its own number.
+So let's click on window tag.
+I'm going to do like this boom.
+Click on that.
+Now we're going to drop the tag somewhere where there is a little bit of space so I'm
+going to drop it right there.
+So that would be number one and I'm not going to add anything in there I'm going to
+leave it blank for now.
+I'm not going to be adding anything in that I'm just you can go ahead and add these
+information.
+The good thing is when you add stuff in here you can pull these out in a schedule.
+That is what this is for.
+So of course if you're doing like a commercial building and you need to put in fire, fire
+proof rating and that kind of stuff you're going to need to enter those information into
+the door or the window.
+All right.
+So this would be our window one of course again.
+This would also be another window one.
+Good.
+This would be a normal one as well.
+Now if you sit in number changing guys, go click in there and type in the right number.
+All right.
+I'm going to this one should be a tool.
+Good.
+This one should be a tool as well.
+Awesome.
+Now this one should be a three.
+Beautiful.
+So now we have all of our window tags and door tags added.
+I guess what the floor plan is basically done.
+I don't need anything else for the floor plan.
+It's all done guys.
+I'm just going to need this a little bit more.
+And see this is kind of touching the building.
+I don't like that.
+So I'm going to click on this.
+Here I can edit.
+That's good.
+All right.
+So that's how the floor plan would look.
+And then we are going to, what if I can pull this out somewhere?
+Let me see.
+Beautiful.
+Nice.
+All right.
+So the next thing we're going to do is we're going to create some schedule.
+So go to door schedule, which is one of them going to do first.
+Door schedule click on that.
+And it says here, select the objects are enter to schedule external drawing.
+So of course this we know that this is an external drawing because it's an X reference.
+So we're going to hit enter.
+And then it says no, please search schedule.
+So you need to click your first corner and your second corner.
+And if you notice here is our schedule.
+I like to scale it to 50.
+Let's move it over a little bit.
+All right.
+So we can actually go in and remove some of these that we are seeing here.
+Honestly, what I don't would I have never used half of this stuff in here.
+So we're definitely going to can remove some of these.
+I'm not sure if I'm going to be doing that in this video.
+But so here we have this schedule.
+Nothing is in there because we need to add the drawing
+that we want to pop up in this schedule.
+So we're going to hit add.
+And then we're going to select the drawing that we want.
+So this would be that drawing and we're going to hit enter.
+And then no, we can see our door is popping up.
+We have the mark which is 1, 2, 3.
+With height thickness.
+If we had placed a material in there, it would be there.
+If we had enter any of those other information, then it would pop up inside of here.
+And of course, if you want to remove stuff, you can go to the edit style here.
+And just click on this check out the column you want.
+And just delete it.
+All right.
+Just go ahead and delete stuff.
+Make sure you don't delete stuff you need.
+All right.
+We're going to hit.
+Okay.
+Let's do a window schedule now.
+We're just going to hit enter.
+We're going to draw a hot table.
+Scale it to 50.
+Then we're going to add this kind there.
+So now this one's a little bit more interesting because we have a variety and we have some
+duplicates.
+We have four different four of the same windows.
+We have two of this type of window.
+And we have one of this type of window.
+And so if you notice it itemizes every single window, what if we want a group them
+up though?
+What if we could have a column that says quantity three, we would be four of these
+two of these and one of that.
+That's exactly what we're going to do by just going back to edit style and check this
+little box here.
+That says include quantity column.
+We're going to hit okay.
+And no, we have a column that says quantity.
+And then it kind of group them up to say, all right.
+We have four of this one.
+We have the same size.
+We have two of this one.
+The same size and we have one of this window.
+So that's how you would go about doing that.
+And of course I'm going to kind of put these side by side.
+So that I can create my views.
+All right.
+Now we're going to create some views.
+So go to view and we're going to say new.
+I'm going to call this.
+This is where plan.
+Create a window.
+I'll know how to do this already, right?
+Yep.
+You should know from the previous episode.
+I just about that.
+Probably should have given it a little bit more space.
+I'll let it go.
+Let me give it some space at the bottom.
+Good.
+Okay.
+So we'll have a view there.
+And then we're going to do one for the schedule at the same scale.
+Okay.
+Make sure that scale is one and a quarter.
+Now we're going to call this.
+Um, the fact that probably should do them both separate.
+So I'm going to do a door schedule.
+Pick.
+I do a schedule is going to be from that to that.
+Hit enter.
+And then I'm going to do another one.
+New.
+No, schedule.
+Enter.
+All right.
+So we have created three views here.
+What will happen is that it will pop up underneath.
+Or floor plan drawing.
+We have doors schedule windows schedule and your floor plan right there.
+All right.
+So these are what we're going to be using on our sheets.
+When we start to create sheets.
+One of the things I want to do last is to add the title to this drawing.
+So I'm going to go ahead and add a title with the circle.
+And if you notice once I click on it, this box pops up.
+Then we can go ahead and draw or title right here.
+Title comes in with your name and your scale.
+Once you put it on a sheet, that will become populated.
+All right.
+All right.
+All right.
+So this is where we're going to stop with the floor plan.
+I believe we have enough information here to be submitted to the authorities for approval.
+Especially for a small building like this.
+We really don't need anything more than this.
+But of course, if you're going to do something much larger than you need to add additional details
+as necessary.
+But this is where I'm going to stop for this floor plan.
+And what we're going to do is to move over into the foundation plan, which will be
+the last thing we're going to do in this episode.
+All right.
+So let's go over to our views.
+Go down to our foundation plan.
+And of course, this was where we left off with the foundation plan view.
+First thing we're going to do is to change our scale.
+All of us remember that before you add any type of annotations to your drawing.
+Set your scale.
+Then we're going to go ahead and bring in our grid lines.
+So let's go to our construct right click Xref overlay.
+All right. So we have our grid lines here looking beautiful.
+I am not going to be using these dimensions.
+So I need to freeze those guys.
+All right. There we go.
+And of course, what we're going to do is to add dimensions to the footing of the foundation.
+All right. We're not going to do the walls.
+Since we have already done them over here.
+So let's go ahead and create the the dimension that you need.
+So of course, we're going to be using exterior.
+We're going to click on this footing here, enter drag it out and click.
+If you notice, it's not yet configured.
+And this is one of the problems that we could actually solve
+by creating a template at the beginning of the project.
+When you load your template into the project, it has all the settings and everything pre-loaded.
+So that when you start to add things like text and dimensions,
+everything will be there from day one.
+All right. But I'm going to do a video and show you how to create templates.
+So the more yourself, we're just using the default AutoCut template on this drawing.
+All right. So let's go ahead and configure this dimension here.
+What's it? It's style. I need about two chains.
+And of course, on the first chain, I don't want to see
+while over on and
+while in the section. I don't want to see anything else.
+So get rid of everything else.
+I'm on chain two. I only want to see the overall of the white itself.
+Now we could actually go ahead and add a grid on to like a third chain.
+And show the grid's on there.
+Like chain three and add grids.
+But for some reason it's not working properly for me.
+So I just usually add a different dimension string
+separate from this one to the grid lines.
+All right. So we're going to hit OK.
+And oh, something I didn't change, which would have been the distance here,
+which would 12 inches. All right. So it's going to look something like this.
+I think that distance. I'm going to work with that distance because I do have another one to add
+above it for the grid lines themselves. So of course, we're going to go ahead and just click on this one
+and say add selected and do all the other walls or rather footing.
+By the way, your footing is considered a wall object in AutoCAD.
+Some reason. Why? If you notice when you went into the edit style dimension,
+we had to make changes to walls for it to be reflected out here.
+So AutoCAD is picking up your footing as a wall.
+All right. So that's what was what we did there. Now, if you notice for this small project,
+we practically have all the dimensions. We need except for one particular wall, which would
+be this little wall in here. There's nothing telling us where this is located.
+So that would be the only thing that we need really. So we would use an internal
+dimension. But instead of going in an editing, we're going to just do pick points.
+Since it's just a small area, I'm going to pick these points that we need.
+Enter. We're going to drag it out. I'm going to place it right over this side.
+All right. So there we have for that wall is being located. I'm going to actually add extra
+extension line to this point and hit enter. And I'm going to add it to this dimension line.
+All right. So that would be all the internal dimensions. We need. There's another issue right here.
+Where this is not capturing the width of this wall are this footing here. So what I'm going to do
+again is to click on this guy and say add object and select this footing and hit enter.
+There we have it being added into that string right here. So far so good. I think it's a little
+bit too close to the building. I could just add the grid line is kind of short.
+I'm not sure if we're going to have enough space left to add stuff. We'll see.
+One of the things I'm seeing here is that these dimensions stop on the grid line, which is
+on the center of the walls. And for some reason I am not able to get these dimensions to go to
+the edge of the wall. So that is something we would have to do manually. So what I would do is to go
+here and say I would say add extension line and pick the two points.
+Hit enter. I'm going to add it to the first string. I'm going to do the same thing again.
+Add it to the second one and then remove these inner pieces.
+It looks like a lot of work but it's definitely less work than using the regular
+dimension tool and trying to add them one by one. Because right now I can move all of this at once.
+All right. So this is what I'll be doing for all the X-T already mentions. So I'm going to kind of
+speed this up at this point.
+All right. So that's where I would stop with that. So we do have all the width of each footing
+right where it needs to be. Everything looking fine. And then of course if you had a larger building
+you would have a lot more internal interior dimensions. But since this is just so small let's all
+with it we need there because everything else can be found on the X-T-Rour dimensions. All right.
+What we need to bring in now are the room labels. All right. The name of each room. What we're going
+to have to do because we didn't provide space objects in the foundation drawing. We will have to
+X-RF overlay the floor plan. Back to our construct. Go to our ground floor. X-RF overlay
+and we're going to use these spaces to get the names of the room. So let's go to annotate room tags.
+Tag select the space and add the room names. All right. So now that we have the room name
+what we will have to do is to freeze all layers on this external reference. All right. So if you go
+into your layer or let me bring on my layer properties tab here. You'll see that we have all these
+right here from this going all the way down to here. Can we do all of them at once? I think we can.
+All of these ground floor construct layers. We're going to freeze them. All right. Freeze them all.
+So I don't want to see them. All right. So that's how that should look. The last thing I'm
+going to add is some collotes for each type of column. I'm going to have a collote. So let's go back
+to annotate. We're going to say collote. I'm using a circle one and let's see. I'm going to do this
+I stiffen a column and then I'm going to put a collote for this one. I'm about here enter. And for
+these collotes we're going to be using just collotes only because we have created details in the last
+episode for these already. So we're just going to say collote only. Afterwards, when we add these
+to the sheets, we will have to fill in the fields here for this drawing. All right. So let's go ahead and add
+another one. Let's do the T stiffen. Let's do this one right here.
+I use the F8 button to turn on and off the R-thomode. So that's the shortcut to do that.
+All right. So we have a T. We have an I. We need an L. So let's use this L over here.
+Let's stop out there.
+Collote only. And last one would be the square column. If you remember from the last episode,
+that's these were the four columns we did drop that right here.
+Collote only. At least one is kind of too close. Let me kind of see if I can hold it and down a little bit
+by dragging this.
+Yeah. Kind of bend this. Yeah. All right. So this is what our foundation plan would look like.
+There should be enough information to get us through the gate. The only thing that's missing
+would be the dimensions for the grid lines. I'm going to use the Nt red dimension as well
+to get this since I just need one chain. I'm going to pick points. I'm just wondering if I could
+add them to the top of this. It does really matter where you add them and it's just
+fact that they need to be there. So I'm going to just add them out there.
+Again, pick points.
+Make sure you're picking that midpoint of the circle. I did all there.
+And I don't think you need it on more than two sides. So I think that will do for the foundation
+plan. The last thing we're going to do is to create a view, which is what you do after every detail
+after you do your detail for a plan. So we're going to create a new view. I'm going to call this
+the foundation plan. We're going to see if you're not. We're going to define our window.
+We want our window to be something about here. Always leave some space at the bottom for your
+title. And we're going to hit enter and everything looks good. We hit okay.
+We're going to go back to annotate. I'm going to see title with the bubble on it.
+We're going to annotate the right here.
+So that would be the title for the foundation plan. I noticed that the scale is
+left off. I'm not sure why. But I'm not even going to worry about that right now.
+So everything looks good and that would be it for the foundation plan. All right. So that is where we're going
+to stop for this episode. Thank you for watching. If you haven't already, subscribe, hit the like
+button and share this video. If you think you got something valuable out of it, why me a ton?
+All right everybody. That's it for this video today. Thank you for joining. I hope that you
+learned something. And if you did, you know what to do already. Hit the like button and subscribe
+if you haven't already too. And definitely hit the share button and tell your friend
+for telling another friend. Be up to my patrons over on my page on page. If you didn't know,
+now you know the links are in the description. I do have some stuff over there. You can check out
+download. Get access to stuff that I do not share on this page. All right. So thank you again for
+watching. See you guys in the next video.

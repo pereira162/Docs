@@ -1,0 +1,3664 @@
+{
+  "video_id": "5W0Z3OcsR4w",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Hey everyone, welcome back to the",
+      "start": 0.0,
+      "duration": 2.48,
+      "end": 2.48
+    },
+    {
+      "index": 1,
+      "text": "channel. We're going to be talking about",
+      "start": 1.28,
+      "duration": 3.44,
+      "end": 4.72
+    },
+    {
+      "index": 2,
+      "text": "AutoCAD 2026. We'll be going over the",
+      "start": 2.48,
+      "duration": 4.0,
+      "end": 6.48
+    },
+    {
+      "index": 3,
+      "text": "basics of the program. If you're using",
+      "start": 4.72,
+      "duration": 3.199,
+      "end": 7.919
+    },
+    {
+      "index": 4,
+      "text": "an earlier version of AutoCAD, this",
+      "start": 6.48,
+      "duration": 2.64,
+      "end": 9.120000000000001
+    },
+    {
+      "index": 5,
+      "text": "still works for you. Don't worry about",
+      "start": 7.919,
+      "duration": 2.8,
+      "end": 10.719
+    },
+    {
+      "index": 6,
+      "text": "it. So, let's just dive right into it",
+      "start": 9.12,
+      "duration": 3.92,
+      "end": 13.04
+    },
+    {
+      "index": 7,
+      "text": "and get",
+      "start": 10.719,
+      "duration": 2.321,
+      "end": 13.04
+    },
+    {
+      "index": 8,
+      "text": "started. So, we're just going to go over",
+      "start": 14.44,
+      "duration": 4.36,
+      "end": 18.8
+    },
+    {
+      "index": 9,
+      "text": "what is AutoCAD, how it works, and how",
+      "start": 16.96,
+      "duration": 4.0,
+      "end": 20.96
+    },
+    {
+      "index": 10,
+      "text": "you can start drawing in 15 minutes. So,",
+      "start": 18.8,
+      "duration": 3.36,
+      "end": 22.16
+    },
+    {
+      "index": 11,
+      "text": "without further ado, let's get started.",
+      "start": 20.96,
+      "duration": 2.72,
+      "end": 23.68
+    },
+    {
+      "index": 12,
+      "text": "So, you can see here we have the recent",
+      "start": 22.16,
+      "duration": 2.959,
+      "end": 25.119
+    },
+    {
+      "index": 13,
+      "text": "folder. So, in the recent folder, this",
+      "start": 23.68,
+      "duration": 3.12,
+      "end": 26.8
+    },
+    {
+      "index": 14,
+      "text": "is where your recent drawings are. Um,",
+      "start": 25.119,
+      "duration": 3.041,
+      "end": 28.16
+    },
+    {
+      "index": 15,
+      "text": "I'm sorting them by last opened. And",
+      "start": 26.8,
+      "duration": 2.799,
+      "end": 29.599
+    },
+    {
+      "index": 16,
+      "text": "again, I only have one available because",
+      "start": 28.16,
+      "duration": 3.84,
+      "end": 32.0
+    },
+    {
+      "index": 17,
+      "text": "I just started using AutoCAD 2026. We",
+      "start": 29.599,
+      "duration": 3.921,
+      "end": 33.52
+    },
+    {
+      "index": 18,
+      "text": "have learning. So, in the learning",
+      "start": 32.0,
+      "duration": 3.12,
+      "end": 35.12
+    },
+    {
+      "index": 19,
+      "text": "column, we have things that we can learn",
+      "start": 33.52,
+      "duration": 3.36,
+      "end": 36.88
+    },
+    {
+      "index": 20,
+      "text": "more about AutoCAD. So, how it works,",
+      "start": 35.12,
+      "duration": 3.759,
+      "end": 38.879
+    },
+    {
+      "index": 21,
+      "text": "you know, how to do certain things, and",
+      "start": 36.88,
+      "duration": 4.16,
+      "end": 41.040000000000006
+    },
+    {
+      "index": 22,
+      "text": "it's more like advanced tutorials. Then",
+      "start": 38.879,
+      "duration": 3.36,
+      "end": 42.239
+    },
+    {
+      "index": 23,
+      "text": "we go over here, we have Autodesk",
+      "start": 41.04,
+      "duration": 2.64,
+      "end": 43.68
+    },
+    {
+      "index": 24,
+      "text": "projects. Don't worry about that. My",
+      "start": 42.239,
+      "duration": 3.761,
+      "end": 46.0
+    },
+    {
+      "index": 25,
+      "text": "insights, I also don't use that either.",
+      "start": 43.68,
+      "duration": 3.6,
+      "end": 47.28
+    },
+    {
+      "index": 26,
+      "text": "Uh, don't worry about that. And then",
+      "start": 46.0,
+      "duration": 2.399,
+      "end": 48.399
+    },
+    {
+      "index": 27,
+      "text": "down here, we have our help and",
+      "start": 47.28,
+      "duration": 2.64,
+      "end": 49.92
+    },
+    {
+      "index": 28,
+      "text": "everything like that. So, the the web",
+      "start": 48.399,
+      "duration": 3.201,
+      "end": 51.6
+    },
+    {
+      "index": 29,
+      "text": "app, the mobile app, customer support,",
+      "start": 49.92,
+      "duration": 3.36,
+      "end": 53.28
+    },
+    {
+      "index": 30,
+      "text": "the community form, online help, what's",
+      "start": 51.6,
+      "duration": 3.84,
+      "end": 55.44
+    },
+    {
+      "index": 31,
+      "text": "new in AutoCAD 2026. We don't need to",
+      "start": 53.28,
+      "duration": 3.36,
+      "end": 56.64
+    },
+    {
+      "index": 32,
+      "text": "worry about that. Most of you are more",
+      "start": 55.44,
+      "duration": 2.4,
+      "end": 57.839999999999996
+    },
+    {
+      "index": 33,
+      "text": "concerned with starting a drawing. So,",
+      "start": 56.64,
+      "duration": 2.079,
+      "end": 58.719
+    },
+    {
+      "index": 34,
+      "text": "if you come up here, you're going to see",
+      "start": 57.84,
+      "duration": 2.559,
+      "end": 60.399
+    },
+    {
+      "index": 35,
+      "text": "we have open and new. We don't need to",
+      "start": 58.719,
+      "duration": 3.761,
+      "end": 62.480000000000004
+    },
+    {
+      "index": 36,
+      "text": "worry about open right now. Um, we're",
+      "start": 60.399,
+      "duration": 3.681,
+      "end": 64.08
+    },
+    {
+      "index": 37,
+      "text": "just going to go to new. So, if I click",
+      "start": 62.48,
+      "duration": 3.44,
+      "end": 65.92
+    },
+    {
+      "index": 38,
+      "text": "the down arrow, I can browse templates,",
+      "start": 64.08,
+      "duration": 3.44,
+      "end": 67.52
+    },
+    {
+      "index": 39,
+      "text": "get more templates online, or create a",
+      "start": 65.92,
+      "duration": 3.12,
+      "end": 69.04
+    },
+    {
+      "index": 40,
+      "text": "sheet set. So, again, these are things",
+      "start": 67.52,
+      "duration": 3.2,
+      "end": 70.72
+    },
+    {
+      "index": 41,
+      "text": "that you're going to learn later on, but",
+      "start": 69.04,
+      "duration": 3.04,
+      "end": 72.08000000000001
+    },
+    {
+      "index": 42,
+      "text": "to keep this under 15 minutes, we're",
+      "start": 70.72,
+      "duration": 2.64,
+      "end": 73.36
+    },
+    {
+      "index": 43,
+      "text": "going to go real quick. We're just going",
+      "start": 72.08,
+      "duration": 3.76,
+      "end": 75.84
+    },
+    {
+      "index": 44,
+      "text": "to click new. So, click new, and you are",
+      "start": 73.36,
+      "duration": 4.48,
+      "end": 77.84
+    },
+    {
+      "index": 45,
+      "text": "going to be brought to a new sheet set.",
+      "start": 75.84,
+      "duration": 2.959,
+      "end": 78.799
+    },
+    {
+      "index": 46,
+      "text": "So, the first thing you're going to want",
+      "start": 77.84,
+      "duration": 3.44,
+      "end": 81.28
+    },
+    {
+      "index": 47,
+      "text": "to do when you get into AutoCAD of any",
+      "start": 78.799,
+      "duration": 3.921,
+      "end": 82.72000000000001
+    },
+    {
+      "index": 48,
+      "text": "version is you're going to want to set",
+      "start": 81.28,
+      "duration": 3.92,
+      "end": 85.2
+    },
+    {
+      "index": 49,
+      "text": "your units. So to do that, we need to",
+      "start": 82.72,
+      "duration": 4.399,
+      "end": 87.119
+    },
+    {
+      "index": 50,
+      "text": "type in the units command. But before we",
+      "start": 85.2,
+      "duration": 3.279,
+      "end": 88.479
+    },
+    {
+      "index": 51,
+      "text": "do that, I'm going to show you guys a",
+      "start": 87.119,
+      "duration": 3.04,
+      "end": 90.159
+    },
+    {
+      "index": 52,
+      "text": "command that's going to help you do",
+      "start": 88.479,
+      "duration": 3.361,
+      "end": 91.84
+    },
+    {
+      "index": 53,
+      "text": "things way faster than if you didn't",
+      "start": 90.159,
+      "duration": 3.041,
+      "end": 93.2
+    },
+    {
+      "index": 54,
+      "text": "know this. I don't understand why it's",
+      "start": 91.84,
+      "duration": 3.2,
+      "end": 95.04
+    },
+    {
+      "index": 55,
+      "text": "not taught. Mostly in most schools, you",
+      "start": 93.2,
+      "duration": 3.04,
+      "end": 96.24000000000001
+    },
+    {
+      "index": 56,
+      "text": "won't learn this. So just come down here",
+      "start": 95.04,
+      "duration": 3.119,
+      "end": 98.159
+    },
+    {
+      "index": 57,
+      "text": "to the type a command in the command",
+      "start": 96.24,
+      "duration": 3.519,
+      "end": 99.759
+    },
+    {
+      "index": 58,
+      "text": "bar. So just click that. And then you're",
+      "start": 98.159,
+      "duration": 2.801,
+      "end": 100.96000000000001
+    },
+    {
+      "index": 59,
+      "text": "going to follow along with me and type",
+      "start": 99.759,
+      "duration": 4.961,
+      "end": 104.72
+    },
+    {
+      "index": 60,
+      "text": "in dyn mode. Once that is done, press",
+      "start": 100.96,
+      "duration": 5.04,
+      "end": 106.0
+    },
+    {
+      "index": 61,
+      "text": "enter. And you're going to see that it's",
+      "start": 104.72,
+      "duration": 3.6,
+      "end": 108.32
+    },
+    {
+      "index": 62,
+      "text": "going to see say enter new value for I",
+      "start": 106.0,
+      "duration": 3.84,
+      "end": 109.84
+    },
+    {
+      "index": 63,
+      "text": "call it d mode, dine mode, whatever you",
+      "start": 108.32,
+      "duration": 2.72,
+      "end": 111.03999999999999
+    },
+    {
+      "index": 64,
+      "text": "want to what, however you want to",
+      "start": 109.84,
+      "duration": 2.8,
+      "end": 112.64
+    },
+    {
+      "index": 65,
+      "text": "pronounce it really. um you're going to",
+      "start": 111.04,
+      "duration": 3.2,
+      "end": 114.24000000000001
+    },
+    {
+      "index": 66,
+      "text": "want to set that to three. So, I",
+      "start": 112.64,
+      "duration": 2.88,
+      "end": 115.52
+    },
+    {
+      "index": 67,
+      "text": "currently have mine set to three. What",
+      "start": 114.24,
+      "duration": 2.879,
+      "end": 117.119
+    },
+    {
+      "index": 68,
+      "text": "this does is it allows you to just start",
+      "start": 115.52,
+      "duration": 3.279,
+      "end": 118.79899999999999
+    },
+    {
+      "index": 69,
+      "text": "typing without having to click on the",
+      "start": 117.119,
+      "duration": 4.401,
+      "end": 121.52
+    },
+    {
+      "index": 70,
+      "text": "command bar or click, you know, tools in",
+      "start": 118.799,
+      "duration": 4.481,
+      "end": 123.28
+    },
+    {
+      "index": 71,
+      "text": "order to use them. It just increases",
+      "start": 121.52,
+      "duration": 3.68,
+      "end": 125.2
+    },
+    {
+      "index": 72,
+      "text": "your speed exponentially. So, keep that",
+      "start": 123.28,
+      "duration": 4.88,
+      "end": 128.16
+    },
+    {
+      "index": 73,
+      "text": "on three, press enter, and then we can",
+      "start": 125.2,
+      "duration": 4.72,
+      "end": 129.92000000000002
+    },
+    {
+      "index": 74,
+      "text": "continue on here. Once you have that",
+      "start": 128.16,
+      "duration": 3.84,
+      "end": 132.0
+    },
+    {
+      "index": 75,
+      "text": "set, we're going to want to type in",
+      "start": 129.92,
+      "duration": 4.0,
+      "end": 133.92
+    },
+    {
+      "index": 76,
+      "text": "units. So, we type in units into",
+      "start": 132.0,
+      "duration": 3.599,
+      "end": 135.599
+    },
+    {
+      "index": 77,
+      "text": "AutoCAD, press enter, and you're going",
+      "start": 133.92,
+      "duration": 3.039,
+      "end": 136.95899999999997
+    },
+    {
+      "index": 78,
+      "text": "to see we're going to have our drawing",
+      "start": 135.599,
+      "duration": 2.72,
+      "end": 138.319
+    },
+    {
+      "index": 79,
+      "text": "unit. So, this is where we set up our",
+      "start": 136.959,
+      "duration": 2.881,
+      "end": 139.84
+    },
+    {
+      "index": 80,
+      "text": "drawing. Now, this depends on what",
+      "start": 138.319,
+      "duration": 2.961,
+      "end": 141.28
+    },
+    {
+      "index": 81,
+      "text": "drawing you're doing, who you're doing a",
+      "start": 139.84,
+      "duration": 2.88,
+      "end": 142.72
+    },
+    {
+      "index": 82,
+      "text": "drawing for, whether you live in the",
+      "start": 141.28,
+      "duration": 3.2,
+      "end": 144.48
+    },
+    {
+      "index": 83,
+      "text": "States or you live in Europe, uh, or",
+      "start": 142.72,
+      "duration": 3.519,
+      "end": 146.239
+    },
+    {
+      "index": 84,
+      "text": "anywhere else, it really depends who",
+      "start": 144.48,
+      "duration": 2.96,
+      "end": 147.44
+    },
+    {
+      "index": 85,
+      "text": "you're working for and what type of",
+      "start": 146.239,
+      "duration": 2.561,
+      "end": 148.8
+    },
+    {
+      "index": 86,
+      "text": "units you're going to use. Most of the",
+      "start": 147.44,
+      "duration": 3.92,
+      "end": 151.35999999999999
+    },
+    {
+      "index": 87,
+      "text": "time we do architectural units and we",
+      "start": 148.8,
+      "duration": 5.439,
+      "end": 154.239
+    },
+    {
+      "index": 88,
+      "text": "do, uh, feet or inches. Most of the time",
+      "start": 151.36,
+      "duration": 4.959,
+      "end": 156.31900000000002
+    },
+    {
+      "index": 89,
+      "text": "it's inches. Once you have this set to",
+      "start": 154.239,
+      "duration": 4.161,
+      "end": 158.4
+    },
+    {
+      "index": 90,
+      "text": "what you want it to be, click okay. And",
+      "start": 156.319,
+      "duration": 4.241,
+      "end": 160.56
+    },
+    {
+      "index": 91,
+      "text": "now your units will be set for this",
+      "start": 158.4,
+      "duration": 3.28,
+      "end": 161.68
+    },
+    {
+      "index": 92,
+      "text": "drawing. So, we're just going to quickly",
+      "start": 160.56,
+      "duration": 2.319,
+      "end": 162.879
+    },
+    {
+      "index": 93,
+      "text": "come up here and we're going to go to",
+      "start": 161.68,
+      "duration": 3.6,
+      "end": 165.28
+    },
+    {
+      "index": 94,
+      "text": "our home ribbon right here. So up at the",
+      "start": 162.879,
+      "duration": 4.0,
+      "end": 166.879
+    },
+    {
+      "index": 95,
+      "text": "top, you can see we have a bar across",
+      "start": 165.28,
+      "duration": 3.36,
+      "end": 168.64000000000001
+    },
+    {
+      "index": 96,
+      "text": "that has lines, poly lines, circles,",
+      "start": 166.879,
+      "duration": 4.08,
+      "end": 170.959
+    },
+    {
+      "index": 97,
+      "text": "arcs, all these tools. And it looks kind",
+      "start": 168.64,
+      "duration": 5.28,
+      "end": 173.92
+    },
+    {
+      "index": 98,
+      "text": "of confusing, but just relax. We'll get",
+      "start": 170.959,
+      "duration": 4.161,
+      "end": 175.12
+    },
+    {
+      "index": 99,
+      "text": "through this together. So you can see",
+      "start": 173.92,
+      "duration": 3.36,
+      "end": 177.28
+    },
+    {
+      "index": 100,
+      "text": "here we're going to start with drawing",
+      "start": 175.12,
+      "duration": 3.52,
+      "end": 178.64000000000001
+    },
+    {
+      "index": 101,
+      "text": "lines. So you can see here we have a",
+      "start": 177.28,
+      "duration": 3.52,
+      "end": 180.8
+    },
+    {
+      "index": 102,
+      "text": "line. If we click the line tool, we can",
+      "start": 178.64,
+      "duration": 3.92,
+      "end": 182.55999999999997
+    },
+    {
+      "index": 103,
+      "text": "also type in line. So you don't have to",
+      "start": 180.8,
+      "duration": 3.68,
+      "end": 184.48000000000002
+    },
+    {
+      "index": 104,
+      "text": "click it. If you type in line, this is",
+      "start": 182.56,
+      "duration": 3.36,
+      "end": 185.92000000000002
+    },
+    {
+      "index": 105,
+      "text": "because we have the command we set",
+      "start": 184.48,
+      "duration": 3.039,
+      "end": 187.51899999999998
+    },
+    {
+      "index": 106,
+      "text": "earlier. You can press enter and you'll",
+      "start": 185.92,
+      "duration": 3.52,
+      "end": 189.44
+    },
+    {
+      "index": 107,
+      "text": "be able to start drawing a line. So you",
+      "start": 187.519,
+      "duration": 3.761,
+      "end": 191.28
+    },
+    {
+      "index": 108,
+      "text": "can see we can specify a first point.",
+      "start": 189.44,
+      "duration": 3.84,
+      "end": 193.28
+    },
+    {
+      "index": 109,
+      "text": "Um, this isn't really too necessary for",
+      "start": 191.28,
+      "duration": 3.28,
+      "end": 194.56
+    },
+    {
+      "index": 110,
+      "text": "the kind of work I do, but for some of",
+      "start": 193.28,
+      "duration": 2.72,
+      "end": 196.0
+    },
+    {
+      "index": 111,
+      "text": "you it might be helpful. So, what this",
+      "start": 194.56,
+      "duration": 3.2,
+      "end": 197.76
+    },
+    {
+      "index": 112,
+      "text": "does is it specifies where the first",
+      "start": 196.0,
+      "duration": 3.519,
+      "end": 199.519
+    },
+    {
+      "index": 113,
+      "text": "point of the line is going to start.",
+      "start": 197.76,
+      "duration": 2.96,
+      "end": 200.72
+    },
+    {
+      "index": 114,
+      "text": "However, I'm just going to go click",
+      "start": 199.519,
+      "duration": 2.961,
+      "end": 202.48000000000002
+    },
+    {
+      "index": 115,
+      "text": "somewhere and draw it across. And you",
+      "start": 200.72,
+      "duration": 4.32,
+      "end": 205.04
+    },
+    {
+      "index": 116,
+      "text": "can see I have my line here. Let's say I",
+      "start": 202.48,
+      "duration": 5.679,
+      "end": 208.159
+    },
+    {
+      "index": 117,
+      "text": "want to have it 15 ft across. So, I type",
+      "start": 205.04,
+      "duration": 5.919,
+      "end": 210.959
+    },
+    {
+      "index": 118,
+      "text": "15. I put the feet symbol. And then once",
+      "start": 208.159,
+      "duration": 4.72,
+      "end": 212.879
+    },
+    {
+      "index": 119,
+      "text": "that's done, I can specify an angle. So,",
+      "start": 210.959,
+      "duration": 4.321,
+      "end": 215.28
+    },
+    {
+      "index": 120,
+      "text": "do not press enter yet. Press tab. And",
+      "start": 212.879,
+      "duration": 4.241,
+      "end": 217.12
+    },
+    {
+      "index": 121,
+      "text": "then you'll be brought to your degrees.",
+      "start": 215.28,
+      "duration": 3.679,
+      "end": 218.959
+    },
+    {
+      "index": 122,
+      "text": "So, you can set this to 90. You can set",
+      "start": 217.12,
+      "duration": 4.399,
+      "end": 221.519
+    },
+    {
+      "index": 123,
+      "text": "it to 180. Just make sure you have this",
+      "start": 218.959,
+      "duration": 4.961,
+      "end": 223.92000000000002
+    },
+    {
+      "index": 124,
+      "text": "set exactly because this is how you draw",
+      "start": 221.519,
+      "duration": 4.161,
+      "end": 225.68
+    },
+    {
+      "index": 125,
+      "text": "exactly. You want things to be exact and",
+      "start": 223.92,
+      "duration": 3.12,
+      "end": 227.04
+    },
+    {
+      "index": 126,
+      "text": "this is how you be exact. I want it to",
+      "start": 225.68,
+      "duration": 2.479,
+      "end": 228.15900000000002
+    },
+    {
+      "index": 127,
+      "text": "be zero, so I'm just going to leave it",
+      "start": 227.04,
+      "duration": 3.44,
+      "end": 230.48
+    },
+    {
+      "index": 128,
+      "text": "at zero. Press enter and I'm going to",
+      "start": 228.159,
+      "duration": 4.64,
+      "end": 232.79899999999998
+    },
+    {
+      "index": 129,
+      "text": "have my line drawn right there. So,",
+      "start": 230.48,
+      "duration": 4.319,
+      "end": 234.79899999999998
+    },
+    {
+      "index": 130,
+      "text": "there is our line. So, one thing that we",
+      "start": 232.799,
+      "duration": 3.601,
+      "end": 236.4
+    },
+    {
+      "index": 131,
+      "text": "should touch on before we move on is",
+      "start": 234.799,
+      "duration": 3.201,
+      "end": 238.0
+    },
+    {
+      "index": 132,
+      "text": "we're going to talk about our snap",
+      "start": 236.4,
+      "duration": 3.36,
+      "end": 239.76000000000002
+    },
+    {
+      "index": 133,
+      "text": "settings. So, I encourage you to have",
+      "start": 238.0,
+      "duration": 4.0,
+      "end": 242.0
+    },
+    {
+      "index": 134,
+      "text": "the same snap settings as me because if",
+      "start": 239.76,
+      "duration": 3.52,
+      "end": 243.28
+    },
+    {
+      "index": 135,
+      "text": "you set them to the same ones I have,",
+      "start": 242.0,
+      "duration": 2.72,
+      "end": 244.72
+    },
+    {
+      "index": 136,
+      "text": "it'll be easier to follow along. So,",
+      "start": 243.28,
+      "duration": 2.8,
+      "end": 246.08
+    },
+    {
+      "index": 137,
+      "text": "just come down here with your cursor and",
+      "start": 244.72,
+      "duration": 2.96,
+      "end": 247.68
+    },
+    {
+      "index": 138,
+      "text": "you'll see this little bar right here.",
+      "start": 246.08,
+      "duration": 3.28,
+      "end": 249.36
+    },
+    {
+      "index": 139,
+      "text": "press the down arrow and you're going to",
+      "start": 247.68,
+      "duration": 3.199,
+      "end": 250.87900000000002
+    },
+    {
+      "index": 140,
+      "text": "see we have our snaps here. So, what",
+      "start": 249.36,
+      "duration": 4.239,
+      "end": 253.59900000000002
+    },
+    {
+      "index": 141,
+      "text": "these snaps do is it allows us to, you",
+      "start": 250.879,
+      "duration": 4.56,
+      "end": 255.439
+    },
+    {
+      "index": 142,
+      "text": "know, have our lines and our drawing",
+      "start": 253.599,
+      "duration": 3.681,
+      "end": 257.28
+    },
+    {
+      "index": 143,
+      "text": "things snap together. And we'll show you",
+      "start": 255.439,
+      "duration": 3.281,
+      "end": 258.71999999999997
+    },
+    {
+      "index": 144,
+      "text": "a little bit of examples of how that",
+      "start": 257.28,
+      "duration": 3.28,
+      "end": 260.55999999999995
+    },
+    {
+      "index": 145,
+      "text": "works later on. But just pause the",
+      "start": 258.72,
+      "duration": 3.52,
+      "end": 262.24
+    },
+    {
+      "index": 146,
+      "text": "video, take note of what I have, set",
+      "start": 260.56,
+      "duration": 4.16,
+      "end": 264.72
+    },
+    {
+      "index": 147,
+      "text": "yours to what I have here. Uh, and the",
+      "start": 262.24,
+      "duration": 3.84,
+      "end": 266.08
+    },
+    {
+      "index": 148,
+      "text": "reason I have these set is because",
+      "start": 264.72,
+      "duration": 2.8,
+      "end": 267.52000000000004
+    },
+    {
+      "index": 149,
+      "text": "they're not too annoying. They go",
+      "start": 266.08,
+      "duration": 3.44,
+      "end": 269.52
+    },
+    {
+      "index": 150,
+      "text": "exactly where I need them to go. And",
+      "start": 267.52,
+      "duration": 3.44,
+      "end": 270.96
+    },
+    {
+      "index": 151,
+      "text": "again, it'll be easy for you to follow",
+      "start": 269.52,
+      "duration": 2.959,
+      "end": 272.479
+    },
+    {
+      "index": 152,
+      "text": "along. Now, not everyone is going to use",
+      "start": 270.96,
+      "duration": 3.28,
+      "end": 274.23999999999995
+    },
+    {
+      "index": 153,
+      "text": "the same ones I use. Some of them will",
+      "start": 272.479,
+      "duration": 3.44,
+      "end": 275.919
+    },
+    {
+      "index": 154,
+      "text": "be shut off for different people. Some",
+      "start": 274.24,
+      "duration": 2.8,
+      "end": 277.04
+    },
+    {
+      "index": 155,
+      "text": "of them will be turned on that I don't",
+      "start": 275.919,
+      "duration": 2.401,
+      "end": 278.32
+    },
+    {
+      "index": 156,
+      "text": "have turned on, but these are the ones",
+      "start": 277.04,
+      "duration": 4.32,
+      "end": 281.36
+    },
+    {
+      "index": 157,
+      "text": "that I find work best for me. So once",
+      "start": 278.32,
+      "duration": 5.439,
+      "end": 283.759
+    },
+    {
+      "index": 158,
+      "text": "that's done, we can we can get out of",
+      "start": 281.36,
+      "duration": 4.399,
+      "end": 285.759
+    },
+    {
+      "index": 159,
+      "text": "there. And then what we want to do is we",
+      "start": 283.759,
+      "duration": 3.681,
+      "end": 287.44
+    },
+    {
+      "index": 160,
+      "text": "want to move on to our polyline. So just",
+      "start": 285.759,
+      "duration": 3.44,
+      "end": 289.199
+    },
+    {
+      "index": 161,
+      "text": "come up here to poly lines. A polyline",
+      "start": 287.44,
+      "duration": 5.199,
+      "end": 292.639
+    },
+    {
+      "index": 162,
+      "text": "is a line that is connected to other",
+      "start": 289.199,
+      "duration": 5.28,
+      "end": 294.479
+    },
+    {
+      "index": 163,
+      "text": "lines. So what do I mean by that? So you",
+      "start": 292.639,
+      "duration": 3.521,
+      "end": 296.16
+    },
+    {
+      "index": 164,
+      "text": "can see here I have a line. So this is a",
+      "start": 294.479,
+      "duration": 3.28,
+      "end": 297.75899999999996
+    },
+    {
+      "index": 165,
+      "text": "line. But if I have a polyline, I click",
+      "start": 296.16,
+      "duration": 4.8,
+      "end": 300.96000000000004
+    },
+    {
+      "index": 166,
+      "text": "and let's say I go up and then I do this",
+      "start": 297.759,
+      "duration": 6.641,
+      "end": 304.40000000000003
+    },
+    {
+      "index": 167,
+      "text": "and I do that and I close that off. And",
+      "start": 300.96,
+      "duration": 4.799,
+      "end": 305.75899999999996
+    },
+    {
+      "index": 168,
+      "text": "that's another thing. Once you're done",
+      "start": 304.4,
+      "duration": 3.76,
+      "end": 308.15999999999997
+    },
+    {
+      "index": 169,
+      "text": "drawing, press escape and it will cancel",
+      "start": 305.759,
+      "duration": 3.921,
+      "end": 309.68
+    },
+    {
+      "index": 170,
+      "text": "the command. So that's something that's",
+      "start": 308.16,
+      "duration": 2.96,
+      "end": 311.12
+    },
+    {
+      "index": 171,
+      "text": "very important to know. So you can see",
+      "start": 309.68,
+      "duration": 3.04,
+      "end": 312.72
+    },
+    {
+      "index": 172,
+      "text": "here if I just draw lines because I can",
+      "start": 311.12,
+      "duration": 3.68,
+      "end": 314.8
+    },
+    {
+      "index": 173,
+      "text": "draw lines like I draw poly lines. Um",
+      "start": 312.72,
+      "duration": 3.759,
+      "end": 316.47900000000004
+    },
+    {
+      "index": 174,
+      "text": "but there's a big m there's a big",
+      "start": 314.8,
+      "duration": 2.72,
+      "end": 317.52000000000004
+    },
+    {
+      "index": 175,
+      "text": "difference between them. So you can see",
+      "start": 316.479,
+      "duration": 2.481,
+      "end": 318.96
+    },
+    {
+      "index": 176,
+      "text": "here when I'm hovering over and",
+      "start": 317.52,
+      "duration": 3.2,
+      "end": 320.71999999999997
+    },
+    {
+      "index": 177,
+      "text": "selecting I have to go and select each",
+      "start": 318.96,
+      "duration": 3.76,
+      "end": 322.71999999999997
+    },
+    {
+      "index": 178,
+      "text": "and every line individually that is a",
+      "start": 320.72,
+      "duration": 3.52,
+      "end": 324.24
+    },
+    {
+      "index": 179,
+      "text": "line. So you can see that they're not",
+      "start": 322.72,
+      "duration": 3.199,
+      "end": 325.91900000000004
+    },
+    {
+      "index": 180,
+      "text": "connected to each other. I can join them",
+      "start": 324.24,
+      "duration": 3.76,
+      "end": 328.0
+    },
+    {
+      "index": 181,
+      "text": "by typing the join command. I believe",
+      "start": 325.919,
+      "duration": 3.681,
+      "end": 329.59999999999997
+    },
+    {
+      "index": 182,
+      "text": "you press join and then yeah now you",
+      "start": 328.0,
+      "duration": 4.4,
+      "end": 332.4
+    },
+    {
+      "index": 183,
+      "text": "have a polyline. But if you don't or if",
+      "start": 329.6,
+      "duration": 5.28,
+      "end": 334.88
+    },
+    {
+      "index": 184,
+      "text": "you use poly lines, I can just click one",
+      "start": 332.4,
+      "duration": 4.079,
+      "end": 336.479
+    },
+    {
+      "index": 185,
+      "text": "of the many types of lines that are",
+      "start": 334.88,
+      "duration": 3.52,
+      "end": 338.4
+    },
+    {
+      "index": 186,
+      "text": "connected to each other and it will",
+      "start": 336.479,
+      "duration": 3.681,
+      "end": 340.15999999999997
+    },
+    {
+      "index": 187,
+      "text": "select all of them. So that's a very",
+      "start": 338.4,
+      "duration": 3.92,
+      "end": 342.32
+    },
+    {
+      "index": 188,
+      "text": "important tool to have. Once we're done",
+      "start": 340.16,
+      "duration": 3.759,
+      "end": 343.91900000000004
+    },
+    {
+      "index": 189,
+      "text": "with poly lines, we go to circles. The",
+      "start": 342.32,
+      "duration": 3.04,
+      "end": 345.36
+    },
+    {
+      "index": 190,
+      "text": "circle command quite simple. You just",
+      "start": 343.919,
+      "duration": 3.361,
+      "end": 347.28
+    },
+    {
+      "index": 191,
+      "text": "go, you draw a circle. Uh it's going to",
+      "start": 345.36,
+      "duration": 4.08,
+      "end": 349.44
+    },
+    {
+      "index": 192,
+      "text": "start with the radius. So I'm just going",
+      "start": 347.28,
+      "duration": 3.759,
+      "end": 351.039
+    },
+    {
+      "index": 193,
+      "text": "to do let's say 2 feet and it'll be the",
+      "start": 349.44,
+      "duration": 3.68,
+      "end": 353.12
+    },
+    {
+      "index": 194,
+      "text": "radius is 2 feet. You can also specify",
+      "start": 351.039,
+      "duration": 3.921,
+      "end": 354.96
+    },
+    {
+      "index": 195,
+      "text": "the diameter if you have to. So if I go",
+      "start": 353.12,
+      "duration": 3.2,
+      "end": 356.32
+    },
+    {
+      "index": 196,
+      "text": "and click the circle, I can go down",
+      "start": 354.96,
+      "duration": 2.56,
+      "end": 357.52
+    },
+    {
+      "index": 197,
+      "text": "here. You're going to see it says",
+      "start": 356.32,
+      "duration": 3.04,
+      "end": 359.36
+    },
+    {
+      "index": 198,
+      "text": "specify radius of circle or and then",
+      "start": 357.52,
+      "duration": 3.84,
+      "end": 361.35999999999996
+    },
+    {
+      "index": 199,
+      "text": "it'll have an arrow down. Press the down",
+      "start": 359.36,
+      "duration": 3.2,
+      "end": 362.56
+    },
+    {
+      "index": 200,
+      "text": "arrow on your keyboard and you're going",
+      "start": 361.36,
+      "duration": 2.959,
+      "end": 364.319
+    },
+    {
+      "index": 201,
+      "text": "to see we can have um it's going to have",
+      "start": 362.56,
+      "duration": 3.199,
+      "end": 365.759
+    },
+    {
+      "index": 202,
+      "text": "either a radius that I have set",
+      "start": 364.319,
+      "duration": 3.281,
+      "end": 367.6
+    },
+    {
+      "index": 203,
+      "text": "previously or diameter. I can select",
+      "start": 365.759,
+      "duration": 4.16,
+      "end": 369.91900000000004
+    },
+    {
+      "index": 204,
+      "text": "diameter. I press enter uh and it will",
+      "start": 367.6,
+      "duration": 5.12,
+      "end": 372.72
+    },
+    {
+      "index": 205,
+      "text": "then allow me to set a diameter instead",
+      "start": 369.919,
+      "duration": 5.12,
+      "end": 375.039
+    },
+    {
+      "index": 206,
+      "text": "of a radius. Not for some people it's",
+      "start": 372.72,
+      "duration": 3.44,
+      "end": 376.16
+    },
+    {
+      "index": 207,
+      "text": "really helpful, for other people it",
+      "start": 375.039,
+      "duration": 2.641,
+      "end": 377.68
+    },
+    {
+      "index": 208,
+      "text": "doesn't really matter. Once that's done,",
+      "start": 376.16,
+      "duration": 3.12,
+      "end": 379.28000000000003
+    },
+    {
+      "index": 209,
+      "text": "we have arcs. We have a variety of arcs",
+      "start": 377.68,
+      "duration": 2.72,
+      "end": 380.40000000000003
+    },
+    {
+      "index": 210,
+      "text": "here. I'm not going to touch on all of",
+      "start": 379.28,
+      "duration": 2.8,
+      "end": 382.08
+    },
+    {
+      "index": 211,
+      "text": "them. You can pause the video, see what",
+      "start": 380.4,
+      "duration": 3.12,
+      "end": 383.52
+    },
+    {
+      "index": 212,
+      "text": "type of arcs there are, or you can go",
+      "start": 382.08,
+      "duration": 3.44,
+      "end": 385.52
+    },
+    {
+      "index": 213,
+      "text": "onto your own AutoCAD, find the arcs",
+      "start": 383.52,
+      "duration": 3.6,
+      "end": 387.12
+    },
+    {
+      "index": 214,
+      "text": "that you would like to work with. And",
+      "start": 385.52,
+      "duration": 2.72,
+      "end": 388.24
+    },
+    {
+      "index": 215,
+      "text": "you can see we have most of the time",
+      "start": 387.12,
+      "duration": 2.32,
+      "end": 389.44
+    },
+    {
+      "index": 216,
+      "text": "you're going to use three point. So the",
+      "start": 388.24,
+      "duration": 2.64,
+      "end": 390.88
+    },
+    {
+      "index": 217,
+      "text": "three-point is you specify the start",
+      "start": 389.44,
+      "duration": 4.16,
+      "end": 393.6
+    },
+    {
+      "index": 218,
+      "text": "point, uh you specify the second point,",
+      "start": 390.88,
+      "duration": 4.159,
+      "end": 395.039
+    },
+    {
+      "index": 219,
+      "text": "and then you can specify the third",
+      "start": 393.6,
+      "duration": 2.8,
+      "end": 396.40000000000003
+    },
+    {
+      "index": 220,
+      "text": "point. And you can see here I just",
+      "start": 395.039,
+      "duration": 3.44,
+      "end": 398.479
+    },
+    {
+      "index": 221,
+      "text": "created an arc. Simple to follow, easy",
+      "start": 396.4,
+      "duration": 4.0,
+      "end": 400.4
+    },
+    {
+      "index": 222,
+      "text": "to use, not too difficult to understand.",
+      "start": 398.479,
+      "duration": 4.0,
+      "end": 402.479
+    },
+    {
+      "index": 223,
+      "text": "You can also edit them. Um but for the",
+      "start": 400.4,
+      "duration": 4.32,
+      "end": 404.71999999999997
+    },
+    {
+      "index": 224,
+      "text": "most part, most of you don't really need",
+      "start": 402.479,
+      "duration": 4.241,
+      "end": 406.71999999999997
+    },
+    {
+      "index": 225,
+      "text": "to know that right now, but if you do,",
+      "start": 404.72,
+      "duration": 3.919,
+      "end": 408.639
+    },
+    {
+      "index": 226,
+      "text": "we'll be making a tutorial on that. Then",
+      "start": 406.72,
+      "duration": 2.96,
+      "end": 409.68
+    },
+    {
+      "index": 227,
+      "text": "if you come here, you're going to have a",
+      "start": 408.639,
+      "duration": 2.241,
+      "end": 410.88
+    },
+    {
+      "index": 228,
+      "text": "rectangle tool. What this does is it",
+      "start": 409.68,
+      "duration": 2.959,
+      "end": 412.639
+    },
+    {
+      "index": 229,
+      "text": "lets you make a rectangle. So again, we",
+      "start": 410.88,
+      "duration": 3.599,
+      "end": 414.479
+    },
+    {
+      "index": 230,
+      "text": "can make it 10 ft. So type in 10 ft.",
+      "start": 412.639,
+      "duration": 4.241,
+      "end": 416.88
+    },
+    {
+      "index": 231,
+      "text": "Press tab. And in this case, because we",
+      "start": 414.479,
+      "duration": 5.361,
+      "end": 419.84
+    },
+    {
+      "index": 232,
+      "text": "don't have an angle. It's not a line. We",
+      "start": 416.88,
+      "duration": 6.0,
+      "end": 422.88
+    },
+    {
+      "index": 233,
+      "text": "can just specify the other, you know,",
+      "start": 419.84,
+      "duration": 5.44,
+      "end": 425.28
+    },
+    {
+      "index": 234,
+      "text": "dimension for our rectangle. So I'm just",
+      "start": 422.88,
+      "duration": 3.68,
+      "end": 426.56
+    },
+    {
+      "index": 235,
+      "text": "going to do 10 x 10. So it's going to be",
+      "start": 425.28,
+      "duration": 3.84,
+      "end": 429.11999999999995
+    },
+    {
+      "index": 236,
+      "text": "square. And that's done. So again, when",
+      "start": 426.56,
+      "duration": 4.079,
+      "end": 430.639
+    },
+    {
+      "index": 237,
+      "text": "you're doing that, you grab your",
+      "start": 429.12,
+      "duration": 3.6,
+      "end": 432.72
+    },
+    {
+      "index": 238,
+      "text": "rectangle, you type in the distance you",
+      "start": 430.639,
+      "duration": 3.201,
+      "end": 433.84000000000003
+    },
+    {
+      "index": 239,
+      "text": "want, and you're going to see it's",
+      "start": 432.72,
+      "duration": 2.96,
+      "end": 435.68
+    },
+    {
+      "index": 240,
+      "text": "highlighted where I have it. Once that's",
+      "start": 433.84,
+      "duration": 3.68,
+      "end": 437.52
+    },
+    {
+      "index": 241,
+      "text": "done, I it's going to go to where I need",
+      "start": 435.68,
+      "duration": 3.359,
+      "end": 439.039
+    },
+    {
+      "index": 242,
+      "text": "it to go. And then it'll highlight once",
+      "start": 437.52,
+      "duration": 4.0,
+      "end": 441.52
+    },
+    {
+      "index": 243,
+      "text": "I press tab the next dimension. So then",
+      "start": 439.039,
+      "duration": 4.88,
+      "end": 443.919
+    },
+    {
+      "index": 244,
+      "text": "I can just type in 10 here. Press 10 ft.",
+      "start": 441.52,
+      "duration": 5.36,
+      "end": 446.88
+    },
+    {
+      "index": 245,
+      "text": "Enter. And then it is done. So when",
+      "start": 443.919,
+      "duration": 4.481,
+      "end": 448.4
+    },
+    {
+      "index": 246,
+      "text": "you're done using commands again, press",
+      "start": 446.88,
+      "duration": 4.0,
+      "end": 450.88
+    },
+    {
+      "index": 247,
+      "text": "escape. If it's not disappearing, that's",
+      "start": 448.4,
+      "duration": 3.44,
+      "end": 451.84
+    },
+    {
+      "index": 248,
+      "text": "something that a lot of people struggle",
+      "start": 450.88,
+      "duration": 2.159,
+      "end": 453.039
+    },
+    {
+      "index": 249,
+      "text": "with is it's like, how do I get this to",
+      "start": 451.84,
+      "duration": 2.24,
+      "end": 454.08
+    },
+    {
+      "index": 250,
+      "text": "disappear? You don't want to click",
+      "start": 453.039,
+      "duration": 2.56,
+      "end": 455.599
+    },
+    {
+      "index": 251,
+      "text": "because you're just drawing more lines.",
+      "start": 454.08,
+      "duration": 2.88,
+      "end": 456.96
+    },
+    {
+      "index": 252,
+      "text": "Press escape. We're just going to go",
+      "start": 455.599,
+      "duration": 2.801,
+      "end": 458.4
+    },
+    {
+      "index": 253,
+      "text": "over some of the ways that you can move",
+      "start": 456.96,
+      "duration": 3.519,
+      "end": 460.479
+    },
+    {
+      "index": 254,
+      "text": "around in AutoCAD and how your mouse is",
+      "start": 458.4,
+      "duration": 4.48,
+      "end": 462.88
+    },
+    {
+      "index": 255,
+      "text": "really important. So if you want to pan,",
+      "start": 460.479,
+      "duration": 4.401,
+      "end": 464.88
+    },
+    {
+      "index": 256,
+      "text": "you can hold the middle mouse button. I",
+      "start": 462.88,
+      "duration": 3.039,
+      "end": 465.919
+    },
+    {
+      "index": 257,
+      "text": "believe it's called panning. And you're",
+      "start": 464.88,
+      "duration": 2.8,
+      "end": 467.68
+    },
+    {
+      "index": 258,
+      "text": "going to see the hand is shown as my",
+      "start": 465.919,
+      "duration": 3.921,
+      "end": 469.84
+    },
+    {
+      "index": 259,
+      "text": "cursor and I can just scroll around and",
+      "start": 467.68,
+      "duration": 3.44,
+      "end": 471.12
+    },
+    {
+      "index": 260,
+      "text": "move around. This is probably the most",
+      "start": 469.84,
+      "duration": 3.04,
+      "end": 472.88
+    },
+    {
+      "index": 261,
+      "text": "important command. Very useful, very",
+      "start": 471.12,
+      "duration": 3.84,
+      "end": 474.96
+    },
+    {
+      "index": 262,
+      "text": "helpful to know. Right clicking allows",
+      "start": 472.88,
+      "duration": 3.68,
+      "end": 476.56
+    },
+    {
+      "index": 263,
+      "text": "you to bring up options menus. So you",
+      "start": 474.96,
+      "duration": 2.72,
+      "end": 477.68
+    },
+    {
+      "index": 264,
+      "text": "have options, you know, panning,",
+      "start": 476.56,
+      "duration": 2.56,
+      "end": 479.12
+    },
+    {
+      "index": 265,
+      "text": "zooming, things like that. If you want",
+      "start": 477.68,
+      "duration": 2.799,
+      "end": 480.479
+    },
+    {
+      "index": 266,
+      "text": "to zoom, you simply use your mouse",
+      "start": 479.12,
+      "duration": 3.199,
+      "end": 482.319
+    },
+    {
+      "index": 267,
+      "text": "button to zoom in and out. And then",
+      "start": 480.479,
+      "duration": 3.28,
+      "end": 483.75899999999996
+    },
+    {
+      "index": 268,
+      "text": "clicking just allows you to select",
+      "start": 482.319,
+      "duration": 3.921,
+      "end": 486.24
+    },
+    {
+      "index": 269,
+      "text": "things. So you can see here if I if I",
+      "start": 483.759,
+      "duration": 3.921,
+      "end": 487.68
+    },
+    {
+      "index": 270,
+      "text": "click and pull to the left, it's going",
+      "start": 486.24,
+      "duration": 2.72,
+      "end": 488.96000000000004
+    },
+    {
+      "index": 271,
+      "text": "to be green. If I click and pull to the",
+      "start": 487.68,
+      "duration": 2.959,
+      "end": 490.639
+    },
+    {
+      "index": 272,
+      "text": "right, it's going to be blue. So, if you",
+      "start": 488.96,
+      "duration": 3.44,
+      "end": 492.4
+    },
+    {
+      "index": 273,
+      "text": "click and pull to the left, what that",
+      "start": 490.639,
+      "duration": 4.081,
+      "end": 494.72
+    },
+    {
+      "index": 274,
+      "text": "does is it allows you to select",
+      "start": 492.4,
+      "duration": 4.479,
+      "end": 496.87899999999996
+    },
+    {
+      "index": 275,
+      "text": "everything in that selection. So, if I",
+      "start": 494.72,
+      "duration": 4.319,
+      "end": 499.03900000000004
+    },
+    {
+      "index": 276,
+      "text": "go here to our example that we do later,",
+      "start": 496.879,
+      "duration": 3.521,
+      "end": 500.40000000000003
+    },
+    {
+      "index": 277,
+      "text": "you're going to see pulling to the left,",
+      "start": 499.039,
+      "duration": 3.28,
+      "end": 502.31899999999996
+    },
+    {
+      "index": 278,
+      "text": "I can select all of these objects here",
+      "start": 500.4,
+      "duration": 4.88,
+      "end": 505.28
+    },
+    {
+      "index": 279,
+      "text": "and have them selected. If I pull and I",
+      "start": 502.319,
+      "duration": 4.241,
+      "end": 506.56
+    },
+    {
+      "index": 280,
+      "text": "well, and I just need to touch them.",
+      "start": 505.28,
+      "duration": 3.199,
+      "end": 508.479
+    },
+    {
+      "index": 281,
+      "text": "Like, I don't need to fully, you know,",
+      "start": 506.56,
+      "duration": 4.079,
+      "end": 510.639
+    },
+    {
+      "index": 282,
+      "text": "engulf it and everything. So, but if I",
+      "start": 508.479,
+      "duration": 3.521,
+      "end": 512.0
+    },
+    {
+      "index": 283,
+      "text": "right click and pull down, it's only",
+      "start": 510.639,
+      "duration": 2.801,
+      "end": 513.44
+    },
+    {
+      "index": 284,
+      "text": "going to select the objects that are",
+      "start": 512.0,
+      "duration": 3.599,
+      "end": 515.599
+    },
+    {
+      "index": 285,
+      "text": "fully within my grasp. So, you can see",
+      "start": 513.44,
+      "duration": 4.719,
+      "end": 518.1590000000001
+    },
+    {
+      "index": 286,
+      "text": "here only this rectangle is showing up",
+      "start": 515.599,
+      "duration": 4.721,
+      "end": 520.32
+    },
+    {
+      "index": 287,
+      "text": "as I go past it. But if I go all the",
+      "start": 518.159,
+      "duration": 3.201,
+      "end": 521.36
+    },
+    {
+      "index": 288,
+      "text": "way, you're going to see it's going to",
+      "start": 520.32,
+      "duration": 2.959,
+      "end": 523.279
+    },
+    {
+      "index": 289,
+      "text": "select all of this object, but it won't",
+      "start": 521.36,
+      "duration": 3.599,
+      "end": 524.9590000000001
+    },
+    {
+      "index": 290,
+      "text": "select the one that I have in the bottom",
+      "start": 523.279,
+      "duration": 3.361,
+      "end": 526.64
+    },
+    {
+      "index": 291,
+      "text": "right hand corner here. So that's",
+      "start": 524.959,
+      "duration": 3.681,
+      "end": 528.64
+    },
+    {
+      "index": 292,
+      "text": "important to know when we move forward",
+      "start": 526.64,
+      "duration": 3.6,
+      "end": 530.24
+    },
+    {
+      "index": 293,
+      "text": "through this tutorial. So I thought that",
+      "start": 528.64,
+      "duration": 2.8,
+      "end": 531.4399999999999
+    },
+    {
+      "index": 294,
+      "text": "was really important to add. So",
+      "start": 530.24,
+      "duration": 2.32,
+      "end": 532.5600000000001
+    },
+    {
+      "index": 295,
+      "text": "hopefully that helps you guys. Let's",
+      "start": 531.44,
+      "duration": 2.48,
+      "end": 533.9200000000001
+    },
+    {
+      "index": 296,
+      "text": "continue on with the tutorial. If you",
+      "start": 532.56,
+      "duration": 2.719,
+      "end": 535.279
+    },
+    {
+      "index": 297,
+      "text": "like this video and you like our",
+      "start": 533.92,
+      "duration": 2.96,
+      "end": 536.88
+    },
+    {
+      "index": 298,
+      "text": "channel, please consider liking and",
+      "start": 535.279,
+      "duration": 3.201,
+      "end": 538.48
+    },
+    {
+      "index": 299,
+      "text": "subscribing. And if you really want to",
+      "start": 536.88,
+      "duration": 3.04,
+      "end": 539.92
+    },
+    {
+      "index": 300,
+      "text": "become a member, it helps support this",
+      "start": 538.48,
+      "duration": 3.12,
+      "end": 541.6
+    },
+    {
+      "index": 301,
+      "text": "content. Helps us keep pushing out free",
+      "start": 539.92,
+      "duration": 3.2,
+      "end": 543.12
+    },
+    {
+      "index": 302,
+      "text": "content so you guys can learn more about",
+      "start": 541.6,
+      "duration": 3.84,
+      "end": 545.44
+    },
+    {
+      "index": 303,
+      "text": "AutoCAD. And it just kind of helps us",
+      "start": 543.12,
+      "duration": 4.159,
+      "end": 547.279
+    },
+    {
+      "index": 304,
+      "text": "keep the boat afloat. Thank you so much",
+      "start": 545.44,
+      "duration": 3.44,
+      "end": 548.8800000000001
+    },
+    {
+      "index": 305,
+      "text": "for those of you who do support us. It",
+      "start": 547.279,
+      "duration": 3.201,
+      "end": 550.48
+    },
+    {
+      "index": 306,
+      "text": "really means a lot to us. If you're not",
+      "start": 548.88,
+      "duration": 2.56,
+      "end": 551.4399999999999
+    },
+    {
+      "index": 307,
+      "text": "interested in that, but you want to",
+      "start": 550.48,
+      "duration": 2.32,
+      "end": 552.8000000000001
+    },
+    {
+      "index": 308,
+      "text": "learn more about AutoCAD and how we can",
+      "start": 551.44,
+      "duration": 3.2,
+      "end": 554.6400000000001
+    },
+    {
+      "index": 309,
+      "text": "help you, please go check out our latest",
+      "start": 552.8,
+      "duration": 3.44,
+      "end": 556.24
+    },
+    {
+      "index": 310,
+      "text": "webinar. It teaches you how to get",
+      "start": 554.64,
+      "duration": 3.759,
+      "end": 558.399
+    },
+    {
+      "index": 311,
+      "text": "AutoCAD certification. It's a simplified",
+      "start": 556.24,
+      "duration": 4.24,
+      "end": 560.48
+    },
+    {
+      "index": 312,
+      "text": "process that I have designed. Go check",
+      "start": 558.399,
+      "duration": 3.681,
+      "end": 562.08
+    },
+    {
+      "index": 313,
+      "text": "that out. A link will pop up right",
+      "start": 560.48,
+      "duration": 3.44,
+      "end": 563.9200000000001
+    },
+    {
+      "index": 314,
+      "text": "above, you know, in the top right-and",
+      "start": 562.08,
+      "duration": 3.199,
+      "end": 565.279
+    },
+    {
+      "index": 315,
+      "text": "corner, I think, and I've got a link",
+      "start": 563.92,
+      "duration": 2.56,
+      "end": 566.4799999999999
+    },
+    {
+      "index": 316,
+      "text": "down in the description that's really",
+      "start": 565.279,
+      "duration": 2.721,
+      "end": 568.0
+    },
+    {
+      "index": 317,
+      "text": "going to help us out. Go check that out.",
+      "start": 566.48,
+      "duration": 4.24,
+      "end": 570.72
+    },
+    {
+      "index": 318,
+      "text": "I hope it helps you guys because it",
+      "start": 568.0,
+      "duration": 4.16,
+      "end": 572.16
+    },
+    {
+      "index": 319,
+      "text": "tells you a lot of information in order",
+      "start": 570.72,
+      "duration": 3.28,
+      "end": 574.0
+    },
+    {
+      "index": 320,
+      "text": "to get make sure that you're successful",
+      "start": 572.16,
+      "duration": 3.44,
+      "end": 575.6
+    },
+    {
+      "index": 321,
+      "text": "when you learn design. So, let's just",
+      "start": 574.0,
+      "duration": 2.959,
+      "end": 576.959
+    },
+    {
+      "index": 322,
+      "text": "dive right back into it and start",
+      "start": 575.6,
+      "duration": 3.52,
+      "end": 579.12
+    },
+    {
+      "index": 323,
+      "text": "talking about our modify tab then. All",
+      "start": 576.959,
+      "duration": 3.681,
+      "end": 580.64
+    },
+    {
+      "index": 324,
+      "text": "right. So, you can see here we now have",
+      "start": 579.12,
+      "duration": 4.24,
+      "end": 583.36
+    },
+    {
+      "index": 325,
+      "text": "a modify tab. So, the modify tab up here",
+      "start": 580.64,
+      "duration": 4.48,
+      "end": 585.12
+    },
+    {
+      "index": 326,
+      "text": "allows us to adjust things. So, I'm",
+      "start": 583.36,
+      "duration": 3.36,
+      "end": 586.72
+    },
+    {
+      "index": 327,
+      "text": "going to go over these very very",
+      "start": 585.12,
+      "duration": 3.6,
+      "end": 588.72
+    },
+    {
+      "index": 328,
+      "text": "quickly. Um, I have tutorials on a lot",
+      "start": 586.72,
+      "duration": 3.36,
+      "end": 590.08
+    },
+    {
+      "index": 329,
+      "text": "of them separately like arrays and",
+      "start": 588.72,
+      "duration": 2.64,
+      "end": 591.36
+    },
+    {
+      "index": 330,
+      "text": "things, but uh we're just going to",
+      "start": 590.08,
+      "duration": 2.4,
+      "end": 592.48
+    },
+    {
+      "index": 331,
+      "text": "quickly go over these. So, you can see",
+      "start": 591.36,
+      "duration": 2.32,
+      "end": 593.6800000000001
+    },
+    {
+      "index": 332,
+      "text": "move command, you click the move",
+      "start": 592.48,
+      "duration": 2.4,
+      "end": 594.88
+    },
+    {
+      "index": 333,
+      "text": "command, you select the object, you",
+      "start": 593.68,
+      "duration": 3.279,
+      "end": 596.959
+    },
+    {
+      "index": 334,
+      "text": "press enter, then you select a point",
+      "start": 594.88,
+      "duration": 3.6,
+      "end": 598.48
+    },
+    {
+      "index": 335,
+      "text": "where you want to move it from. So, if I",
+      "start": 596.959,
+      "duration": 2.721,
+      "end": 599.68
+    },
+    {
+      "index": 336,
+      "text": "want to do the center, I click the",
+      "start": 598.48,
+      "duration": 3.2,
+      "end": 601.6800000000001
+    },
+    {
+      "index": 337,
+      "text": "center and then I will move it from the",
+      "start": 599.68,
+      "duration": 3.92,
+      "end": 603.5999999999999
+    },
+    {
+      "index": 338,
+      "text": "center. Rotate, similar thing. You",
+      "start": 601.68,
+      "duration": 3.839,
+      "end": 605.519
+    },
+    {
+      "index": 339,
+      "text": "select the object, press enter, select a",
+      "start": 603.6,
+      "duration": 3.12,
+      "end": 606.72
+    },
+    {
+      "index": 340,
+      "text": "point where you want to rotate it from.",
+      "start": 605.519,
+      "duration": 2.481,
+      "end": 608.0
+    },
+    {
+      "index": 341,
+      "text": "So if I want to rotate it from this",
+      "start": 606.72,
+      "duration": 2.72,
+      "end": 609.44
+    },
+    {
+      "index": 342,
+      "text": "corner, it's going to rotate from that",
+      "start": 608.0,
+      "duration": 3.92,
+      "end": 611.92
+    },
+    {
+      "index": 343,
+      "text": "corner and I can move it around freely.",
+      "start": 609.44,
+      "duration": 4.0,
+      "end": 613.44
+    },
+    {
+      "index": 344,
+      "text": "Once that's done, we have trim. So I'm",
+      "start": 611.92,
+      "duration": 2.32,
+      "end": 614.24
+    },
+    {
+      "index": 345,
+      "text": "going to give you an example of",
+      "start": 613.44,
+      "duration": 2.519,
+      "end": 615.9590000000001
+    },
+    {
+      "index": 346,
+      "text": "trimming. So I'm just going to draw",
+      "start": 614.24,
+      "duration": 4.0,
+      "end": 618.24
+    },
+    {
+      "index": 347,
+      "text": "this. And then once you see this, it'll",
+      "start": 615.959,
+      "duration": 4.041,
+      "end": 620.0
+    },
+    {
+      "index": 348,
+      "text": "say I want to get rid of this little nub",
+      "start": 618.24,
+      "duration": 4.0,
+      "end": 622.24
+    },
+    {
+      "index": 349,
+      "text": "right here. I can type in trim or click",
+      "start": 620.0,
+      "duration": 4.079,
+      "end": 624.079
+    },
+    {
+      "index": 350,
+      "text": "trim, press enter, and then I can just",
+      "start": 622.24,
+      "duration": 3.44,
+      "end": 625.6800000000001
+    },
+    {
+      "index": 351,
+      "text": "go and erase that. Now the trim command",
+      "start": 624.079,
+      "duration": 3.361,
+      "end": 627.4399999999999
+    },
+    {
+      "index": 352,
+      "text": "has gone over a few revisions. So, in",
+      "start": 625.68,
+      "duration": 3.839,
+      "end": 629.519
+    },
+    {
+      "index": 353,
+      "text": "2025 and 2026, it works a little bit",
+      "start": 627.44,
+      "duration": 3.28,
+      "end": 630.72
+    },
+    {
+      "index": 354,
+      "text": "differently than previous versions of",
+      "start": 629.519,
+      "duration": 3.281,
+      "end": 632.8
+    },
+    {
+      "index": 355,
+      "text": "AutoCAD because it just kind of trims",
+      "start": 630.72,
+      "duration": 3.44,
+      "end": 634.1600000000001
+    },
+    {
+      "index": 356,
+      "text": "things where it needs to be trimmed",
+      "start": 632.8,
+      "duration": 2.56,
+      "end": 635.3599999999999
+    },
+    {
+      "index": 357,
+      "text": "instead of having to select different",
+      "start": 634.16,
+      "duration": 2.64,
+      "end": 636.8
+    },
+    {
+      "index": 358,
+      "text": "things. So, just keep that in mind if",
+      "start": 635.36,
+      "duration": 2.64,
+      "end": 638.0
+    },
+    {
+      "index": 359,
+      "text": "you're using an older version of",
+      "start": 636.8,
+      "duration": 3.52,
+      "end": 640.3199999999999
+    },
+    {
+      "index": 360,
+      "text": "AutoCAD. Copy. Similar thing, click what",
+      "start": 638.0,
+      "duration": 3.839,
+      "end": 641.839
+    },
+    {
+      "index": 361,
+      "text": "you want, press enter, select where you",
+      "start": 640.32,
+      "duration": 2.72,
+      "end": 643.0400000000001
+    },
+    {
+      "index": 362,
+      "text": "want to copy it from. So, if I want to",
+      "start": 641.839,
+      "duration": 2.481,
+      "end": 644.32
+    },
+    {
+      "index": 363,
+      "text": "copy it from the center, I select the",
+      "start": 643.04,
+      "duration": 2.96,
+      "end": 646.0
+    },
+    {
+      "index": 364,
+      "text": "center and then I move it over and I can",
+      "start": 644.32,
+      "duration": 3.44,
+      "end": 647.7600000000001
+    },
+    {
+      "index": 365,
+      "text": "just keep copying it until I'm satisfied",
+      "start": 646.0,
+      "duration": 3.6,
+      "end": 649.6
+    },
+    {
+      "index": 366,
+      "text": "with what I have. Once that's done, I",
+      "start": 647.76,
+      "duration": 3.519,
+      "end": 651.279
+    },
+    {
+      "index": 367,
+      "text": "can then go and mirror. So, I can select",
+      "start": 649.6,
+      "duration": 4.32,
+      "end": 653.9200000000001
+    },
+    {
+      "index": 368,
+      "text": "this. I can click or sorry, I can click",
+      "start": 651.279,
+      "duration": 4.401,
+      "end": 655.68
+    },
+    {
+      "index": 369,
+      "text": "mirror or type in mirror. Select my",
+      "start": 653.92,
+      "duration": 3.599,
+      "end": 657.519
+    },
+    {
+      "index": 370,
+      "text": "object. Press enter. Specify where I",
+      "start": 655.68,
+      "duration": 3.279,
+      "end": 658.959
+    },
+    {
+      "index": 371,
+      "text": "want it to mirror from. I can specify",
+      "start": 657.519,
+      "duration": 2.88,
+      "end": 660.399
+    },
+    {
+      "index": 372,
+      "text": "this corner. It'll mirror from that",
+      "start": 658.959,
+      "duration": 3.601,
+      "end": 662.56
+    },
+    {
+      "index": 373,
+      "text": "corner. I click. Once I click, it's",
+      "start": 660.399,
+      "duration": 3.44,
+      "end": 663.839
+    },
+    {
+      "index": 374,
+      "text": "going to ask me to erase the source",
+      "start": 662.56,
+      "duration": 3.12,
+      "end": 665.68
+    },
+    {
+      "index": 375,
+      "text": "object. If you want to, press yes. If",
+      "start": 663.839,
+      "duration": 3.12,
+      "end": 666.9590000000001
+    },
+    {
+      "index": 376,
+      "text": "you don't want to, press no. Quite",
+      "start": 665.68,
+      "duration": 3.599,
+      "end": 669.279
+    },
+    {
+      "index": 377,
+      "text": "simple. Done. Uh, another tool that we",
+      "start": 666.959,
+      "duration": 3.601,
+      "end": 670.56
+    },
+    {
+      "index": 378,
+      "text": "have is the fill it command. So, I'm",
+      "start": 669.279,
+      "duration": 2.081,
+      "end": 671.36
+    },
+    {
+      "index": 379,
+      "text": "going to show you kind of how that",
+      "start": 670.56,
+      "duration": 3.36,
+      "end": 673.92
+    },
+    {
+      "index": 380,
+      "text": "works. So, let's say I have this this",
+      "start": 671.36,
+      "duration": 4.32,
+      "end": 675.6800000000001
+    },
+    {
+      "index": 381,
+      "text": "line right here. So, it's going up. I",
+      "start": 673.92,
+      "duration": 3.28,
+      "end": 677.1999999999999
+    },
+    {
+      "index": 382,
+      "text": "have this line right here. It's going",
+      "start": 675.68,
+      "duration": 3.12,
+      "end": 678.8
+    },
+    {
+      "index": 383,
+      "text": "like that. Uh, I'm just going to pull",
+      "start": 677.2,
+      "duration": 2.96,
+      "end": 680.1600000000001
+    },
+    {
+      "index": 384,
+      "text": "that back a little bit. and I'm going to",
+      "start": 678.8,
+      "duration": 3.52,
+      "end": 682.3199999999999
+    },
+    {
+      "index": 385,
+      "text": "type in fillet. Once I have that, I",
+      "start": 680.16,
+      "duration": 3.76,
+      "end": 683.92
+    },
+    {
+      "index": 386,
+      "text": "select my first object, select my second",
+      "start": 682.32,
+      "duration": 2.8,
+      "end": 685.12
+    },
+    {
+      "index": 387,
+      "text": "object, and you can see it's going to",
+      "start": 683.92,
+      "duration": 3.28,
+      "end": 687.1999999999999
+    },
+    {
+      "index": 388,
+      "text": "finish what I started, and it'll be like",
+      "start": 685.12,
+      "duration": 3.36,
+      "end": 688.48
+    },
+    {
+      "index": 389,
+      "text": "that. Now, fillet's a little more",
+      "start": 687.2,
+      "duration": 3.44,
+      "end": 690.6400000000001
+    },
+    {
+      "index": 390,
+      "text": "difficult to master because it has a few",
+      "start": 688.48,
+      "duration": 3.919,
+      "end": 692.399
+    },
+    {
+      "index": 391,
+      "text": "different ways that it can work. So, you",
+      "start": 690.64,
+      "duration": 4.0,
+      "end": 694.64
+    },
+    {
+      "index": 392,
+      "text": "can have like a rounded edge or a square",
+      "start": 692.399,
+      "duration": 3.841,
+      "end": 696.24
+    },
+    {
+      "index": 393,
+      "text": "edge in this case, but in this case,",
+      "start": 694.64,
+      "duration": 2.96,
+      "end": 697.6
+    },
+    {
+      "index": 394,
+      "text": "that's just kind of how it starts to",
+      "start": 696.24,
+      "duration": 2.96,
+      "end": 699.2
+    },
+    {
+      "index": 395,
+      "text": "work, and that'll probably be sufficient",
+      "start": 697.6,
+      "duration": 3.28,
+      "end": 700.88
+    },
+    {
+      "index": 396,
+      "text": "for most of you. Once that's done, we",
+      "start": 699.2,
+      "duration": 3.199,
+      "end": 702.399
+    },
+    {
+      "index": 397,
+      "text": "can also stretch things. Um, again,",
+      "start": 700.88,
+      "duration": 3.68,
+      "end": 704.56
+    },
+    {
+      "index": 398,
+      "text": "that's it just stretches objects, but",
+      "start": 702.399,
+      "duration": 3.601,
+      "end": 706.0
+    },
+    {
+      "index": 399,
+      "text": "another way to do this is if you have a",
+      "start": 704.56,
+      "duration": 2.88,
+      "end": 707.4399999999999
+    },
+    {
+      "index": 400,
+      "text": "rectangle, you could just grab the edge",
+      "start": 706.0,
+      "duration": 3.36,
+      "end": 709.36
+    },
+    {
+      "index": 401,
+      "text": "here and just stretch it. Um, we can",
+      "start": 707.44,
+      "duration": 3.519,
+      "end": 710.9590000000001
+    },
+    {
+      "index": 402,
+      "text": "scale things. So, if I want to scale",
+      "start": 709.36,
+      "duration": 3.36,
+      "end": 712.72
+    },
+    {
+      "index": 403,
+      "text": "something, I click it, press enter, and",
+      "start": 710.959,
+      "duration": 2.961,
+      "end": 713.92
+    },
+    {
+      "index": 404,
+      "text": "then I can grab the corner I want to",
+      "start": 712.72,
+      "duration": 3.04,
+      "end": 715.76
+    },
+    {
+      "index": 405,
+      "text": "scale it from from. I always recommend",
+      "start": 713.92,
+      "duration": 3.84,
+      "end": 717.76
+    },
+    {
+      "index": 406,
+      "text": "you do the bottom left. Um, well, not",
+      "start": 715.76,
+      "duration": 3.84,
+      "end": 719.6
+    },
+    {
+      "index": 407,
+      "text": "always, but in most cases, click it. And",
+      "start": 717.76,
+      "duration": 3.36,
+      "end": 721.12
+    },
+    {
+      "index": 408,
+      "text": "you can see I can scale it to what I",
+      "start": 719.6,
+      "duration": 2.88,
+      "end": 722.48
+    },
+    {
+      "index": 409,
+      "text": "want it to be. And you're going to see",
+      "start": 721.12,
+      "duration": 4.88,
+      "end": 726.0
+    },
+    {
+      "index": 410,
+      "text": "that at one, let me see, at 1 inch, it's",
+      "start": 722.48,
+      "duration": 5.68,
+      "end": 728.16
+    },
+    {
+      "index": 411,
+      "text": "the same size that it was before. So, if",
+      "start": 726.0,
+      "duration": 3.839,
+      "end": 729.839
+    },
+    {
+      "index": 412,
+      "text": "I type in two inches, it'll be twice as",
+      "start": 728.16,
+      "duration": 3.56,
+      "end": 731.7199999999999
+    },
+    {
+      "index": 413,
+      "text": "much, or it should be, I think it scales",
+      "start": 729.839,
+      "duration": 3.841,
+      "end": 733.6800000000001
+    },
+    {
+      "index": 414,
+      "text": "algorithmically. Um, I'm not sure, but",
+      "start": 731.72,
+      "duration": 3.16,
+      "end": 734.88
+    },
+    {
+      "index": 415,
+      "text": "if I type in like two feet, it's going",
+      "start": 733.68,
+      "duration": 2.719,
+      "end": 736.399
+    },
+    {
+      "index": 416,
+      "text": "to be absolutely massive. So, that's",
+      "start": 734.88,
+      "duration": 3.68,
+      "end": 738.56
+    },
+    {
+      "index": 417,
+      "text": "kind of how that works. So, keep that in",
+      "start": 736.399,
+      "duration": 3.201,
+      "end": 739.6
+    },
+    {
+      "index": 418,
+      "text": "mind when you're scaling. You can also",
+      "start": 738.56,
+      "duration": 2.88,
+      "end": 741.4399999999999
+    },
+    {
+      "index": 419,
+      "text": "just pull it and push it. Uh, whatever",
+      "start": 739.6,
+      "duration": 3.52,
+      "end": 743.12
+    },
+    {
+      "index": 420,
+      "text": "works for you. Uh, and that's kind of",
+      "start": 741.44,
+      "duration": 3.519,
+      "end": 744.9590000000001
+    },
+    {
+      "index": 421,
+      "text": "the basic commands in the modify tab.",
+      "start": 743.12,
+      "duration": 3.12,
+      "end": 746.24
+    },
+    {
+      "index": 422,
+      "text": "Again, we have tutorials that go over",
+      "start": 744.959,
+      "duration": 2.56,
+      "end": 747.5189999999999
+    },
+    {
+      "index": 423,
+      "text": "this a little more in depth. If you want",
+      "start": 746.24,
+      "duration": 3.039,
+      "end": 749.279
+    },
+    {
+      "index": 424,
+      "text": "a more in-depth tutorial, we do have a",
+      "start": 747.519,
+      "duration": 3.601,
+      "end": 751.12
+    },
+    {
+      "index": 425,
+      "text": "threehour course available to you. Go",
+      "start": 749.279,
+      "duration": 3.761,
+      "end": 753.04
+    },
+    {
+      "index": 426,
+      "text": "click on the link. Uh, that'll help you.",
+      "start": 751.12,
+      "duration": 3.519,
+      "end": 754.639
+    },
+    {
+      "index": 427,
+      "text": "So, go check that out and hopefully that",
+      "start": 753.04,
+      "duration": 3.039,
+      "end": 756.079
+    },
+    {
+      "index": 428,
+      "text": "helps. Uh, once that's done, we have",
+      "start": 754.639,
+      "duration": 3.361,
+      "end": 758.0
+    },
+    {
+      "index": 429,
+      "text": "annotation. So, this is text. So, you",
+      "start": 756.079,
+      "duration": 3.2,
+      "end": 759.279
+    },
+    {
+      "index": 430,
+      "text": "just click your text box, put in where",
+      "start": 758.0,
+      "duration": 3.76,
+      "end": 761.76
+    },
+    {
+      "index": 431,
+      "text": "you want the text, type in hello. You",
+      "start": 759.279,
+      "duration": 4.081,
+      "end": 763.36
+    },
+    {
+      "index": 432,
+      "text": "know, once you're done typing, you don't",
+      "start": 761.76,
+      "duration": 3.36,
+      "end": 765.12
+    },
+    {
+      "index": 433,
+      "text": "press enter, press escape. It'll say, do",
+      "start": 763.36,
+      "duration": 2.8,
+      "end": 766.16
+    },
+    {
+      "index": 434,
+      "text": "you want to save your text changes?",
+      "start": 765.12,
+      "duration": 2.48,
+      "end": 767.6
+    },
+    {
+      "index": 435,
+      "text": "Yeah, absolutely. You can see I'm going",
+      "start": 766.16,
+      "duration": 2.799,
+      "end": 768.959
+    },
+    {
+      "index": 436,
+      "text": "to have it here. So, one thing that",
+      "start": 767.6,
+      "duration": 2.64,
+      "end": 770.24
+    },
+    {
+      "index": 437,
+      "text": "you're going to see is that my text is",
+      "start": 768.959,
+      "duration": 2.481,
+      "end": 771.4399999999999
+    },
+    {
+      "index": 438,
+      "text": "really small compared to the rest of my",
+      "start": 770.24,
+      "duration": 2.48,
+      "end": 772.72
+    },
+    {
+      "index": 439,
+      "text": "drawing. Again, this is something that",
+      "start": 771.44,
+      "duration": 2.639,
+      "end": 774.0790000000001
+    },
+    {
+      "index": 440,
+      "text": "you have to go over with annotations.",
+      "start": 772.72,
+      "duration": 3.04,
+      "end": 775.76
+    },
+    {
+      "index": 441,
+      "text": "You can go check out videos on that as",
+      "start": 774.079,
+      "duration": 3.601,
+      "end": 777.68
+    },
+    {
+      "index": 442,
+      "text": "well. We have dimensions. So, dimension,",
+      "start": 775.76,
+      "duration": 2.96,
+      "end": 778.72
+    },
+    {
+      "index": 443,
+      "text": "you just click where you want your",
+      "start": 777.68,
+      "duration": 2.8,
+      "end": 780.4799999999999
+    },
+    {
+      "index": 444,
+      "text": "dimensions. So, go there, go up, and",
+      "start": 778.72,
+      "duration": 2.72,
+      "end": 781.44
+    },
+    {
+      "index": 445,
+      "text": "then we have a dimension. You're going",
+      "start": 780.48,
+      "duration": 2.72,
+      "end": 783.2
+    },
+    {
+      "index": 446,
+      "text": "to see that is also very small, and that",
+      "start": 781.44,
+      "duration": 3.12,
+      "end": 784.5600000000001
+    },
+    {
+      "index": 447,
+      "text": "is something that is covered in other",
+      "start": 783.2,
+      "duration": 3.28,
+      "end": 786.48
+    },
+    {
+      "index": 448,
+      "text": "tutorials as well. Uh, I'm running out",
+      "start": 784.56,
+      "duration": 4.48,
+      "end": 789.04
+    },
+    {
+      "index": 449,
+      "text": "of time. Uh, and then if we come here to",
+      "start": 786.48,
+      "duration": 4.08,
+      "end": 790.5600000000001
+    },
+    {
+      "index": 450,
+      "text": "annotation, you can see we can set all",
+      "start": 789.04,
+      "duration": 3.2,
+      "end": 792.24
+    },
+    {
+      "index": 451,
+      "text": "that in here.",
+      "start": 790.56,
+      "duration": 3.36,
+      "end": 793.92
+    },
+    {
+      "index": 452,
+      "text": "If we go to our layer properties, this",
+      "start": 792.24,
+      "duration": 2.8,
+      "end": 795.04
+    },
+    {
+      "index": 453,
+      "text": "is probably one of the most important",
+      "start": 793.92,
+      "duration": 2.88,
+      "end": 796.8
+    },
+    {
+      "index": 454,
+      "text": "things you're going to have to use, and",
+      "start": 795.04,
+      "duration": 3.76,
+      "end": 798.8
+    },
+    {
+      "index": 455,
+      "text": "that is your layers. So, layers really",
+      "start": 796.8,
+      "duration": 3.76,
+      "end": 800.56
+    },
+    {
+      "index": 456,
+      "text": "are important for drafting and for",
+      "start": 798.8,
+      "duration": 3.279,
+      "end": 802.079
+    },
+    {
+      "index": 457,
+      "text": "drawing, whether you're in architecture",
+      "start": 800.56,
+      "duration": 3.68,
+      "end": 804.2399999999999
+    },
+    {
+      "index": 458,
+      "text": "or you're in electrical or anything,",
+      "start": 802.079,
+      "duration": 3.281,
+      "end": 805.3599999999999
+    },
+    {
+      "index": 459,
+      "text": "you're going to want to set your layers.",
+      "start": 804.24,
+      "duration": 2.719,
+      "end": 806.9590000000001
+    },
+    {
+      "index": 460,
+      "text": "So, you're going to see here we have",
+      "start": 805.36,
+      "duration": 2.88,
+      "end": 808.24
+    },
+    {
+      "index": 461,
+      "text": "different tabs here. So, we have a new",
+      "start": 806.959,
+      "duration": 2.56,
+      "end": 809.5189999999999
+    },
+    {
+      "index": 462,
+      "text": "layer, we have freeze layer, we have",
+      "start": 808.24,
+      "duration": 3.44,
+      "end": 811.6800000000001
+    },
+    {
+      "index": 463,
+      "text": "remove layer, and we have set layer. So,",
+      "start": 809.519,
+      "duration": 3.76,
+      "end": 813.279
+    },
+    {
+      "index": 464,
+      "text": "create a new layer, and then you type",
+      "start": 811.68,
+      "duration": 3.839,
+      "end": 815.519
+    },
+    {
+      "index": 465,
+      "text": "in, let's say, walls. And then once",
+      "start": 813.279,
+      "duration": 3.921,
+      "end": 817.2
+    },
+    {
+      "index": 466,
+      "text": "that's done, I can select my color. I",
+      "start": 815.519,
+      "duration": 3.361,
+      "end": 818.88
+    },
+    {
+      "index": 467,
+      "text": "want my walls to be green, let's say.",
+      "start": 817.2,
+      "duration": 3.28,
+      "end": 820.48
+    },
+    {
+      "index": 468,
+      "text": "Uh, I can select my line type. We're",
+      "start": 818.88,
+      "duration": 2.72,
+      "end": 821.6
+    },
+    {
+      "index": 469,
+      "text": "going to keep it continuous. Line",
+      "start": 820.48,
+      "duration": 2.4,
+      "end": 822.88
+    },
+    {
+      "index": 470,
+      "text": "weight. You can select the line weight",
+      "start": 821.6,
+      "duration": 2.88,
+      "end": 824.48
+    },
+    {
+      "index": 471,
+      "text": "for what you need. Transparency. We're",
+      "start": 822.88,
+      "duration": 3.28,
+      "end": 826.16
+    },
+    {
+      "index": 472,
+      "text": "just going to leave it as zero. Uh, and",
+      "start": 824.48,
+      "duration": 3.2,
+      "end": 827.6800000000001
+    },
+    {
+      "index": 473,
+      "text": "then that's done. If you double click",
+      "start": 826.16,
+      "duration": 2.88,
+      "end": 829.04
+    },
+    {
+      "index": 474,
+      "text": "it, it's going to set it as your current",
+      "start": 827.68,
+      "duration": 2.8,
+      "end": 830.4799999999999
+    },
+    {
+      "index": 475,
+      "text": "layer. Or if you select it and then",
+      "start": 829.04,
+      "duration": 2.799,
+      "end": 831.8389999999999
+    },
+    {
+      "index": 476,
+      "text": "press the check, it's going to set it as",
+      "start": 830.48,
+      "duration": 3.84,
+      "end": 834.32
+    },
+    {
+      "index": 477,
+      "text": "your current layer. Either one works. If",
+      "start": 831.839,
+      "duration": 4.161,
+      "end": 836.0
+    },
+    {
+      "index": 478,
+      "text": "you freeze a layer, it's going to make",
+      "start": 834.32,
+      "duration": 3.56,
+      "end": 837.88
+    },
+    {
+      "index": 479,
+      "text": "it disappear",
+      "start": 836.0,
+      "duration": 4.48,
+      "end": 840.48
+    },
+    {
+      "index": 480,
+      "text": "from your drawing. So, I'm going to show",
+      "start": 837.88,
+      "duration": 4.04,
+      "end": 841.92
+    },
+    {
+      "index": 481,
+      "text": "you an example right now. So, I'm going",
+      "start": 840.48,
+      "duration": 2.96,
+      "end": 843.44
+    },
+    {
+      "index": 482,
+      "text": "to go to my walls layer. I'm going to",
+      "start": 841.92,
+      "duration": 4.4,
+      "end": 846.3199999999999
+    },
+    {
+      "index": 483,
+      "text": "draw some green lines here. Okay. So,",
+      "start": 843.44,
+      "duration": 4.24,
+      "end": 847.6800000000001
+    },
+    {
+      "index": 484,
+      "text": "once I've drawn that and I'm ready to",
+      "start": 846.32,
+      "duration": 2.639,
+      "end": 848.9590000000001
+    },
+    {
+      "index": 485,
+      "text": "freeze it, I'm going to go to my layer",
+      "start": 847.68,
+      "duration": 2.719,
+      "end": 850.399
+    },
+    {
+      "index": 486,
+      "text": "properties. I'm going to select my",
+      "start": 848.959,
+      "duration": 3.281,
+      "end": 852.2399999999999
+    },
+    {
+      "index": 487,
+      "text": "walls. Um, I'm going to unfreeze my",
+      "start": 850.399,
+      "duration": 3.521,
+      "end": 853.92
+    },
+    {
+      "index": 488,
+      "text": "doors for a minute. I'm going to select",
+      "start": 852.24,
+      "duration": 3.92,
+      "end": 856.16
+    },
+    {
+      "index": 489,
+      "text": "my doors, freeze my walls, get out of",
+      "start": 853.92,
+      "duration": 3.2,
+      "end": 857.12
+    },
+    {
+      "index": 490,
+      "text": "this, and you're going to see that it's",
+      "start": 856.16,
+      "duration": 2.88,
+      "end": 859.04
+    },
+    {
+      "index": 491,
+      "text": "gone. Freezing just makes it disappear",
+      "start": 857.12,
+      "duration": 3.36,
+      "end": 860.48
+    },
+    {
+      "index": 492,
+      "text": "uh for the time being. And that's useful",
+      "start": 859.04,
+      "duration": 3.12,
+      "end": 862.16
+    },
+    {
+      "index": 493,
+      "text": "in a lot of cases. So, that's how you",
+      "start": 860.48,
+      "duration": 2.96,
+      "end": 863.44
+    },
+    {
+      "index": 494,
+      "text": "freeze. That's how you set colors.",
+      "start": 862.16,
+      "duration": 2.96,
+      "end": 865.12
+    },
+    {
+      "index": 495,
+      "text": "That's how you create layers. And again,",
+      "start": 863.44,
+      "duration": 3.199,
+      "end": 866.639
+    },
+    {
+      "index": 496,
+      "text": "when you're drawing, you want to select",
+      "start": 865.12,
+      "duration": 3.04,
+      "end": 868.16
+    },
+    {
+      "index": 497,
+      "text": "layers and make layers that are going to",
+      "start": 866.639,
+      "duration": 3.121,
+      "end": 869.76
+    },
+    {
+      "index": 498,
+      "text": "work for you. So, you want door layers,",
+      "start": 868.16,
+      "duration": 3.28,
+      "end": 871.4399999999999
+    },
+    {
+      "index": 499,
+      "text": "wall layers, um, you're going to want",
+      "start": 869.76,
+      "duration": 2.72,
+      "end": 872.48
+    },
+    {
+      "index": 500,
+      "text": "window layers. You're going to want",
+      "start": 871.44,
+      "duration": 2.48,
+      "end": 873.9200000000001
+    },
+    {
+      "index": 501,
+      "text": "different types of layers for your",
+      "start": 872.48,
+      "duration": 2.719,
+      "end": 875.1990000000001
+    },
+    {
+      "index": 502,
+      "text": "drawing so that it's easier for you to",
+      "start": 873.92,
+      "duration": 2.24,
+      "end": 876.16
+    },
+    {
+      "index": 503,
+      "text": "understand. And if you need to get rid",
+      "start": 875.199,
+      "duration": 2.161,
+      "end": 877.3599999999999
+    },
+    {
+      "index": 504,
+      "text": "of something to draw something else, you",
+      "start": 876.16,
+      "duration": 2.72,
+      "end": 878.88
+    },
+    {
+      "index": 505,
+      "text": "can just freeze it and get rid of So",
+      "start": 877.36,
+      "duration": 3.279,
+      "end": 880.639
+    },
+    {
+      "index": 506,
+      "text": "that's your layers. Uh, and then we have",
+      "start": 878.88,
+      "duration": 3.44,
+      "end": 882.32
+    },
+    {
+      "index": 507,
+      "text": "our blocks here. So we have tutorials on",
+      "start": 880.639,
+      "duration": 3.841,
+      "end": 884.48
+    },
+    {
+      "index": 508,
+      "text": "blocks, but this is just a basic drawing",
+      "start": 882.32,
+      "duration": 3.92,
+      "end": 886.24
+    },
+    {
+      "index": 509,
+      "text": "tutorial. So that's how you draw in",
+      "start": 884.48,
+      "duration": 4.4,
+      "end": 888.88
+    },
+    {
+      "index": 510,
+      "text": "AutoCAD 2026. Again, this also works for",
+      "start": 886.24,
+      "duration": 4.0,
+      "end": 890.24
+    },
+    {
+      "index": 511,
+      "text": "other previous versions of AutoCAD.",
+      "start": 888.88,
+      "duration": 2.959,
+      "end": 891.8389999999999
+    },
+    {
+      "index": 512,
+      "text": "Hopefully it was helpful and you got",
+      "start": 890.24,
+      "duration": 3.36,
+      "end": 893.6
+    },
+    {
+      "index": 513,
+      "text": "kind of a gist of how things work. If",
+      "start": 891.839,
+      "duration": 3.68,
+      "end": 895.519
+    },
+    {
+      "index": 514,
+      "text": "you need more advanced help, go check",
+      "start": 893.6,
+      "duration": 4.16,
+      "end": 897.76
+    },
+    {
+      "index": 515,
+      "text": "out our other videos. And if you really",
+      "start": 895.519,
+      "duration": 4.56,
+      "end": 900.079
+    },
+    {
+      "index": 516,
+      "text": "want to learn AutoCAD, go check out our",
+      "start": 897.76,
+      "duration": 3.759,
+      "end": 901.519
+    },
+    {
+      "index": 517,
+      "text": "new presentation that we've got going",
+      "start": 900.079,
+      "duration": 3.2,
+      "end": 903.279
+    },
+    {
+      "index": 518,
+      "text": "on. Guys, take care. We look forward to",
+      "start": 901.519,
+      "duration": 3.361,
+      "end": 904.88
+    },
+    {
+      "index": 519,
+      "text": "helping you next week in our 3D",
+      "start": 903.279,
+      "duration": 5.12,
+      "end": 908.399
+    },
+    {
+      "index": 520,
+      "text": "tutorial. So, we'll see you then.",
+      "start": 904.88,
+      "duration": 3.519,
+      "end": 908.399
+    }
+  ],
+  "full_text": "Hey everyone, welcome back to the channel. We're going to be talking about AutoCAD 2026. We'll be going over the basics of the program. If you're using an earlier version of AutoCAD, this still works for you. Don't worry about it. So, let's just dive right into it and get started. So, we're just going to go over what is AutoCAD, how it works, and how you can start drawing in 15 minutes. So, without further ado, let's get started. So, you can see here we have the recent folder. So, in the recent folder, this is where your recent drawings are. Um, I'm sorting them by last opened. And again, I only have one available because I just started using AutoCAD 2026. We have learning. So, in the learning column, we have things that we can learn more about AutoCAD. So, how it works, you know, how to do certain things, and it's more like advanced tutorials. Then we go over here, we have Autodesk projects. Don't worry about that. My insights, I also don't use that either. Uh, don't worry about that. And then down here, we have our help and everything like that. So, the the web app, the mobile app, customer support, the community form, online help, what's new in AutoCAD 2026. We don't need to worry about that. Most of you are more concerned with starting a drawing. So, if you come up here, you're going to see we have open and new. We don't need to worry about open right now. Um, we're just going to go to new. So, if I click the down arrow, I can browse templates, get more templates online, or create a sheet set. So, again, these are things that you're going to learn later on, but to keep this under 15 minutes, we're going to go real quick. We're just going to click new. So, click new, and you are going to be brought to a new sheet set. So, the first thing you're going to want to do when you get into AutoCAD of any version is you're going to want to set your units. So to do that, we need to type in the units command. But before we do that, I'm going to show you guys a command that's going to help you do things way faster than if you didn't know this. I don't understand why it's not taught. Mostly in most schools, you won't learn this. So just come down here to the type a command in the command bar. So just click that. And then you're going to follow along with me and type in dyn mode. Once that is done, press enter. And you're going to see that it's going to see say enter new value for I call it d mode, dine mode, whatever you want to what, however you want to pronounce it really. um you're going to want to set that to three. So, I currently have mine set to three. What this does is it allows you to just start typing without having to click on the command bar or click, you know, tools in order to use them. It just increases your speed exponentially. So, keep that on three, press enter, and then we can continue on here. Once you have that set, we're going to want to type in units. So, we type in units into AutoCAD, press enter, and you're going to see we're going to have our drawing unit. So, this is where we set up our drawing. Now, this depends on what drawing you're doing, who you're doing a drawing for, whether you live in the States or you live in Europe, uh, or anywhere else, it really depends who you're working for and what type of units you're going to use. Most of the time we do architectural units and we do, uh, feet or inches. Most of the time it's inches. Once you have this set to what you want it to be, click okay. And now your units will be set for this drawing. So, we're just going to quickly come up here and we're going to go to our home ribbon right here. So up at the top, you can see we have a bar across that has lines, poly lines, circles, arcs, all these tools. And it looks kind of confusing, but just relax. We'll get through this together. So you can see here we're going to start with drawing lines. So you can see here we have a line. If we click the line tool, we can also type in line. So you don't have to click it. If you type in line, this is because we have the command we set earlier. You can press enter and you'll be able to start drawing a line. So you can see we can specify a first point. Um, this isn't really too necessary for the kind of work I do, but for some of you it might be helpful. So, what this does is it specifies where the first point of the line is going to start. However, I'm just going to go click somewhere and draw it across. And you can see I have my line here. Let's say I want to have it 15 ft across. So, I type 15. I put the feet symbol. And then once that's done, I can specify an angle. So, do not press enter yet. Press tab. And then you'll be brought to your degrees. So, you can set this to 90. You can set it to 180. Just make sure you have this set exactly because this is how you draw exactly. You want things to be exact and this is how you be exact. I want it to be zero, so I'm just going to leave it at zero. Press enter and I'm going to have my line drawn right there. So, there is our line. So, one thing that we should touch on before we move on is we're going to talk about our snap settings. So, I encourage you to have the same snap settings as me because if you set them to the same ones I have, it'll be easier to follow along. So, just come down here with your cursor and you'll see this little bar right here. press the down arrow and you're going to see we have our snaps here. So, what these snaps do is it allows us to, you know, have our lines and our drawing things snap together. And we'll show you a little bit of examples of how that works later on. But just pause the video, take note of what I have, set yours to what I have here. Uh, and the reason I have these set is because they're not too annoying. They go exactly where I need them to go. And again, it'll be easy for you to follow along. Now, not everyone is going to use the same ones I use. Some of them will be shut off for different people. Some of them will be turned on that I don't have turned on, but these are the ones that I find work best for me. So once that's done, we can we can get out of there. And then what we want to do is we want to move on to our polyline. So just come up here to poly lines. A polyline is a line that is connected to other lines. So what do I mean by that? So you can see here I have a line. So this is a line. But if I have a polyline, I click and let's say I go up and then I do this and I do that and I close that off. And that's another thing. Once you're done drawing, press escape and it will cancel the command. So that's something that's very important to know. So you can see here if I just draw lines because I can draw lines like I draw poly lines. Um but there's a big m there's a big difference between them. So you can see here when I'm hovering over and selecting I have to go and select each and every line individually that is a line. So you can see that they're not connected to each other. I can join them by typing the join command. I believe you press join and then yeah now you have a polyline. But if you don't or if you use poly lines, I can just click one of the many types of lines that are connected to each other and it will select all of them. So that's a very important tool to have. Once we're done with poly lines, we go to circles. The circle command quite simple. You just go, you draw a circle. Uh it's going to start with the radius. So I'm just going to do let's say 2 feet and it'll be the radius is 2 feet. You can also specify the diameter if you have to. So if I go and click the circle, I can go down here. You're going to see it says specify radius of circle or and then it'll have an arrow down. Press the down arrow on your keyboard and you're going to see we can have um it's going to have either a radius that I have set previously or diameter. I can select diameter. I press enter uh and it will then allow me to set a diameter instead of a radius. Not for some people it's really helpful, for other people it doesn't really matter. Once that's done, we have arcs. We have a variety of arcs here. I'm not going to touch on all of them. You can pause the video, see what type of arcs there are, or you can go onto your own AutoCAD, find the arcs that you would like to work with. And you can see we have most of the time you're going to use three point. So the three-point is you specify the start point, uh you specify the second point, and then you can specify the third point. And you can see here I just created an arc. Simple to follow, easy to use, not too difficult to understand. You can also edit them. Um but for the most part, most of you don't really need to know that right now, but if you do, we'll be making a tutorial on that. Then if you come here, you're going to have a rectangle tool. What this does is it lets you make a rectangle. So again, we can make it 10 ft. So type in 10 ft. Press tab. And in this case, because we don't have an angle. It's not a line. We can just specify the other, you know, dimension for our rectangle. So I'm just going to do 10 x 10. So it's going to be square. And that's done. So again, when you're doing that, you grab your rectangle, you type in the distance you want, and you're going to see it's highlighted where I have it. Once that's done, I it's going to go to where I need it to go. And then it'll highlight once I press tab the next dimension. So then I can just type in 10 here. Press 10 ft. Enter. And then it is done. So when you're done using commands again, press escape. If it's not disappearing, that's something that a lot of people struggle with is it's like, how do I get this to disappear? You don't want to click because you're just drawing more lines. Press escape. We're just going to go over some of the ways that you can move around in AutoCAD and how your mouse is really important. So if you want to pan, you can hold the middle mouse button. I believe it's called panning. And you're going to see the hand is shown as my cursor and I can just scroll around and move around. This is probably the most important command. Very useful, very helpful to know. Right clicking allows you to bring up options menus. So you have options, you know, panning, zooming, things like that. If you want to zoom, you simply use your mouse button to zoom in and out. And then clicking just allows you to select things. So you can see here if I if I click and pull to the left, it's going to be green. If I click and pull to the right, it's going to be blue. So, if you click and pull to the left, what that does is it allows you to select everything in that selection. So, if I go here to our example that we do later, you're going to see pulling to the left, I can select all of these objects here and have them selected. If I pull and I well, and I just need to touch them. Like, I don't need to fully, you know, engulf it and everything. So, but if I right click and pull down, it's only going to select the objects that are fully within my grasp. So, you can see here only this rectangle is showing up as I go past it. But if I go all the way, you're going to see it's going to select all of this object, but it won't select the one that I have in the bottom right hand corner here. So that's important to know when we move forward through this tutorial. So I thought that was really important to add. So hopefully that helps you guys. Let's continue on with the tutorial. If you like this video and you like our channel, please consider liking and subscribing. And if you really want to become a member, it helps support this content. Helps us keep pushing out free content so you guys can learn more about AutoCAD. And it just kind of helps us keep the boat afloat. Thank you so much for those of you who do support us. It really means a lot to us. If you're not interested in that, but you want to learn more about AutoCAD and how we can help you, please go check out our latest webinar. It teaches you how to get AutoCAD certification. It's a simplified process that I have designed. Go check that out. A link will pop up right above, you know, in the top right-and corner, I think, and I've got a link down in the description that's really going to help us out. Go check that out. I hope it helps you guys because it tells you a lot of information in order to get make sure that you're successful when you learn design. So, let's just dive right back into it and start talking about our modify tab then. All right. So, you can see here we now have a modify tab. So, the modify tab up here allows us to adjust things. So, I'm going to go over these very very quickly. Um, I have tutorials on a lot of them separately like arrays and things, but uh we're just going to quickly go over these. So, you can see move command, you click the move command, you select the object, you press enter, then you select a point where you want to move it from. So, if I want to do the center, I click the center and then I will move it from the center. Rotate, similar thing. You select the object, press enter, select a point where you want to rotate it from. So if I want to rotate it from this corner, it's going to rotate from that corner and I can move it around freely. Once that's done, we have trim. So I'm going to give you an example of trimming. So I'm just going to draw this. And then once you see this, it'll say I want to get rid of this little nub right here. I can type in trim or click trim, press enter, and then I can just go and erase that. Now the trim command has gone over a few revisions. So, in 2025 and 2026, it works a little bit differently than previous versions of AutoCAD because it just kind of trims things where it needs to be trimmed instead of having to select different things. So, just keep that in mind if you're using an older version of AutoCAD. Copy. Similar thing, click what you want, press enter, select where you want to copy it from. So, if I want to copy it from the center, I select the center and then I move it over and I can just keep copying it until I'm satisfied with what I have. Once that's done, I can then go and mirror. So, I can select this. I can click or sorry, I can click mirror or type in mirror. Select my object. Press enter. Specify where I want it to mirror from. I can specify this corner. It'll mirror from that corner. I click. Once I click, it's going to ask me to erase the source object. If you want to, press yes. If you don't want to, press no. Quite simple. Done. Uh, another tool that we have is the fill it command. So, I'm going to show you kind of how that works. So, let's say I have this this line right here. So, it's going up. I have this line right here. It's going like that. Uh, I'm just going to pull that back a little bit. and I'm going to type in fillet. Once I have that, I select my first object, select my second object, and you can see it's going to finish what I started, and it'll be like that. Now, fillet's a little more difficult to master because it has a few different ways that it can work. So, you can have like a rounded edge or a square edge in this case, but in this case, that's just kind of how it starts to work, and that'll probably be sufficient for most of you. Once that's done, we can also stretch things. Um, again, that's it just stretches objects, but another way to do this is if you have a rectangle, you could just grab the edge here and just stretch it. Um, we can scale things. So, if I want to scale something, I click it, press enter, and then I can grab the corner I want to scale it from from. I always recommend you do the bottom left. Um, well, not always, but in most cases, click it. And you can see I can scale it to what I want it to be. And you're going to see that at one, let me see, at 1 inch, it's the same size that it was before. So, if I type in two inches, it'll be twice as much, or it should be, I think it scales algorithmically. Um, I'm not sure, but if I type in like two feet, it's going to be absolutely massive. So, that's kind of how that works. So, keep that in mind when you're scaling. You can also just pull it and push it. Uh, whatever works for you. Uh, and that's kind of the basic commands in the modify tab. Again, we have tutorials that go over this a little more in depth. If you want a more in-depth tutorial, we do have a threehour course available to you. Go click on the link. Uh, that'll help you. So, go check that out and hopefully that helps. Uh, once that's done, we have annotation. So, this is text. So, you just click your text box, put in where you want the text, type in hello. You know, once you're done typing, you don't press enter, press escape. It'll say, do you want to save your text changes? Yeah, absolutely. You can see I'm going to have it here. So, one thing that you're going to see is that my text is really small compared to the rest of my drawing. Again, this is something that you have to go over with annotations. You can go check out videos on that as well. We have dimensions. So, dimension, you just click where you want your dimensions. So, go there, go up, and then we have a dimension. You're going to see that is also very small, and that is something that is covered in other tutorials as well. Uh, I'm running out of time. Uh, and then if we come here to annotation, you can see we can set all that in here. If we go to our layer properties, this is probably one of the most important things you're going to have to use, and that is your layers. So, layers really are important for drafting and for drawing, whether you're in architecture or you're in electrical or anything, you're going to want to set your layers. So, you're going to see here we have different tabs here. So, we have a new layer, we have freeze layer, we have remove layer, and we have set layer. So, create a new layer, and then you type in, let's say, walls. And then once that's done, I can select my color. I want my walls to be green, let's say. Uh, I can select my line type. We're going to keep it continuous. Line weight. You can select the line weight for what you need. Transparency. We're just going to leave it as zero. Uh, and then that's done. If you double click it, it's going to set it as your current layer. Or if you select it and then press the check, it's going to set it as your current layer. Either one works. If you freeze a layer, it's going to make it disappear from your drawing. So, I'm going to show you an example right now. So, I'm going to go to my walls layer. I'm going to draw some green lines here. Okay. So, once I've drawn that and I'm ready to freeze it, I'm going to go to my layer properties. I'm going to select my walls. Um, I'm going to unfreeze my doors for a minute. I'm going to select my doors, freeze my walls, get out of this, and you're going to see that it's gone. Freezing just makes it disappear uh for the time being. And that's useful in a lot of cases. So, that's how you freeze. That's how you set colors. That's how you create layers. And again, when you're drawing, you want to select layers and make layers that are going to work for you. So, you want door layers, wall layers, um, you're going to want window layers. You're going to want different types of layers for your drawing so that it's easier for you to understand. And if you need to get rid of something to draw something else, you can just freeze it and get rid of So that's your layers. Uh, and then we have our blocks here. So we have tutorials on blocks, but this is just a basic drawing tutorial. So that's how you draw in AutoCAD 2026. Again, this also works for other previous versions of AutoCAD. Hopefully it was helpful and you got kind of a gist of how things work. If you need more advanced help, go check out our other videos. And if you really want to learn AutoCAD, go check out our new presentation that we've got going on. Guys, take care. We look forward to helping you next week in our 3D tutorial. So, we'll see you then.",
+  "total_segments": 521,
+  "total_duration": 908.399,
+  "extraction_timestamp": "2025-07-11T10:36:19.540556",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

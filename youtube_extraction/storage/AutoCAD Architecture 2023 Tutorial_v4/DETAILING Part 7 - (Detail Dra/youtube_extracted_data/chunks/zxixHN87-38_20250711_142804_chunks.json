@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Alright, so here we are back in AutoCard architecture and in this video I'm going to\nbe showing you how to complete your detailed views.\nAlright, now as you can see I would have already completed most of them and that's because\nI don't want this video to be very long so I'm going to show you how I do these two and that\nshould I would hope help you to complete all your other views.\nAlright, now if you were here in the last episode when we did our sectional elevation views,\nyou would have seen how",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "you were here in the last episode when we did our sectional elevation views,\nyou would have seen how I actually got these ring beam in as well as the lintel in by using the\nAutoCard built in library of component details.",
+    "start_char": 400,
+    "end_char": 621,
+    "char_count": 220,
+    "word_count": 42,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "ring beam in as well as the lintel in by using the\nAutoCard built in library of component details. Alright, so this little tab up here if you click on it,\nit has a number of things in there depending on if you're using the standard or metric,\nyou can go ahead and select the library that you want to use, where using the US library right\nand all of the material and components available here will be in standard measurements.\nAlright, so of course we can go and drill down into different types of components and we can choose\ndifferent sizes or types based on what we are looking for.",
+    "start_char": 521,
+    "end_char": 1107,
+    "char_count": 584,
+    "word_count": 111,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "nt types of components and we can choose\ndifferent sizes or types based on what we are looking for. We can even type in things that we may\nneed. Let's say we want hurricane anchors. So we have hurricane straps. If you want,\nlet's say you want something else, you can just search for it in here. Alright, but you don't have to\nalways come inside of here because we do have a tool palette that has some items inside of it. So if\nyou click on this little setting and you go down to detailing, you would find that we have a lot of\nthose same components located here for just quick access.",
+    "start_char": 1007,
+    "end_char": 1592,
+    "char_count": 584,
+    "word_count": 114,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "ing, you would find that we have a lot of\nthose same components located here for just quick access. Alright, so we're going to be using this\nas well as that whenever we can't find what we need. Now obviously not everything is going to be\ninside of here. You know, so there are times when you're going to have to literally draw your own\ndetail and that's perfectly fine. That's all. I do a lot of my details currently just the same.\nWhat I'm going to be using mainly what is in the library for this project. So I hope that you\nenjoy it and you'll learn something.",
+    "start_char": 1492,
+    "end_char": 2055,
+    "char_count": 562,
+    "word_count": 109,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "ly what is in the library for this project. So I hope that you\nenjoy it and you'll learn something. And if you do hit the subscribe hit the like drop a comment\nask the questions and share the video. Alright, let's begin. So we're going to start with the\n2x4 that is located at the top of the window. So let's click on the wood and right away we get\nwood looking block there but that's not the right size. It says 2x4 but that's not the\ncot I want. I actually want a rough cot and I'm going to change the size to 2x4.",
+    "start_char": 1955,
+    "end_char": 2472,
+    "char_count": 516,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "but that's not the\ncot I want. I actually want a rough cot and I'm going to change the size to 2x4. That is what I need.\nAnd then I'm going to change the rotation to 90 degrees and then I'm going to drop it right in the corner\nAlright, so that gives me my first detail component. No guys, it's important for you to know that\nthese blue lines will not be printed. This is just an outline or a shape out of the detail and\nOtica is saying to you, you need to fill in the areas that needs to be filled in.",
+    "start_char": 2372,
+    "end_char": 2874,
+    "char_count": 501,
+    "word_count": 105,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "of the detail and\nOtica is saying to you, you need to fill in the areas that needs to be filled in. Alright, just\nlike these other detail that I did Otica provides the outline and you fill in the gaps.\nLikewise when I provided these details earlier. Some episodes ago we had just had the outline\nand then we would use these components to fill in where we can fill in. And of course,\nsome of these I had to use lines to draw like these are just regular lines I used to draw them\nand kind of just create some details. So it's a combination.",
+    "start_char": 2774,
+    "end_char": 3313,
+    "char_count": 538,
+    "word_count": 107,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "just regular lines I used to draw them\nand kind of just create some details. So it's a combination. Alright, so you work it all you can.\nThe next thing I'm going to place on here would be the lintel as well as the beam.\nI'm going to show you how I did it. So go to concrete and go to beams where I already on beams\nand I want it to be customizable and I'm going to make it six inches by one feet. That's good.\nI'm going to change turn off this shumper, shumper thing. No, so it becomes rectangular and then\ndo I want to see the reinforcement? No, because I want to make my own reinforcement.",
+    "start_char": 3213,
+    "end_char": 3805,
+    "char_count": 591,
+    "word_count": 120,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "gular and then\ndo I want to see the reinforcement? No, because I want to make my own reinforcement. So I'm going to\nplace this right there and then while I'm in the command I'm going to just change the height to\neight inches because the lintel will be eight inches deep and then I'm going to flip it on the x-axis\nso that it comes at the top and then I can drop it right on top of there. Good. So now I have my\ntwo concrete areas there. Then I'm going to drop some blocks inside of here. So let's go to concrete\nto masonry and we're going to change from clay to CMU.",
+    "start_char": 3705,
+    "end_char": 4272,
+    "char_count": 566,
+    "word_count": 116,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "ocks inside of here. So let's go to concrete\nto masonry and we're going to change from clay to CMU. And of course we're going to slip the\nsize block that we used for this project which would have been six by eight by 16. That's what it\nlooks like in a section of view. Of course we can change the view from section to plan view if that's\nwhat we want. You have elevation view and you have what else elevation pattern. So you can fill\nit here. We're not going to use that we're going to use sectional and we're going to click our first\npoint here.",
+    "start_char": 4172,
+    "end_char": 4719,
+    "char_count": 546,
+    "word_count": 109,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "e not going to use that we're going to use sectional and we're going to click our first\npoint here. I'm going to draw our line upwards and if you notice as you draw your line up it builds\non top of each other more and more but we're going to just build it to what we need which would be\njust two rows of blocks and then need to center this in the middle here. Good. So just like that\nwe have our block work and our beams looking beautiful. Now I'm going to draw some lines here just to\nfill this area of the wall and the window. All right so let's regular lines.",
+    "start_char": 4619,
+    "end_char": 5182,
+    "char_count": 562,
+    "word_count": 116,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "ome lines here just to\nfill this area of the wall and the window. All right so let's regular lines. All right good and then\nI'm going to also draw a line here to represent my rendered area of the wall and then we can go ahead\nand place the steel work or the rebars inside so we're going to go to concrete once more.\nAnd we're going to go over to the category change it from that to reinforcing steel.\nNow guys this is an area where you will need to know how they do beams and steel and whatever in\nyour region. I'm just doing it based on what I use in Jamaica.",
+    "start_char": 5082,
+    "end_char": 5643,
+    "char_count": 560,
+    "word_count": 115,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "y do beams and steel and whatever in\nyour region. I'm just doing it based on what I use in Jamaica. All right so for this beam I'm going to\nbe using four inch rebar not four inch rather number four rebar and you need to know your rebar\nsizes so make sure you check that out and I'm going to instead of using single rebar like what you're\nseeing there I'm going to switch it to an assembly which would be rectangle column which actually\ngives me the tie along with you know some other rebars in there so I'm going to just change some\nnumbers in here to get their amount of rebar that I need.",
+    "start_char": 5543,
+    "end_char": 6134,
+    "char_count": 590,
+    "word_count": 118,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "in there so I'm going to just change some\nnumbers in here to get their amount of rebar that I need. Now guys this is where you're going to\nhave to mess around and try to figure out how the steel works. I need an edge offset of one inch\nmake these one inches as well. So essentially I'm using a number four rebar on the inside\nand the number three rebar on the outside to create the ties. All right and if we can actually draw\none of these and see what it looks like. It should look something like that so the tie it would be\na number three and one on the inside would be a number four.",
+    "start_char": 6034,
+    "end_char": 6620,
+    "char_count": 585,
+    "word_count": 121,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "thing like that so the tie it would be\na number three and one on the inside would be a number four. So let's go ahead and draw our\nsteel rebar inside there put one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6520,
+    "end_char": 6777,
+    "char_count": 256,
+    "word_count": 53,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "ut one more in here. Looking good all right so that covers a multi-tube of\nsin. All right let's go.",
+    "start_char": 6677,
+    "end_char": 6777,
+    "char_count": 99,
+    "word_count": 20,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

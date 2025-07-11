@@ -1,0 +1,30 @@
+{
+  "statistics": {
+    "total_characters": 19984,
+    "total_words": 3991,
+    "total_sentences": 319,
+    "average_words_per_segment": 7.660268714011516,
+    "total_duration_minutes": 15.139983333333333
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 100
+  },
+  "keywords": [
+    "going",
+    "want",
+    "youre",
+    "see",
+    "click",
+    "thats",
+    "select",
+    "set",
+    "press",
+    "type"
+  ],
+  "topics": [
+    "tecnologia"
+  ],
+  "sentiment": "negative"
+}

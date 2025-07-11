@@ -1,0 +1,977 @@
+{
+  "video_id": "rA8VpPCw9rg",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Alright guys so here we are back in AutoCAD architecture 2020 that's the version I'm using and so today we're gonna be creating some additional views and",
+      "start": 0.0,
+      "end": 29.36,
+      "duration": 29.36
+    },
+    {
+      "index": 1,
+      "text": "get some deeper understanding of how to use the views manager inside of the views tab.",
+      "start": 30.0,
+      "end": 37.2,
+      "duration": 7.200000000000003
+    },
+    {
+      "index": 2,
+      "text": "Alright so in the previous episode I think it was episode 12 that's where we went through and",
+      "start": 37.76,
+      "end": 44.32,
+      "duration": 6.560000000000002
+    },
+    {
+      "index": 3,
+      "text": "would have created all of these views you're looking at here so we do have a 3D view which is the",
+      "start": 44.32,
+      "end": 49.760000000000005,
+      "duration": 5.440000000000005
+    },
+    {
+      "index": 4,
+      "text": "one I currently have open and we also have you know all the other views that we will need",
+      "start": 49.760000000000005,
+      "end": 55.68,
+      "duration": 5.919999999999995
+    },
+    {
+      "index": 5,
+      "text": "including some sectional elevations and a couple of details and so on and so forth so all we need",
+      "start": 55.76,
+      "end": 63.28,
+      "duration": 7.520000000000003
+    },
+    {
+      "index": 6,
+      "text": "our a couple of other details to wrap up our views and then we can start to add details to these views",
+      "start": 63.28,
+      "end": 70.8,
+      "duration": 7.519999999999996
+    },
+    {
+      "index": 7,
+      "text": "such as dimensions and attations and that kind of stuff and then after that's done we would add them to",
+      "start": 70.8,
+      "end": 78.0,
+      "duration": 7.200000000000003
+    },
+    {
+      "index": 8,
+      "text": "or sheets where it would then be printed. Alright the views we'll be adding are detailed views okay",
+      "start": 78.0,
+      "end": 87.12,
+      "duration": 9.120000000000005
+    },
+    {
+      "index": 9,
+      "text": "we do have 3 details so far as you can see don't here we do have a Eve detail we have foundation",
+      "start": 87.12,
+      "end": 94.4,
+      "duration": 7.280000000000001
+    },
+    {
+      "index": 10,
+      "text": "footing detail and we also have the ridge detail and if I should open this drawing up you can see that we have",
+      "start": 94.4,
+      "end": 103.03999999999999,
+      "duration": 8.639999999999986
+    },
+    {
+      "index": 11,
+      "text": "all three views right here. Alright and these were taken from our sectional elevation views so",
+      "start": 103.92,
+      "end": 112.16000000000001,
+      "duration": 8.240000000000009
+    },
+    {
+      "index": 12,
+      "text": "if I open this guy up you can see that we have three collotes we do have the Eve footing and the",
+      "start": 112.16000000000001,
+      "end": 119.68,
+      "duration": 7.519999999999996
+    },
+    {
+      "index": 13,
+      "text": "ridge and calling these out with their bubbles they shop in this drawing because this is where we",
+      "start": 119.68,
+      "end": 127.92,
+      "duration": 8.239999999999995
+    },
+    {
+      "index": 14,
+      "text": "place them and as we place these views on sheets these are fields here will be populated with numbers",
+      "start": 128.0,
+      "end": 135.76,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 15,
+      "text": "and also these will become populated with the sheet number and the drawing number itself. Alright so",
+      "start": 135.76,
+      "end": 144.0,
+      "duration": 8.240000000000009
+    },
+    {
+      "index": 16,
+      "text": "it is within this drawing that we are going to add some additional views. Alright now if you click on",
+      "start": 144.0,
+      "end": 152.32,
+      "duration": 8.319999999999993
+    },
+    {
+      "index": 17,
+      "text": "each of these drawing you can see that they do have this box around them that's the boundary",
+      "start": 152.48,
+      "end": 158.4,
+      "duration": 5.920000000000016
+    },
+    {
+      "index": 18,
+      "text": "of the view so only what is within this box will show on your page when you go to print likewise",
+      "start": 158.4,
+      "end": 165.6,
+      "duration": 7.199999999999989
+    },
+    {
+      "index": 19,
+      "text": "with this one so of course we're going to have to probably extend this one a little bit more because",
+      "start": 165.6,
+      "end": 170.4,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 20,
+      "text": "we're going to need to add some labels and stuff to that but we're going to talk about that.",
+      "start": 170.4,
+      "end": 175.35999999999999,
+      "duration": 4.9599999999999795
+    },
+    {
+      "index": 21,
+      "text": "Now the additional details that we're going to be adding I have already created them as you can see",
+      "start": 175.35999999999999,
+      "end": 181.76,
+      "duration": 6.400000000000006
+    },
+    {
+      "index": 22,
+      "text": "these are all the different types of columns that we have used throughout this building so I",
+      "start": 182.4,
+      "end": 188.56,
+      "duration": 6.159999999999997
+    },
+    {
+      "index": 23,
+      "text": "do have each of them here we're going to show the steel work inside of them and these are the",
+      "start": 188.56,
+      "end": 195.51999999999998,
+      "duration": 6.9599999999999795
+    },
+    {
+      "index": 24,
+      "text": "three drainage components that we've used in this drawing and also I have gone ahead and drawn",
+      "start": 195.51999999999998,
+      "end": 203.04,
+      "duration": 7.52000000000001
+    },
+    {
+      "index": 25,
+      "text": "some sectional views these are just lines really I drew these manually so the difference is here that",
+      "start": 203.04,
+      "end": 210.48,
+      "duration": 7.439999999999998
+    },
+    {
+      "index": 26,
+      "text": "these were taken from our let's say in reference to a particular drawing alright so we did pull these ones",
+      "start": 210.56,
+      "end": 221.28,
+      "duration": 10.719999999999999
+    },
+    {
+      "index": 27,
+      "text": "off of another drawing but these ones over here they're not being pulled from any drawing",
+      "start": 222.72,
+      "end": 228.56,
+      "duration": 5.840000000000003
+    },
+    {
+      "index": 28,
+      "text": "at all we I just literally copied these inside of here and I literally drew these lines one by one",
+      "start": 228.56,
+      "end": 236.32,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 29,
+      "text": "to get to this point and we're going to actually use these to create views so that they can",
+      "start": 236.48,
+      "end": 242.72,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 30,
+      "text": "populate over here as well alright so one of the first things I like to do is to create a grid layout",
+      "start": 242.72,
+      "end": 250.4,
+      "duration": 7.680000000000007
+    },
+    {
+      "index": 31,
+      "text": "in this drawing so that I can organize my you know my details a little better so far it doesn't",
+      "start": 250.4,
+      "end": 257.6,
+      "duration": 7.200000000000017
+    },
+    {
+      "index": 32,
+      "text": "look but it's our later out in a straight line we're going across but what if we could take it up",
+      "start": 257.6,
+      "end": 262.24,
+      "duration": 4.639999999999986
+    },
+    {
+      "index": 33,
+      "text": "another notch what I'm going to do is to create a layout grid so as you type that command in there you",
+      "start": 262.24,
+      "end": 268.32,
+      "duration": 6.079999999999984
+    },
+    {
+      "index": 34,
+      "text": "will see it come up here it is click on it and we're going to click on add and so we have this grid box",
+      "start": 268.32,
+      "end": 276.24,
+      "duration": 7.920000000000016
+    },
+    {
+      "index": 35,
+      "text": "coming up and you could define your box over here how big you want each box to be so I'm going to",
+      "start": 276.24,
+      "end": 284.08,
+      "duration": 7.839999999999975
+    },
+    {
+      "index": 36,
+      "text": "make it 10 feet by 10 feet and I'm going to just drop this box maybe you're going to down here",
+      "start": 284.08,
+      "end": 291.04,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 37,
+      "text": "it's not a bad spot and then of course I want it to be flat so I'm going to turn on my author mode",
+      "start": 291.12,
+      "end": 297.68,
+      "duration": 6.560000000000002
+    },
+    {
+      "index": 38,
+      "text": "and make sure that it's laying flat essentially what I'm going to do is to place each drawing in one of",
+      "start": 297.68,
+      "end": 303.44,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 39,
+      "text": "these boxes just to layer them out nicely so I can see where each of them is I can quickly go to",
+      "start": 303.44,
+      "end": 310.88,
+      "duration": 7.439999999999998
+    },
+    {
+      "index": 40,
+      "text": "the one that I want so this door about the grid it won't be printed it's unaware that is not",
+      "start": 310.88,
+      "end": 317.36,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 41,
+      "text": "printable so don't worry about that basically what I'll be doing is to just move each of these",
+      "start": 317.44,
+      "end": 324.08000000000004,
+      "duration": 6.640000000000043
+    },
+    {
+      "index": 42,
+      "text": "into one of the boxes all right and you want to place them at a spot where you know you have space",
+      "start": 324.08000000000004,
+      "end": 333.04,
+      "duration": 8.95999999999998
+    },
+    {
+      "index": 43,
+      "text": "on the other side like this one to add your details I might need to move this down a little bit more",
+      "start": 333.04,
+      "end": 340.16,
+      "duration": 7.1200000000000045
+    },
+    {
+      "index": 44,
+      "text": "all right and I need to move this down a little bit more this one I have a lot of space above to",
+      "start": 340.16,
+      "end": 348.64000000000004,
+      "duration": 8.480000000000018
+    },
+    {
+      "index": 45,
+      "text": "add this stuff I drop this guy down here move that down",
+      "start": 349.36,
+      "end": 355.84000000000003,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 46,
+      "text": "all right now I kind of want to add extra box over here so I'm going to pull this author a little bit",
+      "start": 359.12,
+      "end": 364.48,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 47,
+      "text": "of course I could pull this all the way over to create more grids up our across depending on",
+      "start": 365.44,
+      "end": 371.52000000000004,
+      "duration": 6.080000000000041
+    },
+    {
+      "index": 48,
+      "text": "how you want to layer stuff out but I just want one more to just drop the square column in",
+      "start": 371.52000000000004,
+      "end": 378.0,
+      "duration": 6.479999999999961
+    },
+    {
+      "index": 49,
+      "text": "so all my columns are there and then I'm going to drop these guys now in the box by",
+      "start": 379.92,
+      "end": 385.76,
+      "duration": 5.839999999999975
+    },
+    {
+      "index": 50,
+      "text": "themselves of course I was considering placing each view in a separate box but I think I'm going to",
+      "start": 385.76,
+      "end": 392.8,
+      "duration": 7.0400000000000205
+    },
+    {
+      "index": 51,
+      "text": "I think I'm going to put both of these in one box I'm going to do the same thing with this",
+      "start": 393.76,
+      "end": 404.56,
+      "duration": 10.800000000000011
+    },
+    {
+      "index": 52,
+      "text": "and we're going to do the same thing with this so now we can see that all of our details are",
+      "start": 407.44,
+      "end": 412.72,
+      "duration": 5.28000000000003
+    },
+    {
+      "index": 53,
+      "text": "not laid out nicely we don't have to worry about you know stuff going missing we don't know where this is",
+      "start": 412.72,
+      "end": 419.6,
+      "duration": 6.8799999999999955
+    },
+    {
+      "index": 54,
+      "text": "over the one over here that is everything is laid out nicely and of course if you had more details",
+      "start": 419.68,
+      "end": 425.28000000000003,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 55,
+      "text": "we could utilize the rest of the boxes here now if I click on this one you can see that the view",
+      "start": 425.28000000000003,
+      "end": 433.44,
+      "duration": 8.159999999999968
+    },
+    {
+      "index": 56,
+      "text": "boundary is not confined to the grid that I have made and rightly so because these were created",
+      "start": 433.44,
+      "end": 440.8,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 57,
+      "text": "along with for this video so what we could do is to just redefine the boundaries by just you",
+      "start": 441.36,
+      "end": 447.20000000000005,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 58,
+      "text": "know dragging these out so that they're not overlapping into other territories all right",
+      "start": 447.2,
+      "end": 455.2,
+      "duration": 8.0
+    },
+    {
+      "index": 59,
+      "text": "we could do the same thing here look at that this one is all the way over into that so what I could",
+      "start": 456.4,
+      "end": 461.76,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 60,
+      "text": "do here instead of using these what I could do is go to the views tab and go over to our views manager",
+      "start": 461.76,
+      "end": 470.48,
+      "duration": 8.720000000000027
+    },
+    {
+      "index": 61,
+      "text": "and from here if I should open this up we can see that we do have all three views so far which are",
+      "start": 470.56,
+      "end": 479.20000000000005,
+      "duration": 8.640000000000043
+    },
+    {
+      "index": 62,
+      "text": "these three here all right and from this tab we can do a lot of things we can change the name we can",
+      "start": 479.20000000000005,
+      "end": 487.44,
+      "duration": 8.239999999999952
+    },
+    {
+      "index": 63,
+      "text": "we can you know change the style blah blah blah one thing we cannot do however is to change the",
+      "start": 488.56,
+      "end": 496.16,
+      "duration": 7.600000000000023
+    },
+    {
+      "index": 64,
+      "text": "so bear that in mind when you're creating these views you need to set your scale before you",
+      "start": 497.12,
+      "end": 503.36,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 65,
+      "text": "create the views what don't worry you're going to see how I do that so at this time what I'm going",
+      "start": 503.36,
+      "end": 509.76000000000005,
+      "duration": 6.400000000000034
+    },
+    {
+      "index": 66,
+      "text": "to do is I'm going to rename these I'm going to put the detail at the beginning",
+      "start": 509.76000000000005,
+      "end": 514.48,
+      "duration": 4.71999999999997
+    },
+    {
+      "index": 67,
+      "text": "all right and I also want to edit the boundaries so I'm going to say edit boundaries and I click on",
+      "start": 517.36,
+      "end": 525.36,
+      "duration": 8.0
+    },
+    {
+      "index": 68,
+      "text": "that it greaset everything and shows you the boundaries of this view now I want to redefine it",
+      "start": 525.36,
+      "end": 534.32,
+      "duration": 8.960000000000036
+    },
+    {
+      "index": 69,
+      "text": "to the confines of my grid so now I'm going to draw a box to define my new boundary just like that",
+      "start": 534.32,
+      "end": 543.92,
+      "duration": 9.599999999999909
+    },
+    {
+      "index": 70,
+      "text": "I know have new boundaries for my view enter that's done I'm going to go to this one I'm going to",
+      "start": 543.92,
+      "end": 552.08,
+      "duration": 8.160000000000082
+    },
+    {
+      "index": 71,
+      "text": "rename it I'm just going to put the word detail at the front instead of the back I think we did that",
+      "start": 552.08,
+      "end": 560.0,
+      "duration": 7.919999999999959
+    },
+    {
+      "index": 72,
+      "text": "one already so I'm going to move to the ridge detail and then I'm going to edit the boundaries of my",
+      "start": 560.0,
+      "end": 570.72,
+      "duration": 10.720000000000027
+    },
+    {
+      "index": 73,
+      "text": "of course I wanted to take the shape of the box there and I'm going to hit enter then I'm going to",
+      "start": 571.6800000000001,
+      "end": 579.44,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 74,
+      "text": "say apply then I'm going to say okay so now you can see that each of these are not taking the shape",
+      "start": 579.44,
+      "end": 588.88,
+      "duration": 9.43999999999994
+    },
+    {
+      "index": 75,
+      "text": "of the box and so what this allows is for all of my views to have the same size of course these ones",
+      "start": 588.88,
+      "end": 596.08,
+      "duration": 7.2000000000000455
+    },
+    {
+      "index": 76,
+      "text": "won't need the entire box but I'm going to use the entire box for the meantime and we can always",
+      "start": 596.1600000000001,
+      "end": 602.24,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 77,
+      "text": "shrink them by redefining the boundaries the titles here should update to the new names that were",
+      "start": 602.24,
+      "end": 610.5600000000001,
+      "duration": 8.32000000000005
+    },
+    {
+      "index": 78,
+      "text": "done here but for some reason they are not so what I will do is to probably delete them and redo them",
+      "start": 610.5600000000001,
+      "end": 618.72,
+      "duration": 8.159999999999968
+    },
+    {
+      "index": 79,
+      "text": "but I'm going to hold on a little bit first if I go back to my project navigator you'll see that",
+      "start": 618.72,
+      "end": 624.48,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 80,
+      "text": "names have been updated here so that's a good step so what I'm going to do is to go ahead and create",
+      "start": 624.48,
+      "end": 631.84,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 81,
+      "text": "some new views so what I'm going to do is click on this button here that says new and I'm going to give it a",
+      "start": 631.84,
+      "end": 638.64,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 82,
+      "text": "name detail I stiffener and we can adjust a couple of things I tend to just leave it as it is I'm going",
+      "start": 638.64,
+      "end": 647.04,
+      "duration": 8.399999999999977
+    },
+    {
+      "index": 83,
+      "text": "to define my window so click on that of course this window would be this box enter and I usually say",
+      "start": 647.04,
+      "end": 656.24,
+      "duration": 9.200000000000045
+    },
+    {
+      "index": 84,
+      "text": "I'll just leave it alone leave it as that yeah so that one's done I'm going to create a new one for",
+      "start": 656.24,
+      "end": 664.7199999999999,
+      "duration": 8.479999999999905
+    },
+    {
+      "index": 85,
+      "text": "call this detail t stiffener define my window enter okay new L stiffener define enter",
+      "start": 664.72,
+      "end": 686.64,
+      "duration": 21.91999999999996
+    },
+    {
+      "index": 86,
+      "text": "this one now I'm going to say detail six inches square column define window enter",
+      "start": 686.64,
+      "end": 704.08,
+      "duration": 17.440000000000055
+    },
+    {
+      "index": 87,
+      "text": "all right so all of these have been completed and as you do them you will see them being populated",
+      "start": 704.08,
+      "end": 715.4399999999999,
+      "duration": 11.3599999999999
+    },
+    {
+      "index": 88,
+      "text": "inside of your drop down here also if I go to my view manager you will see them all being populated",
+      "start": 715.44,
+      "end": 722.8800000000001,
+      "duration": 7.440000000000055
+    },
+    {
+      "index": 89,
+      "text": "over here all right so that's the wonderful thing now I did make one mistake guys one huge mistake",
+      "start": 722.8800000000001,
+      "end": 732.4000000000001,
+      "duration": 9.519999999999982
+    },
+    {
+      "index": 90,
+      "text": "and that was to not change my scale all right so what you see here is that I have created these",
+      "start": 732.4000000000001,
+      "end": 741.2,
+      "duration": 8.799999999999955
+    },
+    {
+      "index": 91,
+      "text": "stiffener or column details at a half inch scale which is not the scale that I want them to be at",
+      "start": 741.2,
+      "end": 750.0,
+      "duration": 8.799999999999955
+    },
+    {
+      "index": 92,
+      "text": "I actually want them to be at a one and a half inch scale so you know what I'm going to have to do",
+      "start": 750.8000000000001,
+      "end": 756.6400000000001,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 93,
+      "text": "now I'm going to have to delete all of these that I have just created delete delete that",
+      "start": 756.64,
+      "end": 768.64,
+      "duration": 12.0
+    },
+    {
+      "index": 94,
+      "text": "delete that it okay change my scale first two one and a half that's a scale I want these guys",
+      "start": 768.64,
+      "end": 779.76,
+      "duration": 11.120000000000005
+    },
+    {
+      "index": 95,
+      "text": "to be at then I'm going to go ahead and redo them now I'm going to fast forward the video to the end",
+      "start": 779.76,
+      "end": 785.76,
+      "duration": 6.0
+    },
+    {
+      "index": 96,
+      "text": "of this",
+      "start": 785.76,
+      "end": 787.76,
+      "duration": 2.0
+    },
+    {
+      "index": 97,
+      "text": "all right so there we go we have all",
+      "start": 788.72,
+      "end": 815.12,
+      "duration": 26.399999999999977
+    },
+    {
+      "index": 98,
+      "text": "four of those being created on the carix scale this time thank you Lord",
+      "start": 815.2,
+      "end": 821.44,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 99,
+      "text": "T. Beautiful what we're going to do is go ahead and drop the titles so let's go to annotate",
+      "start": 825.04,
+      "end": 830.8,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 100,
+      "text": "and go over to title you can choose the one that you want to use I like to use the one with the",
+      "start": 830.8,
+      "end": 835.68,
+      "duration": 4.8799999999999955
+    },
+    {
+      "index": 101,
+      "text": "bubble with the number I need to go ahead and as you can see they all light up like light bulb",
+      "start": 835.68,
+      "end": 842.24,
+      "duration": 6.560000000000059
+    },
+    {
+      "index": 102,
+      "text": "and we can add a title to anyone so these three already have which I'm going to redo",
+      "start": 842.5600000000001,
+      "end": 847.76,
+      "duration": 5.199999999999932
+    },
+    {
+      "index": 103,
+      "text": "sometime later but I'm going to just add the ones I want these I'm going to add them a little closer",
+      "start": 847.76,
+      "end": 854.64,
+      "duration": 6.8799999999999955
+    },
+    {
+      "index": 104,
+      "text": "to the try itself if you notice they're really small and that's fine because of the scale that's",
+      "start": 854.64,
+      "end": 859.84,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 105,
+      "text": "what they will look like and you have to add them on the one and a half inch scale guys",
+      "start": 859.84,
+      "end": 867.2,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 106,
+      "text": "kind of change the scale and they'll add them that's going to mess up the whole thing all right so",
+      "start": 867.2,
+      "end": 872.8000000000001,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 107,
+      "text": "let's add all of these titles here and as you can see that the title takes the name of whatever we",
+      "start": 872.8000000000001,
+      "end": 882.48,
+      "duration": 9.67999999999995
+    },
+    {
+      "index": 108,
+      "text": "had typed in earlier and it applies the scale to it as well so here we have that and we have that",
+      "start": 882.48,
+      "end": 890.88,
+      "duration": 8.399999999999977
+    },
+    {
+      "index": 109,
+      "text": "and we have that perfect lovely all right we're going to do these ones now and we need to change",
+      "start": 891.6,
+      "end": 899.4399999999999,
+      "duration": 7.839999999999918
+    },
+    {
+      "index": 110,
+      "text": "the scale back to half inch because that's the scale I want these to be at and then we're going to say",
+      "start": 899.4399999999999,
+      "end": 906.64,
+      "duration": 7.2000000000000455
+    },
+    {
+      "index": 111,
+      "text": "view new and we're going to call this line hole now this is actually grease trap",
+      "start": 906.64,
+      "end": 917.6,
+      "duration": 10.960000000000036
+    },
+    {
+      "index": 112,
+      "text": "we're going to say define window it's going to be this enter okay i'm going to do the same thing here",
+      "start": 917.6,
+      "end": 931.36,
+      "duration": 13.759999999999991
+    },
+    {
+      "index": 113,
+      "text": "and I call this trap golly basin you find window boom enter okay i'm going to do the last one",
+      "start": 931.36,
+      "end": 944.48,
+      "duration": 13.120000000000005
+    },
+    {
+      "index": 114,
+      "text": "detail my whole like the abbreviation inside of it but whatever",
+      "start": 945.36,
+      "end": 951.76,
+      "duration": 6.399999999999977
+    },
+    {
+      "index": 115,
+      "text": "we'll leave it to right there all right lovely of course we're going to go to annotate and add",
+      "start": 952.4,
+      "end": 960.32,
+      "duration": 7.920000000000073
+    },
+    {
+      "index": 116,
+      "text": "our title this time i'm going to add the title all the way at the bottom because i want to have",
+      "start": 960.32,
+      "end": 966.5600000000001,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 117,
+      "text": "enough space to put some stuff above so we do have our detail grease trap basin trap golly basin",
+      "start": 966.56,
+      "end": 980.3199999999999,
+      "duration": 13.759999999999991
+    },
+    {
+      "index": 118,
+      "text": "and or mine hole detail here all right so now you can see that we have all our details",
+      "start": 980.3199999999999,
+      "end": 986.2399999999999,
+      "duration": 5.919999999999959
+    },
+    {
+      "index": 119,
+      "text": "laid out beautifully if we go to our views manager we can see them all being listed here",
+      "start": 986.2399999999999,
+      "end": 995.1199999999999,
+      "duration": 8.879999999999995
+    },
+    {
+      "index": 120,
+      "text": "we can change the name we can do this we can do that you've seen that before they are not",
+      "start": 996.08,
+      "end": 1002.8,
+      "duration": 6.719999999999914
+    },
+    {
+      "index": 121,
+      "text": "populated over here as well and one other thing that you didn't know is that we could quickly go to",
+      "start": 1002.8,
+      "end": 1012.24,
+      "duration": 9.440000000000055
+    },
+    {
+      "index": 122,
+      "text": "the one that we want by going here so let's say i want to focus on the ridge it brings me to the ridge",
+      "start": 1012.24,
+      "end": 1019.92,
+      "duration": 7.67999999999995
+    },
+    {
+      "index": 123,
+      "text": "if i say i want to know focus on the mine hole it takes me there you know i like to play with this a",
+      "start": 1019.92,
+      "end": 1028.3999999999999,
+      "duration": 8.479999999999905
+    },
+    {
+      "index": 124,
+      "text": "little bit here just to see how it zones out and it's so many so there we go guys that is how you create",
+      "start": 1028.3999999999999,
+      "end": 1034.72,
+      "duration": 6.320000000000164
+    },
+    {
+      "index": 125,
+      "text": "views later on in our next video we will actually go through and add details so right now this is",
+      "start": 1035.44,
+      "end": 1043.28,
+      "duration": 7.839999999999918
+    },
+    {
+      "index": 126,
+      "text": "just the rough work for our additional views so go ahead and click the save button where is it saved",
+      "start": 1043.36,
+      "end": 1050.0,
+      "duration": 6.6400000000001
+    },
+    {
+      "index": 127,
+      "text": "and yeah well they're already to go all right guys so that's it for this video and that's all",
+      "start": 1051.76,
+      "end": 1058.56,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 128,
+      "text": "of views we're going to be creating not touch them anymore next video we're going to be detailet",
+      "start": 1058.56,
+      "end": 1064.96,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 129,
+      "text": "and then we're going to drop them on some sheets and then stick around to find out what's next",
+      "start": 1064.96,
+      "end": 1070.48,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 130,
+      "text": "all right so thank you for watching and if you took first time here and if you learned something hit the",
+      "start": 1070.48,
+      "end": 1079.6,
+      "duration": 9.11999999999989
+    },
+    {
+      "index": 131,
+      "text": "like button and don't forget to subscribe and drop a comment ask a question and i also want to be",
+      "start": 1079.6,
+      "end": 1085.68,
+      "duration": 6.080000000000155
+    },
+    {
+      "index": 132,
+      "text": "got my patrons over on my patreon page so if you didn't know now you know check the links in the",
+      "start": 1085.68,
+      "end": 1091.2,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 133,
+      "text": "description and yeah just check it out see if there's anything over there that you might be interested",
+      "start": 1091.2,
+      "end": 1096.08,
+      "duration": 4.879999999999882
+    },
+    {
+      "index": 134,
+      "text": "you never can tell you know i mean so thanks again for watching and be go for yourself and i will see you",
+      "start": 1096.32,
+      "end": 1102.8,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 135,
+      "text": "guys in the next video cool",
+      "start": 1102.8,
+      "end": 1107.1999999999998,
+      "duration": 4.399999999999864
+    },
+    {
+      "index": 136,
+      "text": "you",
+      "start": 1126.08,
+      "end": 1128.08,
+      "duration": 2.0
+    }
+  ],
+  "full_text": "Alright guys so here we are back in AutoCAD architecture 2020 that's the version I'm using and so today we're gonna be creating some additional views and get some deeper understanding of how to use the views manager inside of the views tab. Alright so in the previous episode I think it was episode 12 that's where we went through and would have created all of these views you're looking at here so we do have a 3D view which is the one I currently have open and we also have you know all the other views that we will need including some sectional elevations and a couple of details and so on and so forth so all we need our a couple of other details to wrap up our views and then we can start to add details to these views such as dimensions and attations and that kind of stuff and then after that's done we would add them to or sheets where it would then be printed. Alright the views we'll be adding are detailed views okay we do have 3 details so far as you can see don't here we do have a Eve detail we have foundation footing detail and we also have the ridge detail and if I should open this drawing up you can see that we have all three views right here. Alright and these were taken from our sectional elevation views so if I open this guy up you can see that we have three collotes we do have the Eve footing and the ridge and calling these out with their bubbles they shop in this drawing because this is where we place them and as we place these views on sheets these are fields here will be populated with numbers and also these will become populated with the sheet number and the drawing number itself. Alright so it is within this drawing that we are going to add some additional views. Alright now if you click on each of these drawing you can see that they do have this box around them that's the boundary of the view so only what is within this box will show on your page when you go to print likewise with this one so of course we're going to have to probably extend this one a little bit more because we're going to need to add some labels and stuff to that but we're going to talk about that. Now the additional details that we're going to be adding I have already created them as you can see these are all the different types of columns that we have used throughout this building so I do have each of them here we're going to show the steel work inside of them and these are the three drainage components that we've used in this drawing and also I have gone ahead and drawn some sectional views these are just lines really I drew these manually so the difference is here that these were taken from our let's say in reference to a particular drawing alright so we did pull these ones off of another drawing but these ones over here they're not being pulled from any drawing at all we I just literally copied these inside of here and I literally drew these lines one by one to get to this point and we're going to actually use these to create views so that they can populate over here as well alright so one of the first things I like to do is to create a grid layout in this drawing so that I can organize my you know my details a little better so far it doesn't look but it's our later out in a straight line we're going across but what if we could take it up another notch what I'm going to do is to create a layout grid so as you type that command in there you will see it come up here it is click on it and we're going to click on add and so we have this grid box coming up and you could define your box over here how big you want each box to be so I'm going to make it 10 feet by 10 feet and I'm going to just drop this box maybe you're going to down here it's not a bad spot and then of course I want it to be flat so I'm going to turn on my author mode and make sure that it's laying flat essentially what I'm going to do is to place each drawing in one of these boxes just to layer them out nicely so I can see where each of them is I can quickly go to the one that I want so this door about the grid it won't be printed it's unaware that is not printable so don't worry about that basically what I'll be doing is to just move each of these into one of the boxes all right and you want to place them at a spot where you know you have space on the other side like this one to add your details I might need to move this down a little bit more all right and I need to move this down a little bit more this one I have a lot of space above to add this stuff I drop this guy down here move that down all right now I kind of want to add extra box over here so I'm going to pull this author a little bit of course I could pull this all the way over to create more grids up our across depending on how you want to layer stuff out but I just want one more to just drop the square column in so all my columns are there and then I'm going to drop these guys now in the box by themselves of course I was considering placing each view in a separate box but I think I'm going to I think I'm going to put both of these in one box I'm going to do the same thing with this and we're going to do the same thing with this so now we can see that all of our details are not laid out nicely we don't have to worry about you know stuff going missing we don't know where this is over the one over here that is everything is laid out nicely and of course if you had more details we could utilize the rest of the boxes here now if I click on this one you can see that the view boundary is not confined to the grid that I have made and rightly so because these were created along with for this video so what we could do is to just redefine the boundaries by just you know dragging these out so that they're not overlapping into other territories all right we could do the same thing here look at that this one is all the way over into that so what I could do here instead of using these what I could do is go to the views tab and go over to our views manager and from here if I should open this up we can see that we do have all three views so far which are these three here all right and from this tab we can do a lot of things we can change the name we can we can you know change the style blah blah blah one thing we cannot do however is to change the so bear that in mind when you're creating these views you need to set your scale before you create the views what don't worry you're going to see how I do that so at this time what I'm going to do is I'm going to rename these I'm going to put the detail at the beginning all right and I also want to edit the boundaries so I'm going to say edit boundaries and I click on that it greaset everything and shows you the boundaries of this view now I want to redefine it to the confines of my grid so now I'm going to draw a box to define my new boundary just like that I know have new boundaries for my view enter that's done I'm going to go to this one I'm going to rename it I'm just going to put the word detail at the front instead of the back I think we did that one already so I'm going to move to the ridge detail and then I'm going to edit the boundaries of my of course I wanted to take the shape of the box there and I'm going to hit enter then I'm going to say apply then I'm going to say okay so now you can see that each of these are not taking the shape of the box and so what this allows is for all of my views to have the same size of course these ones won't need the entire box but I'm going to use the entire box for the meantime and we can always shrink them by redefining the boundaries the titles here should update to the new names that were done here but for some reason they are not so what I will do is to probably delete them and redo them but I'm going to hold on a little bit first if I go back to my project navigator you'll see that names have been updated here so that's a good step so what I'm going to do is to go ahead and create some new views so what I'm going to do is click on this button here that says new and I'm going to give it a name detail I stiffener and we can adjust a couple of things I tend to just leave it as it is I'm going to define my window so click on that of course this window would be this box enter and I usually say I'll just leave it alone leave it as that yeah so that one's done I'm going to create a new one for call this detail t stiffener define my window enter okay new L stiffener define enter this one now I'm going to say detail six inches square column define window enter all right so all of these have been completed and as you do them you will see them being populated inside of your drop down here also if I go to my view manager you will see them all being populated over here all right so that's the wonderful thing now I did make one mistake guys one huge mistake and that was to not change my scale all right so what you see here is that I have created these stiffener or column details at a half inch scale which is not the scale that I want them to be at I actually want them to be at a one and a half inch scale so you know what I'm going to have to do now I'm going to have to delete all of these that I have just created delete delete that delete that it okay change my scale first two one and a half that's a scale I want these guys to be at then I'm going to go ahead and redo them now I'm going to fast forward the video to the end of this all right so there we go we have all four of those being created on the carix scale this time thank you Lord T. Beautiful what we're going to do is go ahead and drop the titles so let's go to annotate and go over to title you can choose the one that you want to use I like to use the one with the bubble with the number I need to go ahead and as you can see they all light up like light bulb and we can add a title to anyone so these three already have which I'm going to redo sometime later but I'm going to just add the ones I want these I'm going to add them a little closer to the try itself if you notice they're really small and that's fine because of the scale that's what they will look like and you have to add them on the one and a half inch scale guys kind of change the scale and they'll add them that's going to mess up the whole thing all right so let's add all of these titles here and as you can see that the title takes the name of whatever we had typed in earlier and it applies the scale to it as well so here we have that and we have that and we have that perfect lovely all right we're going to do these ones now and we need to change the scale back to half inch because that's the scale I want these to be at and then we're going to say view new and we're going to call this line hole now this is actually grease trap we're going to say define window it's going to be this enter okay i'm going to do the same thing here and I call this trap golly basin you find window boom enter okay i'm going to do the last one detail my whole like the abbreviation inside of it but whatever we'll leave it to right there all right lovely of course we're going to go to annotate and add our title this time i'm going to add the title all the way at the bottom because i want to have enough space to put some stuff above so we do have our detail grease trap basin trap golly basin and or mine hole detail here all right so now you can see that we have all our details laid out beautifully if we go to our views manager we can see them all being listed here we can change the name we can do this we can do that you've seen that before they are not populated over here as well and one other thing that you didn't know is that we could quickly go to the one that we want by going here so let's say i want to focus on the ridge it brings me to the ridge if i say i want to know focus on the mine hole it takes me there you know i like to play with this a little bit here just to see how it zones out and it's so many so there we go guys that is how you create views later on in our next video we will actually go through and add details so right now this is just the rough work for our additional views so go ahead and click the save button where is it saved and yeah well they're already to go all right guys so that's it for this video and that's all of views we're going to be creating not touch them anymore next video we're going to be detailet and then we're going to drop them on some sheets and then stick around to find out what's next all right so thank you for watching and if you took first time here and if you learned something hit the like button and don't forget to subscribe and drop a comment ask a question and i also want to be got my patrons over on my patreon page so if you didn't know now you know check the links in the description and yeah just check it out see if there's anything over there that you might be interested you never can tell you know i mean so thanks again for watching and be go for yourself and i will see you guys in the next video cool you",
+  "total_segments": 137,
+  "total_duration": 1128.08,
+  "extraction_timestamp": "2025-07-11T14:13:07.321687",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "tiny"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high"
+}

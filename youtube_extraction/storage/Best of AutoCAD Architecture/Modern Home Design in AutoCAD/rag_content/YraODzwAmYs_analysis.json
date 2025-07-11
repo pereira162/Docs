@@ -1,0 +1,29 @@
+{
+  "statistics": {
+    "total_characters": 714,
+    "total_words": 98,
+    "total_sentences": 1,
+    "average_words_per_segment": 1.1666666666666667,
+    "total_duration_minutes": 18.930983333333334
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 100
+  },
+  "keywords": [
+    "music",
+    "foreign",
+    "thank",
+    "applause",
+    "thanks",
+    "giving",
+    "day",
+    "whoops",
+    "yourself"
+  ],
+  "topics": [
+    "tecnologia"
+  ],
+  "sentiment": "neutral"
+}

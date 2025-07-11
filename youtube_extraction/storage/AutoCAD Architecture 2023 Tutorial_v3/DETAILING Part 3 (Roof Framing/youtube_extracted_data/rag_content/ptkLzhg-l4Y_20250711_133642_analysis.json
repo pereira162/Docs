@@ -1,0 +1,25 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 2,
+    "avg_words_per_sentence": 500.0,
+    "language": "pt"
+  },
+  "keywords": [
+    "vídeo",
+    "sido",
+    "tem",
+    "temos",
+    "everybody",
+    "thank",
+    "you",
+    "for",
+    "joining",
+    "episode"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T13:36:42.150544",
+    "processing_mode": "memory_optimized"
+  }
+}

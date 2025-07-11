@@ -1,0 +1,245 @@
+Hi everybody, thank you for joining me on today's episode we're gonna be looking
+at the roof-threaming plant for this one bedroom host that we have been drawing for the
+longest while now. Anyways, if it's a first time on the channel,
+thank you for joining us, I hope that after watching this video you will learn something
+which would also prompt you to hit that subscribe button hit the like or hit the share.
+All you gotta do is just do one of those things and if you missed the previous episodes coming up
+to this point then everything in is in the description the link everything. So without further
+do let's get into the roof-threaming plant drawing. Alright guys, so here we are back in
+AutoClim architecture and we're gonna just get straight into it. So as you can see I currently have
+the roof-threaming plant view open up because we're gonna be working inside of this drawing today.
+This drawing was created back in episode 12 when we had created our views from the project
+Navigator so make sure you go back and watch that one if you missed it. Alright that's all we got
+to this point. Now it's important to note that a roof-threaming plant is different from a roof plan.
+Alright I have a illustration here in Google Sketchup so it's a similar roof to what we have over
+there for the one bedroom house and as you can see this is what a roof plan would look like with just
+the overall layout and shape of the roof and you can have additional details and annotations on this
+such as the arrows showing the direction of flow. We could also have the you know labeling telling us
+where the roof gotter is and also like the material that we're gonna use on the roof.
+Things like those. Alright but the roof-threaming plant shows us more of what is underneath
+this layer right here which would be what we're seeing here. Alright and so this drawing is very
+important because it shows us the skeleton underneath the flesh. Yeah understand we're seeing all
+this structural elements that actually hold up the roof and so producing a drawing like this will
+be important for the carpenter to have so that he can know our she where each raster should be at
+you know the spacing between each of them what size rafters are they and just a general layout
+of the structural elements beneath the roof covering. Alright guys so this is what we want to
+produce something similar to this not exactly like this but you know similar to this in article
+architecture now the problem with article is that just like with this eye was able to create a 3D
+representation in Google Sketchup in article it's actually more difficult to do. So it's easier especially
+for a simple roof like this to just do it in a 2 dimensional setting so even though we have this
+building as a 3D building we're gonna be doing this roof framing plant as a 2 dimensional drawing
+so that is what we're gonna be doing here. Now the first thing we want to do right now is to get
+rid of the things that we don't want to see such as windows doors and openings of course I
+already turn off the space layer right space that's off but I'm not gonna actually turn off these
+ones what I'm gonna do is to raise the cutting plane here it is down here 3 feet 6 we're gonna
+raise it to 9 feet which would be above everything when we go back to our plan view we shouldn't
+be seeing anything alright so let's do that open it up now we're gonna change it to 9 feet but we
+also want to change this number also to 9 feet and the reason being is that currently it is at
+minus 10 which means that everything that goes all the way down to negative 10 feet we'll still be
+able to see some representation of those objects we don't want to see anything below 9 feet so it's
+gonna be another 9 feet right there we're gonna hit okay just like that everything disappears even though
+there are still there but we don't want to see them alright the next thing I'm gonna advise you to
+do is to change your scale to the scale that you want to do this drawing at and this is very important
+because it does affect the line type and the hatching even though we're not gonna be using any
+hatching in this demonstration today alright so the next thing I want to do is to flatten this 3D drawing
+because currently this is a 3D object I want to flatten it so that we have just a 2D drawing I'm
+sure there are many ways we can do this but the easiest way that I have found is to just go to
+or section elevation drop down here and go to hidden line projection once we click on this button
+all we need to do is to select all the objects we want to be in this projection so we highlight everything
+and then we're gonna hit enter and then all we need to do is to place it where we want it so I'm
+gonna place it like maybe like right here and I'm gonna hit enter and just like this we have this drawing
+it looks very similar to this one what the difference is if I should go into 2D or 3D rather
+we can see that this is a flat drawing while this remains a 3D drawing so now we have this over here
+to work with alright and the beautiful thing about this tool here is that you can you can use it to do
+anything if you want an isometric projection just set the drawing in isometric use the tool and place it
+and once you go back to your top view you're gonna have that isometric drawing over here alright so
+try to experiment with it alright so note that we have this 2D drawing let's explore it
+alright because we want to be able to manipulate each line by themselves and the problem with this
+now is that when we explore these lines become broken apart as well and it's kind of hard to
+go through and select them all so what we're gonna do is to right click and say select similar so
+what happened the problem knows that it has selected the walls and I kind of want to keep the
+walls as well so now we're gonna have to try another solution let's try to select everything that
+is on this particular color okay how do we do that though we have a command that is called smart
+select quick select not smart we don't want to do it to the entire drawing we're gonna select the
+region that we want this operation to take place so only in this region and we're gonna hit enter
+and then what kind of objects we want to select some lines and we want to use the color of the line
+and then we want the color to be this color right here alright because that's the color we want to get
+rid of and then we're gonna say okay and then just like that we have selected all of those lines
+on that particular color boom delete it gone so far so good I want to just kind of clean up this
+little error here so if you notice we kind of want to see the walls beneath the roof that's
+important because the carpenter will need to know which wall is located at what area of the roof
+and which wall is supporting the roof and of a general idea where each room is located so you
+want to have the rooms the problem with this is that the walls are in solid lines while the roof is in
+hidden and what kind of wanted to be the opposite alright we want the roof to be solid and we want
+the walls to be hidden so I have already gone ahead and created two layers so I have a roof
+framing layer I have it in orange and it's continuous with a 0.5 line width and the wall I actually
+change it to hidden and at a 0.2 line width let me mix this off the reason why you're not seeing
+in the changes here is because these lines are not using the what we call by layer option alright
+so that's something we need to fix so we're gonna select all of these select similar we're going
+to put them on the roof framing plan and we're gonna change the color to be by layer and also
+gonna change a line type to be by layer we're gonna do the same thing with the walls select
+similar and we're gonna say by layer line type by layer line width also by layer I don't think I
+had changed these guys to by layer for the line type so let's check that again yep so this should be by
+layer and and if you notice by changing everything to by layer you notice what happened on
+another roof is in focus while the walls are in background from here we can go ahead and start to add
+our roof framing elements so all your rafters all your fascia board and all of that I like to
+begin with the fascia board because I think for this particular project that's the easiest place to
+begin so what I'm gonna do I'm gonna switch over to the roof framing layer and then draw a box
+over this and then I'm gonna offset one inch because we know that the the fascia board is one inch by 10
+enter and then I'm gonna offset this inward all right do not put it on the outside put it on the
+inside all right so that would represent my fascia board right here all right and then the next step
+would be to start under ridge and then I work my way out but I find that the easiest way to do this is to
+use the box tool so I'm gonna draw a box which measures two inches by two inches and it looks
+stupid but check this out I'm gonna copy this box and I'm gonna place it right here all right
+I'm gonna just drag this now out to this end and just like that I already have my ridge board
+now guys if you're unfamiliar with the parts of the roof it's important that you'll learn the
+different parts of the roof such as the gavel he valley and things like those you also need to be
+familiar with the different names for the rafters as well so make sure to google that and learn what you
+need to learn so I'm gonna stretch this out just another inch so that the corners line up with these
+lines here and then the next thing I'm gonna do is to copy this our let me copy this box again because
+we're gonna be copying this box quite a bit control shift c so I can paste it multiple times
+so I'm gonna rotate this box for the valley greas so that it turns this way and then I can
+turn off our thermode and I'll pull this down all the way to this point here so now I have my hip
+raf the look at that control via again to paste I want this one to be move right on the edge of that and
+I'm gonna stretch this out turn on the arthomode all the way to the edge of this fascia board right
+here all right so so far so good and then I'm gonna just rotate this from the center here
+using the copy tool and I'm rotated 90 degrees so what we did there was to rotate this to get a
+duplicate around this side all right so these are kind of how you want to start to layout your roof
+and a simple roof like this makes it even easier because once we do one side we can mirror it
+to get the other side so we have that let's go ahead and copy this common rafter and we're gonna copy
+out to get our other rafter which would be 24 inches apart so that's the maximum you want to be at
+all right and then I'm gonna stop right here because I'm gonna flip this on this side I'm gonna just
+keep going down into inside of here so let's just copy these I'm gonna use a reference point to
+copy those so I can move quickly all right so now I have all of these rafters going down obviously
+these ones need to be shortened to line up on this hip rafter so what I'm gonna do here is to just
+bring these points down and this is the beautiful thing about using the box art erect angle tool I can
+simply just manipulate the box to get the shape that I need and it works perfectly guys you know
+don't know away with the offset offset business you know and I'm sure there's a easier way to do this
+tool you know but I find this to be quite easy to do it that way because no everything is like an
+object by themselves all right one of the things I want to do as well is to edit this rafter so that
+it stops in this corner on both ends so I'm gonna put our extra vertex in the middle there
+can see that and then I'm gonna bring it this center all the way down to here and then bring these corners
+down to there we use it x that green x just like that and then we're gonna do the same thing down
+here where we're gonna add vertex gonna place the vertex right where we need it and then we're gonna
+move these two end oops that's wrong move these two ends up to where you see the green x which
+would mean intersection good so though that rafter looks beautiful right in that corner there and then
+all we need to do now is to mirror so what we're gonna do here is to mirror all of these rafters
+including the hip rafter over onto this side so let's use the mirror tool and we're gonna find
+the center of this line where you see that triangle midpoint and then we're gonna just drag it
+but we need to turn on the arthamode so that we get a straight line down so we're gonna click
+I'm gonna hit enter so just like that now we have one side completed now if you notice each of these
+are currently at a two feet center to center but in the middle here we have a slide issue this one is
+a little bit smaller than what is required to get a two feet distance so because it is smaller what
+we're gonna do is to just copy this one now we're gonna just place it in the dead center
+which means that this portion would be a tad bit smaller than the two feet but that's okay
+because you want them to be a maximum two feet but it can also be less all right so bear that in mind
+all right so once we get that what I'm gonna do now is to do some more mirror so I'm gonna
+actually mirror these guys to fill this gap right here how you do that all right try to
+so at mirror and this time we're gonna use this 45 degree center line as our mirror line so we're
+gonna click in the center there drag it down to this corner and just like that we're gonna hit enter
+and now we have the next one it's and so again we're gonna just mirror these guys all of these
+over to this side so let's do that mirror just like we did earlier from that green triangle
+click enter and look at that we have half of the roof done and then I'm gonna just do the same thing again
+that
+all right so I don't need these two because these are already on the center line I don't want to
+mirror those so I'm gonna mirror what we have here I'm gonna mirror from this center here
+to this center here and look at that we have a finished roof framing plan delete that all right
+and so this is looking wonder loss beauty full so what I'm gonna do actually there's a
+tool that I discovered I have never really used it much in the past but I'm using it now
+we're gonna select everything I were gonna just group I don't know how I didn't think about
+it's before but when you group objects it's not really a block because usually when you create a
+block and you select the block you would see the name change here to blocks but Otaka is telling us
+that we have selected 54 polylines which mean we can still treat this as if it were a polyline we
+can convert it you know that's a nice tool to just group your elements together that way you
+know mistakenly do something stupid so I'm gonna do the same thing with the walls select all
+and I'm gonna just GR or UP and you can also ungroup it by just typing ungroup all right so
+the walls are grouped the roof is grouped and so now we're gonna add some details to this drawing
+one of the first ones I usually like to add is the rafter labels and this is how I usually do it
+I know they're a lot of different ways to do this but this is how I usually go about doing it
+first of all I am on the wrong layer all right so I'm gonna go back to zero I'm currently using
+the zero layer as my notes layer to add notes so here that in mind you might want to create a
+separate layer for that all right so I usually create this big dot and place it right in the middle
+here and I'm gonna copy it two times over to this rafter and then this rafter I'm gonna move it
+down a little bit then I'm gonna draw a line through the middle then I'm gonna group them all right so
+this is how I usually do this and then I would add a note on here that says all right so this
+note has a lot of stuff inside of it is telling us the size of the material they are treatment
+of the material on the type of wood common jack rafter so it's telling us that these this is
+applied to both the common rafters which are the full length rafters as well as the jack rafters
+which are the ones that are cut at an angle and then these are mainly two feet center to center
+and we use a term mainly because of course we know that we have one in the middle here are two
+that is not equally spaced at the two feet so we use that term right here all right and so of course
+I'm gonna pull this out so that it can look a little bit nicer all right so something like that and of
+course we're gonna mirror this on the other side I'm gonna be using the mirror to a quiet
+often in this video guys so just like that that is done and I'm gonna mirror this as well
+this one up here on the 45 so I can get it on the right there and I'm gonna mirror this again
+to get it in the middle not in the middle on the other side so now I have on all four sides and then I'm
+gonna just copy this over if it turned that off and then trying to get it straight all right good
+of course I probably should have mirror this as well so far we have all our common and jack rafters
+labeled no we can go ahead and add rather copy this because most of the rafters are the same size
+of course in different scenarios you'll have different size rafters so you need to pay attention to that
+I think we'll make this two by eight which would mean that this would be 200 WPP hip rafter all right so
+the hip rafter is just a tad bit bigger and that's all you'd have for the hip rafter there's no
+center to center and that kind of thing because it's you know it's just one on that side and of course
+we're gonna mirror this all over the place mirror mirror good and then we have one ridge board
+in the middle here so I'm gonna just probably just I'm gonna just copy this and I'm gonna say
+2 by 10 I think 10 would be 250 ridge board and of course I'm gonna move the ira over
+I'm gonna actually move this over a tad bit
+good all right so that's the ridge board and then finally we just want to add one last
+label to capture the the fish aboard and this would be a one by 10 which would mean 25 by 250
+fish board period all right and of course you know how the drill go already
+I mean sometimes you don't even have to put them all around you could just you know give a general
+label and say tip which is the shining for a tip because but you know I'm just going all out for this
+and I'm not even gonna put any at the top there I'm just leaving it right there and then finally
+we can't leave off our arrows that will show the direction of flow so I do have this arrow that is
+in the design center control tool that will bring this up and of course you can follow my
+direction here I think it's located in the same spot for all auto cuts off where so dynamic blocks
+and in this thing here you have a little arrow that I use quite often so I'm gonna bring it in
+X this off and so here it is I'm gonna have to just use this skill but the skill drawing
+thing here all right so I'm a skill it don't like this I've tried let me rotate it first
+90 degrees and I'm gonna move it and place it roughly about
+both here maybe yeah right here yeah it is a good spot and you know the jewel already I'm gonna
+just mirror the arrows still a little bit big but you know you can adjust your is to make it look nicer
+mirror have it on that side and then I'm gonna mirror again
+mirror again and then I'm gonna mirror again
+so now we have arrows showing us the direction of flow these arrows are really big and ugly
+but it is what it is and so now what is left for us to do we're gonna add some detail section
+because remember if we go back to our detail views down here we did have a detail for Eve
+as well as Ridge all right so what we want to do is to show those detailed collotes on this drawing as
+well so we're gonna go to annotate and we're gonna go to collotes and we're gonna select
+this particular one that tells us the drawing number as well as the sheet number okay and this one
+has the tail on it I like the one on the tail so I'm gonna place it actually I'm gonna place it down
+here drag this and click hit enter and then you can tell it which direction you want to turn
+I'm gonna turn it up and click and then we do not want to create any drawing we're gonna just say
+collote only and later on we will be filling in these fields with the appropriate information
+we're gonna do one in the middle here as well for the ridge so go ahead again and click on that
+and let's just draw one here and hit enter and then I'm gonna turn it this direction
+and I must say collote only all right and the same thing applies here okay so these are the only
+two details we're gonna be having if you had a valley then you and you have a valley detail of
+course you'd want to do one or as well as other parts of the roof if you had additional details you
+could add as much detail collotes as you need all right but this is all we need for this
+particular drawing we're not gonna add anything else the only thing we're gonna do now is to just
+create our view and you already know the shrubs roof, framing plan all right I'm gonna select
+our region which would be something like that now we're gonna hit okay and of course we can go ahead
+and add our title and the title would be something like that with the roof framing plan for some
+reason these things are not filling in but I believe it there so this is what we have for our roof
+framing plan okay guys and this is all you really need to scrape true at parish console of course
+we do have our additional details such as the ev detail and the ridge detail that we're gonna
+be flesh and old in another video as well as all of these other little things right here all right so
+don't worry about that we're gonna get there but for now this is where we're gonna stop this video
+that you learn something I'm gonna drop this particular sheet drawing in a PDF so that you can
+download it in the links below all right so definitely check the description below for that
+all right guys we're gonna add one last thing and here that I almost forget that we could also put
+the slope of the roof on here and we can represent that by simply drawing a triangle
+and basically we want to have something looking like a right animal triangle some like that
+this is the slope symbol and we're gonna write underneath that what slope it is now this roof is at
+a 30 degree slope which if you're wearing it out to be represented in the roof slope standard it would
+be 6.9 for to 12 of course we could run this after 7 but if we do that mean the roof would be
+a little bit over the 30 degrees slope which we already have modeled all right so we don't want to change
+that all right so we're gonna put this like one here and we could actually put another note and
+I need to here to say tip for all slopes all right I mean if you had different slopes then of course
+you want to put a triangle wherever that different slope is all right but since we only have one
+angle we use across the entire roof we'll just put something like that over there and that should be
+good to go all right so yeah that's it my god that was a long video cheese anyways thank you for
+watching the video today I hope that you learned something and you know what to do already hit the
+subscribe button if you haven't already like share comment and all of that follow me on Instagram
+follow me on Twitter bigger place self-adornalting or elbow pump

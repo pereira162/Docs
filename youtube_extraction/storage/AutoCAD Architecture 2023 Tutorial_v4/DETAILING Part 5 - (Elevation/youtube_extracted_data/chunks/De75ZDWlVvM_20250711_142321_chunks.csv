@@ -1,0 +1,200 @@
+chunk_id,content
+0,"Hi everybody, welcome back to the channel.
+Thank you for joining and today what I'm going to be showing you is how to get your elevation
+views to look for a little bit in our mean, make them look so much better than this.
+So we have a tournament this.
+Yes, so there's a lot to unpack in this video today that is why it is a little bit longer
+than the usual stuff in our mean but I'm sure you're going to learn something and guess
+what if you did you know what to do? Hit the like button drop a comment
+and guess what if you didn't subscribe it?"
+1,"you know what to do? Hit the like button drop a comment
+and guess what if you didn't subscribe it? No, it's the right time to subscribe and hit the bell
+that is the only way you're going to know that another video comes out when it does.
+You know what I mean? Well, you might not be the only one who you bought. You don't know it.
+Just subscribe. All right, without further ado, let's get into it.
+All right, so here we are back in our Takaar architecture and today we want to enhance and finalize
+our elevation views."
+2,"are back in our Takaar architecture and today we want to enhance and finalize
+our elevation views. So as you can see here, this is what they currently look like.
+What we want to do is to get them to look like what we have in this image right here where we have
+added some annotations, dimensions and we have also removed the wall hatch pattern."
+3,"e where we have
+added some annotations, dimensions and we have also removed the wall hatch pattern. Also,
+we've added some trees in the background to give some depth to the elevation views.
+Now bear in mind, trees are not necessary in an elevation view for working drawing purposes,
+but just in case you need to do elevation views for presentation purposes. Then I'm going to
+be showing you how to do that in this video today. So let's go over back to AutoCAD and this is where we are
+at."
+4,"u how to do that in this video today. So let's go over back to AutoCAD and this is where we are
+at. Now if you don't know how to create these elevation views, I have a video back in episode 12.
+So we would be able to find these views in our project navigator underneath our section and elevation
+folder. Of course, we have them right here and we also have our two section of views. So that out of
+the way, let's get right into this. No, what I want you to understand is that your elevation views
+are direct reflection of what you draw in your drawing."
+5,"to understand is that your elevation views
+are direct reflection of what you draw in your drawing. So for those of you who are new here,
+this drawing is actually a 3D drawing. And so whatever is being done in this 3D drawing is what you're
+going to see over here. What that means is that the more accurate you do this drawing over here,
+then the more accurate your elevation views will be. Also, the more details you add to this drawing,
+such as let's say window moldings, you know, roof gutters and stuff like that. The more you add to
+your drawing, then the more detail your elevation views."
+6,"s and stuff like that. The more you add to
+your drawing, then the more detail your elevation views. And also your section views will be. Of course,
+this is a very basic video. So we're not going to get into all of that crazy details. Maybe a future
+video we'll talk about that. All right. So the next thing we want to do here is to remove
+hatching on these walls. They are very, very annoying. So let's go ahead and click on one of these views.
+We're going to go to edit style and we're going to go over to design properties. Click on that
+button underneath layers."
+7,"edit style and we're going to go over to design properties. Click on that
+button underneath layers. We're going to go down to hatch our rather surface hatch line work
+and we're going to turn that bad boy off. Okay. Okay. And just like that, all surface hatching will
+be turned off. So if you notice it applies that to all our elevation. So we have nothing to worry about.
+Let's move to the next step. All right. What I want to do is to bring in to this drawing our site
+plan. Because if you remember in past episodes, I'm going to link it below."
+8,"o this drawing our site
+plan. Because if you remember in past episodes, I'm going to link it below. If you missed it,
+we drew a site plan, as you can see here. And it has a couple of 3D elements to it. You know,
+we have some trees and we have a car and so on and so forth. So if we bring this into our elevation view,
+we should be able to see those trees and car reflected in our elevation views. All right. So what
+I'm going to do here is to just exit this back off. I'm not going to save it."
+9,"s. All right. So what
+I'm going to do here is to just exit this back off. I'm not going to save it. What I will do is go back
+to my project navigator, go to construct and on your site plan, we're going to right click and we're
+going to say Xref overlay. And just like that, we have the site drawing included in this drawing.
+And what that allows us to do is to reflect those onto these drawings now. So we're going to
+highlight them all and we're going to hit refresh. And just like that, as you can see, no trees are
+in the elevation views cars. Well, one car is in the view as well."
+10,"at, as you can see, no trees are
+in the elevation views cars. Well, one car is in the view as well. And it would be seen in all
+the other views. All right. Now, if you notice the trees are being cut off. And that's because
+the view is not wide enough to capture everything. So if we go back over to this 3D drawing,
+you will notice that we have these lines here representing the views. Whatever is within this box
+is what will show up here. So what that means, if we want to see everything, what we have to
+do is to widen the box."
+11,"up here. So what that means, if we want to see everything, what we have to
+do is to widen the box. But before we move ahead and the box, I will actually want to move
+these over because I don't know if you noticed, but my site plan is coming over into the drawing
+on this. All right. All right. So those are moved over looking good. So now we can widen this box
+out some more. So let's go ahead and start with the left elevation. Let's capture everything
+down to this point here."
+12,"let's go ahead and start with the left elevation. Let's capture everything
+down to this point here. And if you notice guys, this line represents the left elevation and everything
+within this box will show up on our left elevation. So if I go back to my left elevation here
+and I refresh. Now I'm seeing everything that was within that box. All right. So that's what
+I want to do with all of these lines. So I'm going to move this. This would represent the back
+elevation. Move that up and I'm going to widen this out."
+13,"o move this. This would represent the back
+elevation. Move that up and I'm going to widen this out. By the way, when you're widening these
+out, please make sure that your are from all this turned on because what you don't want to do is to
+widen it and it looks something like that. All right. So on do turn on my off a more this turn on
+all right. Pull this out and I'm going to pull this down. All right. So everything within this box
+will be seen. And then I'm going to move this one out like that. You know what? It's not necessary
+to collect them. And I'm going to also move this one."
+14,"like that. You know what? It's not necessary
+to collect them. And I'm going to also move this one. This one here. Back to about here. And I'm going
+to widen them out a little bit. But I'll go a little bit. All right. So now it's not all very neat, but
+it doesn't matter once it captures everything. We're going to refresh them all. And now you can see
+all our elevations are pulling those information. One thing you definitely don't want is any
+object to block the building, especially if these are working drawings."
+15,"efinitely don't want is any
+object to block the building, especially if these are working drawings. Drawings that there
+are your carpenter and your Mason and the contract is going to use. You definitely don't want these
+to be blocking. But if you're doing a presentation drawing, then of course you can have it like that.
+In this scenario we don't want it. So what I'm going to do is to move these back in front of
+those objects. So I kind of put it in front of the car. So I don't see the car. For this one, I want to
+put it in front of those trees like that tree right there."
+16,"n't see the car. For this one, I want to
+put it in front of those trees like that tree right there. And I want to see it like wise for the
+back elevation. I don't want to see those trees. And for this side, I guess this side is good.
+Nothing is really blocking the building. So that would be good. Then I would go ahead and refresh.
+So now you can see that those trees are gone. For this view, now we can see the door
+clearly, which is important. And for the front view, there's no tree in front of the house."
+17,"he door
+clearly, which is important. And for the front view, there's no tree in front of the house. But then we
+also have those in the back, which we're going to be using to add depth to this drawing. All right.
+So what I'm going to do from this point is to drop the ground six inches down. All right. Now
+if you notice currently, it is in the same line as our finished floor level. And that's not good.
+What I mean is if I should go to 3D view, this matter of fact, let's go to
+concept to it. Where it's a little bit easier to see."
+18,"to 3D view, this matter of fact, let's go to
+concept to it. Where it's a little bit easier to see. So the ground level is on the same level as
+the finished floor level, which is in the house, which simply means every and far, what are
+going to go in there also, you need to drop this. So what we're going to do is to click on it, go over to
+where you see insertion point z. I'm going to take away six inches from this, three feet,
+six inches. We're going to hit enter. And so that is being dropped six inches below."
+19,"s, three feet,
+six inches. We're going to hit enter. And so that is being dropped six inches below. So now if we
+rotate, we can actually see that the ground level is now below the finished floor level. And so let's
+go back to 2D wire frame. Let's also go back to our top view and then we're going to refresh.
+And if you look at it now, we can see that the ground has no been depressed six inches,
+which is exactly what we want. What we're left to do is to just modify our elevation views.
+Now I'm going to modify a one."
+20,"e want. What we're left to do is to just modify our elevation views.
+Now I'm going to modify a one. And then of course, you would apply those principles to your
+other elevation views. Don't think I would have enough time to go through all of them. But let's
+see what we can do. So I'm going to do this one in particular. This is the right elevation.
+Mainly because it has the door none of my other views actually have a door on it. So
+I want to do this because you know, I want to give an example of a door. So what we're going to do
+is we actually can click on the elevation view."
+21,"ive an example of a door. So what we're going to do
+is we actually can click on the elevation view. Let's widen this out some more.
+All right to capture everything. And then what we can actually do from here is to we can
+explore it. All right, that's one way to do it. So if we do explore it and then we have to explore it
+another time, we would be able to select the line and delete what we don't want, you know,
+and add stuff that we want. And this would be like the more traditional way of doing it.
+Like we used to do it. Right. And sometimes this is necessary."
+22,"he more traditional way of doing it.
+Like we used to do it. Right. And sometimes this is necessary. But for this video, I want to
+show you another method. So I'm going to undo back to this position. And then we're going to go ahead
+and edit this elevation view by clicking on the edit button up here. And no, as you can see, we
+can actually click on lines and delete lines. One thing you cannot do here is to like say move a line.
+You can't move the line or you cannot length a line. All right, but don't worry. Let's know
+problem. So we're going to delete the foundation, of course."
+23,"All right, but don't worry. Let's know
+problem. So we're going to delete the foundation, of course. We're going to also delete this line
+because I want it to make it a little bit more customizable. And then we're going to go ahead and hit
+finish. And so this is what we're left with. Now what we want to do is to go ahead and use lines and draw
+the areas that we want to draw. So the first thing I'm going to draw is this line right here,
+which would represent our finished floor level. And then we're going to disconnect these walls
+back into the ground with another line. Just like that."
+24,"then we're going to disconnect these walls
+back into the ground with another line. Just like that. All right. So once we have those three lines
+in place, what we're going to do is to merge it with the current elevation. So we're going to hit
+merge and we're going to select the elevation along with those lines that we drew. I'm going to hit
+enter and we're going to basically match those lines to look like the wall. So we click on the wall
+and it changes to the wall component. Hit OK. And so now those lines basically take on the same
+component as the walls. All right."
+25,"onent. Hit OK. And so now those lines basically take on the same
+component as the walls. All right. The next thing I want to do, I'm going to actually draw
+two other lines, one here, going across and another one here, going across.
+And that would represent my finished floor level going through the building. So we're going to add
+those again merge. I'm going to select those two lines as well as the elevation. And we're going
+to hit enter. This time we're going to change the component to what is called a hidden vector. Because
+those lines I want to be in a hidden line. All right."
+26,"nt to what is called a hidden vector. Because
+those lines I want to be in a hidden line. All right. And as you notice, we have quite a number of
+options here to choose from. We have section hatched. That is if you were going to use hatching.
+We have subdivisions which we can assign different things to. And later on you'll see that
+actually we're using one of these. All right. So let's stick with hidden vectors here. Hit OK.
+And know those lines have actually become a part of the elevation. And have also taken on a hidden
+line pattern. All right. So looking good so far."
+27,"of the elevation. And have also taken on a hidden
+line pattern. All right. So looking good so far. Another thing I want to do is to go again and edit
+and actually want to be this line because this should actually be a flat wall going all the way across.
+And these door swing lines should actually look like this. I want them to look like this. So I'm
+going to edit these lines go to model a component and I'm going to change them over to swing lines.
+All right. And then I hit OK. So just like that, I have my swing lines looking like this one over here.
+All right guys."
+28,"I hit OK. So just like that, I have my swing lines looking like this one over here.
+All right guys. So if you're enjoying the video so far then definitely remember to hit the like button.
+And guess what? If you learned something new today and it's your first time on the channel,
+I'm going to ask you to do me a favor. Subscribe button. Remember to hit the bell because that is
+how you're going to know when I drop another video. All right. Thanks. Be glad yourself. Let's get back to it.
+No. I also want to make the ground. All these lines don't here."
+29,"lad yourself. Let's get back to it.
+No. I also want to make the ground. All these lines don't here. No, let's let's do this.
+I'm going to go modify a component. I'm going to switch these over to medium weight objects. All right.
+Because this is a much thicker line than the current subdivision one line. So we're going to switch
+them over to medium weight. I'm going to hit OK. And if you notice it changes color. So if I should turn
+on line weight here, you can see that those lines are actually a little bit thicker. No, I want to put
+the trees on a separate component as well."

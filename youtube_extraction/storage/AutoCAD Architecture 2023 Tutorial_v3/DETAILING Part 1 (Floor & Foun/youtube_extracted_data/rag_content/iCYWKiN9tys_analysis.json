@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 14,
+    "avg_words_per_sentence": 71.42857142857143,
+    "language": "pt"
+  },
+  "keywords": [
+    "dois",
+    "isso",
+    "fazer",
+    "vai",
+    "vamos",
+    "número",
+    "você",
+    "dois"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T13:30:11.419208",
+    "processing_mode": "memory_optimized"
+  }
+}

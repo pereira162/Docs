@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Music\nHello everyone, welcome to the 24th and final episode on the one-bedroom house series\nthat we have been doing on the channel. In today's video I'll be showing you how to get your\nsheets all set up in AutoCAD and how to print them in PDF format. So you might hear terminologies like\nsheet template, field text, sheet set, subsets or sheet properties, stuff like that but don't worry,\nI'm sure by the end of this episode you'll understand what all of that means.\nNow this video is going to be a long one so buckle up.",
+    "start_char": 0,
+    "end_char": 522,
+    "char_count": 521,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "de you'll understand what all of that means.\nNow this video is going to be a long one so buckle up. What I'll do is to break this video in the\nparts so that you can skip to the part that you want to watch. So if that's something you want to\ndo check the description below for the timestamps. You all said, I got you. I'll also be dropping the\nplaylist for all the other episodes just in case you missed one or two aren't. You haven't seen it at\nall. Check the description.",
+    "start_char": 422,
+    "end_char": 895,
+    "char_count": 472,
+    "word_count": 95,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "sodes just in case you missed one or two aren't. You haven't seen it at\nall. Check the description. Yes, so I did enjoy making these videos and I hope that you enjoyed watching\nthem as well and if you did comment below which ones were your favorite and if you're first I'm\non a channel or if you haven't subscribed as yet, I'll sub this solid. All right, so let me stop talking\nand jump right into AutoCAD and show you how to do this thing. All right everybody, so here we are\nback in AutoCAD architecture and let's jump right into it.",
+    "start_char": 795,
+    "end_char": 1331,
+    "char_count": 535,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "ing. All right everybody, so here we are\nback in AutoCAD architecture and let's jump right into it. So as you already know we're going to be\ncreating all of our sheets today but before I get into that I want to show you three additional\nviews that I have created ahead of time for this video today. So I did do a location map as you can see\nright here. I also did some additional site information. You know just type of a little thing here and I\nalso did some concrete notes here. Typical stuff, you know, just to make it into something we can\nplace on the sheet.",
+    "start_char": 1231,
+    "end_char": 1795,
+    "char_count": 563,
+    "word_count": 111,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "rete notes here. Typical stuff, you know, just to make it into something we can\nplace on the sheet. All right, now the location map actually I went on Google and I just find a spot\nand just take a snippet of it and as you can see I drew a box on the area and also kind of put a little\ntext there to kind of identify the property. Also when you're doing a location map you want to make sure\nyou have other, you know, table buildings or properties around so that persons who would like to\nlocate the property can use those buildings as a landmark or as a references.",
+    "start_char": 1695,
+    "end_char": 2260,
+    "char_count": 564,
+    "word_count": 113,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "ons who would like to\nlocate the property can use those buildings as a landmark or as a references. So bear that in mind\nwhen you're going on Google to snip a photo or a snippet of that on here. Now this location map is not\nto scale so I'm going to actually change this from one eight to NTS because it's not done to\nscales so I don't want to have a scale there. Now if you notice this text up here is a little bit\ndifferent from the others and that's because this is what we call a field text meaning this information\nis being pulled from somewhere else.",
+    "start_char": 2160,
+    "end_char": 2716,
+    "char_count": 555,
+    "word_count": 111,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "use this is what we call a field text meaning this information\nis being pulled from somewhere else. All right and I'm going to show you exactly where it is being\npulled from. If we go back to our project Navigator where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2616,
+    "end_char": 2928,
+    "char_count": 311,
+    "word_count": 62,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "r where we see the project let me come out of that\nproject tab here and we go to the little pencil.",
+    "start_char": 2828,
+    "end_char": 2928,
+    "char_count": 99,
+    "word_count": 22,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

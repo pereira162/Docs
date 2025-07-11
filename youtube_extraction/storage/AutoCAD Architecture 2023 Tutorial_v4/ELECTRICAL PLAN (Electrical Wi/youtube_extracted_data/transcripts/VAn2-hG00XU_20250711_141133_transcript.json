@@ -1,0 +1,1775 @@
+{
+  "video_id": "VAn2-hG00XU",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Yeah, hello everyone welcome to episode 15 of our one bedroom house series and today",
+      "start": 0.0,
+      "end": 7.5600000000000005,
+      "duration": 7.5600000000000005
+    },
+    {
+      "index": 1,
+      "text": "what we're going to do is an electrical plan so you see we are get plant-tubber things",
+      "start": 7.5600000000000005,
+      "end": 12.76,
+      "duration": 5.199999999999999
+    },
+    {
+      "index": 2,
+      "text": "we are moving with the project alright so don't move on muscle",
+      "start": 12.76,
+      "end": 19.16,
+      "duration": 6.4
+    },
+    {
+      "index": 3,
+      "text": "If you're new here we've been doing a one bedroom house from scratch and we're",
+      "start": 30.0,
+      "end": 39.56,
+      "duration": 9.560000000000002
+    },
+    {
+      "index": 4,
+      "text": "trying to produce all the drawings that are necessary for a proof-all we are",
+      "start": 39.56,
+      "end": 43.64,
+      "duration": 4.079999999999998
+    },
+    {
+      "index": 5,
+      "text": "going to produce views and we're going to also put them on sheets and we're going to print",
+      "start": 43.64,
+      "end": 47.519999999999996,
+      "duration": 3.8799999999999955
+    },
+    {
+      "index": 6,
+      "text": "them and we're going to maybe I'll submit it what do you think about that I could",
+      "start": 47.519999999999996,
+      "end": 52.28,
+      "duration": 4.760000000000005
+    },
+    {
+      "index": 7,
+      "text": "actually do a video on all of that but we'll see we'll see if you want me to do it",
+      "start": 52.28,
+      "end": 56.72,
+      "duration": 4.439999999999998
+    },
+    {
+      "index": 8,
+      "text": "just comment it down below or hit the like button we see we see what that goes",
+      "start": 56.72,
+      "end": 60.76,
+      "duration": 4.039999999999999
+    },
+    {
+      "index": 9,
+      "text": "um no remember that I'm doing these drawings based on Jamaican standard so the way I",
+      "start": 60.76,
+      "end": 67.68,
+      "duration": 6.920000000000009
+    },
+    {
+      "index": 10,
+      "text": "do these drawings you know it might be a little armadly very different depending on",
+      "start": 67.68,
+      "end": 72.52,
+      "duration": 4.839999999999989
+    },
+    {
+      "index": 11,
+      "text": "where you're from but I do hope that you learn something nonetheless and that you",
+      "start": 72.52,
+      "end": 78.4,
+      "duration": 5.88000000000001
+    },
+    {
+      "index": 12,
+      "text": "will find some value in these videos if you actually learn something you could just",
+      "start": 78.4,
+      "end": 83.16,
+      "duration": 4.759999999999991
+    },
+    {
+      "index": 13,
+      "text": "you know hit the like button and consider just consider subscribe alright",
+      "start": 83.16,
+      "end": 88.2,
+      "duration": 5.040000000000006
+    },
+    {
+      "index": 14,
+      "text": "respect in order to do an electrical plan it's important that you have some",
+      "start": 88.2,
+      "end": 93.84,
+      "duration": 5.640000000000001
+    },
+    {
+      "index": 15,
+      "text": "background information some understanding of how electricity works electrical",
+      "start": 93.84,
+      "end": 99.28,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 16,
+      "text": "components or devices you need to have a background knowledge and all of these",
+      "start": 99.28,
+      "end": 104.64,
+      "duration": 5.359999999999999
+    },
+    {
+      "index": 17,
+      "text": "things also if you've never seen an electrical plan it would be a good idea to see",
+      "start": 104.64,
+      "end": 109.67999999999999,
+      "duration": 5.039999999999992
+    },
+    {
+      "index": 18,
+      "text": "what one looks like so you could just go on Google type in electrical plans and",
+      "start": 109.68,
+      "end": 114.72000000000001,
+      "duration": 5.040000000000006
+    },
+    {
+      "index": 19,
+      "text": "just look at some images and you will notice that you have a flow plan with you",
+      "start": 114.72000000000001,
+      "end": 118.92,
+      "duration": 4.199999999999989
+    },
+    {
+      "index": 20,
+      "text": "know some symbols all over the place representing different things and you",
+      "start": 118.92,
+      "end": 123.36000000000001,
+      "duration": 4.440000000000012
+    },
+    {
+      "index": 21,
+      "text": "might see like things connecting to other things and so on and so forth try to",
+      "start": 123.36000000000001,
+      "end": 127.56,
+      "duration": 4.199999999999989
+    },
+    {
+      "index": 22,
+      "text": "understand what is happening on an electrical plan read all the notes on the",
+      "start": 127.56,
+      "end": 133.04000000000002,
+      "duration": 5.480000000000018
+    },
+    {
+      "index": 23,
+      "text": "side of the page and also get familiar with the different symbols that I",
+      "start": 133.04000000000002,
+      "end": 138.64000000000001,
+      "duration": 5.599999999999994
+    },
+    {
+      "index": 24,
+      "text": "represented on an electrical plan alright that's very very important all right",
+      "start": 138.64,
+      "end": 143.23999999999998,
+      "duration": 4.599999999999994
+    },
+    {
+      "index": 25,
+      "text": "so here I have provided a PDF with a list of symbols or rather electrical",
+      "start": 143.23999999999998,
+      "end": 150.04,
+      "duration": 6.800000000000011
+    },
+    {
+      "index": 26,
+      "text": "symbols that we're going to be using on this electrical plan and of course this",
+      "start": 150.04,
+      "end": 154.88,
+      "duration": 4.840000000000003
+    },
+    {
+      "index": 27,
+      "text": "list is very limited in comparison to the amount of symbols that are available",
+      "start": 154.88,
+      "end": 160.44,
+      "duration": 5.560000000000002
+    },
+    {
+      "index": 28,
+      "text": "to use now for this little one bedroom house we don't need a lot of stuff in",
+      "start": 160.44,
+      "end": 164.56,
+      "duration": 4.1200000000000045
+    },
+    {
+      "index": 29,
+      "text": "fact this list is probably too much because I'm definitely not going to be",
+      "start": 164.56,
+      "end": 168.56,
+      "duration": 4.0
+    },
+    {
+      "index": 30,
+      "text": "placing all of these symbols or components within this little tiny bedroom",
+      "start": 168.56,
+      "end": 174.6,
+      "duration": 6.039999999999992
+    },
+    {
+      "index": 31,
+      "text": "house alright so of course you can download this PDF in the link in the",
+      "start": 174.6,
+      "end": 179.16,
+      "duration": 4.560000000000002
+    },
+    {
+      "index": 32,
+      "text": "description make sure that you get yourself familiar with the different symbols",
+      "start": 179.16,
+      "end": 183.88,
+      "duration": 4.719999999999999
+    },
+    {
+      "index": 33,
+      "text": "for instance this one represents shandelier you have emergency light unit this",
+      "start": 183.88,
+      "end": 191.16,
+      "duration": 7.280000000000001
+    },
+    {
+      "index": 34,
+      "text": "one represents switches and I wanted to kind of explain this one a little bit so",
+      "start": 191.16,
+      "end": 195.44,
+      "duration": 4.280000000000001
+    },
+    {
+      "index": 35,
+      "text": "I regular switch would look like this that's like the light switch which would",
+      "start": 195.44,
+      "end": 199.32,
+      "duration": 3.8799999999999955
+    },
+    {
+      "index": 36,
+      "text": "mean single pole switch alright no if you have a double pole toggle switch then you",
+      "start": 199.32,
+      "end": 204.64,
+      "duration": 5.319999999999993
+    },
+    {
+      "index": 37,
+      "text": "would put a tool where the X is if you have a three-way toggle switch you would",
+      "start": 204.64,
+      "end": 208.64,
+      "duration": 4.0
+    },
+    {
+      "index": 38,
+      "text": "put a three there if you have a dimmer switch you'd put a t there alright so",
+      "start": 208.64,
+      "end": 213.52,
+      "duration": 4.880000000000024
+    },
+    {
+      "index": 39,
+      "text": "these can become important as you do your drawing depending on what your",
+      "start": 213.52,
+      "end": 218.8,
+      "duration": 5.280000000000001
+    },
+    {
+      "index": 40,
+      "text": "project requires likewise when you go up to outlets or electrical plugs when",
+      "start": 218.8,
+      "end": 224.84,
+      "duration": 6.039999999999992
+    },
+    {
+      "index": 41,
+      "text": "you have a regular outlet it's normal but when you add a subscript to it then it",
+      "start": 224.84,
+      "end": 230.6,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 42,
+      "text": "means that that subscript represent whatever is over here alright so far",
+      "start": 230.6,
+      "end": 235.52,
+      "duration": 4.920000000000016
+    },
+    {
+      "index": 43,
+      "text": "instance a grown fall circuit interrupta this one would be placed in like a",
+      "start": 235.52,
+      "end": 241.56,
+      "duration": 6.039999999999992
+    },
+    {
+      "index": 44,
+      "text": "kitchen or in the bathroom where there might be water getting in contact",
+      "start": 241.56,
+      "end": 247.52,
+      "duration": 5.960000000000008
+    },
+    {
+      "index": 45,
+      "text": "with electrical equipment like a hair dryer or your blender stuff like that you",
+      "start": 247.52,
+      "end": 252.56,
+      "duration": 5.039999999999992
+    },
+    {
+      "index": 46,
+      "text": "have water proof as well these are mostly used outdoors so all of these abbreviations",
+      "start": 252.56,
+      "end": 258.8,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 47,
+      "text": "would go underneath the plug to represent respectively and then you have other",
+      "start": 258.8,
+      "end": 263.8,
+      "duration": 5.0
+    },
+    {
+      "index": 48,
+      "text": "symbols like USB outlet television outlet you have panels you have even",
+      "start": 263.8,
+      "end": 270.76,
+      "duration": 6.9599999999999795
+    },
+    {
+      "index": 49,
+      "text": "security cameras alright so a nice little list here that we can use on a wide",
+      "start": 270.76,
+      "end": 276.12,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 50,
+      "text": "array of projects so go ahead don't know them if you don't have your symbols",
+      "start": 276.12,
+      "end": 280.92,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 51,
+      "text": "make sure that you draw them in auto cut so that you'll have them to use of",
+      "start": 280.92,
+      "end": 286.88,
+      "duration": 5.9599999999999795
+    },
+    {
+      "index": 52,
+      "text": "course I'm gonna go bring to auto cut now where I actually have these symbols",
+      "start": 286.88,
+      "end": 292.44,
+      "duration": 5.560000000000002
+    },
+    {
+      "index": 53,
+      "text": "ready and waiting to go so of course I have made them into blocks I'm gonna",
+      "start": 292.44,
+      "end": 297.44,
+      "duration": 5.0
+    },
+    {
+      "index": 54,
+      "text": "be using them in our project so that's this drawing I'm gonna actually go into",
+      "start": 297.44,
+      "end": 302.48,
+      "duration": 5.0400000000000205
+    },
+    {
+      "index": 55,
+      "text": "the one bedroom house project now alright so let's do that so we're gonna go",
+      "start": 302.48,
+      "end": 306.48,
+      "duration": 4.0
+    },
+    {
+      "index": 56,
+      "text": "over to our project navigate and this is where all of our drawing exists we have",
+      "start": 306.48,
+      "end": 311.8,
+      "duration": 5.319999999999993
+    },
+    {
+      "index": 57,
+      "text": "our construct we have our views we have already created some views but we had",
+      "start": 311.8,
+      "end": 316.8,
+      "duration": 5.0
+    },
+    {
+      "index": 58,
+      "text": "a couple more constructs that we needed to create such as the electrical construct",
+      "start": 316.8,
+      "end": 321.88,
+      "duration": 5.079999999999984
+    },
+    {
+      "index": 59,
+      "text": "so we're gonna be doing that no so what we're gonna do is to right click on",
+      "start": 321.88,
+      "end": 326.12,
+      "duration": 4.240000000000009
+    },
+    {
+      "index": 60,
+      "text": "here I'm gonna go down to new and we're gonna see construct and we're gonna call",
+      "start": 326.12,
+      "end": 331.44,
+      "duration": 5.319999999999993
+    },
+    {
+      "index": 61,
+      "text": "this electric call layout now if you had multiple levels for instance if you have",
+      "start": 331.44,
+      "end": 341.0,
+      "duration": 9.560000000000002
+    },
+    {
+      "index": 62,
+      "text": "ground floor second floor third floor then you would need to have an",
+      "start": 341.0,
+      "end": 346.52,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 63,
+      "text": "electrical layout for each level alright so you would have probably level one",
+      "start": 346.52,
+      "end": 352.84,
+      "duration": 6.319999999999993
+    },
+    {
+      "index": 64,
+      "text": "here and then you'd create another construct and call it level two because each",
+      "start": 352.84,
+      "end": 357.96,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 65,
+      "text": "level would have a different layout alright and then we're gonna select the",
+      "start": 357.96,
+      "end": 362.4,
+      "duration": 4.439999999999998
+    },
+    {
+      "index": 66,
+      "text": "level that would we're gonna be applying this too so it's gonna be the ground",
+      "start": 362.4,
+      "end": 366.59999999999997,
+      "duration": 4.199999999999989
+    },
+    {
+      "index": 67,
+      "text": "level because this is just a single floor building I'm gonna open the drawing so",
+      "start": 366.59999999999997,
+      "end": 371.76,
+      "duration": 5.160000000000025
+    },
+    {
+      "index": 68,
+      "text": "let's click okay and as you can see that we have the construct over here",
+      "start": 371.76,
+      "end": 375.91999999999996,
+      "duration": 4.159999999999968
+    },
+    {
+      "index": 69,
+      "text": "being created and then we are also inside of that drawing electrical layout",
+      "start": 375.91999999999996,
+      "end": 381.52,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 70,
+      "text": "alright moving on from this it's a blank drawing so obviously we need to get",
+      "start": 381.52,
+      "end": 386.67999999999995,
+      "duration": 5.159999999999968
+    },
+    {
+      "index": 71,
+      "text": "the floor planning set of here how do we do that we go to our ground floor",
+      "start": 386.68,
+      "end": 391.36,
+      "duration": 4.680000000000007
+    },
+    {
+      "index": 72,
+      "text": "construct and we're gonna right click and see X-RF overly alright now we have our",
+      "start": 391.36,
+      "end": 398.92,
+      "duration": 7.560000000000002
+    },
+    {
+      "index": 73,
+      "text": "floor plan in the drawing what we need now also is our fixtures alright so",
+      "start": 398.92,
+      "end": 403.72,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 74,
+      "text": "we're gonna right click overly now we can see where everything is so we can",
+      "start": 403.72,
+      "end": 409.16,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 75,
+      "text": "properly layout our electrical devices okay so I'm gonna minimize this because I",
+      "start": 409.16,
+      "end": 414.24,
+      "duration": 5.079999999999984
+    },
+    {
+      "index": 76,
+      "text": "don't need that anymore and then I'm going to actually turn off a couple of",
+      "start": 414.24,
+      "end": 418.04,
+      "duration": 3.8000000000000114
+    },
+    {
+      "index": 77,
+      "text": "these layers because I don't want to see them so I'm gonna click on this little",
+      "start": 418.04,
+      "end": 421.2,
+      "duration": 3.159999999999968
+    },
+    {
+      "index": 78,
+      "text": "guy here called freeze I'm gonna freeze that and I'm gonna also freeze this and I",
+      "start": 421.2,
+      "end": 426.8,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 79,
+      "text": "think I will keep everything else for now alright so let's leave it there the",
+      "start": 426.8,
+      "end": 431.72,
+      "duration": 4.920000000000016
+    },
+    {
+      "index": 80,
+      "text": "next thing we're gonna do is to create some layers alright so if you don't know",
+      "start": 431.72,
+      "end": 435.84000000000003,
+      "duration": 4.1200000000000045
+    },
+    {
+      "index": 81,
+      "text": "where your layer property is it's right here click on that guy and it should",
+      "start": 435.84000000000003,
+      "end": 439.56,
+      "duration": 3.7199999999999704
+    },
+    {
+      "index": 82,
+      "text": "bring up alright so here's my layer property and I'm gonna actually create some",
+      "start": 439.56,
+      "end": 444.36,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 83,
+      "text": "layers so I'm gonna call this new layer E light made that green of course you can",
+      "start": 444.36,
+      "end": 452.04,
+      "duration": 7.680000000000007
+    },
+    {
+      "index": 84,
+      "text": "choose your own color let's not a hard rule right there gonna call this one E power",
+      "start": 452.04,
+      "end": 459.24,
+      "duration": 7.199999999999989
+    },
+    {
+      "index": 85,
+      "text": "and I'm gonna explain to you why I'm giving why I'm creating these layers and",
+      "start": 459.24,
+      "end": 463.72,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 86,
+      "text": "why do I call it what it is I'm gonna create another one call it E data by the",
+      "start": 463.72,
+      "end": 470.20000000000005,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 87,
+      "text": "way the east stands for Electrical alright and I'm gonna make this magenta line",
+      "start": 470.20000000000005,
+      "end": 477.40000000000003,
+      "duration": 7.199999999999989
+    },
+    {
+      "index": 88,
+      "text": "with this point zero nine the number gonna create one last one I'm gonna call it E",
+      "start": 477.40000000000003,
+      "end": 481.24,
+      "duration": 3.839999999999975
+    },
+    {
+      "index": 89,
+      "text": "dash wire and I'm gonna make this orange and I'm gonna make it instead of",
+      "start": 481.24,
+      "end": 489.12,
+      "duration": 7.8799999999999955
+    },
+    {
+      "index": 90,
+      "text": "continuous I'm gonna make it dashed alright so why do I create these layers",
+      "start": 489.12,
+      "end": 493.68,
+      "duration": 4.560000000000002
+    },
+    {
+      "index": 91,
+      "text": "basically what I want to do is to put all lighting fixtures or lighting devices",
+      "start": 493.68,
+      "end": 499.16,
+      "duration": 5.480000000000018
+    },
+    {
+      "index": 92,
+      "text": "on the lighting layer all power devices such as the outlets and the panel boxes I",
+      "start": 499.16,
+      "end": 505.92,
+      "duration": 6.759999999999991
+    },
+    {
+      "index": 93,
+      "text": "want to put those on the power layer everything that has to do with data this",
+      "start": 505.92,
+      "end": 510.16,
+      "duration": 4.240000000000009
+    },
+    {
+      "index": 94,
+      "text": "was built incorrectly such as like you know internet digital cable and wireless",
+      "start": 510.16,
+      "end": 516.12,
+      "duration": 5.9599999999999795
+    },
+    {
+      "index": 95,
+      "text": "Verizon all of those guys would go on this layer and then wire basically anything",
+      "start": 516.12,
+      "end": 521.96,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 96,
+      "text": "that is being connected by wire I will use this layer to connect them alright so",
+      "start": 521.96,
+      "end": 526.52,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 97,
+      "text": "that's it so let's go over now so what I want to do is to get our blocks over here",
+      "start": 526.52,
+      "end": 532.96,
+      "duration": 6.440000000000055
+    },
+    {
+      "index": 98,
+      "text": "into our electrical draw what do you think is the easiest way to do it of course",
+      "start": 532.96,
+      "end": 539.68,
+      "duration": 6.719999999999914
+    },
+    {
+      "index": 99,
+      "text": "the easiest way would be to just copy the whole thing and bring it over but",
+      "start": 539.68,
+      "end": 546.8399999999999,
+      "duration": 7.159999999999968
+    },
+    {
+      "index": 100,
+      "text": "what if I told you that there was a more efficient and effective way to do it",
+      "start": 546.8399999999999,
+      "end": 551.56,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 101,
+      "text": "and in order for this to work what you have to do is to make sure that you have",
+      "start": 551.56,
+      "end": 556.0799999999999,
+      "duration": 4.519999999999982
+    },
+    {
+      "index": 102,
+      "text": "all of your blocks in one drawing okay and if you notice my blocks are named",
+      "start": 556.0799999999999,
+      "end": 561.7199999999999,
+      "duration": 5.639999999999986
+    },
+    {
+      "index": 103,
+      "text": "properly if you click on any one of these blocks they're properly named so make",
+      "start": 561.7199999999999,
+      "end": 567.64,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 104,
+      "text": "sure you name them and you give them a base point so anyone I'm a blocks that you",
+      "start": 567.64,
+      "end": 572.48,
+      "duration": 4.840000000000032
+    },
+    {
+      "index": 105,
+      "text": "click on you will see that I have a base point on them once you have them all in",
+      "start": 572.48,
+      "end": 577.96,
+      "duration": 5.480000000000018
+    },
+    {
+      "index": 106,
+      "text": "one drawing you save that drawing save it go over to your electrical plan and we're",
+      "start": 577.96,
+      "end": 584.12,
+      "duration": 6.159999999999968
+    },
+    {
+      "index": 107,
+      "text": "going to open the blocks palette so type in command blocks palette here it is",
+      "start": 584.12,
+      "end": 590.3199999999999,
+      "duration": 6.199999999999932
+    },
+    {
+      "index": 108,
+      "text": "click on it and it will bring up your blocks palette and here as you can see we",
+      "start": 590.3199999999999,
+      "end": 594.96,
+      "duration": 4.6400000000001
+    },
+    {
+      "index": 109,
+      "text": "have three tabs on the left here we have current drawing showing all the blocks",
+      "start": 594.96,
+      "end": 600.72,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 110,
+      "text": "that are available in this current drawing we have a recent which is showing you",
+      "start": 600.72,
+      "end": 604.8000000000001,
+      "duration": 4.080000000000041
+    },
+    {
+      "index": 111,
+      "text": "whatever you have used recently and other drawings now if you notice I already",
+      "start": 604.8000000000001,
+      "end": 609.6800000000001,
+      "duration": 4.8799999999999955
+    },
+    {
+      "index": 112,
+      "text": "have these loaded in but if you didn't have anything here what you would do is to",
+      "start": 609.6800000000001,
+      "end": 614.44,
+      "duration": 4.759999999999991
+    },
+    {
+      "index": 113,
+      "text": "click on the three dots and find your drawing that has all the blocks inside of it",
+      "start": 614.44,
+      "end": 620.0400000000001,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 114,
+      "text": "which would be this guy over here you'd then go ahead and press open but of",
+      "start": 620.04,
+      "end": 624.88,
+      "duration": 4.840000000000032
+    },
+    {
+      "index": 115,
+      "text": "course I would have already loaded it in so it is in and actually I made some",
+      "start": 624.88,
+      "end": 630.7199999999999,
+      "duration": 5.839999999999918
+    },
+    {
+      "index": 116,
+      "text": "settings changes down here which I will be explaining in a couple of seconds the",
+      "start": 630.7199999999999,
+      "end": 636.0,
+      "duration": 5.280000000000086
+    },
+    {
+      "index": 117,
+      "text": "good thing now is that we can use all the blocks from this drawing inside of",
+      "start": 636.0,
+      "end": 640.3199999999999,
+      "duration": 4.319999999999936
+    },
+    {
+      "index": 118,
+      "text": "this drawing and the beautiful thing about that is let's say I drew this one",
+      "start": 640.3199999999999,
+      "end": 645.76,
+      "duration": 5.440000000000055
+    },
+    {
+      "index": 119,
+      "text": "incorrectly but guess what I would have already placed it all over in this",
+      "start": 645.76,
+      "end": 650.0,
+      "duration": 4.240000000000009
+    },
+    {
+      "index": 120,
+      "text": "drawing instead of deleting all of them and redoing it what I would do is to go",
+      "start": 650.0,
+      "end": 654.32,
+      "duration": 4.32000000000005
+    },
+    {
+      "index": 121,
+      "text": "over to this drawing make the change to that block right here save it and it would",
+      "start": 654.32,
+      "end": 660.76,
+      "duration": 6.439999999999941
+    },
+    {
+      "index": 122,
+      "text": "automatically updates in this drawing so that's a beautiful thing about doing it",
+      "start": 660.76,
+      "end": 666.16,
+      "duration": 5.399999999999977
+    },
+    {
+      "index": 123,
+      "text": "this way now if you notice down here I changed the scale I made it uniform and I",
+      "start": 666.16,
+      "end": 671.08,
+      "duration": 4.920000000000073
+    },
+    {
+      "index": 124,
+      "text": "set it to 25 because initially it was at one and if I were to place a",
+      "start": 671.08,
+      "end": 675.28,
+      "duration": 4.199999999999932
+    },
+    {
+      "index": 125,
+      "text": "a block on one then you notice it was very small so you have to increase the scale",
+      "start": 675.28,
+      "end": 680.12,
+      "duration": 4.840000000000032
+    },
+    {
+      "index": 126,
+      "text": "to a comfortable number I use 25 you know that will look somewhat reasonable on",
+      "start": 680.12,
+      "end": 685.4399999999999,
+      "duration": 5.319999999999936
+    },
+    {
+      "index": 127,
+      "text": "your drawing so as you can see now that looks good and then I select rotation",
+      "start": 685.4399999999999,
+      "end": 689.4399999999999,
+      "duration": 4.0
+    },
+    {
+      "index": 128,
+      "text": "because when I placed a block I want to have the ability to rotate it and then",
+      "start": 689.4399999999999,
+      "end": 694.8399999999999,
+      "duration": 5.399999999999977
+    },
+    {
+      "index": 129,
+      "text": "I also have repeat placement which means that when I place one outlet I can go",
+      "start": 694.8399999999999,
+      "end": 700.24,
+      "duration": 5.400000000000091
+    },
+    {
+      "index": 130,
+      "text": "ahead and keep placing the others I don't have to come back to this panel here",
+      "start": 700.24,
+      "end": 705.04,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 131,
+      "text": "and so on and so forth so that's what we really want to do here all right now",
+      "start": 705.04,
+      "end": 708.88,
+      "duration": 3.840000000000032
+    },
+    {
+      "index": 132,
+      "text": "before we place anything I'm going to actually select the layer that I'm going to",
+      "start": 708.88,
+      "end": 712.0,
+      "duration": 3.1200000000000045
+    },
+    {
+      "index": 133,
+      "text": "work with first so first we're going to be placing our power devices which",
+      "start": 712.0,
+      "end": 717.7199999999999,
+      "duration": 5.719999999999914
+    },
+    {
+      "index": 134,
+      "text": "would include outlets and panel boxes so the first thing I'm going to",
+      "start": 717.7199999999999,
+      "end": 721.48,
+      "duration": 3.7600000000001046
+    },
+    {
+      "index": 135,
+      "text": "place is a panel box which is this guy here I'm going to use a flush one so that",
+      "start": 721.48,
+      "end": 726.4399999999999,
+      "duration": 4.959999999999923
+    },
+    {
+      "index": 136,
+      "text": "means this one will be flushing with the wall and it's a too far to volt for",
+      "start": 726.4399999999999,
+      "end": 731.1999999999999,
+      "duration": 4.759999999999991
+    },
+    {
+      "index": 137,
+      "text": "most households in Jamaica we don't use more than 240 and I'm going to place my",
+      "start": 731.2,
+      "end": 735.4000000000001,
+      "duration": 4.2000000000000455
+    },
+    {
+      "index": 138,
+      "text": "panel right here in the kitchen it's not the best location guys I know but for a",
+      "start": 735.4000000000001,
+      "end": 742.08,
+      "duration": 6.67999999999995
+    },
+    {
+      "index": 139,
+      "text": "host like this where I don't even have much space that's probably one of the",
+      "start": 742.08,
+      "end": 747.6400000000001,
+      "duration": 5.560000000000059
+    },
+    {
+      "index": 140,
+      "text": "best places to put it you don't want to put it we're going to have high",
+      "start": 747.6400000000001,
+      "end": 750.12,
+      "duration": 2.4799999999999045
+    },
+    {
+      "index": 141,
+      "text": "traffic and you don't want to put it where kids and so on can grab it but in this",
+      "start": 750.12,
+      "end": 755.88,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 142,
+      "text": "case this is just a one bedroom house and I would assume that most adults would",
+      "start": 755.88,
+      "end": 760.4000000000001,
+      "duration": 4.5200000000000955
+    },
+    {
+      "index": 143,
+      "text": "be using this one bedroom house again it'll depend on the purpose of the",
+      "start": 760.4,
+      "end": 764.9599999999999,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 144,
+      "text": "building all right the next thing we're going to place our son doplex outlet and",
+      "start": 764.9599999999999,
+      "end": 770.0,
+      "duration": 5.040000000000077
+    },
+    {
+      "index": 145,
+      "text": "doplex is the regular plug that you see on your wall every day okay guys so",
+      "start": 770.0,
+      "end": 774.76,
+      "duration": 4.759999999999991
+    },
+    {
+      "index": 146,
+      "text": "we're going to drop some doplex let's start in the bedroom you know you have to",
+      "start": 774.76,
+      "end": 778.1999999999999,
+      "duration": 3.439999999999941
+    },
+    {
+      "index": 147,
+      "text": "place one beside the bed cause guess what if you don't you know the phone now",
+      "start": 778.1999999999999,
+      "end": 782.72,
+      "duration": 4.5200000000000955
+    },
+    {
+      "index": 148,
+      "text": "go get charged so that's that we're going to place one underneath the the computer",
+      "start": 782.72,
+      "end": 789.4,
+      "duration": 6.67999999999995
+    },
+    {
+      "index": 149,
+      "text": "desk and if you notice I kind of place it in the middle of the wall or in the",
+      "start": 789.4,
+      "end": 793.4399999999999,
+      "duration": 4.039999999999964
+    },
+    {
+      "index": 150,
+      "text": "middle of the window like wise for that one it does always have to be like that you",
+      "start": 793.4399999999999,
+      "end": 797.4399999999999,
+      "duration": 4.0
+    },
+    {
+      "index": 151,
+      "text": "know so up to you now if you notice I can rotate when I place and that is why we",
+      "start": 797.4399999999999,
+      "end": 801.92,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 152,
+      "text": "select the rotation option down here we notice I I want to make it straight",
+      "start": 801.92,
+      "end": 806.76,
+      "duration": 4.840000000000032
+    },
+    {
+      "index": 153,
+      "text": "down I can turn on the art mode to get that function all right so I have three",
+      "start": 806.76,
+      "end": 811.12,
+      "duration": 4.360000000000014
+    },
+    {
+      "index": 154,
+      "text": "outlets in this room I don't think I need anything else I'm going to place one",
+      "start": 811.12,
+      "end": 815.72,
+      "duration": 4.600000000000023
+    },
+    {
+      "index": 155,
+      "text": "on the veranda art porch of course we're going to be making that one water",
+      "start": 815.72,
+      "end": 821.32,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 156,
+      "text": "proof in a little bit we're going to place another one right on this side of the",
+      "start": 821.32,
+      "end": 827.44,
+      "duration": 6.1200000000000045
+    },
+    {
+      "index": 157,
+      "text": "couch and I'm going to place another one on this side of the couch up to maybe",
+      "start": 827.44,
+      "end": 833.64,
+      "duration": 6.199999999999932
+    },
+    {
+      "index": 158,
+      "text": "what I'll do is place this one well yeah I'm going to place this one here I'm going",
+      "start": 833.64,
+      "end": 841.28,
+      "duration": 7.639999999999986
+    },
+    {
+      "index": 159,
+      "text": "to place one behind that I'm going to do this one then I'm going to place one here",
+      "start": 841.28,
+      "end": 849.04,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 160,
+      "text": "for the TV I know I have a plug in the TV I'm going to place one here for the",
+      "start": 849.04,
+      "end": 854.92,
+      "duration": 5.8799999999999955
+    },
+    {
+      "index": 161,
+      "text": "refrigerator I'm going to place one here just in case we have an electric stove and",
+      "start": 854.92,
+      "end": 861.88,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 162,
+      "text": "then I'm going to place one on the countertop all right I'm going to also place",
+      "start": 861.88,
+      "end": 866.88,
+      "duration": 5.0
+    },
+    {
+      "index": 163,
+      "text": "one here for all the guys who like to shave and all the ladies who like to blow",
+      "start": 866.88,
+      "end": 872.2,
+      "duration": 5.32000000000005
+    },
+    {
+      "index": 164,
+      "text": "their hair you need a plug also right so I think we have enough outlets at the",
+      "start": 872.2,
+      "end": 877.72,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 165,
+      "text": "moment what we need to do now is to make sure that we put the appropriate",
+      "start": 877.72,
+      "end": 882.08,
+      "duration": 4.360000000000014
+    },
+    {
+      "index": 166,
+      "text": "subscript like this one here we would put a G here to indicate that this is a",
+      "start": 882.08,
+      "end": 887.08,
+      "duration": 5.0
+    },
+    {
+      "index": 167,
+      "text": "grown file circuit all right so let's let's let's go and copy that",
+      "start": 887.08,
+      "end": 891.6,
+      "duration": 4.519999999999982
+    },
+    {
+      "index": 168,
+      "text": "the G I'm going to copy this rather control C go over control V of course it's",
+      "start": 891.6,
+      "end": 899.88,
+      "duration": 8.279999999999973
+    },
+    {
+      "index": 169,
+      "text": "coming in very small put it on the correct layer and I'm going to scale it up a",
+      "start": 899.88,
+      "end": 905.2,
+      "duration": 5.32000000000005
+    },
+    {
+      "index": 170,
+      "text": "little bit let's make it 25 in there and I'm going to put that right there",
+      "start": 905.2,
+      "end": 914.32,
+      "duration": 9.120000000000005
+    },
+    {
+      "index": 171,
+      "text": "I'm going to copy this now put it also in the kitchen let's see if we had one",
+      "start": 914.32,
+      "end": 924.0400000000001,
+      "duration": 9.720000000000027
+    },
+    {
+      "index": 172,
+      "text": "for we didn't have one for stove but we have one for refrigerator color F so we're",
+      "start": 924.0400000000001,
+      "end": 929.2,
+      "duration": 5.159999999999968
+    },
+    {
+      "index": 173,
+      "text": "going to put the ref one there I'm going to copy this I'm going to put R E F and I'm going",
+      "start": 929.2,
+      "end": 949.88,
+      "duration": 20.67999999999995
+    },
+    {
+      "index": 174,
+      "text": "to copy that we're going to put a water proof on here all right so yeah that",
+      "start": 949.88,
+      "end": 958.5200000000001,
+      "duration": 8.6400000000001
+    },
+    {
+      "index": 175,
+      "text": "looks just about good we have our panel here and that's that for our power system we're",
+      "start": 958.52,
+      "end": 964.04,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 176,
+      "text": "going to move over to lighting and then we're going to be placing some light now it's",
+      "start": 964.04,
+      "end": 968.36,
+      "duration": 4.32000000000005
+    },
+    {
+      "index": 177,
+      "text": "up to you guys to decide how you are and where you want to place your lights and what",
+      "start": 968.36,
+      "end": 973.72,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 178,
+      "text": "type of light you want to place and that kind of thing if you notice we have",
+      "start": 973.72,
+      "end": 977.3199999999999,
+      "duration": 3.599999999999909
+    },
+    {
+      "index": 179,
+      "text": "fluorescent we have wall mounted lights and so on and so forth so it's really up to",
+      "start": 977.3199999999999,
+      "end": 982.28,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 180,
+      "text": "you to decide what you want I'm going to start in the bedroom where I'm going to be",
+      "start": 982.28,
+      "end": 986.4399999999999,
+      "duration": 4.159999999999968
+    },
+    {
+      "index": 181,
+      "text": "placing a regular light right in the center of the room like that and then I can decide if I",
+      "start": 986.44,
+      "end": 995.0,
+      "duration": 8.559999999999945
+    },
+    {
+      "index": 182,
+      "text": "want to rotate it of course it doesn't matter at this point it's a circle and I also want to",
+      "start": 995.0,
+      "end": 1000.7600000000001,
+      "duration": 5.760000000000105
+    },
+    {
+      "index": 183,
+      "text": "place a wall mounted one somewhere I don't know where maybe right here so please see that in the",
+      "start": 1000.7600000000001,
+      "end": 1007.0,
+      "duration": 6.239999999999895
+    },
+    {
+      "index": 184,
+      "text": "middle of the this wall okay I'm going to place another wall mounted one inside of the bathroom",
+      "start": 1007.0,
+      "end": 1013.96,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 185,
+      "text": "I don't think we need more than one right there and do I need to place any more I need a wall",
+      "start": 1014.44,
+      "end": 1021.24,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 186,
+      "text": "mounted outside here and I'm going to put another wall mounted one on the outside so that we can",
+      "start": 1021.24,
+      "end": 1027.96,
+      "duration": 6.720000000000027
+    },
+    {
+      "index": 187,
+      "text": "see outside at night I don't think I need any more wall mounted I'm going to put a regular one in the",
+      "start": 1027.96,
+      "end": 1033.08,
+      "duration": 5.119999999999891
+    },
+    {
+      "index": 188,
+      "text": "kitchen all right in this area I'm going to be putting some recessed lights so I chose recess up one here",
+      "start": 1033.88,
+      "end": 1043.48,
+      "duration": 9.599999999999909
+    },
+    {
+      "index": 189,
+      "text": "and I'm going to put another one here and I'm going to put this light over top of the this thing here",
+      "start": 1043.48,
+      "end": 1056.76,
+      "duration": 13.279999999999973
+    },
+    {
+      "index": 190,
+      "text": "all right so that's it guys I would go ahead and do this to kind of center these so right click",
+      "start": 1057.08,
+      "end": 1061.56,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 191,
+      "text": "center and there twice I want it to be centered between these walls and I also want it to be centered",
+      "start": 1062.68,
+      "end": 1072.76,
+      "duration": 10.079999999999927
+    },
+    {
+      "index": 192,
+      "text": "between that so I'd kind of just center it in the middle of the room I'm going to do the",
+      "start": 1072.84,
+      "end": 1079.24,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 193,
+      "text": "same thing for the kitchen center and there twice and then I select this pan of the room I'm going",
+      "start": 1079.24,
+      "end": 1089.0,
+      "duration": 9.759999999999991
+    },
+    {
+      "index": 194,
+      "text": "to do the same thing again so that would be the center of the kitchen these I kind of want these to",
+      "start": 1089.0,
+      "end": 1099.08,
+      "duration": 10.079999999999927
+    },
+    {
+      "index": 195,
+      "text": "be spaced evenly so I'm going to choose space evenly hit enter twice and then I'm going to draw",
+      "start": 1099.08,
+      "end": 1105.8,
+      "duration": 6.720000000000027
+    },
+    {
+      "index": 196,
+      "text": "a line from here to here and so there are spaced evenly in the living air beautiful so I have all",
+      "start": 1105.8,
+      "end": 1115.08,
+      "duration": 9.279999999999973
+    },
+    {
+      "index": 197,
+      "text": "my lights in place now I need to place my switches so here we have our single pole switch all right",
+      "start": 1115.08,
+      "end": 1121.48,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 198,
+      "text": "now where your place is which is important for instance if the moment you step inside the holes you",
+      "start": 1121.48,
+      "end": 1126.04,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 199,
+      "text": "should have a switch to turn on the light in the hole so we need a switch there but I also need a",
+      "start": 1126.04,
+      "end": 1131.56,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 200,
+      "text": "switch to turn on the outside lights so I'm going to put two more switches on this wall",
+      "start": 1131.56,
+      "end": 1136.44,
+      "duration": 4.880000000000109
+    },
+    {
+      "index": 201,
+      "text": "I'm going to put one up here as well so one is for the living room one is for this light",
+      "start": 1138.68,
+      "end": 1147.24,
+      "duration": 8.559999999999945
+    },
+    {
+      "index": 202,
+      "text": "and the other one is for this one outside then I'm going to put two switches here one for the bathroom",
+      "start": 1147.24,
+      "end": 1152.76,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 203,
+      "text": "and one for this guy right here then I'm going to put one in the bedroom if you notice what I'm",
+      "start": 1153.72,
+      "end": 1163.0,
+      "duration": 9.279999999999973
+    },
+    {
+      "index": 204,
+      "text": "putting them very close to the door because normally as you enter into a room you want to find",
+      "start": 1163.0,
+      "end": 1168.92,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 205,
+      "text": "the switch all right so bear that in mind as you place your switches all right I'm going to place another one",
+      "start": 1168.92,
+      "end": 1174.84,
+      "duration": 5.919999999999845
+    },
+    {
+      "index": 206,
+      "text": "in the kitchen maybe right beside this panel here and this one would be for the that light",
+      "start": 1175.56,
+      "end": 1186.52,
+      "duration": 10.960000000000036
+    },
+    {
+      "index": 207,
+      "text": "and then I'm going to be placing another one for for the outside light again all right so that's all",
+      "start": 1187.08,
+      "end": 1195.56,
+      "duration": 8.480000000000018
+    },
+    {
+      "index": 208,
+      "text": "the switches that we need actually I need two switches here so I'm going to copy this one for this",
+      "start": 1195.56,
+      "end": 1203.72,
+      "duration": 8.160000000000082
+    },
+    {
+      "index": 209,
+      "text": "one for that I'm going to copy this I'm going to put a D here I'm going to also place this on the",
+      "start": 1203.72,
+      "end": 1215.72,
+      "duration": 12.0
+    },
+    {
+      "index": 210,
+      "text": "lighting layer all right if you notice guys these videos getting long and that's my problem",
+      "start": 1216.2,
+      "end": 1225.72,
+      "duration": 9.519999999999982
+    },
+    {
+      "index": 211,
+      "text": "I'm going to keep this at one switch I'm going to use one switch to turn on the outside light",
+      "start": 1225.72,
+      "end": 1230.92,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 212,
+      "text": "but I think we have all the switches we need so far yeah and last we'll not lastly second to last",
+      "start": 1231.0,
+      "end": 1239.48,
+      "duration": 8.480000000000018
+    },
+    {
+      "index": 213,
+      "text": "link we're going to add some data stuff so far in stance I'm going to be adding a TV",
+      "start": 1239.48,
+      "end": 1246.28,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 214,
+      "text": "TV TV so that's where did you sell will run their stuff and then I'm going to have we don't use",
+      "start": 1247.24,
+      "end": 1255.72,
+      "duration": 8.480000000000018
+    },
+    {
+      "index": 215,
+      "text": "telephones stuff again I mean you could put a security camera somewhere I don't know where maybe",
+      "start": 1255.72,
+      "end": 1260.76,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 216,
+      "text": "maybe I don't know no no put it put it right put it that if you want I'm just missing",
+      "start": 1260.76,
+      "end": 1271.56,
+      "duration": 10.799999999999955
+    },
+    {
+      "index": 217,
+      "text": "around with this right now what else do I could I place um turn on that small detector we need a",
+      "start": 1271.56,
+      "end": 1279.16,
+      "duration": 7.600000000000136
+    },
+    {
+      "index": 218,
+      "text": "small detector all right so we're going to place a small detector in the living area maybe like",
+      "start": 1279.16,
+      "end": 1285.32,
+      "duration": 6.1599999999998545
+    },
+    {
+      "index": 219,
+      "text": "right here I'm going to place one in the bedroom maybe towards the door and I don't think we need more",
+      "start": 1285.32,
+      "end": 1295.24,
+      "duration": 9.920000000000073
+    },
+    {
+      "index": 220,
+      "text": "than that that's it for our devices I'm going to be placing some wires now and usually we only connect",
+      "start": 1295.24,
+      "end": 1303.48,
+      "duration": 8.240000000000009
+    },
+    {
+      "index": 221,
+      "text": "what oh why are usually we only connect um light switches to the lights all right and this is what",
+      "start": 1304.04,
+      "end": 1313.48,
+      "duration": 9.440000000000055
+    },
+    {
+      "index": 222,
+      "text": "is required in Jamaica so in other countries you might need to connect the plugs to the circuit to",
+      "start": 1313.48,
+      "end": 1319.64,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 223,
+      "text": "show which plug-up which panel and all that kind of stuff for this which is going to connect the switches",
+      "start": 1319.64,
+      "end": 1325.64,
+      "duration": 6.0
+    },
+    {
+      "index": 224,
+      "text": "to the bulbs so normally I would use arcs to connect them but you can actually use spy liners well",
+      "start": 1325.64,
+      "end": 1334.52,
+      "duration": 8.879999999999882
+    },
+    {
+      "index": 225,
+      "text": "it all depends on what suits you best I'm going to be using a combination of both um so I'm going",
+      "start": 1334.52,
+      "end": 1342.3600000000001,
+      "duration": 7.8400000000001455
+    },
+    {
+      "index": 226,
+      "text": "to be connecting this switch here to this bulb and of course that switch turns on both bulbs",
+      "start": 1342.36,
+      "end": 1353.24,
+      "duration": 10.88000000000011
+    },
+    {
+      "index": 227,
+      "text": "then I'll be doing the same thing again and I'll be connecting this switch to this outside light",
+      "start": 1353.24,
+      "end": 1360.12,
+      "duration": 6.879999999999882
+    },
+    {
+      "index": 228,
+      "text": "then I'm going to be using a spy line here no to connect this one to the one all the way around the back",
+      "start": 1361.1599999999999,
+      "end": 1366.36,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 229,
+      "text": "kind of just running it outside so that you know you can see clearly of course in real life",
+      "start": 1367.24,
+      "end": 1379.08,
+      "duration": 11.839999999999918
+    },
+    {
+      "index": 230,
+      "text": "we're not going to be running the wire outside but just for clarity all right so that's good for",
+      "start": 1379.08,
+      "end": 1385.32,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 231,
+      "text": "that I'm going to be running connecting this one to this I'm going to be connecting this one here",
+      "start": 1385.32,
+      "end": 1394.6799999999998,
+      "duration": 9.3599999999999
+    },
+    {
+      "index": 232,
+      "text": "to this this one would be connected to that this dimmer switch here would be connected to this",
+      "start": 1394.76,
+      "end": 1406.6000000000001,
+      "duration": 11.840000000000146
+    },
+    {
+      "index": 233,
+      "text": "and then this guy here would be connected to that do we have any more switches did I leave any out",
+      "start": 1407.64,
+      "end": 1417.0800000000002,
+      "duration": 9.440000000000055
+    },
+    {
+      "index": 234,
+      "text": "I don't think so all right guys so as you can see we are done with our electrical plan again",
+      "start": 1417.0800000000002,
+      "end": 1422.6000000000001,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 235,
+      "text": "make sure that you do some research and understand how I'm aware to place your devices and make",
+      "start": 1422.6799999999998,
+      "end": 1429.7199999999998,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 236,
+      "text": "sure that it actually makes sense you don't know what you don't just want to throw things all over the",
+      "start": 1429.7199999999998,
+      "end": 1435.0,
+      "duration": 5.2800000000002
+    },
+    {
+      "index": 237,
+      "text": "place so what I'm going to do now is to kind of unload these so that we can see what we have here",
+      "start": 1435.0,
+      "end": 1442.9199999999998,
+      "duration": 7.919999999999845
+    },
+    {
+      "index": 238,
+      "text": "and then of course we can turn stuff on on off so I can turn off the power to focus on lighting I can",
+      "start": 1442.9199999999998,
+      "end": 1449.3999999999999,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 239,
+      "text": "turn off lighting and I can turn off data stuff like that so this is what our electrical system will",
+      "start": 1449.48,
+      "end": 1458.3600000000001,
+      "duration": 8.88000000000011
+    },
+    {
+      "index": 240,
+      "text": "look like and we're going to save now remember we do not add annotations to this drawing because",
+      "start": 1458.3600000000001,
+      "end": 1465.0800000000002,
+      "duration": 6.720000000000027
+    },
+    {
+      "index": 241,
+      "text": "this is just a construct all right so we're not going to be adding any annotations here I'm going",
+      "start": 1465.0800000000002,
+      "end": 1471.4,
+      "duration": 6.319999999999936
+    },
+    {
+      "index": 242,
+      "text": "to reload these and leave it right there all right guys so that wraps it up for this video",
+      "start": 1471.4,
+      "end": 1478.44,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 243,
+      "text": "I do have these blocks available the CAD file that is on my Patreon page so for those of you who don't",
+      "start": 1478.44,
+      "end": 1485.5600000000002,
+      "duration": 7.120000000000118
+    },
+    {
+      "index": 244,
+      "text": "know I have a Patreon page that you can check out I will be dropping a lot of CAD files over there",
+      "start": 1485.5600000000002,
+      "end": 1491.24,
+      "duration": 5.679999999999836
+    },
+    {
+      "index": 245,
+      "text": "especially those that I do on videos I'll post them over there so you can get them for download",
+      "start": 1491.24,
+      "end": 1496.3600000000001,
+      "duration": 5.120000000000118
+    },
+    {
+      "index": 246,
+      "text": "and also if you would like to support the channel you like what you see and you enjoy the videos you",
+      "start": 1496.36,
+      "end": 1501.9599999999998,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 247,
+      "text": "get a lot of value from it then you know feel free to support the channel on my Patreon page all",
+      "start": 1501.9599999999998,
+      "end": 1507.32,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 248,
+      "text": "the links are in the description so definitely check it out and don't forget to hit the like",
+      "start": 1507.32,
+      "end": 1511.1599999999999,
+      "duration": 3.839999999999918
+    },
+    {
+      "index": 249,
+      "text": "button don't forget to subscribe and don't forget to follow me on Instagram all right so to carry",
+      "start": 1511.1599999999999,
+      "end": 1516.4399999999998,
+      "duration": 5.279999999999973
+    },
+    {
+      "index": 250,
+      "text": "yourself and I'll see you in the next video",
+      "start": 1516.44,
+      "end": 1521.88,
+      "duration": 5.440000000000055
+    }
+  ],
+  "full_text": "Yeah, hello everyone welcome to episode 15 of our one bedroom house series and today what we're going to do is an electrical plan so you see we are get plant-tubber things we are moving with the project alright so don't move on muscle If you're new here we've been doing a one bedroom house from scratch and we're trying to produce all the drawings that are necessary for a proof-all we are going to produce views and we're going to also put them on sheets and we're going to print them and we're going to maybe I'll submit it what do you think about that I could actually do a video on all of that but we'll see we'll see if you want me to do it just comment it down below or hit the like button we see we see what that goes um no remember that I'm doing these drawings based on Jamaican standard so the way I do these drawings you know it might be a little armadly very different depending on where you're from but I do hope that you learn something nonetheless and that you will find some value in these videos if you actually learn something you could just you know hit the like button and consider just consider subscribe alright respect in order to do an electrical plan it's important that you have some background information some understanding of how electricity works electrical components or devices you need to have a background knowledge and all of these things also if you've never seen an electrical plan it would be a good idea to see what one looks like so you could just go on Google type in electrical plans and just look at some images and you will notice that you have a flow plan with you know some symbols all over the place representing different things and you might see like things connecting to other things and so on and so forth try to understand what is happening on an electrical plan read all the notes on the side of the page and also get familiar with the different symbols that I represented on an electrical plan alright that's very very important all right so here I have provided a PDF with a list of symbols or rather electrical symbols that we're going to be using on this electrical plan and of course this list is very limited in comparison to the amount of symbols that are available to use now for this little one bedroom house we don't need a lot of stuff in fact this list is probably too much because I'm definitely not going to be placing all of these symbols or components within this little tiny bedroom house alright so of course you can download this PDF in the link in the description make sure that you get yourself familiar with the different symbols for instance this one represents shandelier you have emergency light unit this one represents switches and I wanted to kind of explain this one a little bit so I regular switch would look like this that's like the light switch which would mean single pole switch alright no if you have a double pole toggle switch then you would put a tool where the X is if you have a three-way toggle switch you would put a three there if you have a dimmer switch you'd put a t there alright so these can become important as you do your drawing depending on what your project requires likewise when you go up to outlets or electrical plugs when you have a regular outlet it's normal but when you add a subscript to it then it means that that subscript represent whatever is over here alright so far instance a grown fall circuit interrupta this one would be placed in like a kitchen or in the bathroom where there might be water getting in contact with electrical equipment like a hair dryer or your blender stuff like that you have water proof as well these are mostly used outdoors so all of these abbreviations would go underneath the plug to represent respectively and then you have other symbols like USB outlet television outlet you have panels you have even security cameras alright so a nice little list here that we can use on a wide array of projects so go ahead don't know them if you don't have your symbols make sure that you draw them in auto cut so that you'll have them to use of course I'm gonna go bring to auto cut now where I actually have these symbols ready and waiting to go so of course I have made them into blocks I'm gonna be using them in our project so that's this drawing I'm gonna actually go into the one bedroom house project now alright so let's do that so we're gonna go over to our project navigate and this is where all of our drawing exists we have our construct we have our views we have already created some views but we had a couple more constructs that we needed to create such as the electrical construct so we're gonna be doing that no so what we're gonna do is to right click on here I'm gonna go down to new and we're gonna see construct and we're gonna call this electric call layout now if you had multiple levels for instance if you have ground floor second floor third floor then you would need to have an electrical layout for each level alright so you would have probably level one here and then you'd create another construct and call it level two because each level would have a different layout alright and then we're gonna select the level that would we're gonna be applying this too so it's gonna be the ground level because this is just a single floor building I'm gonna open the drawing so let's click okay and as you can see that we have the construct over here being created and then we are also inside of that drawing electrical layout alright moving on from this it's a blank drawing so obviously we need to get the floor planning set of here how do we do that we go to our ground floor construct and we're gonna right click and see X-RF overly alright now we have our floor plan in the drawing what we need now also is our fixtures alright so we're gonna right click overly now we can see where everything is so we can properly layout our electrical devices okay so I'm gonna minimize this because I don't need that anymore and then I'm going to actually turn off a couple of these layers because I don't want to see them so I'm gonna click on this little guy here called freeze I'm gonna freeze that and I'm gonna also freeze this and I think I will keep everything else for now alright so let's leave it there the next thing we're gonna do is to create some layers alright so if you don't know where your layer property is it's right here click on that guy and it should bring up alright so here's my layer property and I'm gonna actually create some layers so I'm gonna call this new layer E light made that green of course you can choose your own color let's not a hard rule right there gonna call this one E power and I'm gonna explain to you why I'm giving why I'm creating these layers and why do I call it what it is I'm gonna create another one call it E data by the way the east stands for Electrical alright and I'm gonna make this magenta line with this point zero nine the number gonna create one last one I'm gonna call it E dash wire and I'm gonna make this orange and I'm gonna make it instead of continuous I'm gonna make it dashed alright so why do I create these layers basically what I want to do is to put all lighting fixtures or lighting devices on the lighting layer all power devices such as the outlets and the panel boxes I want to put those on the power layer everything that has to do with data this was built incorrectly such as like you know internet digital cable and wireless Verizon all of those guys would go on this layer and then wire basically anything that is being connected by wire I will use this layer to connect them alright so that's it so let's go over now so what I want to do is to get our blocks over here into our electrical draw what do you think is the easiest way to do it of course the easiest way would be to just copy the whole thing and bring it over but what if I told you that there was a more efficient and effective way to do it and in order for this to work what you have to do is to make sure that you have all of your blocks in one drawing okay and if you notice my blocks are named properly if you click on any one of these blocks they're properly named so make sure you name them and you give them a base point so anyone I'm a blocks that you click on you will see that I have a base point on them once you have them all in one drawing you save that drawing save it go over to your electrical plan and we're going to open the blocks palette so type in command blocks palette here it is click on it and it will bring up your blocks palette and here as you can see we have three tabs on the left here we have current drawing showing all the blocks that are available in this current drawing we have a recent which is showing you whatever you have used recently and other drawings now if you notice I already have these loaded in but if you didn't have anything here what you would do is to click on the three dots and find your drawing that has all the blocks inside of it which would be this guy over here you'd then go ahead and press open but of course I would have already loaded it in so it is in and actually I made some settings changes down here which I will be explaining in a couple of seconds the good thing now is that we can use all the blocks from this drawing inside of this drawing and the beautiful thing about that is let's say I drew this one incorrectly but guess what I would have already placed it all over in this drawing instead of deleting all of them and redoing it what I would do is to go over to this drawing make the change to that block right here save it and it would automatically updates in this drawing so that's a beautiful thing about doing it this way now if you notice down here I changed the scale I made it uniform and I set it to 25 because initially it was at one and if I were to place a a block on one then you notice it was very small so you have to increase the scale to a comfortable number I use 25 you know that will look somewhat reasonable on your drawing so as you can see now that looks good and then I select rotation because when I placed a block I want to have the ability to rotate it and then I also have repeat placement which means that when I place one outlet I can go ahead and keep placing the others I don't have to come back to this panel here and so on and so forth so that's what we really want to do here all right now before we place anything I'm going to actually select the layer that I'm going to work with first so first we're going to be placing our power devices which would include outlets and panel boxes so the first thing I'm going to place is a panel box which is this guy here I'm going to use a flush one so that means this one will be flushing with the wall and it's a too far to volt for most households in Jamaica we don't use more than 240 and I'm going to place my panel right here in the kitchen it's not the best location guys I know but for a host like this where I don't even have much space that's probably one of the best places to put it you don't want to put it we're going to have high traffic and you don't want to put it where kids and so on can grab it but in this case this is just a one bedroom house and I would assume that most adults would be using this one bedroom house again it'll depend on the purpose of the building all right the next thing we're going to place our son doplex outlet and doplex is the regular plug that you see on your wall every day okay guys so we're going to drop some doplex let's start in the bedroom you know you have to place one beside the bed cause guess what if you don't you know the phone now go get charged so that's that we're going to place one underneath the the computer desk and if you notice I kind of place it in the middle of the wall or in the middle of the window like wise for that one it does always have to be like that you know so up to you now if you notice I can rotate when I place and that is why we select the rotation option down here we notice I I want to make it straight down I can turn on the art mode to get that function all right so I have three outlets in this room I don't think I need anything else I'm going to place one on the veranda art porch of course we're going to be making that one water proof in a little bit we're going to place another one right on this side of the couch and I'm going to place another one on this side of the couch up to maybe what I'll do is place this one well yeah I'm going to place this one here I'm going to place one behind that I'm going to do this one then I'm going to place one here for the TV I know I have a plug in the TV I'm going to place one here for the refrigerator I'm going to place one here just in case we have an electric stove and then I'm going to place one on the countertop all right I'm going to also place one here for all the guys who like to shave and all the ladies who like to blow their hair you need a plug also right so I think we have enough outlets at the moment what we need to do now is to make sure that we put the appropriate subscript like this one here we would put a G here to indicate that this is a grown file circuit all right so let's let's let's go and copy that the G I'm going to copy this rather control C go over control V of course it's coming in very small put it on the correct layer and I'm going to scale it up a little bit let's make it 25 in there and I'm going to put that right there I'm going to copy this now put it also in the kitchen let's see if we had one for we didn't have one for stove but we have one for refrigerator color F so we're going to put the ref one there I'm going to copy this I'm going to put R E F and I'm going to copy that we're going to put a water proof on here all right so yeah that looks just about good we have our panel here and that's that for our power system we're going to move over to lighting and then we're going to be placing some light now it's up to you guys to decide how you are and where you want to place your lights and what type of light you want to place and that kind of thing if you notice we have fluorescent we have wall mounted lights and so on and so forth so it's really up to you to decide what you want I'm going to start in the bedroom where I'm going to be placing a regular light right in the center of the room like that and then I can decide if I want to rotate it of course it doesn't matter at this point it's a circle and I also want to place a wall mounted one somewhere I don't know where maybe right here so please see that in the middle of the this wall okay I'm going to place another wall mounted one inside of the bathroom I don't think we need more than one right there and do I need to place any more I need a wall mounted outside here and I'm going to put another wall mounted one on the outside so that we can see outside at night I don't think I need any more wall mounted I'm going to put a regular one in the kitchen all right in this area I'm going to be putting some recessed lights so I chose recess up one here and I'm going to put another one here and I'm going to put this light over top of the this thing here all right so that's it guys I would go ahead and do this to kind of center these so right click center and there twice I want it to be centered between these walls and I also want it to be centered between that so I'd kind of just center it in the middle of the room I'm going to do the same thing for the kitchen center and there twice and then I select this pan of the room I'm going to do the same thing again so that would be the center of the kitchen these I kind of want these to be spaced evenly so I'm going to choose space evenly hit enter twice and then I'm going to draw a line from here to here and so there are spaced evenly in the living air beautiful so I have all my lights in place now I need to place my switches so here we have our single pole switch all right now where your place is which is important for instance if the moment you step inside the holes you should have a switch to turn on the light in the hole so we need a switch there but I also need a switch to turn on the outside lights so I'm going to put two more switches on this wall I'm going to put one up here as well so one is for the living room one is for this light and the other one is for this one outside then I'm going to put two switches here one for the bathroom and one for this guy right here then I'm going to put one in the bedroom if you notice what I'm putting them very close to the door because normally as you enter into a room you want to find the switch all right so bear that in mind as you place your switches all right I'm going to place another one in the kitchen maybe right beside this panel here and this one would be for the that light and then I'm going to be placing another one for for the outside light again all right so that's all the switches that we need actually I need two switches here so I'm going to copy this one for this one for that I'm going to copy this I'm going to put a D here I'm going to also place this on the lighting layer all right if you notice guys these videos getting long and that's my problem I'm going to keep this at one switch I'm going to use one switch to turn on the outside light but I think we have all the switches we need so far yeah and last we'll not lastly second to last link we're going to add some data stuff so far in stance I'm going to be adding a TV TV TV so that's where did you sell will run their stuff and then I'm going to have we don't use telephones stuff again I mean you could put a security camera somewhere I don't know where maybe maybe I don't know no no put it put it right put it that if you want I'm just missing around with this right now what else do I could I place um turn on that small detector we need a small detector all right so we're going to place a small detector in the living area maybe like right here I'm going to place one in the bedroom maybe towards the door and I don't think we need more than that that's it for our devices I'm going to be placing some wires now and usually we only connect what oh why are usually we only connect um light switches to the lights all right and this is what is required in Jamaica so in other countries you might need to connect the plugs to the circuit to show which plug-up which panel and all that kind of stuff for this which is going to connect the switches to the bulbs so normally I would use arcs to connect them but you can actually use spy liners well it all depends on what suits you best I'm going to be using a combination of both um so I'm going to be connecting this switch here to this bulb and of course that switch turns on both bulbs then I'll be doing the same thing again and I'll be connecting this switch to this outside light then I'm going to be using a spy line here no to connect this one to the one all the way around the back kind of just running it outside so that you know you can see clearly of course in real life we're not going to be running the wire outside but just for clarity all right so that's good for that I'm going to be running connecting this one to this I'm going to be connecting this one here to this this one would be connected to that this dimmer switch here would be connected to this and then this guy here would be connected to that do we have any more switches did I leave any out I don't think so all right guys so as you can see we are done with our electrical plan again make sure that you do some research and understand how I'm aware to place your devices and make sure that it actually makes sense you don't know what you don't just want to throw things all over the place so what I'm going to do now is to kind of unload these so that we can see what we have here and then of course we can turn stuff on on off so I can turn off the power to focus on lighting I can turn off lighting and I can turn off data stuff like that so this is what our electrical system will look like and we're going to save now remember we do not add annotations to this drawing because this is just a construct all right so we're not going to be adding any annotations here I'm going to reload these and leave it right there all right guys so that wraps it up for this video I do have these blocks available the CAD file that is on my Patreon page so for those of you who don't know I have a Patreon page that you can check out I will be dropping a lot of CAD files over there especially those that I do on videos I'll post them over there so you can get them for download and also if you would like to support the channel you like what you see and you enjoy the videos you get a lot of value from it then you know feel free to support the channel on my Patreon page all the links are in the description so definitely check it out and don't forget to hit the like button don't forget to subscribe and don't forget to follow me on Instagram all right so to carry yourself and I'll see you in the next video",
+  "total_segments": 251,
+  "total_duration": 1521.88,
+  "extraction_timestamp": "2025-07-11T14:11:32.950617",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "tiny"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high"
+}

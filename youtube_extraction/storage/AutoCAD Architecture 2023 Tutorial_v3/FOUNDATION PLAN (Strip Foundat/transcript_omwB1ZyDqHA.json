@@ -1,0 +1,2523 @@
+{
+  "video_id": "omwB1ZyDqHA",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "so this is episode 7 of our one-bedroom",
+      "start": 0.0,
+      "duration": 4.819,
+      "end": 4.819
+    },
+    {
+      "index": 1,
+      "text": "house and no it has been a long wait but",
+      "start": 2.639,
+      "duration": 6.0,
+      "end": 8.639
+    },
+    {
+      "index": 2,
+      "text": "you know I got a little busy that aside",
+      "start": 4.819,
+      "duration": 6.191,
+      "end": 11.01
+    },
+    {
+      "index": 3,
+      "text": "I'm here now and I'm ready to rock and",
+      "start": 8.639,
+      "duration": 4.471,
+      "end": 13.11
+    },
+    {
+      "index": 4,
+      "text": "roll again so in today's video what",
+      "start": 11.01,
+      "duration": 4.919,
+      "end": 15.928999999999998
+    },
+    {
+      "index": 5,
+      "text": "we're gonna do is foundations all right",
+      "start": 13.11,
+      "duration": 4.47,
+      "end": 17.58
+    },
+    {
+      "index": 6,
+      "text": "in particular we're gonna do the",
+      "start": 15.929,
+      "duration": 4.291,
+      "end": 20.22
+    },
+    {
+      "index": 7,
+      "text": "foundation walls the foundation footing",
+      "start": 17.58,
+      "duration": 5.25,
+      "end": 22.83
+    },
+    {
+      "index": 8,
+      "text": "and we're gonna do the floor all three",
+      "start": 20.22,
+      "duration": 5.01,
+      "end": 25.229999999999997
+    },
+    {
+      "index": 9,
+      "text": "of these we're gonna actually model them",
+      "start": 22.83,
+      "duration": 3.33,
+      "end": 26.159999999999997
+    },
+    {
+      "index": 10,
+      "text": "in 3d",
+      "start": 25.23,
+      "duration": 2.61,
+      "end": 27.84
+    },
+    {
+      "index": 11,
+      "text": "we're gonna get a little deeper into",
+      "start": 26.16,
+      "duration": 3.9,
+      "end": 30.06
+    },
+    {
+      "index": 12,
+      "text": "some stuff so prepare your brains all",
+      "start": 27.84,
+      "duration": 20.399,
+      "end": 48.239000000000004
+    },
+    {
+      "index": 13,
+      "text": "right if this is your first time on the",
+      "start": 30.06,
+      "duration": 20.19,
+      "end": 50.25
+    },
+    {
+      "index": 14,
+      "text": "channel welcome thank you for joining",
+      "start": 48.239,
+      "duration": 3.811,
+      "end": 52.05
+    },
+    {
+      "index": 15,
+      "text": "and I hope that you learn something new",
+      "start": 50.25,
+      "duration": 4.469,
+      "end": 54.719
+    },
+    {
+      "index": 16,
+      "text": "if you have any questions at all or any",
+      "start": 52.05,
+      "duration": 4.32,
+      "end": 56.37
+    },
+    {
+      "index": 17,
+      "text": "thoughts feel free to drop them below",
+      "start": 54.719,
+      "duration": 3.301,
+      "end": 58.02
+    },
+    {
+      "index": 18,
+      "text": "and also don't forget to hit the like",
+      "start": 56.37,
+      "duration": 3.63,
+      "end": 60.0
+    },
+    {
+      "index": 19,
+      "text": "button I'd really appreciate that",
+      "start": 58.02,
+      "duration": 4.5,
+      "end": 62.52
+    },
+    {
+      "index": 20,
+      "text": "let's go so for those of you who don't",
+      "start": 60.0,
+      "duration": 6.53,
+      "end": 66.53
+    },
+    {
+      "index": 21,
+      "text": "know what a foundation is which would be",
+      "start": 62.52,
+      "duration": 4.01,
+      "end": 66.53
+    },
+    {
+      "index": 22,
+      "text": "foundation of a building is also",
+      "start": 67.22,
+      "duration": 5.92,
+      "end": 73.14
+    },
+    {
+      "index": 23,
+      "text": "referred to as the sub structure so you",
+      "start": 69.63,
+      "duration": 5.79,
+      "end": 75.42
+    },
+    {
+      "index": 24,
+      "text": "have a superstructure which is the",
+      "start": 73.14,
+      "duration": 5.01,
+      "end": 78.15
+    },
+    {
+      "index": 25,
+      "text": "portion above ground level and you have",
+      "start": 75.42,
+      "duration": 5.73,
+      "end": 81.15
+    },
+    {
+      "index": 26,
+      "text": "sub structure which is below the ground",
+      "start": 78.15,
+      "duration": 5.399,
+      "end": 83.549
+    },
+    {
+      "index": 27,
+      "text": "level which is what we will be focusing",
+      "start": 81.15,
+      "duration": 3.87,
+      "end": 85.02000000000001
+    },
+    {
+      "index": 28,
+      "text": "on and there are many types of",
+      "start": 83.549,
+      "duration": 4.981,
+      "end": 88.53
+    },
+    {
+      "index": 29,
+      "text": "foundation you have a pile RAF pad",
+      "start": 85.02,
+      "duration": 5.58,
+      "end": 90.6
+    },
+    {
+      "index": 30,
+      "text": "foundation but the one we're gonna be",
+      "start": 88.53,
+      "duration": 4.589,
+      "end": 93.119
+    },
+    {
+      "index": 31,
+      "text": "focusing on or the one we're gonna be",
+      "start": 90.6,
+      "duration": 5.04,
+      "end": 95.64
+    },
+    {
+      "index": 32,
+      "text": "using this is known as strict foundation",
+      "start": 93.119,
+      "duration": 5.281,
+      "end": 98.4
+    },
+    {
+      "index": 33,
+      "text": "which is typical of what we use mostly",
+      "start": 95.64,
+      "duration": 5.519,
+      "end": 101.159
+    },
+    {
+      "index": 34,
+      "text": "in Jamaica and other parts of the",
+      "start": 98.4,
+      "duration": 4.98,
+      "end": 103.38000000000001
+    },
+    {
+      "index": 35,
+      "text": "Caribbean so a strip foundation is",
+      "start": 101.159,
+      "duration": 5.21,
+      "end": 106.369
+    },
+    {
+      "index": 36,
+      "text": "basically a strip of reinforced concrete",
+      "start": 103.38,
+      "duration": 7.26,
+      "end": 110.64
+    },
+    {
+      "index": 37,
+      "text": "that runs along the bottom of a wall all",
+      "start": 106.369,
+      "duration": 6.04,
+      "end": 112.409
+    },
+    {
+      "index": 38,
+      "text": "right and what it does is to support",
+      "start": 110.64,
+      "duration": 4.11,
+      "end": 114.75
+    },
+    {
+      "index": 39,
+      "text": "that wall that's basically it just a",
+      "start": 112.409,
+      "duration": 5.401,
+      "end": 117.81
+    },
+    {
+      "index": 40,
+      "text": "strip of concrete all right",
+      "start": 114.75,
+      "duration": 5.549,
+      "end": 120.299
+    },
+    {
+      "index": 41,
+      "text": "so that's what we'll be doing today all",
+      "start": 117.81,
+      "duration": 4.89,
+      "end": 122.7
+    },
+    {
+      "index": 42,
+      "text": "right so here we are back in AutoCAD in",
+      "start": 120.299,
+      "duration": 4.771,
+      "end": 125.07000000000001
+    },
+    {
+      "index": 43,
+      "text": "the last couple of videos this was where",
+      "start": 122.7,
+      "duration": 6.539,
+      "end": 129.239
+    },
+    {
+      "index": 44,
+      "text": "we cut and so now we're going to add our",
+      "start": 125.07,
+      "duration": 7.02,
+      "end": 132.09
+    },
+    {
+      "index": 45,
+      "text": "foundation now if you go back over to",
+      "start": 129.239,
+      "duration": 4.171,
+      "end": 133.41
+    },
+    {
+      "index": 46,
+      "text": "your project navigator",
+      "start": 132.09,
+      "duration": 5.55,
+      "end": 137.64000000000001
+    },
+    {
+      "index": 47,
+      "text": "this is it right here we are now going",
+      "start": 133.41,
+      "duration": 8.88,
+      "end": 142.29
+    },
+    {
+      "index": 48,
+      "text": "to go into our foundation construct and",
+      "start": 137.64,
+      "duration": 6.81,
+      "end": 144.45
+    },
+    {
+      "index": 49,
+      "text": "this is where we'll be drawing our",
+      "start": 142.29,
+      "duration": 4.77,
+      "end": 147.06
+    },
+    {
+      "index": 50,
+      "text": "foundation everything foundation related",
+      "start": 144.45,
+      "duration": 5.4,
+      "end": 149.85
+    },
+    {
+      "index": 51,
+      "text": "will be going into that file all right",
+      "start": 147.06,
+      "duration": 4.56,
+      "end": 151.62
+    },
+    {
+      "index": 52,
+      "text": "and if you're not seeing project",
+      "start": 149.85,
+      "duration": 4.5,
+      "end": 154.35
+    },
+    {
+      "index": 53,
+      "text": "navigator it is right up here so you're",
+      "start": 151.62,
+      "duration": 5.4,
+      "end": 157.02
+    },
+    {
+      "index": 54,
+      "text": "gonna open it up and it should bring you",
+      "start": 154.35,
+      "duration": 6.93,
+      "end": 161.28
+    },
+    {
+      "index": 55,
+      "text": "to your project settings go down to",
+      "start": 157.02,
+      "duration": 7.92,
+      "end": 164.94
+    },
+    {
+      "index": 56,
+      "text": "constructs foundations so we're going to",
+      "start": 161.28,
+      "duration": 8.04,
+      "end": 169.32
+    },
+    {
+      "index": 57,
+      "text": "open it and up here we can see that we",
+      "start": 164.94,
+      "duration": 6.75,
+      "end": 171.69
+    },
+    {
+      "index": 58,
+      "text": "have it open and it's almost like a",
+      "start": 169.32,
+      "duration": 3.84,
+      "end": 173.16
+    },
+    {
+      "index": 59,
+      "text": "brand-new drawing because there's",
+      "start": 171.69,
+      "duration": 4.44,
+      "end": 176.13
+    },
+    {
+      "index": 60,
+      "text": "nothing inside of it so the first thing",
+      "start": 173.16,
+      "duration": 6.36,
+      "end": 179.52
+    },
+    {
+      "index": 61,
+      "text": "we're gonna do is to bring in our grid",
+      "start": 176.13,
+      "duration": 5.43,
+      "end": 181.56
+    },
+    {
+      "index": 62,
+      "text": "lines just like we did for the ground",
+      "start": 179.52,
+      "duration": 5.51,
+      "end": 185.03
+    },
+    {
+      "index": 63,
+      "text": "floor so right click and we're gonna say",
+      "start": 181.56,
+      "duration": 6.93,
+      "end": 188.49
+    },
+    {
+      "index": 64,
+      "text": "xref overlay and just like that our grid",
+      "start": 185.03,
+      "duration": 7.57,
+      "end": 192.6
+    },
+    {
+      "index": 65,
+      "text": "lines are no in the second thing to do",
+      "start": 188.49,
+      "duration": 6.69,
+      "end": 195.18
+    },
+    {
+      "index": 66,
+      "text": "is to draw our foundation walls",
+      "start": 192.6,
+      "duration": 5.52,
+      "end": 198.12
+    },
+    {
+      "index": 67,
+      "text": "so there are two ways we can do this we",
+      "start": 195.18,
+      "duration": 5.55,
+      "end": 200.73000000000002
+    },
+    {
+      "index": 68,
+      "text": "can draw the walls from scratch like we",
+      "start": 198.12,
+      "duration": 5.97,
+      "end": 204.09
+    },
+    {
+      "index": 69,
+      "text": "did in episode 4 or since we already",
+      "start": 200.73,
+      "duration": 6.57,
+      "end": 207.29999999999998
+    },
+    {
+      "index": 70,
+      "text": "have the walls over here we could",
+      "start": 204.09,
+      "duration": 5.58,
+      "end": 209.67000000000002
+    },
+    {
+      "index": 71,
+      "text": "actually copy these walls what do you",
+      "start": 207.3,
+      "duration": 4.58,
+      "end": 211.88000000000002
+    },
+    {
+      "index": 72,
+      "text": "think why not",
+      "start": 209.67,
+      "duration": 5.39,
+      "end": 215.05999999999997
+    },
+    {
+      "index": 73,
+      "text": "so let's go back to the top view and",
+      "start": 211.88,
+      "duration": 5.8,
+      "end": 217.68
+    },
+    {
+      "index": 74,
+      "text": "we're gonna go back to 2d wireframe",
+      "start": 215.06,
+      "duration": 6.24,
+      "end": 221.3
+    },
+    {
+      "index": 75,
+      "text": "and we're gonna copy these walls",
+      "start": 217.68,
+      "duration": 6.36,
+      "end": 224.04000000000002
+    },
+    {
+      "index": 76,
+      "text": "so we're gonna click on one of the walls",
+      "start": 221.3,
+      "duration": 6.31,
+      "end": 227.61
+    },
+    {
+      "index": 77,
+      "text": "and we're gonna right click and we're",
+      "start": 224.04,
+      "duration": 8.4,
+      "end": 232.44
+    },
+    {
+      "index": 78,
+      "text": "gonna say select similar now what that",
+      "start": 227.61,
+      "duration": 8.09,
+      "end": 235.70000000000002
+    },
+    {
+      "index": 79,
+      "text": "will do is to select all your walls no",
+      "start": 232.44,
+      "duration": 6.45,
+      "end": 238.89
+    },
+    {
+      "index": 80,
+      "text": "people we're not gonna copy the doors",
+      "start": 235.7,
+      "duration": 5.34,
+      "end": 241.04
+    },
+    {
+      "index": 81,
+      "text": "and we're not gonna copy the windows",
+      "start": 238.89,
+      "duration": 5.19,
+      "end": 244.07999999999998
+    },
+    {
+      "index": 82,
+      "text": "because we don't have windows and doors",
+      "start": 241.04,
+      "duration": 6.24,
+      "end": 247.28
+    },
+    {
+      "index": 83,
+      "text": "in a foundation we only need the walls",
+      "start": 244.08,
+      "duration": 7.89,
+      "end": 251.97
+    },
+    {
+      "index": 84,
+      "text": "ok that is why we're copying just was so",
+      "start": 247.28,
+      "duration": 7.9,
+      "end": 255.18
+    },
+    {
+      "index": 85,
+      "text": "we go over to back to home and I just",
+      "start": 251.97,
+      "duration": 5.46,
+      "end": 257.43
+    },
+    {
+      "index": 86,
+      "text": "want to show you now this copy tool",
+      "start": 255.18,
+      "duration": 3.72,
+      "end": 258.90000000000003
+    },
+    {
+      "index": 87,
+      "text": "we're not gonna use it",
+      "start": 257.43,
+      "duration": 4.619,
+      "end": 262.049
+    },
+    {
+      "index": 88,
+      "text": "ok cuz we're copying from one file to",
+      "start": 258.9,
+      "duration": 6.96,
+      "end": 265.85999999999996
+    },
+    {
+      "index": 89,
+      "text": "another file but we need to copy using",
+      "start": 262.049,
+      "duration": 4.111,
+      "end": 266.15999999999997
+    },
+    {
+      "index": 90,
+      "text": "our",
+      "start": 265.86,
+      "duration": 3.03,
+      "end": 268.89
+    },
+    {
+      "index": 91,
+      "text": "reference point and the reference point",
+      "start": 266.16,
+      "duration": 5.79,
+      "end": 271.95000000000005
+    },
+    {
+      "index": 92,
+      "text": "that I want to use is one a right at",
+      "start": 268.89,
+      "duration": 5.76,
+      "end": 274.65
+    },
+    {
+      "index": 93,
+      "text": "this intersection so how do we do that",
+      "start": 271.95,
+      "duration": 5.63,
+      "end": 277.58
+    },
+    {
+      "index": 94,
+      "text": "we're gonna use the command copy base",
+      "start": 274.65,
+      "duration": 6.38,
+      "end": 281.03
+    },
+    {
+      "index": 95,
+      "text": "and the shortcut for that is ctrl shift",
+      "start": 277.58,
+      "duration": 8.71,
+      "end": 286.28999999999996
+    },
+    {
+      "index": 96,
+      "text": "C as you can see here it is now active",
+      "start": 281.03,
+      "duration": 7.0,
+      "end": 288.03
+    },
+    {
+      "index": 97,
+      "text": "and we're going to select this",
+      "start": 286.29,
+      "duration": 4.52,
+      "end": 290.81
+    },
+    {
+      "index": 98,
+      "text": "intersection here as a reference point",
+      "start": 288.03,
+      "duration": 7.83,
+      "end": 295.85999999999996
+    },
+    {
+      "index": 99,
+      "text": "so we're going to click and now we can",
+      "start": 290.81,
+      "duration": 7.33,
+      "end": 298.14
+    },
+    {
+      "index": 100,
+      "text": "go over to our foundation and we're",
+      "start": 295.86,
+      "duration": 4.5,
+      "end": 300.36
+    },
+    {
+      "index": 101,
+      "text": "gonna paste now if you know the shortcut",
+      "start": 298.14,
+      "duration": 4.77,
+      "end": 302.90999999999997
+    },
+    {
+      "index": 102,
+      "text": "for paste that would be what control V",
+      "start": 300.36,
+      "duration": 7.77,
+      "end": 308.13
+    },
+    {
+      "index": 103,
+      "text": "so ctrl V and now you can see that we",
+      "start": 302.91,
+      "duration": 7.8,
+      "end": 310.71000000000004
+    },
+    {
+      "index": 104,
+      "text": "have the same reference point here for",
+      "start": 308.13,
+      "duration": 5.28,
+      "end": 313.40999999999997
+    },
+    {
+      "index": 105,
+      "text": "the one e on the grid line so we're",
+      "start": 310.71,
+      "duration": 6.02,
+      "end": 316.72999999999996
+    },
+    {
+      "index": 106,
+      "text": "gonna drop it right at that intersection",
+      "start": 313.41,
+      "duration": 5.61,
+      "end": 319.02000000000004
+    },
+    {
+      "index": 107,
+      "text": "and just like that",
+      "start": 316.73,
+      "duration": 4.69,
+      "end": 321.42
+    },
+    {
+      "index": 108,
+      "text": "our walls are now inside of our",
+      "start": 319.02,
+      "duration": 5.49,
+      "end": 324.51
+    },
+    {
+      "index": 109,
+      "text": "foundation drawing all right",
+      "start": 321.42,
+      "duration": 6.5,
+      "end": 327.92
+    },
+    {
+      "index": 110,
+      "text": "now if I should go to 3d and observe",
+      "start": 324.51,
+      "duration": 7.17,
+      "end": 331.68
+    },
+    {
+      "index": 111,
+      "text": "what do you observe these walls are too",
+      "start": 327.92,
+      "duration": 10.06,
+      "end": 337.98
+    },
+    {
+      "index": 112,
+      "text": "tall to be hidden there is no way we'd",
+      "start": 331.68,
+      "duration": 9.45,
+      "end": 341.13
+    },
+    {
+      "index": 113,
+      "text": "have our foundation walls this top so",
+      "start": 337.98,
+      "duration": 4.26,
+      "end": 342.24
+    },
+    {
+      "index": 114,
+      "text": "the first thing we need to do is to",
+      "start": 341.13,
+      "duration": 3.72,
+      "end": 344.85
+    },
+    {
+      "index": 115,
+      "text": "reduce the height so we're gonna click",
+      "start": 342.24,
+      "duration": 6.29,
+      "end": 348.53000000000003
+    },
+    {
+      "index": 116,
+      "text": "on it let's select all our walls again",
+      "start": 344.85,
+      "duration": 6.27,
+      "end": 351.12
+    },
+    {
+      "index": 117,
+      "text": "and we're going to go over to our",
+      "start": 348.53,
+      "duration": 4.78,
+      "end": 353.30999999999995
+    },
+    {
+      "index": 118,
+      "text": "properties and change the height of our",
+      "start": 351.12,
+      "duration": 8.04,
+      "end": 359.16
+    },
+    {
+      "index": 119,
+      "text": "walls to 4 feet that's it you have to",
+      "start": 353.31,
+      "duration": 7.35,
+      "end": 360.66
+    },
+    {
+      "index": 120,
+      "text": "remember that when we set up the project",
+      "start": 359.16,
+      "duration": 5.66,
+      "end": 364.82000000000005
+    },
+    {
+      "index": 121,
+      "text": "we set the foundation to be 4 feet high",
+      "start": 360.66,
+      "duration": 9.39,
+      "end": 370.05
+    },
+    {
+      "index": 122,
+      "text": "all right so that's gonna be that so now",
+      "start": 364.82,
+      "duration": 8.02,
+      "end": 372.84
+    },
+    {
+      "index": 123,
+      "text": "we have the foundation walls all set and",
+      "start": 370.05,
+      "duration": 5.79,
+      "end": 375.84000000000003
+    },
+    {
+      "index": 124,
+      "text": "all done the second thing we're gonna do",
+      "start": 372.84,
+      "duration": 6.78,
+      "end": 379.61999999999995
+    },
+    {
+      "index": 125,
+      "text": "is to add the floor slab all right and",
+      "start": 375.84,
+      "duration": 8.37,
+      "end": 384.21
+    },
+    {
+      "index": 126,
+      "text": "the floor slab should be right on top of",
+      "start": 379.62,
+      "duration": 9.15,
+      "end": 388.77
+    },
+    {
+      "index": 127,
+      "text": "this area here right on top of it it",
+      "start": 384.21,
+      "duration": 7.92,
+      "end": 392.13
+    },
+    {
+      "index": 128,
+      "text": "should flush with the top of the wall so",
+      "start": 388.77,
+      "duration": 7.11,
+      "end": 395.88
+    },
+    {
+      "index": 129,
+      "text": "let me show you if I should rotate the",
+      "start": 392.13,
+      "duration": 6.26,
+      "end": 398.39
+    },
+    {
+      "index": 130,
+      "text": "floor like this the floor should be",
+      "start": 395.88,
+      "duration": 5.61,
+      "end": 401.49
+    },
+    {
+      "index": 131,
+      "text": "exactly on top of here all right so",
+      "start": 398.39,
+      "duration": 5.98,
+      "end": 404.37
+    },
+    {
+      "index": 132,
+      "text": "we're gonna do that let's go back to the",
+      "start": 401.49,
+      "duration": 7.29,
+      "end": 408.78000000000003
+    },
+    {
+      "index": 133,
+      "text": "top view to the wireframe and we're",
+      "start": 404.37,
+      "duration": 10.02,
+      "end": 414.39
+    },
+    {
+      "index": 134,
+      "text": "gonna go to roof slab and change it to",
+      "start": 408.78,
+      "duration": 9.18,
+      "end": 417.96
+    },
+    {
+      "index": 135,
+      "text": "slab all right we can find it here or we",
+      "start": 414.39,
+      "duration": 6.6,
+      "end": 420.99
+    },
+    {
+      "index": 136,
+      "text": "can go over to our tool pallet where it",
+      "start": 417.96,
+      "duration": 6.66,
+      "end": 424.62
+    },
+    {
+      "index": 137,
+      "text": "is also located in the design tab you'll",
+      "start": 420.99,
+      "duration": 6.93,
+      "end": 427.92
+    },
+    {
+      "index": 138,
+      "text": "go down until you see slab right here",
+      "start": 424.62,
+      "duration": 7.37,
+      "end": 431.99
+    },
+    {
+      "index": 139,
+      "text": "alright either way let's click on it and",
+      "start": 427.92,
+      "duration": 9.72,
+      "end": 437.64000000000004
+    },
+    {
+      "index": 140,
+      "text": "now we are we can draw our slab so the",
+      "start": 431.99,
+      "duration": 7.27,
+      "end": 439.26
+    },
+    {
+      "index": 141,
+      "text": "first thing we're gonna do is to type in",
+      "start": 437.64,
+      "duration": 4.8,
+      "end": 442.44
+    },
+    {
+      "index": 142,
+      "text": "how thick we want this slab to be so we",
+      "start": 439.26,
+      "duration": 6.75,
+      "end": 446.01
+    },
+    {
+      "index": 143,
+      "text": "want the slab to be 6 inches thick okay",
+      "start": 442.44,
+      "duration": 6.3,
+      "end": 448.74
+    },
+    {
+      "index": 144,
+      "text": "for residential properties it would be 6",
+      "start": 446.01,
+      "duration": 5.82,
+      "end": 451.83
+    },
+    {
+      "index": 145,
+      "text": "inches and for commercial it would be a",
+      "start": 448.74,
+      "duration": 6.54,
+      "end": 455.28000000000003
+    },
+    {
+      "index": 146,
+      "text": "little bit thicker maybe 8 inches so for",
+      "start": 451.83,
+      "duration": 6.089,
+      "end": 457.919
+    },
+    {
+      "index": 147,
+      "text": "this building imma leave it at 6 make",
+      "start": 455.28,
+      "duration": 5.79,
+      "end": 461.07
+    },
+    {
+      "index": 148,
+      "text": "sure that the justify is top everything",
+      "start": 457.919,
+      "duration": 5.491,
+      "end": 463.40999999999997
+    },
+    {
+      "index": 149,
+      "text": "else is good and then we're gonna go",
+      "start": 461.07,
+      "duration": 7.11,
+      "end": 468.18
+    },
+    {
+      "index": 150,
+      "text": "ahead and draw a box around and this box",
+      "start": 463.41,
+      "duration": 6.69,
+      "end": 470.1
+    },
+    {
+      "index": 151,
+      "text": "we're gonna draw it on the inside of",
+      "start": 468.18,
+      "duration": 8.01,
+      "end": 476.19
+    },
+    {
+      "index": 152,
+      "text": "this wall so turn this off so I'm gonna",
+      "start": 470.1,
+      "duration": 10.319,
+      "end": 480.41900000000004
+    },
+    {
+      "index": 153,
+      "text": "draw it from here over to this corner",
+      "start": 476.19,
+      "duration": 9.38,
+      "end": 485.57
+    },
+    {
+      "index": 154,
+      "text": "like that don't to this corner like that",
+      "start": 480.419,
+      "duration": 9.541,
+      "end": 489.96
+    },
+    {
+      "index": 155,
+      "text": "over to this corner and then back up to",
+      "start": 485.57,
+      "duration": 6.7,
+      "end": 492.27
+    },
+    {
+      "index": 156,
+      "text": "this corner like that all right",
+      "start": 489.96,
+      "duration": 4.26,
+      "end": 494.21999999999997
+    },
+    {
+      "index": 157,
+      "text": "and so we close the box right there and",
+      "start": 492.27,
+      "duration": 6.36,
+      "end": 498.63
+    },
+    {
+      "index": 158,
+      "text": "we're gonna hit enter and that's it hit",
+      "start": 494.22,
+      "duration": 7.199,
+      "end": 501.41900000000004
+    },
+    {
+      "index": 159,
+      "text": "enter one more time let's look at that",
+      "start": 498.63,
+      "duration": 7.08,
+      "end": 505.71
+    },
+    {
+      "index": 160,
+      "text": "in 3d you know I love my 3d view I'm",
+      "start": 501.419,
+      "duration": 8.491,
+      "end": 509.90999999999997
+    },
+    {
+      "index": 161,
+      "text": "gonna say concept to all this time now",
+      "start": 505.71,
+      "duration": 6.629,
+      "end": 512.3389999999999
+    },
+    {
+      "index": 162,
+      "text": "if you notice now that the floor slab is",
+      "start": 509.91,
+      "duration": 6.179,
+      "end": 516.089
+    },
+    {
+      "index": 163,
+      "text": "below the foundation which is ridiculous",
+      "start": 512.339,
+      "duration": 6.181,
+      "end": 518.5200000000001
+    },
+    {
+      "index": 164,
+      "text": "I don't want it there I want it to be on",
+      "start": 516.089,
+      "duration": 5.341,
+      "end": 521.4300000000001
+    },
+    {
+      "index": 165,
+      "text": "top of flushing with the top of the wall",
+      "start": 518.52,
+      "duration": 5.13,
+      "end": 523.65
+    },
+    {
+      "index": 166,
+      "text": "so what I need to do so click on the",
+      "start": 521.43,
+      "duration": 5.97,
+      "end": 527.4
+    },
+    {
+      "index": 167,
+      "text": "floor slab and change the elevation from",
+      "start": 523.65,
+      "duration": 8.29,
+      "end": 531.9399999999999
+    },
+    {
+      "index": 168,
+      "text": "0 to 4 4",
+      "start": 527.4,
+      "duration": 13.66,
+      "end": 541.06
+    },
+    {
+      "index": 169,
+      "text": "four feet and just like that all right",
+      "start": 531.94,
+      "duration": 12.3,
+      "end": 544.24
+    },
+    {
+      "index": 170,
+      "text": "so that is how that should look flush",
+      "start": 541.06,
+      "duration": 5.79,
+      "end": 546.8499999999999
+    },
+    {
+      "index": 171,
+      "text": "just like that now if you'll notice I'm",
+      "start": 544.24,
+      "duration": 5.01,
+      "end": 549.25
+    },
+    {
+      "index": 172,
+      "text": "gonna put this in x-ray view so you can",
+      "start": 546.85,
+      "duration": 5.55,
+      "end": 552.4
+    },
+    {
+      "index": 173,
+      "text": "see what I'm saying now if you notice",
+      "start": 549.25,
+      "duration": 6.03,
+      "end": 555.28
+    },
+    {
+      "index": 174,
+      "text": "the walls are intersecting with the",
+      "start": 552.4,
+      "duration": 6.3,
+      "end": 558.6999999999999
+    },
+    {
+      "index": 175,
+      "text": "floor so if I should go like this you",
+      "start": 555.28,
+      "duration": 5.1,
+      "end": 560.38
+    },
+    {
+      "index": 176,
+      "text": "can see that the floor actually runs",
+      "start": 558.7,
+      "duration": 4.17,
+      "end": 562.87
+    },
+    {
+      "index": 177,
+      "text": "through the wall and we don't want that",
+      "start": 560.38,
+      "duration": 7.02,
+      "end": 567.4
+    },
+    {
+      "index": 178,
+      "text": "okay we actually want the floor to to",
+      "start": 562.87,
+      "duration": 8.37,
+      "end": 571.24
+    },
+    {
+      "index": 179,
+      "text": "stop at each wall all right so what",
+      "start": 567.4,
+      "duration": 6.6,
+      "end": 574.0
+    },
+    {
+      "index": 180,
+      "text": "we're gonna do we're gonna create what",
+      "start": 571.24,
+      "duration": 6.95,
+      "end": 578.19
+    },
+    {
+      "index": 181,
+      "text": "is called interference all right so",
+      "start": 574.0,
+      "duration": 8.19,
+      "end": 582.19
+    },
+    {
+      "index": 182,
+      "text": "click on the wall or rather click on the",
+      "start": 578.19,
+      "duration": 7.03,
+      "end": 585.22
+    },
+    {
+      "index": 183,
+      "text": "slab and then we're gonna go up to",
+      "start": 582.19,
+      "duration": 5.69,
+      "end": 587.8800000000001
+    },
+    {
+      "index": 184,
+      "text": "interference and we're gonna add some",
+      "start": 585.22,
+      "duration": 6.36,
+      "end": 591.58
+    },
+    {
+      "index": 185,
+      "text": "interference so click on it and you",
+      "start": 587.88,
+      "duration": 8.14,
+      "end": 596.02
+    },
+    {
+      "index": 186,
+      "text": "wanna select it says down here select",
+      "start": 591.58,
+      "duration": 7.92,
+      "end": 599.5
+    },
+    {
+      "index": 187,
+      "text": "objects to add so what do we want to add",
+      "start": 596.02,
+      "duration": 6.56,
+      "end": 602.5799999999999
+    },
+    {
+      "index": 188,
+      "text": "we want to add these walls that are",
+      "start": 599.5,
+      "duration": 6.51,
+      "end": 606.01
+    },
+    {
+      "index": 189,
+      "text": "interfering with the floor slab so let's",
+      "start": 602.58,
+      "duration": 4.78,
+      "end": 607.36
+    },
+    {
+      "index": 190,
+      "text": "go ahead and select them we could",
+      "start": 606.01,
+      "duration": 4.71,
+      "end": 610.72
+    },
+    {
+      "index": 191,
+      "text": "actually do it from the 3d view which is",
+      "start": 607.36,
+      "duration": 7.14,
+      "end": 614.5
+    },
+    {
+      "index": 192,
+      "text": "what I'm gonna do here that one then we",
+      "start": 610.72,
+      "duration": 8.52,
+      "end": 619.24
+    },
+    {
+      "index": 193,
+      "text": "have this one we have this wall and we",
+      "start": 614.5,
+      "duration": 7.59,
+      "end": 622.09
+    },
+    {
+      "index": 194,
+      "text": "also have this one so these are the",
+      "start": 619.24,
+      "duration": 4.59,
+      "end": 623.83
+    },
+    {
+      "index": 195,
+      "text": "walls that are interfering with the",
+      "start": 622.09,
+      "duration": 2.49,
+      "end": 624.58
+    },
+    {
+      "index": 196,
+      "text": "floor slab",
+      "start": 623.83,
+      "duration": 2.58,
+      "end": 626.4100000000001
+    },
+    {
+      "index": 197,
+      "text": "once you're done selecting you would",
+      "start": 624.58,
+      "duration": 5.01,
+      "end": 629.59
+    },
+    {
+      "index": 198,
+      "text": "press ENTER and then you have the",
+      "start": 626.41,
+      "duration": 6.48,
+      "end": 632.89
+    },
+    {
+      "index": 199,
+      "text": "decision to say do you want it to be",
+      "start": 629.59,
+      "duration": 5.19,
+      "end": 634.7800000000001
+    },
+    {
+      "index": 200,
+      "text": "additive or do you want it to be",
+      "start": 632.89,
+      "duration": 5.6,
+      "end": 638.49
+    },
+    {
+      "index": 201,
+      "text": "subtractive which one do you think",
+      "start": 634.78,
+      "duration": 6.21,
+      "end": 640.99
+    },
+    {
+      "index": 202,
+      "text": "perfect subtractive something OC a",
+      "start": 638.49,
+      "duration": 5.83,
+      "end": 644.32
+    },
+    {
+      "index": 203,
+      "text": "brightener Yemen subtract and just like",
+      "start": 640.99,
+      "duration": 13.23,
+      "end": 654.22
+    },
+    {
+      "index": 204,
+      "text": "that boom the floor is now separated for",
+      "start": 644.32,
+      "duration": 12.6,
+      "end": 656.9200000000001
+    },
+    {
+      "index": 205,
+      "text": "each rule so each room now has its own",
+      "start": 654.22,
+      "duration": 7.36,
+      "end": 661.58
+    },
+    {
+      "index": 206,
+      "text": "floor slab alright and the last thing we",
+      "start": 656.92,
+      "duration": 7.03,
+      "end": 663.9499999999999
+    },
+    {
+      "index": 207,
+      "text": "need to do is to add our foundation",
+      "start": 661.58,
+      "duration": 4.23,
+      "end": 665.8100000000001
+    },
+    {
+      "index": 208,
+      "text": "footing okay",
+      "start": 663.95,
+      "duration": 4.47,
+      "end": 668.4200000000001
+    },
+    {
+      "index": 209,
+      "text": "so you see it's not all that difficult",
+      "start": 665.81,
+      "duration": 5.55,
+      "end": 671.3599999999999
+    },
+    {
+      "index": 210,
+      "text": "in fact this might be the most difficult",
+      "start": 668.42,
+      "duration": 8.16,
+      "end": 676.5799999999999
+    },
+    {
+      "index": 211,
+      "text": "part of the video so pay attention so",
+      "start": 671.36,
+      "duration": 8.19,
+      "end": 679.5500000000001
+    },
+    {
+      "index": 212,
+      "text": "we're gonna add some footing what we",
+      "start": 676.58,
+      "duration": 4.5,
+      "end": 681.08
+    },
+    {
+      "index": 213,
+      "text": "need to do is to go to our tool pallet",
+      "start": 679.55,
+      "duration": 4.52,
+      "end": 684.0699999999999
+    },
+    {
+      "index": 214,
+      "text": "and we're gonna say content browser and",
+      "start": 681.08,
+      "duration": 6.33,
+      "end": 687.4100000000001
+    },
+    {
+      "index": 215,
+      "text": "we're gonna look for the footing to add",
+      "start": 684.07,
+      "duration": 8.34,
+      "end": 692.4100000000001
+    },
+    {
+      "index": 216,
+      "text": "to this drawing so we'll go to imperial",
+      "start": 687.41,
+      "duration": 8.67,
+      "end": 696.0799999999999
+    },
+    {
+      "index": 217,
+      "text": "let me go back if you're using metric",
+      "start": 692.41,
+      "duration": 5.56,
+      "end": 697.9699999999999
+    },
+    {
+      "index": 218,
+      "text": "you would go to match it what were using",
+      "start": 696.08,
+      "duration": 4.35,
+      "end": 700.4300000000001
+    },
+    {
+      "index": 219,
+      "text": "Imperial for this project so we're gonna",
+      "start": 697.97,
+      "duration": 4.44,
+      "end": 702.4100000000001
+    },
+    {
+      "index": 220,
+      "text": "go to Imperial and then we're gonna go",
+      "start": 700.43,
+      "duration": 7.53,
+      "end": 707.9599999999999
+    },
+    {
+      "index": 221,
+      "text": "down to was go to concrete and here we",
+      "start": 702.41,
+      "duration": 8.82,
+      "end": 711.23
+    },
+    {
+      "index": 222,
+      "text": "can see that we have a couple of options",
+      "start": 707.96,
+      "duration": 7.08,
+      "end": 715.0400000000001
+    },
+    {
+      "index": 223,
+      "text": "we have like a concrete wall founded",
+      "start": 711.23,
+      "duration": 5.64,
+      "end": 716.87
+    },
+    {
+      "index": 224,
+      "text": "with with a footing beneath it we have",
+      "start": 715.04,
+      "duration": 4.53,
+      "end": 719.5699999999999
+    },
+    {
+      "index": 225,
+      "text": "concrete walls have a lot of different",
+      "start": 716.87,
+      "duration": 4.8,
+      "end": 721.67
+    },
+    {
+      "index": 226,
+      "text": "stuff but the one that we're going to be",
+      "start": 719.57,
+      "duration": 5.9,
+      "end": 725.47
+    },
+    {
+      "index": 227,
+      "text": "using is this one here okay it says here",
+      "start": 721.67,
+      "duration": 8.16,
+      "end": 729.8299999999999
+    },
+    {
+      "index": 228,
+      "text": "variable width times 12 inches concrete",
+      "start": 725.47,
+      "duration": 7.21,
+      "end": 732.6800000000001
+    },
+    {
+      "index": 229,
+      "text": "strip foundation so we can change the",
+      "start": 729.83,
+      "duration": 5.34,
+      "end": 735.1700000000001
+    },
+    {
+      "index": 230,
+      "text": "width but the height of it is 12 inches",
+      "start": 732.68,
+      "duration": 5.64,
+      "end": 738.3199999999999
+    },
+    {
+      "index": 231,
+      "text": "which is too thick but we're gonna make",
+      "start": 735.17,
+      "duration": 5.61,
+      "end": 740.78
+    },
+    {
+      "index": 232,
+      "text": "some adjustment to it still but this is",
+      "start": 738.32,
+      "duration": 4.74,
+      "end": 743.0600000000001
+    },
+    {
+      "index": 233,
+      "text": "the one that I would recommend that you",
+      "start": 740.78,
+      "duration": 5.46,
+      "end": 746.24
+    },
+    {
+      "index": 234,
+      "text": "use so what I'm going to do actually is",
+      "start": 743.06,
+      "duration": 7.56,
+      "end": 750.6199999999999
+    },
+    {
+      "index": 235,
+      "text": "to add it to my walls tool pallet so I'm",
+      "start": 746.24,
+      "duration": 7.8,
+      "end": 754.04
+    },
+    {
+      "index": 236,
+      "text": "gonna go here and I'm gonna say add to",
+      "start": 750.62,
+      "duration": 7.35,
+      "end": 757.97
+    },
+    {
+      "index": 237,
+      "text": "tool palette so now it is in my tool",
+      "start": 754.04,
+      "duration": 8.91,
+      "end": 762.9499999999999
+    },
+    {
+      "index": 238,
+      "text": "pallet down here and we're gonna go",
+      "start": 757.97,
+      "duration": 9.32,
+      "end": 767.2900000000001
+    },
+    {
+      "index": 239,
+      "text": "ahead and draw one of these strip",
+      "start": 762.95,
+      "duration": 7.73,
+      "end": 770.6800000000001
+    },
+    {
+      "index": 240,
+      "text": "foundation so we're gonna click on it",
+      "start": 767.29,
+      "duration": 6.39,
+      "end": 773.68
+    },
+    {
+      "index": 241,
+      "text": "and",
+      "start": 770.68,
+      "duration": 3.0,
+      "end": 773.68
+    },
+    {
+      "index": 242,
+      "text": "we want the width to be one into six",
+      "start": 775.69,
+      "duration": 12.53,
+      "end": 788.22
+    },
+    {
+      "index": 243,
+      "text": "inches okay one into six and we want the",
+      "start": 779.41,
+      "duration": 17.94,
+      "end": 797.35
+    },
+    {
+      "index": 244,
+      "text": "justifier to be Center and what else",
+      "start": 788.22,
+      "duration": 10.93,
+      "end": 799.15
+    },
+    {
+      "index": 245,
+      "text": "I'll leave it at that for now",
+      "start": 797.35,
+      "duration": 5.16,
+      "end": 802.51
+    },
+    {
+      "index": 246,
+      "text": "and I'm gonna click I'm gonna draw the",
+      "start": 799.15,
+      "duration": 8.97,
+      "end": 808.12
+    },
+    {
+      "index": 247,
+      "text": "first footing foundation from here to",
+      "start": 802.51,
+      "duration": 10.98,
+      "end": 813.49
+    },
+    {
+      "index": 248,
+      "text": "here click enter so just like that we",
+      "start": 808.12,
+      "duration": 6.84,
+      "end": 814.96
+    },
+    {
+      "index": 249,
+      "text": "have our first foundation but the",
+      "start": 813.49,
+      "duration": 3.54,
+      "end": 817.03
+    },
+    {
+      "index": 250,
+      "text": "problem with this is that it is too",
+      "start": 814.96,
+      "duration": 5.25,
+      "end": 820.21
+    },
+    {
+      "index": 251,
+      "text": "thick it is 12 inches which would be",
+      "start": 817.03,
+      "duration": 5.37,
+      "end": 822.4
+    },
+    {
+      "index": 252,
+      "text": "fine if that's what you wanted but for",
+      "start": 820.21,
+      "duration": 4.5,
+      "end": 824.71
+    },
+    {
+      "index": 253,
+      "text": "this project I want a foundation that is",
+      "start": 822.4,
+      "duration": 6.06,
+      "end": 828.4599999999999
+    },
+    {
+      "index": 254,
+      "text": "9 inches thick which is typical for most",
+      "start": 824.71,
+      "duration": 6.36,
+      "end": 831.07
+    },
+    {
+      "index": 255,
+      "text": "of the houses that we do in Jamaica",
+      "start": 828.46,
+      "duration": 5.97,
+      "end": 834.4300000000001
+    },
+    {
+      "index": 256,
+      "text": "all right so 9 inches so how do we do",
+      "start": 831.07,
+      "duration": 5.94,
+      "end": 837.0100000000001
+    },
+    {
+      "index": 257,
+      "text": "this we're gonna have to edit this",
+      "start": 834.43,
+      "duration": 4.98,
+      "end": 839.41
+    },
+    {
+      "index": 258,
+      "text": "foundation so what we're gonna do is to",
+      "start": 837.01,
+      "duration": 4.8,
+      "end": 841.81
+    },
+    {
+      "index": 259,
+      "text": "copy style well first you need to",
+      "start": 839.41,
+      "duration": 4.86,
+      "end": 844.27
+    },
+    {
+      "index": 260,
+      "text": "highlight the object and then we're",
+      "start": 841.81,
+      "duration": 5.16,
+      "end": 846.9699999999999
+    },
+    {
+      "index": 261,
+      "text": "gonna say copy style and we're gonna",
+      "start": 844.27,
+      "duration": 4.62,
+      "end": 848.89
+    },
+    {
+      "index": 262,
+      "text": "change the name of it because we want",
+      "start": 846.97,
+      "duration": 5.91,
+      "end": 852.88
+    },
+    {
+      "index": 263,
+      "text": "this to be our own one that we use so",
+      "start": 848.89,
+      "duration": 5.19,
+      "end": 854.08
+    },
+    {
+      "index": 264,
+      "text": "we're going to change it to 9 because",
+      "start": 852.88,
+      "duration": 4.55,
+      "end": 857.43
+    },
+    {
+      "index": 265,
+      "text": "this one is gonna be 9 inches tall or",
+      "start": 854.08,
+      "duration": 6.36,
+      "end": 860.44
+    },
+    {
+      "index": 266,
+      "text": "thick change the description to 9 as",
+      "start": 857.43,
+      "duration": 5.94,
+      "end": 863.37
+    },
+    {
+      "index": 267,
+      "text": "well and then we'll go over to",
+      "start": 860.44,
+      "duration": 6.96,
+      "end": 867.4000000000001
+    },
+    {
+      "index": 268,
+      "text": "components and this is where now things",
+      "start": 863.37,
+      "duration": 6.43,
+      "end": 869.8
+    },
+    {
+      "index": 269,
+      "text": "get deep technical it looks difficult",
+      "start": 867.4,
+      "duration": 5.31,
+      "end": 872.7099999999999
+    },
+    {
+      "index": 270,
+      "text": "but it's not alright so this is like a",
+      "start": 869.8,
+      "duration": 6.15,
+      "end": 875.9499999999999
+    },
+    {
+      "index": 271,
+      "text": "View window where we can see what the",
+      "start": 872.71,
+      "duration": 5.43,
+      "end": 878.14
+    },
+    {
+      "index": 272,
+      "text": "footing looks like based on what we do",
+      "start": 875.95,
+      "duration": 4.86,
+      "end": 880.8100000000001
+    },
+    {
+      "index": 273,
+      "text": "over here basically all we're gonna do",
+      "start": 878.14,
+      "duration": 8.88,
+      "end": 887.02
+    },
+    {
+      "index": 274,
+      "text": "is to change this to 9 that's all but",
+      "start": 880.81,
+      "duration": 10.95,
+      "end": 891.76
+    },
+    {
+      "index": 275,
+      "text": "make sure that it is negative 9 okay so",
+      "start": 887.02,
+      "duration": 12.53,
+      "end": 899.55
+    },
+    {
+      "index": 276,
+      "text": "it is gonna be negative 9 9 inches and",
+      "start": 891.76,
+      "duration": 7.79,
+      "end": 899.55
+    },
+    {
+      "index": 277,
+      "text": "I'm gonna change this to zero and then",
+      "start": 906.54,
+      "duration": 14.71,
+      "end": 921.25
+    },
+    {
+      "index": 278,
+      "text": "I'm gonna say okay oh okay that's it yep",
+      "start": 914.62,
+      "duration": 11.49,
+      "end": 926.11
+    },
+    {
+      "index": 279,
+      "text": "that is it and we can go over to our",
+      "start": 921.25,
+      "duration": 7.68,
+      "end": 928.93
+    },
+    {
+      "index": 280,
+      "text": "style just to check if that's the one we",
+      "start": 926.11,
+      "duration": 5.159,
+      "end": 931.269
+    },
+    {
+      "index": 281,
+      "text": "are using so now we have a separate",
+      "start": 928.93,
+      "duration": 4.71,
+      "end": 933.64
+    },
+    {
+      "index": 282,
+      "text": "style that we've just created called",
+      "start": 931.269,
+      "duration": 5.76,
+      "end": 937.029
+    },
+    {
+      "index": 283,
+      "text": "x times 9 which is a variable width",
+      "start": 933.64,
+      "duration": 8.58,
+      "end": 942.22
+    },
+    {
+      "index": 284,
+      "text": "times a 9 inch deep foundation all right",
+      "start": 937.029,
+      "duration": 7.461,
+      "end": 944.49
+    },
+    {
+      "index": 285,
+      "text": "strip foundation just to make sure so",
+      "start": 942.22,
+      "duration": 5.46,
+      "end": 947.6800000000001
+    },
+    {
+      "index": 286,
+      "text": "now we're good to go",
+      "start": 944.49,
+      "duration": 12.25,
+      "end": 956.74
+    },
+    {
+      "index": 287,
+      "text": "if we look at it in 3d let's do that we",
+      "start": 947.68,
+      "duration": 12.98,
+      "end": 960.66
+    },
+    {
+      "index": 288,
+      "text": "can see that we have a strip foundation",
+      "start": 956.74,
+      "duration": 6.96,
+      "end": 963.7
+    },
+    {
+      "index": 289,
+      "text": "running underneath that wall that is 9",
+      "start": 960.66,
+      "duration": 6.669,
+      "end": 967.329
+    },
+    {
+      "index": 290,
+      "text": "inches thick perfect so we're gonna",
+      "start": 963.7,
+      "duration": 8.639,
+      "end": 972.339
+    },
+    {
+      "index": 291,
+      "text": "finish the rest of it top to be",
+      "start": 967.329,
+      "duration": 5.731,
+      "end": 973.06
+    },
+    {
+      "index": 292,
+      "text": "wireframe",
+      "start": 972.339,
+      "duration": 3.091,
+      "end": 975.4300000000001
+    },
+    {
+      "index": 293,
+      "text": "so what we're gonna do is to click on",
+      "start": 973.06,
+      "duration": 5.87,
+      "end": 978.93
+    },
+    {
+      "index": 294,
+      "text": "this one we're gonna say add selected",
+      "start": 975.43,
+      "duration": 6.899,
+      "end": 982.329
+    },
+    {
+      "index": 295,
+      "text": "all right so we're gonna be adding the",
+      "start": 978.93,
+      "duration": 5.83,
+      "end": 984.76
+    },
+    {
+      "index": 296,
+      "text": "rest of it so let's start from this",
+      "start": 982.329,
+      "duration": 8.041,
+      "end": 990.37
+    },
+    {
+      "index": 297,
+      "text": "corner go all the way across so almost",
+      "start": 984.76,
+      "duration": 10.37,
+      "end": 995.13
+    },
+    {
+      "index": 298,
+      "text": "like a drawing walls going down",
+      "start": 990.37,
+      "duration": 4.76,
+      "end": 995.13
+    },
+    {
+      "index": 299,
+      "text": "never better walk across all right so so",
+      "start": 998.99,
+      "duration": 12.69,
+      "end": 1011.6800000000001
+    },
+    {
+      "index": 300,
+      "text": "far we have our external walls being",
+      "start": 1008.71,
+      "duration": 6.62,
+      "end": 1015.33
+    },
+    {
+      "index": 301,
+      "text": "done now we need to do the internal ones",
+      "start": 1011.68,
+      "duration": 6.39,
+      "end": 1018.0699999999999
+    },
+    {
+      "index": 302,
+      "text": "the internal ones might be a little bit",
+      "start": 1015.33,
+      "duration": 5.319,
+      "end": 1020.649
+    },
+    {
+      "index": 303,
+      "text": "more challenging because we don't have a",
+      "start": 1018.07,
+      "duration": 4.68,
+      "end": 1022.75
+    },
+    {
+      "index": 304,
+      "text": "grid line running through all of them",
+      "start": 1020.649,
+      "duration": 6.631,
+      "end": 1027.28
+    },
+    {
+      "index": 305,
+      "text": "and selected well this one has a grid",
+      "start": 1022.75,
+      "duration": 7.38,
+      "end": 1030.13
+    },
+    {
+      "index": 306,
+      "text": "line so let's do this one so we're gonna",
+      "start": 1027.28,
+      "duration": 6.059,
+      "end": 1033.339
+    },
+    {
+      "index": 307,
+      "text": "start right at the green box I'm gonna",
+      "start": 1030.13,
+      "duration": 8.12,
+      "end": 1038.25
+    },
+    {
+      "index": 308,
+      "text": "bring it all the way up to this one I",
+      "start": 1033.339,
+      "duration": 7.5,
+      "end": 1040.839
+    },
+    {
+      "index": 309,
+      "text": "would recommend turn on the ortho mode",
+      "start": 1038.25,
+      "duration": 5.319,
+      "end": 1043.569
+    },
+    {
+      "index": 310,
+      "text": "this will help you so that your",
+      "start": 1040.839,
+      "duration": 4.441,
+      "end": 1045.28
+    },
+    {
+      "index": 311,
+      "text": "foundation walls are your foundation",
+      "start": 1043.569,
+      "duration": 4.951,
+      "end": 1048.52
+    },
+    {
+      "index": 312,
+      "text": "footing will be straight no one on lino",
+      "start": 1045.28,
+      "duration": 6.21,
+      "end": 1051.49
+    },
+    {
+      "index": 313,
+      "text": "clean up all right so we have that one",
+      "start": 1048.52,
+      "duration": 5.49,
+      "end": 1054.01
+    },
+    {
+      "index": 314,
+      "text": "we're gonna add one across here let's do",
+      "start": 1051.49,
+      "duration": 4.5,
+      "end": 1055.99
+    },
+    {
+      "index": 315,
+      "text": "that click on one of these and we're",
+      "start": 1054.01,
+      "duration": 9.87,
+      "end": 1063.8799999999999
+    },
+    {
+      "index": 316,
+      "text": "gonna say add selected and when what I'm",
+      "start": 1055.99,
+      "duration": 12.12,
+      "end": 1068.11
+    },
+    {
+      "index": 317,
+      "text": "looking for is a green box to pop up in",
+      "start": 1063.88,
+      "duration": 10.32,
+      "end": 1074.2
+    },
+    {
+      "index": 318,
+      "text": "this corner let me see right see that",
+      "start": 1068.11,
+      "duration": 8.13,
+      "end": 1076.24
+    },
+    {
+      "index": 319,
+      "text": "green box why don't you see the green",
+      "start": 1074.2,
+      "duration": 6.9,
+      "end": 1081.1000000000001
+    },
+    {
+      "index": 320,
+      "text": "box click alright good bring it across",
+      "start": 1076.24,
+      "duration": 8.28,
+      "end": 1084.52
+    },
+    {
+      "index": 321,
+      "text": "and I see another green box over there",
+      "start": 1081.1,
+      "duration": 5.73,
+      "end": 1086.83
+    },
+    {
+      "index": 322,
+      "text": "I'm gonna just click even though it",
+      "start": 1084.52,
+      "duration": 4.89,
+      "end": 1089.41
+    },
+    {
+      "index": 323,
+      "text": "looks like the mouse or the cursor is",
+      "start": 1086.83,
+      "duration": 5.88,
+      "end": 1092.71
+    },
+    {
+      "index": 324,
+      "text": "not there once the green box pop up just",
+      "start": 1089.41,
+      "duration": 7.85,
+      "end": 1097.26
+    },
+    {
+      "index": 325,
+      "text": "click and we're gonna do the same thing",
+      "start": 1092.71,
+      "duration": 9.66,
+      "end": 1102.3700000000001
+    },
+    {
+      "index": 326,
+      "text": "I'd selected let's do this one I'm gonna",
+      "start": 1097.26,
+      "duration": 10.27,
+      "end": 1107.53
+    },
+    {
+      "index": 327,
+      "text": "come down from that grid point and that",
+      "start": 1102.37,
+      "duration": 6.27,
+      "end": 1108.6399999999999
+    },
+    {
+      "index": 328,
+      "text": "green box right there",
+      "start": 1107.53,
+      "duration": 6.899,
+      "end": 1114.4289999999999
+    },
+    {
+      "index": 329,
+      "text": "click I'm gonna go across to that green",
+      "start": 1108.64,
+      "duration": 11.28,
+      "end": 1119.92
+    },
+    {
+      "index": 330,
+      "text": "box then we have this tiny wall left so",
+      "start": 1114.429,
+      "duration": 10.681,
+      "end": 1125.1100000000001
+    },
+    {
+      "index": 331,
+      "text": "click on it and selected and here we",
+      "start": 1119.92,
+      "duration": 7.29,
+      "end": 1127.21
+    },
+    {
+      "index": 332,
+      "text": "have that green box right there let me",
+      "start": 1125.11,
+      "duration": 6.72,
+      "end": 1131.83
+    },
+    {
+      "index": 333,
+      "text": "see that one click bring it across",
+      "start": 1127.21,
+      "duration": 8.219,
+      "end": 1135.429
+    },
+    {
+      "index": 334,
+      "text": "and quick and guess what guys just like",
+      "start": 1131.83,
+      "duration": 8.689,
+      "end": 1140.519
+    },
+    {
+      "index": 335,
+      "text": "that we have all our foundation complete",
+      "start": 1135.429,
+      "duration": 13.34,
+      "end": 1148.769
+    },
+    {
+      "index": 336,
+      "text": "that's it so let's go back to 3d x-ray",
+      "start": 1140.519,
+      "duration": 13.03,
+      "end": 1153.549
+    },
+    {
+      "index": 337,
+      "text": "and I might just add perspective to that",
+      "start": 1148.769,
+      "duration": 8.321,
+      "end": 1157.09
+    },
+    {
+      "index": 338,
+      "text": "so you can have a a nicer look at it man",
+      "start": 1153.549,
+      "duration": 6.181,
+      "end": 1159.73
+    },
+    {
+      "index": 339,
+      "text": "so just like that guys we have our",
+      "start": 1157.09,
+      "duration": 6.39,
+      "end": 1163.48
+    },
+    {
+      "index": 340,
+      "text": "foundation walls or foundation footing",
+      "start": 1159.73,
+      "duration": 10.23,
+      "end": 1169.96
+    },
+    {
+      "index": 341,
+      "text": "and our ground floor slab all right so",
+      "start": 1163.48,
+      "duration": 11.039,
+      "end": 1174.519
+    },
+    {
+      "index": 342,
+      "text": "we have the slab look at that how",
+      "start": 1169.96,
+      "duration": 9.54,
+      "end": 1179.5
+    },
+    {
+      "index": 343,
+      "text": "beautiful now when it reaches point guys",
+      "start": 1174.519,
+      "duration": 6.421,
+      "end": 1180.94
+    },
+    {
+      "index": 344,
+      "text": "there is one thing that you don't want",
+      "start": 1179.5,
+      "duration": 7.83,
+      "end": 1187.33
+    },
+    {
+      "index": 345,
+      "text": "to forget to do and that is - that is",
+      "start": 1180.94,
+      "duration": 10.199,
+      "end": 1191.1390000000001
+    },
+    {
+      "index": 346,
+      "text": "the heat the same one so go ahead hit",
+      "start": 1187.33,
+      "duration": 10.41,
+      "end": 1197.74
+    },
+    {
+      "index": 347,
+      "text": "save and you're good alright guys so",
+      "start": 1191.139,
+      "duration": 11.691,
+      "end": 1202.83
+    },
+    {
+      "index": 348,
+      "text": "that's it that is it let me just kind of",
+      "start": 1197.74,
+      "duration": 11.12,
+      "end": 1208.86
+    },
+    {
+      "index": 349,
+      "text": "spin it around and rotate it so calcium",
+      "start": 1202.83,
+      "duration": 6.03,
+      "end": 1208.86
+    },
+    {
+      "index": 350,
+      "text": "all right guys so thank you for joining",
+      "start": 1219.419,
+      "duration": 4.14,
+      "end": 1223.5590000000002
+    },
+    {
+      "index": 351,
+      "text": "me on this one I hope that you learned",
+      "start": 1221.399,
+      "duration": 4.921,
+      "end": 1226.32
+    },
+    {
+      "index": 352,
+      "text": "something if you have any questions just",
+      "start": 1223.559,
+      "duration": 5.011,
+      "end": 1228.57
+    },
+    {
+      "index": 353,
+      "text": "drop them in the comments and remember",
+      "start": 1226.32,
+      "duration": 3.659,
+      "end": 1229.979
+    },
+    {
+      "index": 354,
+      "text": "hit that like one",
+      "start": 1228.57,
+      "duration": 3.419,
+      "end": 1231.989
+    },
+    {
+      "index": 355,
+      "text": "alright thank you for watching and I'll",
+      "start": 1229.979,
+      "duration": 4.971,
+      "end": 1234.95
+    },
+    {
+      "index": 356,
+      "text": "see you in the next video",
+      "start": 1231.989,
+      "duration": 2.961,
+      "end": 1234.95
+    },
+    {
+      "index": 357,
+      "text": "[Music]",
+      "start": 1238.49,
+      "duration": 3.069,
+      "end": 1241.559
+    }
+  ],
+  "full_text": "so this is episode 7 of our one-bedroom house and no it has been a long wait but you know I got a little busy that aside I'm here now and I'm ready to rock and roll again so in today's video what we're gonna do is foundations all right in particular we're gonna do the foundation walls the foundation footing and we're gonna do the floor all three of these we're gonna actually model them in 3d we're gonna get a little deeper into some stuff so prepare your brains all right if this is your first time on the channel welcome thank you for joining and I hope that you learn something new if you have any questions at all or any thoughts feel free to drop them below and also don't forget to hit the like button I'd really appreciate that let's go so for those of you who don't know what a foundation is which would be foundation of a building is also referred to as the sub structure so you have a superstructure which is the portion above ground level and you have sub structure which is below the ground level which is what we will be focusing on and there are many types of foundation you have a pile RAF pad foundation but the one we're gonna be focusing on or the one we're gonna be using this is known as strict foundation which is typical of what we use mostly in Jamaica and other parts of the Caribbean so a strip foundation is basically a strip of reinforced concrete that runs along the bottom of a wall all right and what it does is to support that wall that's basically it just a strip of concrete all right so that's what we'll be doing today all right so here we are back in AutoCAD in the last couple of videos this was where we cut and so now we're going to add our foundation now if you go back over to your project navigator this is it right here we are now going to go into our foundation construct and this is where we'll be drawing our foundation everything foundation related will be going into that file all right and if you're not seeing project navigator it is right up here so you're gonna open it up and it should bring you to your project settings go down to constructs foundations so we're going to open it and up here we can see that we have it open and it's almost like a brand-new drawing because there's nothing inside of it so the first thing we're gonna do is to bring in our grid lines just like we did for the ground floor so right click and we're gonna say xref overlay and just like that our grid lines are no in the second thing to do is to draw our foundation walls so there are two ways we can do this we can draw the walls from scratch like we did in episode 4 or since we already have the walls over here we could actually copy these walls what do you think why not so let's go back to the top view and we're gonna go back to 2d wireframe and we're gonna copy these walls so we're gonna click on one of the walls and we're gonna right click and we're gonna say select similar now what that will do is to select all your walls no people we're not gonna copy the doors and we're not gonna copy the windows because we don't have windows and doors in a foundation we only need the walls ok that is why we're copying just was so we go over to back to home and I just want to show you now this copy tool we're not gonna use it ok cuz we're copying from one file to another file but we need to copy using our reference point and the reference point that I want to use is one a right at this intersection so how do we do that we're gonna use the command copy base and the shortcut for that is ctrl shift C as you can see here it is now active and we're going to select this intersection here as a reference point so we're going to click and now we can go over to our foundation and we're gonna paste now if you know the shortcut for paste that would be what control V so ctrl V and now you can see that we have the same reference point here for the one e on the grid line so we're gonna drop it right at that intersection and just like that our walls are now inside of our foundation drawing all right now if I should go to 3d and observe what do you observe these walls are too tall to be hidden there is no way we'd have our foundation walls this top so the first thing we need to do is to reduce the height so we're gonna click on it let's select all our walls again and we're going to go over to our properties and change the height of our walls to 4 feet that's it you have to remember that when we set up the project we set the foundation to be 4 feet high all right so that's gonna be that so now we have the foundation walls all set and all done the second thing we're gonna do is to add the floor slab all right and the floor slab should be right on top of this area here right on top of it it should flush with the top of the wall so let me show you if I should rotate the floor like this the floor should be exactly on top of here all right so we're gonna do that let's go back to the top view to the wireframe and we're gonna go to roof slab and change it to slab all right we can find it here or we can go over to our tool pallet where it is also located in the design tab you'll go down until you see slab right here alright either way let's click on it and now we are we can draw our slab so the first thing we're gonna do is to type in how thick we want this slab to be so we want the slab to be 6 inches thick okay for residential properties it would be 6 inches and for commercial it would be a little bit thicker maybe 8 inches so for this building imma leave it at 6 make sure that the justify is top everything else is good and then we're gonna go ahead and draw a box around and this box we're gonna draw it on the inside of this wall so turn this off so I'm gonna draw it from here over to this corner like that don't to this corner like that over to this corner and then back up to this corner like that all right and so we close the box right there and we're gonna hit enter and that's it hit enter one more time let's look at that in 3d you know I love my 3d view I'm gonna say concept to all this time now if you notice now that the floor slab is below the foundation which is ridiculous I don't want it there I want it to be on top of flushing with the top of the wall so what I need to do so click on the floor slab and change the elevation from 0 to 4 4 four feet and just like that all right so that is how that should look flush just like that now if you'll notice I'm gonna put this in x-ray view so you can see what I'm saying now if you notice the walls are intersecting with the floor so if I should go like this you can see that the floor actually runs through the wall and we don't want that okay we actually want the floor to to stop at each wall all right so what we're gonna do we're gonna create what is called interference all right so click on the wall or rather click on the slab and then we're gonna go up to interference and we're gonna add some interference so click on it and you wanna select it says down here select objects to add so what do we want to add we want to add these walls that are interfering with the floor slab so let's go ahead and select them we could actually do it from the 3d view which is what I'm gonna do here that one then we have this one we have this wall and we also have this one so these are the walls that are interfering with the floor slab once you're done selecting you would press ENTER and then you have the decision to say do you want it to be additive or do you want it to be subtractive which one do you think perfect subtractive something OC a brightener Yemen subtract and just like that boom the floor is now separated for each rule so each room now has its own floor slab alright and the last thing we need to do is to add our foundation footing okay so you see it's not all that difficult in fact this might be the most difficult part of the video so pay attention so we're gonna add some footing what we need to do is to go to our tool pallet and we're gonna say content browser and we're gonna look for the footing to add to this drawing so we'll go to imperial let me go back if you're using metric you would go to match it what were using Imperial for this project so we're gonna go to Imperial and then we're gonna go down to was go to concrete and here we can see that we have a couple of options we have like a concrete wall founded with with a footing beneath it we have concrete walls have a lot of different stuff but the one that we're going to be using is this one here okay it says here variable width times 12 inches concrete strip foundation so we can change the width but the height of it is 12 inches which is too thick but we're gonna make some adjustment to it still but this is the one that I would recommend that you use so what I'm going to do actually is to add it to my walls tool pallet so I'm gonna go here and I'm gonna say add to tool palette so now it is in my tool pallet down here and we're gonna go ahead and draw one of these strip foundation so we're gonna click on it and we want the width to be one into six inches okay one into six and we want the justifier to be Center and what else I'll leave it at that for now and I'm gonna click I'm gonna draw the first footing foundation from here to here click enter so just like that we have our first foundation but the problem with this is that it is too thick it is 12 inches which would be fine if that's what you wanted but for this project I want a foundation that is 9 inches thick which is typical for most of the houses that we do in Jamaica all right so 9 inches so how do we do this we're gonna have to edit this foundation so what we're gonna do is to copy style well first you need to highlight the object and then we're gonna say copy style and we're gonna change the name of it because we want this to be our own one that we use so we're going to change it to 9 because this one is gonna be 9 inches tall or thick change the description to 9 as well and then we'll go over to components and this is where now things get deep technical it looks difficult but it's not alright so this is like a View window where we can see what the footing looks like based on what we do over here basically all we're gonna do is to change this to 9 that's all but make sure that it is negative 9 okay so it is gonna be negative 9 9 inches and I'm gonna change this to zero and then I'm gonna say okay oh okay that's it yep that is it and we can go over to our style just to check if that's the one we are using so now we have a separate style that we've just created called x times 9 which is a variable width times a 9 inch deep foundation all right strip foundation just to make sure so now we're good to go if we look at it in 3d let's do that we can see that we have a strip foundation running underneath that wall that is 9 inches thick perfect so we're gonna finish the rest of it top to be wireframe so what we're gonna do is to click on this one we're gonna say add selected all right so we're gonna be adding the rest of it so let's start from this corner go all the way across so almost like a drawing walls going down never better walk across all right so so far we have our external walls being done now we need to do the internal ones the internal ones might be a little bit more challenging because we don't have a grid line running through all of them and selected well this one has a grid line so let's do this one so we're gonna start right at the green box I'm gonna bring it all the way up to this one I would recommend turn on the ortho mode this will help you so that your foundation walls are your foundation footing will be straight no one on lino clean up all right so we have that one we're gonna add one across here let's do that click on one of these and we're gonna say add selected and when what I'm looking for is a green box to pop up in this corner let me see right see that green box why don't you see the green box click alright good bring it across and I see another green box over there I'm gonna just click even though it looks like the mouse or the cursor is not there once the green box pop up just click and we're gonna do the same thing I'd selected let's do this one I'm gonna come down from that grid point and that green box right there click I'm gonna go across to that green box then we have this tiny wall left so click on it and selected and here we have that green box right there let me see that one click bring it across and quick and guess what guys just like that we have all our foundation complete that's it so let's go back to 3d x-ray and I might just add perspective to that so you can have a a nicer look at it man so just like that guys we have our foundation walls or foundation footing and our ground floor slab all right so we have the slab look at that how beautiful now when it reaches point guys there is one thing that you don't want to forget to do and that is - that is the heat the same one so go ahead hit save and you're good alright guys so that's it that is it let me just kind of spin it around and rotate it so calcium all right guys so thank you for joining me on this one I hope that you learned something if you have any questions just drop them in the comments and remember hit that like one alright thank you for watching and I'll see you in the next video [Music]",
+  "total_segments": 358,
+  "total_duration": 1241.559,
+  "extraction_timestamp": "2025-07-11T13:16:14.527008",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

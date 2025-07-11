@@ -1,0 +1,68 @@
+{
+  "video_id": "5W0Z3OcsR4w",
+  "video_title": "AutoCAD 2026 - 15 Minute Tutorial For BEGINNERS!",
+  "folder_name": "AutoCAD 2026 - 15 Minute Tutor",
+  "extraction_date": "20250711_103612",
+  "files_created": {
+    "transcript_json": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\transcripts\\5W0Z3OcsR4w_20250711_103612_transcript.json",
+    "metadata": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\metadata\\5W0Z3OcsR4w_20250711_103612_metadata.json",
+    "chunks": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\chunks\\5W0Z3OcsR4w_20250711_103612_chunks.json",
+    "analysis": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\rag_content\\5W0Z3OcsR4w_20250711_103612_analysis.json",
+    "text": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\rag_content\\5W0Z3OcsR4w_20250711_103612_text.txt",
+    "chunks_csv": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\chunks\\5W0Z3OcsR4w_20250711_103612_chunks.csv",
+    "database": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\AutoCAD 2026 - 15 Minute Tutor\\youtube_extracted_data\\rag_content\\5W0Z3OcsR4w_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 521,
+    "total_chunks": 24,
+    "text_length": 19984,
+    "duration_minutes": 15.116666666666667
+  },
+  "metadata": {
+    "video_id": "5W0Z3OcsR4w",
+    "title": "AutoCAD 2026 - 15 Minute Tutorial For BEGINNERS!",
+    "description": "Free Resources:\nAutoCAD Masterclass: https://www.verweydraftinginc.com/webinar-registration\n\nIn this video we go over the basic functionalities of AutoCAD and how you can start using AutoCAD to draw in 15 minutes! \n\nTimestamps:\n0:00 - Introduction\n0:15 - Interface\n2:00 - Setting Units\n2:50 - Drawing Commands\n7:36 - Moving + Panning\n8:53 - Like + Subscribe!\n9:38 - Modifying Tools\n13:11 - Layers\n14:44 - Outro\n\n#autocad #autocad2026 #autocadtutorials #autocadtutorialforbeginners #autocadtutorialsforbeginners #autocad2026forbeginners #autocad2026tutorialforbeginners #autocadforbeginners",
+    "uploader": "Verwey Drafting Inc.",
+    "upload_date": "20250328",
+    "duration": 907,
+    "view_count": 20601,
+    "like_count": 348,
+    "comment_count": 12,
+    "thumbnail": "https://i.ytimg.com/vi_webp/5W0Z3OcsR4w/maxresdefault.webp",
+    "url": "https://www.youtube.com/watch?v=5W0Z3OcsR4w",
+    "extraction_date": "2025-07-11T10:36:17.816340",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "statistics": {
+      "total_characters": 19984,
+      "total_words": 3991,
+      "total_sentences": 319,
+      "average_words_per_segment": 7.660268714011516,
+      "total_duration_minutes": 15.139983333333333
+    },
+    "content_analysis": {
+      "language_detected": "en",
+      "transcript_type": "generated",
+      "readability_score": 100
+    },
+    "keywords": [
+      "going",
+      "want",
+      "youre",
+      "see",
+      "click",
+      "thats",
+      "select",
+      "set",
+      "press",
+      "type"
+    ],
+    "topics": [
+      "tecnologia"
+    ],
+    "sentiment": "negative"
+  }
+}

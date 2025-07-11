@@ -1,0 +1,25 @@
+{
+  "statistics": {
+    "total_characters": 818,
+    "total_words": 111,
+    "total_sentences": 1,
+    "average_words_per_segment": 1.099009900990099,
+    "total_duration_minutes": 19.642833333333332
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 94.17000000000002
+  },
+  "keywords": [
+    "music",
+    "foreign",
+    "thank",
+    "hmm",
+    "please",
+    "know",
+    "wow"
+  ],
+  "topics": [],
+  "sentiment": "neutral"
+}

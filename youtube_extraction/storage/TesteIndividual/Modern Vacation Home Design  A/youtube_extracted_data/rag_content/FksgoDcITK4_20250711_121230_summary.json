@@ -1,0 +1,68 @@
+{
+  "video_id": "FksgoDcITK4",
+  "video_title": "Modern Vacation Home Design // AutoCAD Architecture (2024)",
+  "folder_name": "Modern Vacation Home Design  A",
+  "extraction_date": "20250711_121230",
+  "files_created": {
+    "transcript_json": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\transcripts\\FksgoDcITK4_20250711_121230_transcript.json",
+    "metadata": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\metadata\\FksgoDcITK4_20250711_121230_metadata.json",
+    "chunks": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\chunks\\FksgoDcITK4_20250711_121230_chunks.json",
+    "analysis": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\rag_content\\FksgoDcITK4_20250711_121230_analysis.json",
+    "text": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\rag_content\\FksgoDcITK4_20250711_121230_text.txt",
+    "chunks_csv": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\chunks\\FksgoDcITK4_20250711_121230_chunks.csv",
+    "database": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\TesteIndividual\\Modern Vacation Home Design  A\\youtube_extracted_data\\rag_content\\FksgoDcITK4_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 150,
+    "total_chunks": 2,
+    "text_length": 1428,
+    "duration_minutes": 21.766666666666666
+  },
+  "metadata": {
+    "video_id": "FksgoDcITK4",
+    "title": "Modern Vacation Home Design // AutoCAD Architecture (2024)",
+    "description": "🎓3D Modeling With AutoCAD Architecture course: \nhttps://learn.tdvisionuniversity.com/courses/3d-autocad-architecture-beginners-intermediate-course\n🎓Views, Annotations and Sheets with AutoCAD Architecture course: https://learn.tdvisionuniversity.com/courses/views-annotations-with-autocad-architecture\n\n- - -\n\nDesigning a building from start to finish in AutoCAD Architecture is made easy when you know what to do. Check out this video. Get the real-time video on Patreon, link below.\n\n👉🏾 3D Space Mouse that I use to orbit \nhttps://amzn.to/3IP7Lo8 (affiliate)\n\n🎦 More videos like this one\nhttps://youtube.com/playlist?list=PLyLLcCaRflgBYaFrnqJ1QQ0paXO2xEf8Q\n\n🔶 Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4Pjm4B8uD6XQJhvkPu6ETA/join\n\n🔶 Or join my Patreon Page:\nhttps://www.patreon.com/tdvision\n\n🏅 Best AutoCAD Architecture Playlist on the internet\nhttps://www.youtube.com/playlist?list=PLyLLcCaRflgCTuP493CZuUOFdMdh-a_jc\n\n▶️ Check out more videos like this one\nhttps://youtube.com/playlist?list=PLyLLcCaRflgBYaFrnqJ1QQ0paXO2xEf8Q\n\n- - -\n\n#autocad #airbnb #architecture #autodesk #design  #revit\n\n- - -\n\nWEBSITE\nhttps://www.TDVisionUniversity.com\n\nGEARS I USE:\nhttps://kit.co/TDVisionU\n\nFOLLOW ME ON SOCIAL MEDIA:\nhttps://linktr.ee/tdvisionu\n\nCREDITS:\nMusic: YouTube Audio Library (free audio)",
+    "uploader": "TD Vision U",
+    "upload_date": "20221231",
+    "duration": 1306,
+    "view_count": 57136,
+    "like_count": 367,
+    "comment_count": 30,
+    "thumbnail": "https://i.ytimg.com/vi_webp/FksgoDcITK4/maxresdefault.webp",
+    "url": "https://www.youtube.com/watch?v=FksgoDcITK4",
+    "extraction_date": "2025-07-11T12:12:34.773851",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "statistics": {
+      "total_characters": 1428,
+      "total_words": 196,
+      "total_sentences": 1,
+      "average_words_per_segment": 1.3066666666666666,
+      "total_duration_minutes": 21.79765
+    },
+    "content_analysis": {
+      "language_detected": "en",
+      "transcript_type": "generated",
+      "readability_score": 7.895000000000039
+    },
+    "keywords": [
+      "music",
+      "foreign",
+      "applause",
+      "baby",
+      "thank",
+      "youll",
+      "dont",
+      "get",
+      "leave",
+      "laughter"
+    ],
+    "topics": [
+      "tecnologia"
+    ],
+    "sentiment": "neutral"
+  }
+}

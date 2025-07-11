@@ -1,0 +1,1054 @@
+{
+  "video_id": "zxixHN87-38",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Alright, so here we are back in AutoCard architecture and in this video I'm going to",
+      "start": 0.0,
+      "end": 21.6,
+      "duration": 21.6
+    },
+    {
+      "index": 1,
+      "text": "be showing you how to complete your detailed views.",
+      "start": 21.6,
+      "end": 26.0,
+      "duration": 4.399999999999999
+    },
+    {
+      "index": 2,
+      "text": "Alright, now as you can see I would have already completed most of them and that's because",
+      "start": 26.0,
+      "end": 32.4,
+      "duration": 6.399999999999999
+    },
+    {
+      "index": 3,
+      "text": "I don't want this video to be very long so I'm going to show you how I do these two and that",
+      "start": 32.4,
+      "end": 37.6,
+      "duration": 5.200000000000003
+    },
+    {
+      "index": 4,
+      "text": "should I would hope help you to complete all your other views.",
+      "start": 37.6,
+      "end": 43.6,
+      "duration": 6.0
+    },
+    {
+      "index": 5,
+      "text": "Alright, now if you were here in the last episode when we did our sectional elevation views,",
+      "start": 43.6,
+      "end": 50.08,
+      "duration": 6.479999999999997
+    },
+    {
+      "index": 6,
+      "text": "you would have seen how I actually got these ring beam in as well as the lintel in by using the",
+      "start": 50.16,
+      "end": 59.12,
+      "duration": 8.96
+    },
+    {
+      "index": 7,
+      "text": "AutoCard built in library of component details. Alright, so this little tab up here if you click on it,",
+      "start": 59.12,
+      "end": 65.6,
+      "duration": 6.479999999999997
+    },
+    {
+      "index": 8,
+      "text": "it has a number of things in there depending on if you're using the standard or metric,",
+      "start": 66.16,
+      "end": 71.2,
+      "duration": 5.040000000000006
+    },
+    {
+      "index": 9,
+      "text": "you can go ahead and select the library that you want to use, where using the US library right",
+      "start": 71.2,
+      "end": 76.88,
+      "duration": 5.679999999999993
+    },
+    {
+      "index": 10,
+      "text": "and all of the material and components available here will be in standard measurements.",
+      "start": 77.36,
+      "end": 83.83999999999999,
+      "duration": 6.47999999999999
+    },
+    {
+      "index": 11,
+      "text": "Alright, so of course we can go and drill down into different types of components and we can choose",
+      "start": 83.83999999999999,
+      "end": 89.44,
+      "duration": 5.6000000000000085
+    },
+    {
+      "index": 12,
+      "text": "different sizes or types based on what we are looking for. We can even type in things that we may",
+      "start": 89.44,
+      "end": 95.52,
+      "duration": 6.079999999999998
+    },
+    {
+      "index": 13,
+      "text": "need. Let's say we want hurricane anchors. So we have hurricane straps. If you want,",
+      "start": 95.52,
+      "end": 103.75999999999999,
+      "duration": 8.239999999999995
+    },
+    {
+      "index": 14,
+      "text": "let's say you want something else, you can just search for it in here. Alright, but you don't have to",
+      "start": 104.16000000000001,
+      "end": 109.60000000000001,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 15,
+      "text": "always come inside of here because we do have a tool palette that has some items inside of it. So if",
+      "start": 109.60000000000001,
+      "end": 116.0,
+      "duration": 6.3999999999999915
+    },
+    {
+      "index": 16,
+      "text": "you click on this little setting and you go down to detailing, you would find that we have a lot of",
+      "start": 116.0,
+      "end": 121.12,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 17,
+      "text": "those same components located here for just quick access. Alright, so we're going to be using this",
+      "start": 121.12,
+      "end": 127.84,
+      "duration": 6.719999999999999
+    },
+    {
+      "index": 18,
+      "text": "as well as that whenever we can't find what we need. Now obviously not everything is going to be",
+      "start": 127.84,
+      "end": 133.68,
+      "duration": 5.840000000000003
+    },
+    {
+      "index": 19,
+      "text": "inside of here. You know, so there are times when you're going to have to literally draw your own",
+      "start": 133.76000000000002,
+      "end": 139.68,
+      "duration": 5.9199999999999875
+    },
+    {
+      "index": 20,
+      "text": "detail and that's perfectly fine. That's all. I do a lot of my details currently just the same.",
+      "start": 139.68,
+      "end": 145.76000000000002,
+      "duration": 6.0800000000000125
+    },
+    {
+      "index": 21,
+      "text": "What I'm going to be using mainly what is in the library for this project. So I hope that you",
+      "start": 145.76000000000002,
+      "end": 151.20000000000002,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 22,
+      "text": "enjoy it and you'll learn something. And if you do hit the subscribe hit the like drop a comment",
+      "start": 151.20000000000002,
+      "end": 157.44,
+      "duration": 6.239999999999981
+    },
+    {
+      "index": 23,
+      "text": "ask the questions and share the video. Alright, let's begin. So we're going to start with the",
+      "start": 157.44,
+      "end": 161.44,
+      "duration": 4.0
+    },
+    {
+      "index": 24,
+      "text": "2x4 that is located at the top of the window. So let's click on the wood and right away we get",
+      "start": 161.52,
+      "end": 167.6,
+      "duration": 6.079999999999984
+    },
+    {
+      "index": 25,
+      "text": "wood looking block there but that's not the right size. It says 2x4 but that's not the",
+      "start": 168.32,
+      "end": 173.84,
+      "duration": 5.52000000000001
+    },
+    {
+      "index": 26,
+      "text": "cot I want. I actually want a rough cot and I'm going to change the size to 2x4. That is what I need.",
+      "start": 173.84,
+      "end": 180.96,
+      "duration": 7.1200000000000045
+    },
+    {
+      "index": 27,
+      "text": "And then I'm going to change the rotation to 90 degrees and then I'm going to drop it right in the corner",
+      "start": 180.96,
+      "end": 189.28,
+      "duration": 8.319999999999993
+    },
+    {
+      "index": 28,
+      "text": "Alright, so that gives me my first detail component. No guys, it's important for you to know that",
+      "start": 190.24,
+      "end": 195.68,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 29,
+      "text": "these blue lines will not be printed. This is just an outline or a shape out of the detail and",
+      "start": 195.68,
+      "end": 202.48,
+      "duration": 6.799999999999983
+    },
+    {
+      "index": 30,
+      "text": "Otica is saying to you, you need to fill in the areas that needs to be filled in. Alright, just",
+      "start": 202.48,
+      "end": 208.96,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 31,
+      "text": "like these other detail that I did Otica provides the outline and you fill in the gaps.",
+      "start": 208.96,
+      "end": 215.36,
+      "duration": 6.400000000000006
+    },
+    {
+      "index": 32,
+      "text": "Likewise when I provided these details earlier. Some episodes ago we had just had the outline",
+      "start": 216.08,
+      "end": 222.64000000000001,
+      "duration": 6.560000000000002
+    },
+    {
+      "index": 33,
+      "text": "and then we would use these components to fill in where we can fill in. And of course,",
+      "start": 222.64000000000001,
+      "end": 227.92000000000002,
+      "duration": 5.280000000000001
+    },
+    {
+      "index": 34,
+      "text": "some of these I had to use lines to draw like these are just regular lines I used to draw them",
+      "start": 227.92000000000002,
+      "end": 233.44000000000003,
+      "duration": 5.52000000000001
+    },
+    {
+      "index": 35,
+      "text": "and kind of just create some details. So it's a combination. Alright, so you work it all you can.",
+      "start": 234.32000000000002,
+      "end": 239.92000000000002,
+      "duration": 5.599999999999994
+    },
+    {
+      "index": 36,
+      "text": "The next thing I'm going to place on here would be the lintel as well as the beam.",
+      "start": 239.92000000000002,
+      "end": 245.04000000000002,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 37,
+      "text": "I'm going to show you how I did it. So go to concrete and go to beams where I already on beams",
+      "start": 245.12,
+      "end": 251.92,
+      "duration": 6.799999999999983
+    },
+    {
+      "index": 38,
+      "text": "and I want it to be customizable and I'm going to make it six inches by one feet. That's good.",
+      "start": 251.92,
+      "end": 258.32,
+      "duration": 6.400000000000006
+    },
+    {
+      "index": 39,
+      "text": "I'm going to change turn off this shumper, shumper thing. No, so it becomes rectangular and then",
+      "start": 258.32,
+      "end": 264.96,
+      "duration": 6.639999999999986
+    },
+    {
+      "index": 40,
+      "text": "do I want to see the reinforcement? No, because I want to make my own reinforcement. So I'm going to",
+      "start": 264.96,
+      "end": 270.08,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 41,
+      "text": "place this right there and then while I'm in the command I'm going to just change the height to",
+      "start": 270.15999999999997,
+      "end": 276.0,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 42,
+      "text": "eight inches because the lintel will be eight inches deep and then I'm going to flip it on the x-axis",
+      "start": 276.0,
+      "end": 283.03999999999996,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 43,
+      "text": "so that it comes at the top and then I can drop it right on top of there. Good. So now I have my",
+      "start": 283.03999999999996,
+      "end": 289.03999999999996,
+      "duration": 6.0
+    },
+    {
+      "index": 44,
+      "text": "two concrete areas there. Then I'm going to drop some blocks inside of here. So let's go to concrete",
+      "start": 289.03999999999996,
+      "end": 295.28,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 45,
+      "text": "to masonry and we're going to change from clay to CMU. And of course we're going to slip the",
+      "start": 295.91999999999996,
+      "end": 305.44,
+      "duration": 9.520000000000039
+    },
+    {
+      "index": 46,
+      "text": "size block that we used for this project which would have been six by eight by 16. That's what it",
+      "start": 305.44,
+      "end": 311.52,
+      "duration": 6.079999999999984
+    },
+    {
+      "index": 47,
+      "text": "looks like in a section of view. Of course we can change the view from section to plan view if that's",
+      "start": 311.52,
+      "end": 317.52,
+      "duration": 6.0
+    },
+    {
+      "index": 48,
+      "text": "what we want. You have elevation view and you have what else elevation pattern. So you can fill",
+      "start": 317.59999999999997,
+      "end": 326.71999999999997,
+      "duration": 9.120000000000005
+    },
+    {
+      "index": 49,
+      "text": "it here. We're not going to use that we're going to use sectional and we're going to click our first",
+      "start": 326.71999999999997,
+      "end": 334.56,
+      "duration": 7.840000000000032
+    },
+    {
+      "index": 50,
+      "text": "point here. I'm going to draw our line upwards and if you notice as you draw your line up it builds",
+      "start": 334.56,
+      "end": 341.03999999999996,
+      "duration": 6.479999999999961
+    },
+    {
+      "index": 51,
+      "text": "on top of each other more and more but we're going to just build it to what we need which would be",
+      "start": 341.04,
+      "end": 347.52000000000004,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 52,
+      "text": "just two rows of blocks and then need to center this in the middle here. Good. So just like that",
+      "start": 348.48,
+      "end": 358.40000000000003,
+      "duration": 9.920000000000016
+    },
+    {
+      "index": 53,
+      "text": "we have our block work and our beams looking beautiful. Now I'm going to draw some lines here just to",
+      "start": 358.40000000000003,
+      "end": 364.56,
+      "duration": 6.159999999999968
+    },
+    {
+      "index": 54,
+      "text": "fill this area of the wall and the window. All right so let's regular lines. All right good and then",
+      "start": 365.44,
+      "end": 378.56,
+      "duration": 13.120000000000005
+    },
+    {
+      "index": 55,
+      "text": "I'm going to also draw a line here to represent my rendered area of the wall and then we can go ahead",
+      "start": 378.56,
+      "end": 388.4,
+      "duration": 9.839999999999975
+    },
+    {
+      "index": 56,
+      "text": "and place the steel work or the rebars inside so we're going to go to concrete once more.",
+      "start": 388.4,
+      "end": 394.0,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 57,
+      "text": "And we're going to go over to the category change it from that to reinforcing steel.",
+      "start": 395.04,
+      "end": 401.36,
+      "duration": 6.319999999999993
+    },
+    {
+      "index": 58,
+      "text": "Now guys this is an area where you will need to know how they do beams and steel and whatever in",
+      "start": 403.44,
+      "end": 410.48,
+      "duration": 7.0400000000000205
+    },
+    {
+      "index": 59,
+      "text": "your region. I'm just doing it based on what I use in Jamaica. All right so for this beam I'm going to",
+      "start": 410.48,
+      "end": 417.28,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 60,
+      "text": "be using four inch rebar not four inch rather number four rebar and you need to know your rebar",
+      "start": 417.28,
+      "end": 424.15999999999997,
+      "duration": 6.8799999999999955
+    },
+    {
+      "index": 61,
+      "text": "sizes so make sure you check that out and I'm going to instead of using single rebar like what you're",
+      "start": 424.15999999999997,
+      "end": 430.96,
+      "duration": 6.800000000000011
+    },
+    {
+      "index": 62,
+      "text": "seeing there I'm going to switch it to an assembly which would be rectangle column which actually",
+      "start": 430.96,
+      "end": 438.32,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 63,
+      "text": "gives me the tie along with you know some other rebars in there so I'm going to just change some",
+      "start": 438.32,
+      "end": 446.71999999999997,
+      "duration": 8.399999999999977
+    },
+    {
+      "index": 64,
+      "text": "numbers in here to get their amount of rebar that I need. Now guys this is where you're going to",
+      "start": 446.72,
+      "end": 453.04,
+      "duration": 6.319999999999993
+    },
+    {
+      "index": 65,
+      "text": "have to mess around and try to figure out how the steel works. I need an edge offset of one inch",
+      "start": 453.04,
+      "end": 462.0,
+      "duration": 8.95999999999998
+    },
+    {
+      "index": 66,
+      "text": "make these one inches as well. So essentially I'm using a number four rebar on the inside",
+      "start": 462.88000000000005,
+      "end": 470.16,
+      "duration": 7.279999999999973
+    },
+    {
+      "index": 67,
+      "text": "and the number three rebar on the outside to create the ties. All right and if we can actually draw",
+      "start": 470.72,
+      "end": 478.88000000000005,
+      "duration": 8.160000000000025
+    },
+    {
+      "index": 68,
+      "text": "one of these and see what it looks like. It should look something like that so the tie it would be",
+      "start": 478.88000000000005,
+      "end": 485.12,
+      "duration": 6.239999999999952
+    },
+    {
+      "index": 69,
+      "text": "a number three and one on the inside would be a number four. So let's go ahead and draw our",
+      "start": 485.12,
+      "end": 491.68,
+      "duration": 6.560000000000002
+    },
+    {
+      "index": 70,
+      "text": "steel rebar inside there put one more in here. Looking good all right so that covers a multi-tube of",
+      "start": 492.56,
+      "end": 504.16,
+      "duration": 11.600000000000023
+    },
+    {
+      "index": 71,
+      "text": "sin. All right let's go. Now we're going to be adding our phasia board so let's go ahead and",
+      "start": 504.16,
+      "end": 509.76,
+      "duration": 5.599999999999966
+    },
+    {
+      "index": 72,
+      "text": "go to wood we're going to be dropping a lot of lumber on this drawing so to buy it actually one by 10 I think",
+      "start": 510.72,
+      "end": 521.12,
+      "duration": 10.399999999999977
+    },
+    {
+      "index": 73,
+      "text": "our phasia board is one by 10 so we need to rotate it negative 30 degrees and that's because I",
+      "start": 521.76,
+      "end": 530.3199999999999,
+      "duration": 8.559999999999945
+    },
+    {
+      "index": 74,
+      "text": "do know that the roof slope is 30 degrees so I have to be at that in line drop that right there so",
+      "start": 530.3199999999999,
+      "end": 536.4799999999999,
+      "duration": 6.159999999999968
+    },
+    {
+      "index": 75,
+      "text": "that feels in that gap right there then I'm going to place my arar after again go so wood",
+      "start": 536.4799999999999,
+      "end": 542.4799999999999,
+      "duration": 6.0
+    },
+    {
+      "index": 76,
+      "text": "rough cut and this rarararararar would have been two by six but this time I wanted to be in",
+      "start": 544.4,
+      "end": 550.8,
+      "duration": 6.399999999999977
+    },
+    {
+      "index": 77,
+      "text": "elevation view so I can literally draw the turn off part of wood I can draw the other after to",
+      "start": 550.8,
+      "end": 558.16,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 78,
+      "text": "hold long I want it to be so some like that so that would be my ararar after I'm going to reshape it here",
+      "start": 558.24,
+      "end": 565.1999999999999,
+      "duration": 6.959999999999923
+    },
+    {
+      "index": 79,
+      "text": "beautiful then above the rarararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 565.2,
+      "end": 566.0,
+      "duration": 0.7999999999999545
+    },
+    {
+      "index": 80,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 595.2,
+      "end": 625.2,
+      "duration": 30.0
+    },
+    {
+      "index": 81,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 625.2,
+      "end": 655.2,
+      "duration": 30.0
+    },
+    {
+      "index": 82,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 655.2,
+      "end": 685.2,
+      "duration": 30.0
+    },
+    {
+      "index": 83,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 685.2,
+      "end": 715.2,
+      "duration": 30.0
+    },
+    {
+      "index": 84,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 715.2,
+      "end": 745.2,
+      "duration": 30.0
+    },
+    {
+      "index": 85,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 745.2,
+      "end": 775.2,
+      "duration": 30.0
+    },
+    {
+      "index": 86,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 775.2,
+      "end": 805.2,
+      "duration": 30.0
+    },
+    {
+      "index": 87,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 805.2,
+      "end": 835.2,
+      "duration": 30.0
+    },
+    {
+      "index": 88,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 835.2,
+      "end": 865.2,
+      "duration": 30.0
+    },
+    {
+      "index": 89,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 865.2,
+      "end": 895.2,
+      "duration": 30.0
+    },
+    {
+      "index": 90,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 895.2,
+      "end": 925.2,
+      "duration": 30.0
+    },
+    {
+      "index": 91,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 925.2,
+      "end": 955.2,
+      "duration": 30.0
+    },
+    {
+      "index": 92,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 955.2,
+      "end": 985.2,
+      "duration": 30.0
+    },
+    {
+      "index": 93,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 985.2,
+      "end": 1015.2,
+      "duration": 30.0
+    },
+    {
+      "index": 94,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1015.2,
+      "end": 1045.2,
+      "duration": 30.0
+    },
+    {
+      "index": 95,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1045.2,
+      "end": 1075.2,
+      "duration": 30.0
+    },
+    {
+      "index": 96,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1075.2,
+      "end": 1105.2,
+      "duration": 30.0
+    },
+    {
+      "index": 97,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1105.2,
+      "end": 1135.2,
+      "duration": 30.0
+    },
+    {
+      "index": 98,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1135.2,
+      "end": 1165.2,
+      "duration": 30.0
+    },
+    {
+      "index": 99,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1165.2,
+      "end": 1195.2,
+      "duration": 30.0
+    },
+    {
+      "index": 100,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1195.2,
+      "end": 1225.2,
+      "duration": 30.0
+    },
+    {
+      "index": 101,
+      "text": "ararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar",
+      "start": 1225.2,
+      "end": 1255.2,
+      "duration": 30.0
+    },
+    {
+      "index": 102,
+      "text": "If you want to put the martyr and the grouting and what not on here you can go ahead and do that.",
+      "start": 1255.2,
+      "end": 1261.68,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 103,
+      "text": "But I'm just going to put a line to represent the finished material and then I'm going to be also putting the",
+      "start": 1261.68,
+      "end": 1269.52,
+      "duration": 7.839999999999918
+    },
+    {
+      "index": 104,
+      "text": "what we call the backfill and the compacted hard core. So this will have been two feet six inches and then we're going to go across like that.",
+      "start": 1269.52,
+      "end": 1279.52,
+      "duration": 10.0
+    },
+    {
+      "index": 105,
+      "text": "And then we can go ahead and provide some hatching in this area.",
+      "start": 1280.0,
+      "end": 1283.76,
+      "duration": 3.759999999999991
+    },
+    {
+      "index": 106,
+      "text": "I'm going to use spy line to kind of help with that. So I'm going to hatch this area.",
+      "start": 1285.36,
+      "end": 1298.8,
+      "duration": 13.440000000000055
+    },
+    {
+      "index": 107,
+      "text": "This hatching should actually be gravel and I'm going to make it 8.0 whatever that is.",
+      "start": 1301.12,
+      "end": 1308.0,
+      "duration": 6.880000000000109
+    },
+    {
+      "index": 108,
+      "text": "And I'm going to also hatch this area here with the earth material.",
+      "start": 1308.72,
+      "end": 1315.36,
+      "duration": 6.639999999999873
+    },
+    {
+      "index": 109,
+      "text": "I'm going to make it 15 and I'm going to rotate it for the five degrees.",
+      "start": 1317.6,
+      "end": 1322.56,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 110,
+      "text": "Then I'm going to delete this line and I guess that line can remain.",
+      "start": 1322.88,
+      "end": 1327.12,
+      "duration": 4.239999999999782
+    },
+    {
+      "index": 111,
+      "text": "Then I'm going to put it on the hatch layer. I don't have a hatch layer as yet. So I'm going to copy one of these that I have in my",
+      "start": 1327.12,
+      "end": 1332.72,
+      "duration": 5.600000000000136
+    },
+    {
+      "index": 112,
+      "text": "sectional elevation copy and then we're going to paste it.",
+      "start": 1333.68,
+      "end": 1337.04,
+      "duration": 3.3599999999999
+    },
+    {
+      "index": 113,
+      "text": "Once I paste it in here it brings over the layer along with it. So all I need to do is to click on these guys",
+      "start": 1339.2,
+      "end": 1345.3600000000001,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 114,
+      "text": "and change the layer to hatching. So no bear on my hatching layer. Get rid of that.",
+      "start": 1346.16,
+      "end": 1355.84,
+      "duration": 9.679999999999836
+    },
+    {
+      "index": 115,
+      "text": "And then I can go ahead and draw my cutting line like we did with the roof. So let's go it on back to",
+      "start": 1355.84,
+      "end": 1362.4,
+      "duration": 6.560000000000173
+    },
+    {
+      "index": 116,
+      "text": "documenting and go to cutting line. Now we're going to draw a cutting line right here.",
+      "start": 1362.48,
+      "end": 1367.3600000000001,
+      "duration": 4.880000000000109
+    },
+    {
+      "index": 117,
+      "text": "All right looking good and I'm going to do one more of a top here.",
+      "start": 1371.6000000000001,
+      "end": 1374.8000000000002,
+      "duration": 3.2000000000000455
+    },
+    {
+      "index": 118,
+      "text": "Perfect. Look at that. All right. Let's go ahead and turn off those layers. And no we can see exactly",
+      "start": 1379.68,
+      "end": 1389.3600000000001,
+      "duration": 9.680000000000064
+    },
+    {
+      "index": 119,
+      "text": "what we drew. What's left there. And that's it guys. That's it for that detailing there.",
+      "start": 1389.36,
+      "end": 1395.04,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 120,
+      "text": "All right. Now let us say we wanted to add like for instance I have like this two inch PVC going through the",
+      "start": 1396.0,
+      "end": 1404.1599999999999,
+      "duration": 8.159999999999854
+    },
+    {
+      "index": 121,
+      "text": "block. If you notice I have this thing here. If I delete it the block is underneath it. So I kind of use a",
+      "start": 1404.1599999999999,
+      "end": 1411.4399999999998,
+      "duration": 7.279999999999973
+    },
+    {
+      "index": 122,
+      "text": "masking tool to kind of mask it over there. There's actually something that we can use call AEC",
+      "start": 1411.4399999999998,
+      "end": 1418.8,
+      "duration": 7.360000000000127
+    },
+    {
+      "index": 123,
+      "text": "Polyline. Here it is. Polygon rather. All right. So we can actually draw a shape.",
+      "start": 1419.36,
+      "end": 1426.08,
+      "duration": 6.720000000000027
+    },
+    {
+      "index": 124,
+      "text": "Make sure it is a closed shape though. Once it is closed that shape becomes a masking tool.",
+      "start": 1428.4799999999998,
+      "end": 1435.28,
+      "duration": 6.800000000000182
+    },
+    {
+      "index": 125,
+      "text": "And you can actually see the style over here. Make sure that it is saying masking polygon. So if you",
+      "start": 1436.08,
+      "end": 1441.76,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 126,
+      "text": "need to draw like something going through the wall or going through the floor or whatever the case",
+      "start": 1441.76,
+      "end": 1447.1999999999998,
+      "duration": 5.439999999999827
+    },
+    {
+      "index": 127,
+      "text": "this is an excellent tool for you to use to do that. All right. So I'm going to go ahead and drop the",
+      "start": 1448.16,
+      "end": 1455.52,
+      "duration": 7.3599999999999
+    },
+    {
+      "index": 128,
+      "text": "annotations on this.",
+      "start": 1455.52,
+      "end": 1456.56,
+      "duration": 1.0399999999999636
+    },
+    {
+      "index": 129,
+      "text": "All right guys you know what's missing? I think we're missing the roof gotter. So let's add that to it.",
+      "start": 1470.56,
+      "end": 1475.92,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 130,
+      "text": "So gotter.",
+      "start": 1476.88,
+      "end": 1479.92,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 131,
+      "text": "Move gotter and we can choose the size and type that we want. I'm going to choose the half-run gotter.",
+      "start": 1481.44,
+      "end": 1488.3200000000002,
+      "duration": 6.880000000000109
+    },
+    {
+      "index": 132,
+      "text": "So I'm going to choose like probably at a six by six insert and I'm going to flip this on the",
+      "start": 1489.04,
+      "end": 1496.72,
+      "duration": 7.680000000000064
+    },
+    {
+      "index": 133,
+      "text": "Y axis and I'm going to drop it right here. So that would be what the roof gotter looks like",
+      "start": 1496.72,
+      "end": 1503.6000000000001,
+      "duration": 6.880000000000109
+    },
+    {
+      "index": 134,
+      "text": "from this view. We can go ahead and label it.",
+      "start": 1503.6,
+      "end": 1510.24,
+      "duration": 6.6400000000001
+    },
+    {
+      "index": 135,
+      "text": "Okay.",
+      "start": 1534.08,
+      "end": 1536.08,
+      "duration": 2.0
+    },
+    {
+      "index": 136,
+      "text": "All right guys so here we are back with the finished product. I have went through and detailed",
+      "start": 1557.1999999999998,
+      "end": 1563.4399999999998,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 137,
+      "text": "everything that I could remember to detail. Of course yours would vary depending on the design that you're",
+      "start": 1563.52,
+      "end": 1571.2,
+      "duration": 7.680000000000064
+    },
+    {
+      "index": 138,
+      "text": "doing but yeah so this is what it will look like and I kind of did a little test run to see what it",
+      "start": 1571.2,
+      "end": 1577.3600000000001,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 139,
+      "text": "will look like if I should print it on a sheet and so far so good. So I'm going to be dropping these",
+      "start": 1577.3600000000001,
+      "end": 1584.3200000000002,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 140,
+      "text": "details on a PDF so you can download them for your reference check the link in the description and just",
+      "start": 1584.3200000000002,
+      "end": 1590.96,
+      "duration": 6.639999999999873
+    },
+    {
+      "index": 141,
+      "text": "have fun. Take care man. All right guys so that wraps it up for this video and we're winding down nicely.",
+      "start": 1591.8400000000001,
+      "end": 1599.6000000000001,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 142,
+      "text": "So remember don't load the PDF and subscribe like comment share on Instagram Twitter.",
+      "start": 1599.6000000000001,
+      "end": 1607.92,
+      "duration": 8.319999999999936
+    },
+    {
+      "index": 143,
+      "text": "Don't know the things it and guess what we have one last episode left in this series and I'm",
+      "start": 1607.92,
+      "end": 1614.08,
+      "duration": 6.1599999999998545
+    },
+    {
+      "index": 144,
+      "text": "going to put it right here as soon as it becomes available it's going to be right here. All right so",
+      "start": 1614.08,
+      "end": 1620.32,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 145,
+      "text": "check the links in the description and I just click the button right here. See me on a",
+      "start": 1620.3999999999999,
+      "end": 1624.3999999999999,
+      "duration": 4.0
+    },
+    {
+      "index": 146,
+      "text": "set. All right if you want to watch the previous episode click the button right as well. No I know right as",
+      "start": 1624.3999999999999,
+      "end": 1629.9199999999998,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 147,
+      "text": "all. Okay see you guys in the next video. Big up a set.",
+      "start": 1629.9199999999998,
+      "end": 1633.84,
+      "duration": 3.9200000000000728
+    }
+  ],
+  "full_text": "Alright, so here we are back in AutoCard architecture and in this video I'm going to be showing you how to complete your detailed views. Alright, now as you can see I would have already completed most of them and that's because I don't want this video to be very long so I'm going to show you how I do these two and that should I would hope help you to complete all your other views. Alright, now if you were here in the last episode when we did our sectional elevation views, you would have seen how I actually got these ring beam in as well as the lintel in by using the AutoCard built in library of component details. Alright, so this little tab up here if you click on it, it has a number of things in there depending on if you're using the standard or metric, you can go ahead and select the library that you want to use, where using the US library right and all of the material and components available here will be in standard measurements. Alright, so of course we can go and drill down into different types of components and we can choose different sizes or types based on what we are looking for. We can even type in things that we may need. Let's say we want hurricane anchors. So we have hurricane straps. If you want, let's say you want something else, you can just search for it in here. Alright, but you don't have to always come inside of here because we do have a tool palette that has some items inside of it. So if you click on this little setting and you go down to detailing, you would find that we have a lot of those same components located here for just quick access. Alright, so we're going to be using this as well as that whenever we can't find what we need. Now obviously not everything is going to be inside of here. You know, so there are times when you're going to have to literally draw your own detail and that's perfectly fine. That's all. I do a lot of my details currently just the same. What I'm going to be using mainly what is in the library for this project. So I hope that you enjoy it and you'll learn something. And if you do hit the subscribe hit the like drop a comment ask the questions and share the video. Alright, let's begin. So we're going to start with the 2x4 that is located at the top of the window. So let's click on the wood and right away we get wood looking block there but that's not the right size. It says 2x4 but that's not the cot I want. I actually want a rough cot and I'm going to change the size to 2x4. That is what I need. And then I'm going to change the rotation to 90 degrees and then I'm going to drop it right in the corner Alright, so that gives me my first detail component. No guys, it's important for you to know that these blue lines will not be printed. This is just an outline or a shape out of the detail and Otica is saying to you, you need to fill in the areas that needs to be filled in. Alright, just like these other detail that I did Otica provides the outline and you fill in the gaps. Likewise when I provided these details earlier. Some episodes ago we had just had the outline and then we would use these components to fill in where we can fill in. And of course, some of these I had to use lines to draw like these are just regular lines I used to draw them and kind of just create some details. So it's a combination. Alright, so you work it all you can. The next thing I'm going to place on here would be the lintel as well as the beam. I'm going to show you how I did it. So go to concrete and go to beams where I already on beams and I want it to be customizable and I'm going to make it six inches by one feet. That's good. I'm going to change turn off this shumper, shumper thing. No, so it becomes rectangular and then do I want to see the reinforcement? No, because I want to make my own reinforcement. So I'm going to place this right there and then while I'm in the command I'm going to just change the height to eight inches because the lintel will be eight inches deep and then I'm going to flip it on the x-axis so that it comes at the top and then I can drop it right on top of there. Good. So now I have my two concrete areas there. Then I'm going to drop some blocks inside of here. So let's go to concrete to masonry and we're going to change from clay to CMU. And of course we're going to slip the size block that we used for this project which would have been six by eight by 16. That's what it looks like in a section of view. Of course we can change the view from section to plan view if that's what we want. You have elevation view and you have what else elevation pattern. So you can fill it here. We're not going to use that we're going to use sectional and we're going to click our first point here. I'm going to draw our line upwards and if you notice as you draw your line up it builds on top of each other more and more but we're going to just build it to what we need which would be just two rows of blocks and then need to center this in the middle here. Good. So just like that we have our block work and our beams looking beautiful. Now I'm going to draw some lines here just to fill this area of the wall and the window. All right so let's regular lines. All right good and then I'm going to also draw a line here to represent my rendered area of the wall and then we can go ahead and place the steel work or the rebars inside so we're going to go to concrete once more. And we're going to go over to the category change it from that to reinforcing steel. Now guys this is an area where you will need to know how they do beams and steel and whatever in your region. I'm just doing it based on what I use in Jamaica. All right so for this beam I'm going to be using four inch rebar not four inch rather number four rebar and you need to know your rebar sizes so make sure you check that out and I'm going to instead of using single rebar like what you're seeing there I'm going to switch it to an assembly which would be rectangle column which actually gives me the tie along with you know some other rebars in there so I'm going to just change some numbers in here to get their amount of rebar that I need. Now guys this is where you're going to have to mess around and try to figure out how the steel works. I need an edge offset of one inch make these one inches as well. So essentially I'm using a number four rebar on the inside and the number three rebar on the outside to create the ties. All right and if we can actually draw one of these and see what it looks like. It should look something like that so the tie it would be a number three and one on the inside would be a number four. So let's go ahead and draw our steel rebar inside there put one more in here. Looking good all right so that covers a multi-tube of sin. All right let's go. Now we're going to be adding our phasia board so let's go ahead and go to wood we're going to be dropping a lot of lumber on this drawing so to buy it actually one by 10 I think our phasia board is one by 10 so we need to rotate it negative 30 degrees and that's because I do know that the roof slope is 30 degrees so I have to be at that in line drop that right there so that feels in that gap right there then I'm going to place my arar after again go so wood rough cut and this rarararararar would have been two by six but this time I wanted to be in elevation view so I can literally draw the turn off part of wood I can draw the other after to hold long I want it to be so some like that so that would be my ararar after I'm going to reshape it here beautiful then above the rarararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararar If you want to put the martyr and the grouting and what not on here you can go ahead and do that. But I'm just going to put a line to represent the finished material and then I'm going to be also putting the what we call the backfill and the compacted hard core. So this will have been two feet six inches and then we're going to go across like that. And then we can go ahead and provide some hatching in this area. I'm going to use spy line to kind of help with that. So I'm going to hatch this area. This hatching should actually be gravel and I'm going to make it 8.0 whatever that is. And I'm going to also hatch this area here with the earth material. I'm going to make it 15 and I'm going to rotate it for the five degrees. Then I'm going to delete this line and I guess that line can remain. Then I'm going to put it on the hatch layer. I don't have a hatch layer as yet. So I'm going to copy one of these that I have in my sectional elevation copy and then we're going to paste it. Once I paste it in here it brings over the layer along with it. So all I need to do is to click on these guys and change the layer to hatching. So no bear on my hatching layer. Get rid of that. And then I can go ahead and draw my cutting line like we did with the roof. So let's go it on back to documenting and go to cutting line. Now we're going to draw a cutting line right here. All right looking good and I'm going to do one more of a top here. Perfect. Look at that. All right. Let's go ahead and turn off those layers. And no we can see exactly what we drew. What's left there. And that's it guys. That's it for that detailing there. All right. Now let us say we wanted to add like for instance I have like this two inch PVC going through the block. If you notice I have this thing here. If I delete it the block is underneath it. So I kind of use a masking tool to kind of mask it over there. There's actually something that we can use call AEC Polyline. Here it is. Polygon rather. All right. So we can actually draw a shape. Make sure it is a closed shape though. Once it is closed that shape becomes a masking tool. And you can actually see the style over here. Make sure that it is saying masking polygon. So if you need to draw like something going through the wall or going through the floor or whatever the case this is an excellent tool for you to use to do that. All right. So I'm going to go ahead and drop the annotations on this. All right guys you know what's missing? I think we're missing the roof gotter. So let's add that to it. So gotter. Move gotter and we can choose the size and type that we want. I'm going to choose the half-run gotter. So I'm going to choose like probably at a six by six insert and I'm going to flip this on the Y axis and I'm going to drop it right here. So that would be what the roof gotter looks like from this view. We can go ahead and label it. Okay. All right guys so here we are back with the finished product. I have went through and detailed everything that I could remember to detail. Of course yours would vary depending on the design that you're doing but yeah so this is what it will look like and I kind of did a little test run to see what it will look like if I should print it on a sheet and so far so good. So I'm going to be dropping these details on a PDF so you can download them for your reference check the link in the description and just have fun. Take care man. All right guys so that wraps it up for this video and we're winding down nicely. So remember don't load the PDF and subscribe like comment share on Instagram Twitter. Don't know the things it and guess what we have one last episode left in this series and I'm going to put it right here as soon as it becomes available it's going to be right here. All right so check the links in the description and I just click the button right here. See me on a set. All right if you want to watch the previous episode click the button right as well. No I know right as all. Okay see you guys in the next video. Big up a set.",
+  "total_segments": 148,
+  "total_duration": 1633.84,
+  "extraction_timestamp": "2025-07-11T14:28:04.197958",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "tiny"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high"
+}

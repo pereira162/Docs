@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "O que é que você está fazendo?\nO que é que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você es",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "tá fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você es",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "tá fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você es",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "tá fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nO que você está fazendo?\nEntão, se eu estou em this lugar, você pode ver que temos 3 colores.\nVamos fazer o que você está fazendo e o que você está fazendo.\nE quando você está fazendo com os seus bobas,\neles estão em um destino.\nPorque isso é o que você está fazendo.\nE quando você está fazendo,\nvocê está em um l",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "em um destino.\nPorque isso é o que você está fazendo.\nE quando você está fazendo,\nvocê está em um lugar que você está fazendo.\nE também, você está em um lugar que você está fazendo.\nE também, você está em um lugar que você está fazendo.\nE você está em um lugar que você está fazendo.\nEntão, isso é um lugar que você está fazendo.\nEntão, nós vamos fazer uma decisão de avançar.\nAgora, se você está em um lugar,\nentão, esses dois dois, você pode ver que você tem esse boxo.\nEntão, é um lugar que você",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 498,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "um lugar,\nentão, esses dois dois, você pode ver que você tem esse boxo.\nEntão, é um lugar que você está fazendo.\nEntão, o que você está fazendo é o boxo,\no que você está fazendo, o que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você est",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 499,
+    "word_count": 94,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 499,
+    "word_count": 88,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "cê está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lu",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "r que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos faz",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, v",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 499,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "os fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 499,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "tão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está f",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 500,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "endo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que voc",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 500,
+    "word_count": 88,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "ue você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 499,
+    "word_count": 88,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamo",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 499,
+    "word_count": 88,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEnt",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": ", vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está faze",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 500,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "o.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você e",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 500,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "á fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar qu",
+    "start_char": 7600,
+    "end_char": 8100,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um",
+    "start_char": 8000,
+    "end_char": 8500,
+    "char_count": 499,
+    "word_count": 88,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "gar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos f",
+    "start_char": 8400,
+    "end_char": 8900,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "er um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão,",
+    "start_char": 8800,
+    "end_char": 9300,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "amos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo",
+    "start_char": 9200,
+    "end_char": 9700,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "Então, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está",
+    "start_char": 9600,
+    "end_char": 10100,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "azendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que v",
+    "start_char": 10000,
+    "end_char": 10500,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "ê está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, aqui é o time que",
+    "start_char": 10400,
+    "end_char": 10900,
+    "char_count": 499,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, aqui é o time que eu vou fazer,\nvamos fazer uma re-name.\nVamos fazer o detail no primeiro lugar.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fa",
+    "start_char": 10800,
+    "end_char": 11300,
+    "char_count": 499,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "r um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão,",
+    "start_char": 11200,
+    "end_char": 11700,
+    "char_count": 499,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "mos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.\nEntão, vamos fazer um lugar que você está fazendo.",
+    "start_char": 11600,
+    "end_char": 12100,
+    "char_count": 500,
+    "word_count": 89,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

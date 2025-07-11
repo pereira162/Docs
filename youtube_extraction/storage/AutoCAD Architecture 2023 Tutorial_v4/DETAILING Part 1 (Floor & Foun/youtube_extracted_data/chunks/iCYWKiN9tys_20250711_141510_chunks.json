@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Hello everyone welcome to another episode of the One Bedrooms.\nThis is the first 16 we need to go back and watch the links in the description.\nAlright so we have moved over into the next phase of this project and this video will be\nthat first video of detailing where we will start to add dimensions and text and annotations\nand stuff like that.\nSo I hope you have the time so stick around and I think you will learn a lot.\nSo yeah let's jump into it.\nZinn.\nAlright so what we're going to do is to ad",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "k you will learn a lot.\nSo yeah let's jump into it.\nZinn.\nAlright so what we're going to do is to add window tags and door tags to this drawing.\nSo far you can see that I've added some dimensions and of course I know you know how\nto do this already.\nIf you have watched my one click dimensions video we got all of these dimensions which\njust a couple clicks so these are like easy pickings now and we added some room tags as you\ncan see these were taken from the spaces that we had done in the projec",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "added some room tags as you\ncan see these were taken from the spaces that we had done in the project from earlier\non.\nOf course I did turn a layer off so I'm not sure what I'm talking about so if I turn this\non you remember that space looking thing that's where these tags come from.\nAlright so you definitely want to tag.\nDefinitely want to tag your spaces with their names of the rooms and then turn it off.\nSo of course we can move these in where we want and then we're going to just add some tag",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 499,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "rn it off.\nSo of course we can move these in where we want and then we're going to just add some tags\nto these windows and the doors and also create a schedule for these.\nIf you notice we're not seeing three of our windows and if you have been following the\nepisodes coming up you would know how to fix this by clicking on that little guide down\nhere and raising the cut plane from three to four feet six inches so that we can see\nthe windows.\nAlright good so now we can go ahead and tag.\nWe're going",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "six inches so that we can see\nthe windows.\nAlright good so now we can go ahead and tag.\nWe're going to start with doors so let's go over to annotate and we're going to click on\ndoor tag.\nSo this is the room tag tool that I use to tag the rooms so of course you can go ahead\nand do that.\nWe're going to do some door tags now so once you click on it all you need to do is select\nthe door that you want to tag.\nSo we're going to do the first door here and it gives you a little graphic there to\nillustr",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 499,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "to tag.\nSo we're going to do the first door here and it gives you a little graphic there to\nillustrate what it would look like.\nYou're going to place it where you want it now so I'm going to place it like right here.\nThen it brings this dialog box up where we can enter information about this door so\nwe can enter like framing material, glazing, head to detail, blah blah blah blah.\nRemove that.\nI did enter that early but I don't want it to be here anymore.\nAlright so these are things you can ente",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 499,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "id enter that early but I don't want it to be here anymore.\nAlright so these are things you can enter into the door so this would be door one.\nHit okay and it leaves the tag there.\nWe're going to do the second door which would be this one.\nWe're going to hit and it brings it up.\nRemove that.\nHit okay.\nSo we have door number two and this would be door number three.\nOf course you can enter your numbers manually by clicking here and just typing in the\nnumber that would be reflected outside.\nWe're g",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "ers manually by clicking here and just typing in the\nnumber that would be reflected outside.\nWe're going to hit okay.\nAlright guys so that's all the doors we have no bearing mind that if we have\ntwo or more doors that are the same exact size style then you would want to give those\ntwo doors are three doors the same number okay so if this door and this door were the same\nthen they both would be saying zero one.\nBut because this is an exterior door this is an interior door there are two different",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 499,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "ing zero one.\nBut because this is an exterior door this is an interior door there are two different doors\neven though they are the same size.\nAlright so two different doors you have to give them two different numbers.\nThis one is obviously smaller so that would definitely need us and a different number.\nAnd the same thing applies when we move to windows.\nThese four windows at the front of the building are the exact same size, same style, same\nmaterial, same everything.\nSo we want to make sure th",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 500,
+    "word_count": 92,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "ding are the exact same size, same style, same\nmaterial, same everything.\nSo we want to make sure that all of these windows have the same number likewise with\ntwo kitchen windows these are the same so we're going to give those the same number.\nThis window is obviously different so that's going to have its own number.\nSo let's click on window tag.\nI'm going to do like this boom.\nClick on that.\nNow we're going to drop the tag somewhere where there is a little bit of space so I'm\ngoing to drop it r",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 500,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "we're going to drop the tag somewhere where there is a little bit of space so I'm\ngoing to drop it right there.\nSo that would be number one and I'm not going to add anything in there I'm going to\nleave it blank for now.\nI'm not going to be adding anything in that I'm just you can go ahead and add these\ninformation.\nThe good thing is when you add stuff in here you can pull these out in a schedule.\nThat is what this is for.\nSo of course if you're doing like a commercial building and you need to pu",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "That is what this is for.\nSo of course if you're doing like a commercial building and you need to put in fire, fire\nproof rating and that kind of stuff you're going to need to enter those information into\nthe door or the window.\nAll right.\nSo this would be our window one of course again.\nThis would also be another window one.\nGood.\nThis would be a normal one as well.\nNow if you sit in number changing guys, go click in there and type in the right number.\nAll right.\nI'm going to this one should be",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "ing guys, go click in there and type in the right number.\nAll right.\nI'm going to this one should be a tool.\nGood.\nThis one should be a tool as well.\nAwesome.\nNow this one should be a three.\nBeautiful.\nSo now we have all of our window tags and door tags added.\nI guess what the floor plan is basically done.\nI don't need anything else for the floor plan.\nIt's all done guys.\nI'm just going to need this a little bit more.\nAnd see this is kind of touching the building.\nI don't like that.\nSo I'm going",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "is a little bit more.\nAnd see this is kind of touching the building.\nI don't like that.\nSo I'm going to click on this.\nHere I can edit.\nThat's good.\nAll right.\nSo that's how the floor plan would look.\nAnd then we are going to, what if I can pull this out somewhere?\nLet me see.\nBeautiful.\nNice.\nAll right.\nSo the next thing we're going to do is we're going to create some schedule.\nSo go to door schedule, which is one of them going to do first.\nDoor schedule click on that.\nAnd it says here, select",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 499,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "dule, which is one of them going to do first.\nDoor schedule click on that.\nAnd it says here, select the objects are enter to schedule external drawing.\nSo of course this we know that this is an external drawing because it's an X reference.\nSo we're going to hit enter.\nAnd then it says no, please search schedule.\nSo you need to click your first corner and your second corner.\nAnd if you notice here is our schedule.\nI like to scale it to 50.\nLet's move it over a little bit.\nAll right.\nSo we can act",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 500,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "is our schedule.\nI like to scale it to 50.\nLet's move it over a little bit.\nAll right.\nSo we can actually go in and remove some of these that we are seeing here.\nHonestly, what I don't would I have never used half of this stuff in here.\nSo we're definitely going to can remove some of these.\nI'm not sure if I'm going to be doing that in this video.\nBut so here we have this schedule.\nNothing is in there because we need to add the drawing\nthat we want to pop up in this schedule.\nSo we're going to h",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 500,
+    "word_count": 105,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "here because we need to add the drawing\nthat we want to pop up in this schedule.\nSo we're going to hit add.\nAnd then we're going to select the drawing that we want.\nSo this would be that drawing and we're going to hit enter.\nAnd then no, we can see our door is popping up.\nWe have the mark which is 1, 2, 3.\nWith height thickness.\nIf we had placed a material in there, it would be there.\nIf we had enter any of those other information, then it would pop up inside of here.\nAnd of course, if you want",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 499,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "ter any of those other information, then it would pop up inside of here.\nAnd of course, if you want to remove stuff, you can go to the edit style here.\nAnd just click on this check out the column you want.\nAnd just delete it.\nAll right.\nJust go ahead and delete stuff.\nMake sure you don't delete stuff you need.\nAll right.\nWe're going to hit.\nOkay.\nLet's do a window schedule now.\nWe're just going to hit enter.\nWe're going to draw a hot table.\nScale it to 50.\nThen we're going to add this kind there",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "hit enter.\nWe're going to draw a hot table.\nScale it to 50.\nThen we're going to add this kind there.\nSo now this one's a little bit more interesting because we have a variety and we have some\nduplicates.\nWe have four different four of the same windows.\nWe have two of this type of window.\nAnd we have one of this type of window.\nAnd so if you notice it itemizes every single window, what if we want a group them\nup though?\nWhat if we could have a column that says quantity three, we would be four of",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 499,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "a group them\nup though?\nWhat if we could have a column that says quantity three, we would be four of these\ntwo of these and one of that.\nThat's exactly what we're going to do by just going back to edit style and check this\nlittle box here.\nThat says include quantity column.\nWe're going to hit okay.\nAnd no, we have a column that says quantity.\nAnd then it kind of group them up to say, all right.\nWe have four of this one.\nWe have the same size.\nWe have two of this one.\nThe same size and we have on",
+    "start_char": 7600,
+    "end_char": 8100,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "have four of this one.\nWe have the same size.\nWe have two of this one.\nThe same size and we have one of this window.\nSo that's how you would go about doing that.\nAnd of course I'm going to kind of put these side by side.\nSo that I can create my views.\nAll right.\nNow we're going to create some views.\nSo go to view and we're going to say new.\nI'm going to call this.\nThis is where plan.\nCreate a window.\nI'll know how to do this already, right?\nYep.\nYou should know from the previous episode.\nI just",
+    "start_char": 8000,
+    "end_char": 8500,
+    "char_count": 499,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "dow.\nI'll know how to do this already, right?\nYep.\nYou should know from the previous episode.\nI just about that.\nProbably should have given it a little bit more space.\nI'll let it go.\nLet me give it some space at the bottom.\nGood.\nOkay.\nSo we'll have a view there.\nAnd then we're going to do one for the schedule at the same scale.\nOkay.\nMake sure that scale is one and a quarter.\nNow we're going to call this.\nUm, the fact that probably should do them both separate.\nSo I'm going to do a door schedu",
+    "start_char": 8400,
+    "end_char": 8900,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "call this.\nUm, the fact that probably should do them both separate.\nSo I'm going to do a door schedule.\nPick.\nI do a schedule is going to be from that to that.\nHit enter.\nAnd then I'm going to do another one.\nNew.\nNo, schedule.\nEnter.\nAll right.\nSo we have created three views here.\nWhat will happen is that it will pop up underneath.\nOr floor plan drawing.\nWe have doors schedule windows schedule and your floor plan right there.\nAll right.\nSo these are what we're going to be using on our sheets.\nW",
+    "start_char": 8800,
+    "end_char": 9300,
+    "char_count": 500,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "d your floor plan right there.\nAll right.\nSo these are what we're going to be using on our sheets.\nWhen we start to create sheets.\nOne of the things I want to do last is to add the title to this drawing.\nSo I'm going to go ahead and add a title with the circle.\nAnd if you notice once I click on it, this box pops up.\nThen we can go ahead and draw or title right here.\nTitle comes in with your name and your scale.\nOnce you put it on a sheet, that will become populated.\nAll right.\nAll right.\nAll rig",
+    "start_char": 9200,
+    "end_char": 9700,
+    "char_count": 500,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "nd your scale.\nOnce you put it on a sheet, that will become populated.\nAll right.\nAll right.\nAll right.\nSo this is where we're going to stop with the floor plan.\nI believe we have enough information here to be submitted to the authorities for approval.\nEspecially for a small building like this.\nWe really don't need anything more than this.\nBut of course, if you're going to do something much larger than you need to add additional details\nas necessary.\nBut this is where I'm going to stop for this",
+    "start_char": 9600,
+    "end_char": 10100,
+    "char_count": 499,
+    "word_count": 92,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "than you need to add additional details\nas necessary.\nBut this is where I'm going to stop for this floor plan.\nAnd what we're going to do is to move over into the foundation plan, which will be\nthe last thing we're going to do in this episode.\nAll right.\nSo let's go over to our views.\nGo down to our foundation plan.\nAnd of course, this was where we left off with the foundation plan view.\nFirst thing we're going to do is to change our scale.\nAll of us remember that before you add any type of ann",
+    "start_char": 10000,
+    "end_char": 10500,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "ing we're going to do is to change our scale.\nAll of us remember that before you add any type of annotations to your drawing.\nSet your scale.\nThen we're going to go ahead and bring in our grid lines.\nSo let's go to our construct right click Xref overlay.\nAll right. So we have our grid lines here looking beautiful.\nI am not going to be using these dimensions.\nSo I need to freeze those guys.\nAll right. There we go.\nAnd of course, what we're going to do is to add dimensions to the footing of the foundation.\nAll right.",
+    "start_char": 10400,
+    "end_char": 10921,
+    "char_count": 520,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "of course, what we're going to do is to add dimensions to the footing of the foundation.\nAll right.",
+    "start_char": 10821,
+    "end_char": 10921,
+    "char_count": 99,
+    "word_count": 19,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "of course, what we're going to do is to add dimensions to the footing of the foundation.\nAll right.",
+    "start_char": 10821,
+    "end_char": 10921,
+    "char_count": 99,
+    "word_count": 19,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "of course, what we're going to do is to add dimensions to the footing of the foundation.\nAll right.",
+    "start_char": 10821,
+    "end_char": 10921,
+    "char_count": 99,
+    "word_count": 19,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

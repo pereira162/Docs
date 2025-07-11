@@ -1,0 +1,402 @@
+yeah so before you start a project you
+need to set up base foundation on which
+all your drawings will be upon so that's
+what we'll be doing in this video
+[Music]
+hi everyone thank you for joining me on
+episode number two for one bedroom
+series all right so if you miss episode
+number one you need to go back and you
+need to watch that one so check the
+description below for that video all
+right so what we're doing is to draw a
+one bedroom house from start to finish
+all right this one in particular that's
+a pretty simple pretty neat result a
+rectangle and we're going to roof it up
+we're gonna try to model as much as we
+can and yeah we're gonna have dimensions
+with Anna Jordan the property we're
+gonna do everything a great thing okay
+so today's video is about setting up our
+set up yeah so before you start a
+project you need to set now this
+foundation on which all your drawings
+will be upon but before you start to set
+up you need to figure out which unit of
+measurement you're gonna use and in
+order to do that you need to know what
+unit is acceptable in the country that
+area in Jamaica we use the metric system
+so we have the imperial system and we
+have the metric system so if you don't
+know what these are this is what they
+look like okay so that imperial system
+are the standard system deals with feet
+and inches while the metric system deals
+with millimeters meters kilometres that
+kind of stuff the imperial system is
+represented in fractions
+while the metric system is represented
+decimals Jamaica in this case requires
+millimeters I personally prefer to use
+the imperial system look I prefer
+fractions or decimals in this case for
+some reason I just think it's easier for
+me to understand 12-feet is easier to
+remember than three thousand five
+hundred and twenty nine millimeters so
+we will be doing this project in feet
+and inches however there is a way that
+you can use the program to show both
+dimensions so that it is no acceptable
+bypass constant you get alright so
+that's the first thing you need once you
+have decided then we can know the set of
+our project on that system whichever one
+you choose to use the same principles
+apply I just needed to explain that now
+we're going to move over to other kind
+of where you need to understand what's
+happening and how to go about setting up
+your project all right let's go alright
+so here we are on the computer so I have
+both units of measurement on my install
+on my computer I have imperial and I
+have metric so whichever one you're
+gonna use we're going to use well I'm
+gonna use imperial for this project so
+if you're gonna use metric of course you
+would want to select that one now if
+you're not seeing one on your screen
+then what you can do is just follow what
+I'm doing here so we're good to go to
+control panel and we will go to programs
+and features right here and look for
+autocad architecture and then we're
+gonna say change all right
+all right so what we're looking at here
+is that is the installer for autocad
+architecture you should be familiar with
+this screen when you were installing the
+software all right so what we're going
+to click on is this one over here add
+our more features
+and that will bring up this option so as
+you can see I have both units selected
+all right no that is the reason why you
+can see that I have both here because I
+already had them both selected here so
+if you need one or the other you would
+go ahead and slipped and follow through
+with the instructions okay so since I
+already have them both I'll just X this
+off all right and then once you're done
+with that then we'll open up autocrat
+all right so here we are on the AutoCAD
+dashboard so the first thing we're going
+to do is to set up our project so let's
+go ahead look for the project browser
+icon at the top here it's gonna bring
+you to what we call the project browser
+all right now when you're going to open
+a project or create a new project this
+is where you would start as I said you
+would open your project here as well
+because if you notice this is the folder
+that they are saved in so we have
+documents my documents are that's my
+projects and you can see all your arms
+will be stored here and if you open this
+one which is the one that you see over
+here and you go inside you will see that
+it has multiple files what happened is
+that it creates a separate file for each
+element of your project alright so we
+would put the first floor on a separate
+in a separate file we put a ground-floor
+in a separate file and so on and so
+forth and I will explain to you why it
+works like that all right so you want to
+ensure that you open your project from
+this browser all right so of course I
+have this project open now I'm going to
+close it and we're going to start a new
+project
+all right so we click on this button but
+create a new folder first gonna give our
+drawing a number so d03
+since that's we're at jar number three
+we're gonna call this one more one bed
+house all right so that's that open it
+up there now once we're inside of that
+folder we're gonna treat a new project
+so go ahead I'm gonna give our project a
+number it's important that you give your
+project a number guys
+all right so great that in mind of
+course we're gonna call this one dead
+room house and you can add a description
+like one bedroom dwelling to be
+constructed at our in Hut field
+Manchester Jamaica whatever something
+needed to put a description if you want
+you don't have to of course we're not
+gonna use a template at this time
+because we didn't create in so I'm gonna
+say okay now your project has been
+created so if I should bring this folder
+back up
+[Music]
+now you see that it has been treated
+here all right so put that away
+and once you see that it is bold that
+mean that project is active so we can
+close all right good
+so know that that's done what happened
+now is that list this becomes active and
+this is called your project navigator
+now if you're not seeing this what you
+would do is click on it up here so you'd
+find it up here click on it you get it
+back alright so now we're in actually
+inside of our one bedroom house project
+juror number three description all right
+so now this is where you're gonna set up
+your project all right and the project
+Navigator is the is responsible for
+combining all your files this is where
+all your files are kept in an organized
+fashion all right so you would have
+project settings here you would do your
+drawings in here you would create your
+views and then finally you would create
+your sheets and everything would be in
+an organized fashion right here alright
+so first thing we need to do is to setup
+a project so we go click on this edit
+project button
+alright that's already there that's
+already there that good we're gonna
+change these to guess yes
+and then we're gonna find some templates
+so being that we're gonna use Imperial
+we're gonna select CTV alright go ahead
+Imperial CTB open and we're gonna do the
+same thing for sheet templates we're
+gonna say go down to sheet imperial CTV
+open and then you would select the size
+sheet that you want to use on this
+project so we're gonna use 24 by 36
+which is too big for a tiny one-bedroom
+house but this would be like a regular
+sheet size that we would use in Jamaica
+all right
+especially for a residential project
+alright good so then we would apply and
+then we would say ok and of course we
+would say yes make sure you read through
+these stuff before you click
+all right good so now that your project
+is zipped
+we can no need to sit or levels all
+right
+so I want to explain to you what levels
+are before we move on now I have this
+little drawing here and I have a ruler
+of course I was a teacher so I
+understand how to point with ruler so
+yeah
+so what I have here is a television and
+I want to explain what levels are all
+right so a building can be broken down
+into levels all right and it levels
+simply mean if you have multi-story
+buildings you would have level one which
+would be the lowest floor and then level
+two level three level floor number four
+as you go up
+all right now this project is just a one
+bedroom really actually we don't need to
+break it up in levels but I want to do
+something for demonstration purpose so
+what we're gonna do is to put the
+foundation what is below the ground on a
+separate level and then we're going to
+put everything above which would be the
+the first floor itself or the ground
+floor on a level four itself so what's
+gonna happen is that we're gonna put
+so we're gonna call the finished floor
+level the finished floor level we're
+gonna call it the zero line so this is
+the zero line now we're gonna make the
+foundation four feet below all right so
+let's say the foundation is going to
+look something like this
+so we're gonna make the foundation four
+feet below the zero line below the
+finish for a level and then we're gonna
+make the wall
+everything above from the finished floor
+level to the wall plate we're gonna make
+that ten feet all right
+so bear that in mind when we are gonna
+create our levels all right so let's
+look at that how do we set that up on
+the computer so go ahead and click on
+the levels setting and the first in one
+enter is is the foundation I want to
+start from butter all right so we're
+gonna name this one over this level
+foundation
+[Music]
+howdy-doo you why it's gonna be four
+feet below zero which would make it
+minus four okay so this would nomicon
+minus four feet so let's do that
+- four feet all right
+and then here you'll put in how tall do
+you want the foundation of course if it
+is minus four feet below that's where I
+wanted to start it's gonna be four feet
+high so four feet high
+am I gonna put in an ID for F I'm gonna
+put in my description foundati
+all right then we're gonna make sure
+that this is selected okay and you
+create a new level what happened now
+because this was selected the new level
+will now are to adjust elevation so now
+our level our first level now which
+would be ground level this now starts at
+the zero mark as you can see here but
+now we want to be 10 feet that's 10 inch
+10 feet high enter and then we would
+call this level 1 it has an IB let's get
+let's name it actually we're on floor
+I'm gonna call this floor
+so we have the we have our lentils we
+have Foundation which which is four feet
+below that's where it's gonna start and
+we have lower ground floor which is
+going to be starting at zero mark all
+right guys so that's how we're gonna do
+that all right and you can always come
+back and change these and of course if
+you had more levels you would continue
+to create more level so let's say for
+instance we had a second floor or we had
+an upper floor it would now begin at ten
+feet level and we would want it to be
+another ten feet high and that would
+have an ID of two and of course we would
+give it a description but we're not
+gonna need this so let's remove that and
+then we're gonna say okay yes so now you
+can see that it's being populated here
+all right and please check the zero and
+these measurements here to make sure
+that they're in Imperial or metric
+whichever system that you're using
+alright so moving down the list we have
+what is called divisions all right no
+divisions again for a small project like
+this you don't need divisions but I'm
+gonna be using it for demonstration
+purpose all right
+so divisions is really if you were to
+break up a building into sections let's
+say you have the West Wing the East Wing
+and the north wing and so on and so
+forth if you had let's say a garage that
+is being attached to the house or if you
+have an accessory building somewhere
+else you would add divisions to your
+project so we're gonna add one
+all right we're gonna call it the main
+building and what I did should I give it
+description mean Billy enter
+stupid em hi okay so we have a division
+all right so everything here is set up
+we're good to go let's go down to
+construct no this is where you would now
+start to draw alright so we're gonna
+create the different files that we need
+to draw inside of so we need to create
+some construct so we're gonna write
+right-click on that new I was a new
+construct so we're gonna give this a
+name the first drawing we would want to
+do would be our or
+let's say we create a file for the
+foundation all right you can give it a
+description I'm not gonna give it any
+and here you would see the divisions so
+of course the foundation that we're
+going to be drawing will be for the main
+building and we're joined foundation so
+we'll check that of course if you were
+gonna do foundation for let's say a
+garage which would have its own division
+or accessor building which would have
+its own division you would not check
+this one you would go and check the one
+that corresponds with you get the idea
+alright so we're doing the foundation
+you don't worry we're not gonna open the
+drawing all right that is being created
+and then we're gonna create another one
+now for
+ground floor
+so we're go ahead and select
+ground-floor okay
+all right no I'm gonna open this one so
+you can see what happens
+and so what happened is that it opens up
+the ground floor drawing so now I can go
+ahead and draw my ground floor here now
+if I want to draw a foundation the
+foundation I would go into foundation
+and draw the foundation in destroy and
+it's in two separate drawings
+okay later when we're gonna create our
+views we will be able to combine them to
+get one entire drawing but the idea here
+is to draw our components are all levels
+on a separate drawing so that it
+relieves the pressure on the computer
+all right you don't have too many stuff
+working with that you don't really need
+that that moment in time all right so
+that is the reason for that all right so
+we have both our constructs created
+we're gonna create some elements and
+elements are stuff reference material so
+let's see gridlines if you were to use
+gridlines property boundary that kind of
+thing so for this project I want to you
+know try some grid lines even though
+it's very tiny but just to show you how
+to get that done so let's create one
+call it grid lines and that's that
+so that's that's all we're going to do
+for that I might create another one and
+call it a property boundary
+all right so you create each of these in
+their separate files so in the next
+video we will be exploring our ground
+floor okay this is our next step but
+before we draw the ground floor we want
+to lay out our grid lights of course the
+grid line is totally unnecessary for
+this project but I'm gonna do it for
+demonstration purpose okay so that's how
+you go about setting up your project
+eyes so thank you for joining me I hope
+that you learn something if you have any
+question at all let's drop them in the
+comments below and of course I'll try to
+answer as much as I can and look out for
+the next video so see you guys big up
+[Music]

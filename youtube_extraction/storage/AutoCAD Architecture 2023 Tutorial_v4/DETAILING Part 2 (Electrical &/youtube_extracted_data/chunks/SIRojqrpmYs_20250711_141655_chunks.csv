@@ -1,0 +1,231 @@
+chunk_id,content
+0,"Hello everybody, welcome to another episode on the one bedroom house series.
+And today what we're going to do is to continue where we left off on the drainage and electrical
+plan.
+We're going to be adding annotations and some details to fleshy-tot, make it ready for print
+and set off.
+See me as a...
+In the meantime, if it's your first time on the channel, be sure to hit the subscribe button
+share, drop a comment, especially if you learned something new.
+And I can almost bet just almost.
+Let's do"
+1,"drop a comment, especially if you learned something new.
+And I can almost bet just almost.
+Let's do it.
+Alright guys, so here we are back in Atacad Architecture.
+And today we're going to be looking at the drainage and electrical plan.
+So of course, as you already know, we're going to be adding some annotations and some notes
+to this drawing to make it sheet ready.
+So to speak, and as you can see here, we have both drainage and electrical showing on this
+drawing.
+Now, there will be instances whe"
+2,"here, we have both drainage and electrical showing on this
+drawing.
+Now, there will be instances where you might want to separate these two drawings, especially
+if they are very complex and detailed.
+So you know, bear that in mind.
+In this case, of course, this is just a simple drawing.
+Not a lot of components, not a lot of fixtures.
+So we're going to be adding them both on this one view or this one drawing.
+So as you can see, we have brought in all our constructs that we need.
+Let me go to our"
+3,"ne drawing.
+So as you can see, we have brought in all our constructs that we need.
+Let me go to our extra friends panel.
+As you can see, we have our drainage layer there.
+We have the electrical layer of fixtures and the ground floor drawing itself.
+And if you're not seeing one or the other, you can go to the view step, right click on
+that view, go to properties, go to content and go ahead and check all the ones that you
+want to see.
+Of course, I don't want to see structural in this view.
+So I di"
+4,"k all the ones that you
+want to see.
+Of course, I don't want to see structural in this view.
+So I did not select that.
+Alright, so I'm going to minimize this.
+Of course, we are seeing some stuff that we don't want to be seeing in this view.
+So we're going to be freezing some layers.
+But before we do that, let's go ahead and tag our rooms.
+Because eventually, we're going to need to freeze the space layer as well.
+But before we freeze it, we want to tag the rooms.
+So go ahead and tag your rooms.
+G"
+5,"layer as well.
+But before we freeze it, we want to tag the rooms.
+So go ahead and tag your rooms.
+Guys, you already know how to do this.
+So I'm going to just do one and then just like that, a little bit of video magic tricks.
+All of them is done.
+Go ahead, tag your rooms.
+And from there, we can go ahead and freeze the layers that we don't need.
+So of course, I don't want to see the roof.
+I don't want to see space.
+I don't want to see these guys here.
+And I definitely don't want to see that.
+I'm"
+6,"want to see space.
+I don't want to see these guys here.
+And I definitely don't want to see that.
+I'm going to just keep the main things that I need such as the fixtures.
+Because we do need to know where the kitchen sink is.
+We do need to know where the toilet and the drains are.
+Alright, I'm going to freeze this one as well.
+And then we keep everything else.
+And then from here, we can go ahead and kind of move these around so that they're not blocking
+anything that is important, such as the ligh"
+7,"kind of move these around so that they're not blocking
+anything that is important, such as the light or electrical fixtures there.
+Alright, so make sure that you get that adjusted.
+I think I'm going to move this down a little bit like probably about here.
+Alright, so from here, what we're going to do is to go ahead and add some annotations to our drainage
+system.
+Alright, so what we're going to do here is to go ahead and go to our text.
+And we're going to type m.h.1.
+mh as we all know stands fo"
+8,"o here is to go ahead and go to our text.
+And we're going to type m.h.1.
+mh as we all know stands for manhole.
+And we give it a number, a unique number at the end there so that we can identify which
+manhole this is referring to.
+Alright, because of course, we have multiple manholes.
+And so giving them a unique number or name will help to identify them individually.
+Alright, so what I did there was to just copy that one, give it a new number.
+We're going to copy it again.
+And I'm going to give it"
+9,"to just copy that one, give it a new number.
+We're going to copy it again.
+And I'm going to give it a new number.
+And if you notice how I am numbering them in a chronological order or in a sequential order,
+at the closest end to the host, we start at one and then at the furthest end with the
+larger number.
+Alright, so you kind of want to keep it a little bit organized.
+You wouldn't want to put one up here and then two, don't here and then three, you know,
+you kind of confuse the thing like that"
+10,"e up here and then two, don't here and then three, you know,
+you kind of confuse the thing like that.
+So we're going to leave it at that.
+Alright, so let's name these are the guys here.
+Of course, well, already know what these are.
+Trap, goly basin.
+So T g.
+B.
+And we don't have to give these a number because of course, this is just one here.
+If I had more than one than I would give it a number, but in this case, we only have one.
+So and this would be grease, trap basin.
+Alright, good.
+So we have"
+11,"t in this case, we only have one.
+So and this would be grease, trap basin.
+Alright, good.
+So we have those labeled and that's that.
+Then we're going to go ahead and label our pipes.
+Alright, so what we need to label on here would be the size and the material.
+Okay, so for this project we're using PVC pipes, I want to make sure that you put the
+correct size on here.
+So we're going to use a leader.
+So let's go to multi leader here and we're going to click on this first one right here
+and drag it o"
+12,"So let's go to multi leader here and we're going to click on this first one right here
+and drag it out.
+Now if you notice when you move it out, you get the arrow.
+If you put it too close, you're not going to get the arrow and you always want to have
+the arrow.
+So pull it out enough so that you can see the arrow and then click.
+And then we're going to go ahead and type 4 inch PVC.
+Actually, I want to put the millimeters here as well, which would be 100 millimeters.
+And what we want to also do is"
+13,"to put the millimeters here as well, which would be 100 millimeters.
+And what we want to also do is to put the diameter symbol here, because this is a circular
+pipe.
+So we're going to put the diameter symbol, which would be the shortcut would be percentage
+percentage C as in cat.
+So that's how we want to have that.
+And then guess what, we could just copy this and paste it under other areas that we need
+it.
+So we need one here, we need one here.
+We're going to need one down here as well.
+And we'r"
+14,"need
+it.
+So we need one here, we need one here.
+We're going to need one down here as well.
+And we're going to move the arrows so that they can point in the correct direction.
+So let's do that with these.
+I'm going to do actually, you know what, let me delete these.
+I'm going to copy this one and paste it here and here.
+And then for this one, I'm going to point it in this direction, point it here.
+As well, I need another arrow from this to point to this pipe right here.
+So what I'm going to do i"
+15,"As well, I need another arrow from this to point to this pipe right here.
+So what I'm going to do is to highlight that, go to the leader drop don and say add leader.
+All right, so once we click on that, we know how the ability to add another leader.
+And if we want, we could actually add another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another"
+16,ther one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one
+17,one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one ano
+18,"another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one
+So guess what, we also have some two inch ones and these are some smaller PVC pipes that are running from the laboratory to the bathroom dr"
+19,"ch ones and these are some smaller PVC pipes that are running from the laboratory to the bathroom drain here floor drain.
+So this would be two inches enough course if four equal 100 and two would equal the what.
+Almost 150 that's how I know you're some brilliant dudes and girls."
+20,"0 and two would equal the what.
+Almost 150 that's how I know you're some brilliant dudes and girls. All right, so that's gonna be that and then I'm gonna copy this again and put it in the kitchen because we have another two inch pipe inside of here.
+So as you can see we're just going around and labeling each pipe making sure that they have the correct information on them.
+All right, I also want to label.
+This little thing right here, so this would be a four inch equally the PVC under PVC,
+Don't spout our don't pipe whichever you want to use."
+21,"uld be a four inch equally the PVC under PVC,
+Don't spout our don't pipe whichever you want to use. So this would be the don't spout from the roof gotter and then it would go into this PVC pipe all the way to the river at the back of this property.
+All right, so that's it for the drainage plan. I just have too little additional notes that I would add text.
+Let's add it right here. I'm gonna storm water line two.
+Reverse at the back of property."
+22,"add text.
+Let's add it right here. I'm gonna storm water line two.
+Reverse at the back of property. All right, so I would put this here.
+But if you notice the line the pipe is running through the text and I kind of want to block that out.
+So what I would do is to just highlight everything go to mask and choose background and of course I'm
+going to be using the drawing background. That's all you need to do and he'd okay. And so that will get
+rid of the line in the background there."
+23,"t's all you need to do and he'd okay. And so that will get
+rid of the line in the background there. And of course I'm going to copy this text now and I'm going to paste it down here.
+And I'm going to write something similar except that it's going to be more along the lines of sewer line to main
+community sewer system. Something like that."
+24,"going to be more along the lines of sewer line to main
+community sewer system. Something like that. Yeah, of course you might be able to work it a little bit
+around that, but essentially what we're going to do when we create our view is to cut off.
+We're going to cut the drawing about here because we don't want to see this part of the drainage system.
+And we don't want to see that little back part. I can stay. Those areas will be seen on the site plan.
+All right. So you don't have to worry about that. All right."
+25,"e areas will be seen on the site plan.
+All right. So you don't have to worry about that. All right. So that would be it for the drainage plan.
+No, we would go over to the electrical plan. And guys, we are like 95% done already. Because there's nothing
+really to be done with the electrical plan. All we need really is a legend to show all the symbols and
+what they represent. And if you remember it when we were doing the electrical plan, we had already done
+our legend. All right. So I'm going to go ahead and I'm going to open that legend up."
+26,"already done
+our legend. All right. So I'm going to go ahead and I'm going to open that legend up. So this is the
+legend that I have created from the time we had done the electrical plan. All right. Now I have this
+legend available on my Patreon page guide. So if you need to download it definitely go over there.
+The AutoCAD file is there. But I also have the PDF file linked in the description below if you need
+something to reference for your project. All right. Now the good thing about having your legends in
+in a separate drawing is that we can link this drawing to all of our projects."
+27,"ving your legends in
+in a separate drawing is that we can link this drawing to all of our projects. All right. So
+what we're going to do here is to make this drawing a part of our current project. And how we're
+going to do that is we're going to go to our construct and we're going to make it an element. All right.
+So we're going to just right click and we're going to save current drawing as an element. So we go ahead
+and I'm going to rename this to say electrical and drainage legend. Okay. And if you notice,
+I renamed it because I want to add a couple others to stuff inside of here."
+28,"kay. And if you notice,
+I renamed it because I want to add a couple others to stuff inside of here. What I'm going to do is
+to probably just copy one of these. By the way, guys, this legend I made from scratch. So this is
+something you will have to spend time on. Do there are some tools out there that we can use to
+create legends. But I do not have access to those. So you will have to go ahead and figure that out.
+Definitely go ahead and do the same. So I'm going to rename this to be drainage legend.
+All right."
+29,"Definitely go ahead and do the same. So I'm going to rename this to be drainage legend.
+All right. So basically what I'm going to do is to just have, we're going to be copying
+these down one, two, three. And I'm going to be having the abbreviations here. So I'm going to have
+m, h. I'm also going to have shrub, golly, piece. I'm going to have piece shrub piece. And I'm
+going to give the descriptions here. All right. So I'm going to go ahead and finish this legend here.
+I'm going to copy this down like that. And then I'm going to get rid of this piece. All right."

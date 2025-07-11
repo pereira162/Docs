@@ -1,0 +1,219 @@
+chunk_id,content
+0,"Yeah, hello everyone welcome to episode 15 of our one bedroom house series and today
+what we're going to do is an electrical plan so you see we are get plant-tubber things
+we are moving with the project alright so don't move on muscle
+If you're new here we've been doing a one bedroom house from scratch and we're
+trying to produce all the drawings that are necessary for a proof-all we are
+going to produce views and we're going to also put them on sheets and we're going to print
+them and we're goi"
+1,"produce views and we're going to also put them on sheets and we're going to print
+them and we're going to maybe I'll submit it what do you think about that I could
+actually do a video on all of that but we'll see we'll see if you want me to do it
+just comment it down below or hit the like button we see we see what that goes
+um no remember that I'm doing these drawings based on Jamaican standard so the way I
+do these drawings you know it might be a little armadly very different depending on
+where"
+2,"the way I
+do these drawings you know it might be a little armadly very different depending on
+where you're from but I do hope that you learn something nonetheless and that you
+will find some value in these videos if you actually learn something you could just
+you know hit the like button and consider just consider subscribe alright
+respect in order to do an electrical plan it's important that you have some
+background information some understanding of how electricity works electrical
+components"
+3,"have some
+background information some understanding of how electricity works electrical
+components or devices you need to have a background knowledge and all of these
+things also if you've never seen an electrical plan it would be a good idea to see
+what one looks like so you could just go on Google type in electrical plans and
+just look at some images and you will notice that you have a flow plan with you
+know some symbols all over the place representing different things and you
+might see like"
+4,"n with you
+know some symbols all over the place representing different things and you
+might see like things connecting to other things and so on and so forth try to
+understand what is happening on an electrical plan read all the notes on the
+side of the page and also get familiar with the different symbols that I
+represented on an electrical plan alright that's very very important all right
+so here I have provided a PDF with a list of symbols or rather electrical
+symbols that we're going to be u"
+5,"e I have provided a PDF with a list of symbols or rather electrical
+symbols that we're going to be using on this electrical plan and of course this
+list is very limited in comparison to the amount of symbols that are available
+to use now for this little one bedroom house we don't need a lot of stuff in
+fact this list is probably too much because I'm definitely not going to be
+placing all of these symbols or components within this little tiny bedroom
+house alright so of course you can download th"
+6,"symbols or components within this little tiny bedroom
+house alright so of course you can download this PDF in the link in the
+description make sure that you get yourself familiar with the different symbols
+for instance this one represents shandelier you have emergency light unit this
+one represents switches and I wanted to kind of explain this one a little bit so
+I regular switch would look like this that's like the light switch which would
+mean single pole switch alright no if you have a double"
+7,"his that's like the light switch which would
+mean single pole switch alright no if you have a double pole toggle switch then you
+would put a tool where the X is if you have a three-way toggle switch you would
+put a three there if you have a dimmer switch you'd put a t there alright so
+these can become important as you do your drawing depending on what your
+project requires likewise when you go up to outlets or electrical plugs when
+you have a regular outlet it's normal but when you add a subscri"
+8,"to outlets or electrical plugs when
+you have a regular outlet it's normal but when you add a subscript to it then it
+means that that subscript represent whatever is over here alright so far
+instance a grown fall circuit interrupta this one would be placed in like a
+kitchen or in the bathroom where there might be water getting in contact
+with electrical equipment like a hair dryer or your blender stuff like that you
+have water proof as well these are mostly used outdoors so all of these abbreviat"
+9,"tuff like that you
+have water proof as well these are mostly used outdoors so all of these abbreviations
+would go underneath the plug to represent respectively and then you have other
+symbols like USB outlet television outlet you have panels you have even
+security cameras alright so a nice little list here that we can use on a wide
+array of projects so go ahead don't know them if you don't have your symbols
+make sure that you draw them in auto cut so that you'll have them to use of
+course I'm go"
+10,"ur symbols
+make sure that you draw them in auto cut so that you'll have them to use of
+course I'm gonna go bring to auto cut now where I actually have these symbols
+ready and waiting to go so of course I have made them into blocks I'm gonna
+be using them in our project so that's this drawing I'm gonna actually go into
+the one bedroom house project now alright so let's do that so we're gonna go
+over to our project navigate and this is where all of our drawing exists we have
+our construct we have"
+11,"r to our project navigate and this is where all of our drawing exists we have
+our construct we have our views we have already created some views but we had
+a couple more constructs that we needed to create such as the electrical construct
+so we're gonna be doing that no so what we're gonna do is to right click on
+here I'm gonna go down to new and we're gonna see construct and we're gonna call
+this electric call layout now if you had multiple levels for instance if you have
+ground floor second fl"
+12,"electric call layout now if you had multiple levels for instance if you have
+ground floor second floor third floor then you would need to have an
+electrical layout for each level alright so you would have probably level one
+here and then you'd create another construct and call it level two because each
+level would have a different layout alright and then we're gonna select the
+level that would we're gonna be applying this too so it's gonna be the ground
+level because this is just a single floor"
+13,"'re gonna be applying this too so it's gonna be the ground
+level because this is just a single floor building I'm gonna open the drawing so
+let's click okay and as you can see that we have the construct over here
+being created and then we are also inside of that drawing electrical layout
+alright moving on from this it's a blank drawing so obviously we need to get
+the floor planning set of here how do we do that we go to our ground floor
+construct and we're gonna right click and see X-RF overly a"
+14,"do we do that we go to our ground floor
+construct and we're gonna right click and see X-RF overly alright now we have our
+floor plan in the drawing what we need now also is our fixtures alright so
+we're gonna right click overly now we can see where everything is so we can
+properly layout our electrical devices okay so I'm gonna minimize this because I
+don't need that anymore and then I'm going to actually turn off a couple of
+these layers because I don't want to see them so I'm gonna click on t"
+15,"actually turn off a couple of
+these layers because I don't want to see them so I'm gonna click on this little
+guy here called freeze I'm gonna freeze that and I'm gonna also freeze this and I
+think I will keep everything else for now alright so let's leave it there the
+next thing we're gonna do is to create some layers alright so if you don't know
+where your layer property is it's right here click on that guy and it should
+bring up alright so here's my layer property and I'm gonna actually crea"
+16,"k on that guy and it should
+bring up alright so here's my layer property and I'm gonna actually create some
+layers so I'm gonna call this new layer E light made that green of course you can
+choose your own color let's not a hard rule right there gonna call this one E power
+and I'm gonna explain to you why I'm giving why I'm creating these layers and
+why do I call it what it is I'm gonna create another one call it E data by the
+way the east stands for Electrical alright and I'm gonna make this ma"
+17,"ther one call it E data by the
+way the east stands for Electrical alright and I'm gonna make this magenta line
+with this point zero nine the number gonna create one last one I'm gonna call it E
+dash wire and I'm gonna make this orange and I'm gonna make it instead of
+continuous I'm gonna make it dashed alright so why do I create these layers
+basically what I want to do is to put all lighting fixtures or lighting devices
+on the lighting layer all power devices such as the outlets and the panel bo"
+18,"res or lighting devices
+on the lighting layer all power devices such as the outlets and the panel boxes I
+want to put those on the power layer everything that has to do with data this
+was built incorrectly such as like you know internet digital cable and wireless
+Verizon all of those guys would go on this layer and then wire basically anything
+that is being connected by wire I will use this layer to connect them alright so
+that's it so let's go over now so what I want to do is to get our blocks"
+19,"to connect them alright so
+that's it so let's go over now so what I want to do is to get our blocks over here
+into our electrical draw what do you think is the easiest way to do it of course
+the easiest way would be to just copy the whole thing and bring it over but
+what if I told you that there was a more efficient and effective way to do it
+and in order for this to work what you have to do is to make sure that you have
+all of your blocks in one drawing okay and if you notice my blocks are name"
+20,"make sure that you have
+all of your blocks in one drawing okay and if you notice my blocks are named
+properly if you click on any one of these blocks they're properly named so make
+sure you name them and you give them a base point so anyone I'm a blocks that you
+click on you will see that I have a base point on them once you have them all in
+one drawing you save that drawing save it go over to your electrical plan and we're
+going to open the blocks palette so type in command blocks palette here"
+21,"ur electrical plan and we're
+going to open the blocks palette so type in command blocks palette here it is
+click on it and it will bring up your blocks palette and here as you can see we
+have three tabs on the left here we have current drawing showing all the blocks
+that are available in this current drawing we have a recent which is showing you
+whatever you have used recently and other drawings now if you notice I already
+have these loaded in but if you didn't have anything here what you would"
+22,"ow if you notice I already
+have these loaded in but if you didn't have anything here what you would do is to
+click on the three dots and find your drawing that has all the blocks inside of it
+which would be this guy over here you'd then go ahead and press open but of
+course I would have already loaded it in so it is in and actually I made some
+settings changes down here which I will be explaining in a couple of seconds the
+good thing now is that we can use all the blocks from this drawing inside"
+23,"in a couple of seconds the
+good thing now is that we can use all the blocks from this drawing inside of
+this drawing and the beautiful thing about that is let's say I drew this one
+incorrectly but guess what I would have already placed it all over in this
+drawing instead of deleting all of them and redoing it what I would do is to go
+over to this drawing make the change to that block right here save it and it would
+automatically updates in this drawing so that's a beautiful thing about doing it"
+24,"ve it and it would
+automatically updates in this drawing so that's a beautiful thing about doing it
+this way now if you notice down here I changed the scale I made it uniform and I
+set it to 25 because initially it was at one and if I were to place a
+a block on one then you notice it was very small so you have to increase the scale
+to a comfortable number I use 25 you know that will look somewhat reasonable on
+your drawing so as you can see now that looks good and then I select rotation
+because"
+25,"reasonable on
+your drawing so as you can see now that looks good and then I select rotation
+because when I placed a block I want to have the ability to rotate it and then
+I also have repeat placement which means that when I place one outlet I can go
+ahead and keep placing the others I don't have to come back to this panel here
+and so on and so forth so that's what we really want to do here all right now
+before we place anything I'm going to actually select the layer that I'm going to
+work with f"
+26,"ht now
+before we place anything I'm going to actually select the layer that I'm going to
+work with first so first we're going to be placing our power devices which
+would include outlets and panel boxes so the first thing I'm going to
+place is a panel box which is this guy here I'm going to use a flush one so that
+means this one will be flushing with the wall and it's a too far to volt for
+most households in Jamaica we don't use more than 240 and I'm going to place my
+panel right here in the kitc"
+27,"seholds in Jamaica we don't use more than 240 and I'm going to place my
+panel right here in the kitchen it's not the best location guys I know but for a
+host like this where I don't even have much space that's probably one of the
+best places to put it you don't want to put it we're going to have high
+traffic and you don't want to put it where kids and so on can grab it but in this
+case this is just a one bedroom house and I would assume that most adults would
+be using this one bedroom house agai"
+28,"t a one bedroom house and I would assume that most adults would
+be using this one bedroom house again it'll depend on the purpose of the
+building all right the next thing we're going to place our son doplex outlet and
+doplex is the regular plug that you see on your wall every day okay guys so
+we're going to drop some doplex let's start in the bedroom you know you have to
+place one beside the bed cause guess what if you don't you know the phone now
+go get charged so that's that we're going to pla"
+29,"ause guess what if you don't you know the phone now
+go get charged so that's that we're going to place one underneath the the computer
+desk and if you notice I kind of place it in the middle of the wall or in the
+middle of the window like wise for that one it does always have to be like that you
+know so up to you now if you notice I can rotate when I place and that is why we
+select the rotation option down here we notice I I want to make it straight
+down I can turn on the art mode to get that fu"

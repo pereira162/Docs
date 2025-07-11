@@ -1,0 +1,21 @@
+{
+  "statistics": {
+    "total_characters": 324,
+    "total_words": 51,
+    "total_sentences": 1,
+    "average_words_per_segment": 1.0,
+    "total_duration_minutes": 9.302483333333333
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 100
+  },
+  "keywords": [
+    "music",
+    "know",
+    "okay"
+  ],
+  "topics": [],
+  "sentiment": "neutral"
+}

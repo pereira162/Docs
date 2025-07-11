@@ -1,0 +1,429 @@
+chunk_id,content
+0,"hi everyone this is episode 11 for one
+bedroom house
+series and today what we're gonna do is
+to start working on our site plan so
+what that means is that we're gonna lay
+out what I want is site to look like
+we're gonna do some landscape word plant
+some trees some grass and a couple look
+at things you know to make it look like
+somewhere we would actually want to live
+[Music]
+okay so drawing your side plant can be
+another fun activity so on a side plan
+you get the opportunity to make the
+landscape"
+1,"de plant can be
+another fun activity so on a side plan
+you get the opportunity to make the
+landscape exactly how you want it to
+look so we get to add a various trees
+shrubs edging gardens driveway pavements
+pools etc etc but for today's
+demonstration I'm gonna make it very
+simple we're gonna just do the basic
+stuff and I might just add one or two
+little thing here and there but nothing
+too deep I leave that for you to
+experiment all right
+now the question is why do we need a
+site plan the site p"
+2,"leave that for you to
+experiment all right
+now the question is why do we need a
+site plan the site plan is actually a
+very important plan and the Municipal
+Corporation will need this drawing in
+order to know where the building is
+located on the site they want to know if
+you are abiding by setbacks and zoning
+regulations they want to see you how the
+drainage is laid hope they wanna see
+what the landscape looks like all of
+that they want to see also the site plan
+is being used by the contractor be"
+3,"dscape looks like all of
+that they want to see also the site plan
+is being used by the contractor because
+when the contractor is ready to lay out
+the building he will need to know where
+to start laying on the billion euros
+that the site plan is also used by
+landscapers the guys who are gonna come
+in and plant the trees they need to know
+where to plant which tree we're to put
+the pavement and our
+that kind of stuff Meza and also later
+on the home owner might want to do
+additions to the building o"
+4,"hat kind of stuff Meza and also later
+on the home owner might want to do
+additions to the building or to sell the
+property and this side plan would be
+required to do any of these tasks all
+right now with all of that said let's
+get over into AutoCAD and see what we
+can do over there alright guys so here
+we are back in the drawing so if you
+remember when we set up the project from
+day one we had created a property
+boundary construct and it would have
+been in this drawing that we would have
+created"
+5,"ated a property
+boundary construct and it would have
+been in this drawing that we would have
+created our property boundary all right
+so let's let me open this drawing up and
+as you can see here I already have a
+layout of the property that we're going
+to be placing the building on I recently
+did a video on how to do this so if you
+don't know how to do it
+oh and watch that video so the diagram
+would be found on the surveys report and
+we would use the the bearings and the
+distance is provided by th"
+6,"be found on the surveys report and
+we would use the the bearings and the
+distance is provided by the surveyor to
+get this diagram because we need to make
+sure that it is as accurate as possible
+all right no the first part of this
+video that I'm gonna be doing should
+have been done from even before we
+started to do the ground floor and the
+foundation alright this is something
+that I I overlooked in the beginning of
+this project so what I'm gonna be doing
+is to split this video into so what I'm
+g"
+7,"n the beginning of
+this project so what I'm gonna be doing
+is to split this video into so what I'm
+gonna do first is to show you what we
+should have done from the beginning of
+the project and then in Part 2 or the
+second half of this video I'm gonna be
+showing what we would do after which
+would be at this point in the in the
+project alright alright so after we have
+the the drawing the diagram looking like
+this what we would do is - first thing I
+would say set the scale so make sure
+that your sca"
+8,"ing like
+this what we would do is - first thing I
+would say set the scale so make sure
+that your scale is 1/8 and this is
+equivalent to 1 in 100 if you're using
+millimeters as your units this is like
+that the regular scale that we use
+because the building is really small if
+you had a very large building then we
+would probably go for one in 16 which
+would be the same as 1 in 200 and so on
+and so forth all right so we're gonna
+work with one it perfect and the second
+thing we're gonna do is to crea"
+9,"rth all right so we're gonna
+work with one it perfect and the second
+thing we're gonna do is to create some
+layers alright remember that we're going
+to be placing trees pavement and so on
+so I want to create a layer for all of
+these elements alright so I have my
+layers palette right here if you don't
+know where to find it it is right here
+and this little guy right here layer
+properties and I actually have a video
+on how to create layers so if you don't
+know how to create layers check that
+video"
+10,"lly have a video
+on how to create layers so if you don't
+know how to create layers check that
+video out but for this video I'm gonna
+just go right ahead and create some
+layers I'm gonna put a s before all of
+them just to say this is a layer that is
+on a site plan so the S represents site
+all right put a - and the first one I'm
+gonna create is the property line I'm
+gonna change the color to blue maybe
+that you can choose the color you want
+we usually use Phantom for the line type
+and the line Oit"
+11,"ybe
+that you can choose the color you want
+we usually use Phantom for the line type
+and the line Oita I'm gonna just set it
+at probably point 4 then I'll create a
+new one call this one setback and I'm
+gonna make this one red and I'm gonna
+change it from phantom to - and I'm
+gonna make the line wait a little bit
+promise 13 I think all the others are
+gonna be 0.13 so create another one call
+this one pavement enter I'm going to
+give this a gray color
+and I'm gonna make this continuous and
+I'm gonna"
+12,"pavement enter I'm going to
+give this a gray color
+and I'm gonna make this continuous and
+I'm gonna leave it on the 13 create
+another one call this one vegetation and
+of course the vegetation would be some
+sorta green color continuous 13 perfect
+and then I'm gonna create one last one
+I'm gonna call this one the road and of
+course you can choose whichever color
+you would like and the line width is
+just about what I have here you can work
+with the language but that's for the
+hour for the line typ"
+13,"just about what I have here you can work
+with the language but that's for the
+hour for the line type and the color I
+would say try to adopt these ones until
+you're able to come up with your own
+style and technique alright so so far we
+can see now that we have all of these
+layers inside of our drop-down here so
+the first thing we're going to do is to
+draw the road so let's go to the road
+layer and of course we want to represent
+as close as possible the width of the
+road and if there's a sidewalk"
+14,"of course we want to represent
+as close as possible the width of the
+road and if there's a sidewalk and that
+kind of thing so for this for this
+diagram I'm gonna put a sidewalk of five
+feet all right and the road width would
+be 18 feet and these would depend on the
+area alright so if it is a city area you
+know you would have a wider street and
+maybe a wider sidewalk and if it's a
+more residential rural here you'd have a
+narrower street and a narrower sidewalk
+and you might have sidewalks on bot"
+15,"rural here you'd have a
+narrower street and a narrower sidewalk
+and you might have sidewalks on both
+side or on one side whatever the case
+may be alright so make sure you go on
+the side and you try to get an accurate
+measurement and so what I'm gonna do now
+is to just offset well draw a line first
+here now let's turn the artha more on
+like that
+well this kind of stretch it out a
+little bit further off of the back now
+what I'm gonna do is to offset the
+sidewalk from this line so I'm gonna
+make i"
+16,"r off of the back now
+what I'm gonna do is to offset the
+sidewalk from this line so I'm gonna
+make it five feet away from that
+then I'm gonna offset another 18 feet
+which would be the width off the road so
+let's do a sit again 18 feet enter and
+then that would be the width of the road
+of course we could add another sidewalk
+here but I don't care about this side of
+the road I want to care about this side
+right now so I'm gonna leave it right
+there what I'm gonna do is to get the
+center line in th"
+17,"s side
+right now so I'm gonna leave it right
+there what I'm gonna do is to get the
+center line in the middle of the road
+though because that's gonna be an
+important line that we will need later
+on in this video all right so we're
+gonna do another offset and the middle
+of that road would actually be 9 feet
+all right so there we have our 9 feet
+and I'm gonna actually change the line
+type here to dashed so that it looks
+like our road would look of course the
+dashed line would mean you can overtake"
+18,"hed so that it looks
+like our road would look of course the
+dashed line would mean you can overtake
+here which we don't know really all
+right so at this point we can see that
+we have the road what I'm gonna do here
+now is to change this property box to
+move it over to the current layer which
+will be the property line there and then
+we're I'm gonna explode it so I can work
+on each line individually what I'm gonna
+do also is to trim out this orange piece
+off the road so I can see the property
+boun"
+19,"what I'm gonna
+do also is to trim out this orange piece
+off the road so I can see the property
+boundary underneath so I go to the trim
+tool
+shrim I think this is it shrimp now I'm
+gonna select this and this enter and
+then we want to trim this guy out so
+just like that we can now see the
+property boundary underneath all right
+so from here what we're gonna do is to
+put our setbacks boundary in all right
+so for this drawing of a dis property
+the setbacks are 5 feet from the sides
+both sides 15 fee"
+20,"right
+so for this drawing of a dis property
+the setbacks are 5 feet from the sides
+both sides 15 feet from the back and 20
+feet from the center of the road on the
+front all right now these information
+again you would get from your local
+authorities these are very critical
+information and I will explain some more
+later on in this video so what I'm gonna
+do is to do some more offsets again
+notice we using the offset to very
+regularly here so we're gonna offset 15
+feet
+on the back okay then it's go"
+21,"using the offset to very
+regularly here so we're gonna offset 15
+feet
+on the back okay then it's gonna be
+another offset which would be five feet
+on the sides all right just like that
+and then it should be twenty feet from
+the center of the road so let's do
+another offset twenty feet from the
+center line that is why we needed the
+centerline
+all right so in Jamaica they use the
+centerline at the front of the building
+or the front of the property I'm not
+sure if that's how they do it in other
+cou"
+22,"ront of the building
+or the front of the property I'm not
+sure if that's how they do it in other
+countries but the reason for this is so
+that if in the future the government
+decides to widen the street everyone on
+this particular street would have the
+the amount of space necessary for that
+future development all right so this is
+very important as we can see here is
+that we have a space within the property
+all right I'm gonna actually highlight
+this space using the setback layer that
+we created e"
+23,"property
+all right I'm gonna actually highlight
+this space using the setback layer that
+we created earlier so I'm gonna use a
+setback layer and I'm gonna go to
+polyline and draw just an outline around
+this space
+like so enter and then I'm gonna
+actually delete or erase these guys now
+cuz I don't need them anymore
+alright enter so here we have the red
+box telling us that we can only build
+within these boundaries even though you
+have your whole property you buy your
+land but guess what you're only"
+24,"ese boundaries even though you
+have your whole property you buy your
+land but guess what you're only allowed
+to build within the sandbox and this is
+very important and there are many
+reasons all right for this particular
+property let's say you have a river
+running behind it if you watch the video
+on how to draw this you would have seen
+that there's a river running behind here
+and so they want to ensure that you
+build far away enough because if the
+river should let's say take away a piece
+of the"
+25,"nsure that you
+build far away enough because if the
+river should let's say take away a piece
+of the land then your house would be
+safe alright we explain the front
+already and also on the sides they want
+to make sure that you have adequate
+space away from the boundary so that
+your neighbor you're building the
+sapphic your neighbor and vice versa so
+it's different in other areas those in
+some areas you're allowed to build as
+close to the to the boundary especially
+if it is a condensed area like c"
+26,"you're allowed to build as
+close to the to the boundary especially
+if it is a condensed area like cities
+and so on so it all varies you just need
+to find out what the setbacks are in
+whatever are whichever area you're gonna
+be doing the building for alright so we
+need to ensure that whatever we're gonna
+design can fit within this space here
+and we're talking about the main
+building itself so if you have another
+like a accessory building that's
+different that can be at least much
+closer or anywh"
+27,"ou have another
+like a accessory building that's
+different that can be at least much
+closer or anywhere else on the property
+for instance if you have an attached
+garage or let's say a dog house our pig
+pen whatever the case may be those other
+things can be anywhere else but when it
+comes to the main building itself it has
+to be placed within
+six bucks all right so this is where
+part 1 of this video would end this is
+what you would do before you start to
+draw anything alright so let's move over
+i"
+28,"o would end this is
+what you would do before you start to
+draw anything alright so let's move over
+into the second half of this video all
+right so now that we have everything
+here and we have the set back and what
+I'm gonna do is to place the building
+inside of the setback area all right but
+first let me connect these back together
+so I'm gonna use the join command and
+let's join these guys back together so I
+can get like a single object like that
+good alright so we're going to go over
+to our pr"
+29,"ogether so I
+can get like a single object like that
+good alright so we're going to go over
+to our project navigator
+and with an xref the ground floor into
+this drawing alright so over here we can
+see that we have the ground floor and
+what I'm gonna do is - I don't want to
+move this drawing because this is an X
+reference file try not to move this all
+right what I'm gonna do is to move all
+of this over to the building so I'm
+gonna say all right use a move tool and
+I'm gonna move it from this edge"

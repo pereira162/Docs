@@ -1,0 +1,145 @@
+Hello everybody, welcome back to another episode on the channel and today what we're
+going to do is to finish up our site plan.
+Yes, so we're going to add some annotations and details and call it a day.
+Wrap it up.
+Don't worry that.
+It's been a while since I uploaded a video and that's because I got really, really busy
+and also I was taken down by the fever that is going around.
+So I'm going to have to take some time to recuperate.
+We'll say it right and get back to the level where I need to be.
+And I mean, if it's a first time on the channel, thank you for joining.
+I hope that by the end of the video, you'll learn something and you will also subscribe, drop a comment, hit the like button.
+Just do one of those things.
+And for those of you who have been here already, you don't know the thing or bigger
+itself, let's jump right into it.
+Alright guys, so here we are back in AutoCAD architecture and already you know what we're going to do.
+We're going to be adding annotations, details to this site plan.
+And of course, we would have done probably 80 to 85% of the job already.
+Where we drew the site plan and the building and everything already.
+So you know, easy movements today.
+Before I get any deeper into this though, I want to show you a couple of changes that I made to this project.
+Mine changes but very important.
+So if you go back to our project Navigator and go over to our constructs tab here,
+we can see that there's nothing underneath my elements folder here.
+So what I realized was that anything that is inside of your elements folder will not be printed on your sheets.
+When we go to create sheets.
+And everything we had here is needed on sheets.
+So I had to move them over into our constructs folder.
+So if you notice we have the legend moved over, we have the grid lines moved over and we also have the property boundary.
+And it's pretty simple.
+All you gotta do is to just click and drag it into your construct folder.
+And once you do that, you'll get a popup that is asking you to select which level you want added to.
+So if I should right click on this and go to properties, something like this should pop up.
+And you would select the ground floor and you would hit OK.
+And then once you do that, it's going to ask if you want to repath this drawing.
+You're just going to say repath, no and move forward with the process.
+All right.
+And the same thing applies for grid line and property boundary.
+For the grid lines, what I did here was to add it to both levels because we want to see the grid line on the foundation drawing as well as the ground floor drawing.
+All right.
+So make sure you select both levels.
+Yeah.
+So that's that.
+All right.
+Go back over to views.
+You want to make sure that you read those into your views.
+So for the legend, we wanted to make sure that it is re-added into objected in electrical drawing.
+So go to properties and go to the content and you just want to make sure that the legend is selected here as well as everything else that you would have needed in this drawing.
+And for the foundation plan where we had the grid lines, you want to make sure that you have the grid lines selected here as well.
+All right.
+We hit OK.
+And of course for the side plan, you want to make sure that you have the property boundary selected as well as everything else that we need, which would include the drainage layout drawing are construct.
+All right.
+So make sure you go through and select what is necessary for each drawing and you don't make sure everything are right.
+Same as I said.
+So know that we are here in this drawing.
+Let's go ahead and add some annotations and details.
+The first thing we want to do is to set our scale because you don't know that's the rule of the game.
+You have to set your scale before you start.
+In this case, we're going to be using a 1 in 8 of an inch.
+This is equivalent to 1 in 100 if you're using millimeters.
+And of course, this is the typical scale that we use for side plan.
+But of course, you can go up a little further and a little further.
+If it is that you have a larger building or a larger property, but we're going to use the regular acceptable scale 1 in 100 or 1 8 of an inch and we're going to move forward.
+The next thing we're going to do is to kind of highlight the corners of the property using a tool that is located within our tool palette.
+So we're going to go to the settings button and you go down to what is called document.
+I hope that you're seeing this.
+And we're going to go up to date on point.
+So this is what we want to use to highlight our corners.
+So we're going to click on it and we're going to be adding you know to each corner.
+So let's add it in this corner here.
+It is asking us for our rotation.
+We're going to just use zero degrees and we're going to repeat the command for each corner zero zero.
+Zero zero.
+All right. I don't know if these should be at a particular angle. If somebody knows, please tell me in the description below.
+All right. So now that we can see all five corners of the property.
+Let's go ahead and add the property boundary label on here.
+So we're going to go to text.
+And we're going to draw a text box here and we're going to say property boundary.
+And you're going to type the length in this case. I'm going to be typing 15.61 meters.
+I'm using meters here even though I drew this drawing in inches.
+I'm using millimeters because that's what is acceptable here in Jamaica.
+All right. So if your country accepts feet and inches them by all means go ahead and use what is acceptable.
+So I had to convert my thing to meters so I can have it there.
+Yeah. So I'm going to just copy this and we're going to do the same thing on this side.
+So of course, I'm going to fast forward the video just to get ahead of this part.
+All right. So there we have all four or five labels.
+And of course, we kind of want to rotate them. So how I rotate them is to click on the rotate and click on the line that I wanted to be aligned to.
+And then I'll just move my next point like that. And of course, it now aligns. I can move it to somewhere that is suitable.
+I'm going to do the same thing here. Rotate click on the line and click here next point somewhere out there.
+Now I'm going to move it. Put it about right there. That one is pretty good. And I'm going to do the same thing with this.
+All right. And I'm going to move it. Please hit a board here. I think this is a good spot.
+In fact, I might do the same thing with these kind of put them more towards the corner towards the corner. All right. Good.
+So that's that. What I'm going to do next is to add some other information such as me, like for instance, I could add in the middle of this paved driveway.
+And you want to basically label as much as you can on a side plan. Things that you think will be important. So if you had a posts or walls or fence, you know, you kind of want to make sure that you add a little label to see such.
+All right. So this is a p of the driveway. What I'm going to do now is to put a note in the middle of this building. So let me write it out here.
+I'm going to write proposed building. Of course, I want this text to be a little bit bigger. So I'm going to increase the size to say quarter of an inch.
+And I'm going to actually mask it out. So let's mask it out. Okay. So that when I place it, it will cause cover everything just like that.
+And then what I'll do next is to label the street. So of course you don't know if you know or remember what the name of the street is, then you need to go back to your properties or your project, go into your project information.
+All right. You're going inside of that and check to see what street where the property is located. So of course this would be on had field of a new.
+And I want this to be a little bit bigger as well. So I'm going to make this one over it.
+So that's the name of this street. And I'm going to copy this again, just a little bit smaller. I'm going to say this street leads to spur tree hill. I don't know if that's what it's been.
+From Mondayville. Okay. Good. So now the next thing I'm going to do is to copy this big text here. And I'm going to place that back because we do have a river running behind here called Duns River. You definitely want to label that out.
+And we also do have a retaining wall at the back.
+All right. So definitely want to call that out. If you notice my leader is underlining the stuff and I hit that. So I need to fix it.
+All right. So that is that is there anything else that I need to add over there. I don't think so.
+So now what we need to do is to label our drainage system. And if you remember clearly, we actually have done this before for the drainage plan. So what I'm going to do is to go over to the drainage plan that we did earlier in this episode.
+So if you missed the link below or above. And we're going to basically copy all of these text and writings. What I'll do is to just highlight and I'll say select similar and of course I don't want this part, but everything else.
+Actually, we don't need the ones inside of the house. So we can uncheck those and we're going to copy control C go over to our site plan and before we paste them I kind of want to isolate I'm going to isolate this by itself.
+I just wanted to get rid of everything so that I can paste my text. So we're going to go ahead and paste what we're going to use a command paste or ridge. There it is.
+All right, I learned this command from a subscriber or a viewer of the channel. He posted it on our video and I'm like, cool, I didn't know that. So here we go. I'm going to use it in this video. When you select paste or ridge, what it does is to paste your text in exact same position as they were in the previous drawing that you copied it from.
+All right, so there we go. We have everything where we wanted, but of course I wanted them to be isolated so that I can address the scale because we copied from a quarter in scale to a one eight afternoon scale.
+So obviously these text would be too small. They should be at least the size of this one that we're looking at here. So what we're going to do is to highlight all those that we copied over. I'm going to right click. I'm going to go to add current scale.
+Just like that, everything is not on the correct scale, but also if you click on one of these, let me click on this, you can see that the quarter in scale is kind of still there in the background and we want to get rid of that. So I'm going to highlight everything again, and I'm going to say delete scale.
+I'm going to delete the scales that I don't need. So I only want the one eighth of an inch scale to be seen. Once we do that, everything is now only on a one eighth of an inch scale.
+All right, so I know that we have that out of the way. Let's go to our thing here and we're going to end the isolation. So we bring everything back enough course. We're going to have to make some adjustments to these to make sure that everything is where there are ought to be.
+All right, so when it's moved things are on a little bit to make sure that there's no obstruction. The good thing though is that we didn't have to go and rewrite everything. We just copy and paste.
+That's the beautiful thing about this copy and paste thing. All right.
+So we just want to see the information that is outside. That's why we didn't bother to bring in the ones on the inside because those are not necessary. I'm going to move this over a little bit like that.
+That looks about good. I'm going to move these over a little bit too. So that they are not obstructing anything.
+That up a little bit move this over a little bit. That little bit. And of course, this one we need to fix it. I'm going to put it on this side. My whole three and it looks good so far. Can't complain.
+All right. So the last thing I'm going to add here is the lot number. So of course on the service report you would see the adjacent lots so far.
+So far, it stands on this side of the property. There is a lot number seven. For example, I'm just putting this there.
+And then the current lot would be what the next one in the sequence.
+Lot number eight and the opposite side would be lot number nine or whatever the case may be.
+All right. So that's what we're going to have there. And then finally we're going to be adding dimensions.
+You know, you can't leave after dimensions. All right. So what we're going to do is to move over toward dimension layer.
+And we're going to add dimensions in this situation. We're going to be using a line dimension because not all of our dimensions will be in a linear fashion. So kick on a line.
+And we're going to start at the front of the building. All right. So you want to take your dimensions from the edge of the wall to the boundary line.
+That's important. Don't take it from the roof. Always take it from the building itself. And of course you want to take it from the closest point of that building to the boundary line.
+And a little while you'll see what I'm talking about. So let's go ahead. I'm going to add one right here. I'm going to drag it down to the boundary. And of course you want to make sure that you're seeing that green box that says per particular. That's important. All right. So click.
+And we're going to place it.
+Knee be like right there. Where it's visible. And we're going to draw another one from here from the wall again to the center of the road. Some places require this one. Some places don't. And when this case we're going to add it.
+And then we're going to do this side. And of course, as I said, you want to capture the part of the building that is closest to the boundary line. So if you notice this end would be a little bit further away. And this end would be a little bit closer.
+So you want to make sure that you capture. If not both, you want to capture the closest. All right. So see that perpendicular client came up. I don't want to make sure that that comes up. And we're going to drop it right there in the clear. Then we're going to add one at the back of the property. I'm trying to find a clean era. Maybe somewhere along here.
+Here we go perpendicular. I'm going to drop this one right here. And of course on this side, we're going to add it closer to this end where it is closer to the property boundary. So I make sure you see perpendicular thing come up. I need to drag and draw. I'm going to just add one another one to the to this line here. See the perpendicular box came up. I'm going to click.
+Drag this one out and get something like that. And that's it guys. We could actually add one last thing to this, which I'm going to just do in the blink of an eye.
+All right. So here I have created this little arrow and we just some rectangles and you know add the text surface water and what we can do here is to just copy this and place it in places where we think well in this case, I want the surface water to run off towards the edge.
+And then we're going to add the surface water to the back of the property. So I'm going to just piece this in various places over the side plan, which would indicate that surface water would be running in that particular direction. Of course this one kind of probably need to be rotated that way.
+It's going around. So the land skip is kind of sloped towards the back of the property so that we have a surface water running in that direction. So that would be the last thing I would add add on here and call it a day.
+That's it for our side plan. And so we're going to go ahead and hit the save button.
+All right. So that's the end of this video today. Remember to download this sheet in the description below for your reference.
+Because I know you're going to forget somebody stuff you learn just now.
+See me. I said, so go ahead and click the link down load. I hope that you learned something. If you did definitely hit the like button and don't forget to subscribe if you haven't already drop a comment.
+And I want to say a shout out to my patrons over on my patron page. If you haven't gone over there to just check what the page see what's going on and definitely do so. And yeah, that's it for today. I'll see you guys in the next video.
+Cool.

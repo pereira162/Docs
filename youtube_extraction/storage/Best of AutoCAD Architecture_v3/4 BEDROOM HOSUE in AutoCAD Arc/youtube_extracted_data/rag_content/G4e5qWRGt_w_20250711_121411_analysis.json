@@ -1,0 +1,24 @@
+{
+  "statistics": {
+    "total_characters": 500,
+    "total_words": 73,
+    "total_sentences": 1,
+    "average_words_per_segment": 1.0,
+    "total_duration_minutes": 18.836000000000002
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 100
+  },
+  "keywords": [
+    "music",
+    "laughter",
+    "foreign",
+    "hey",
+    "hmm",
+    "bye"
+  ],
+  "topics": [],
+  "sentiment": "neutral"
+}

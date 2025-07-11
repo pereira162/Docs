@@ -1,0 +1,374 @@
+{
+  "video_id": "z-mJg8ifs_M",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "[Music]",
+      "start": 1.65,
+      "duration": 5.979,
+      "end": 7.629
+    },
+    {
+      "index": 1,
+      "text": "[Music]",
+      "start": 10.01,
+      "duration": 15.34,
+      "end": 25.35
+    },
+    {
+      "index": 2,
+      "text": "so",
+      "start": 23.6,
+      "duration": 15.2,
+      "end": 38.8
+    },
+    {
+      "index": 3,
+      "text": "[Music]",
+      "start": 25.35,
+      "duration": 15.52,
+      "end": 40.870000000000005
+    },
+    {
+      "index": 4,
+      "text": "me",
+      "start": 38.8,
+      "duration": 8.239,
+      "end": 47.039
+    },
+    {
+      "index": 5,
+      "text": "[Music]",
+      "start": 40.87,
+      "duration": 7.46,
+      "end": 48.33
+    },
+    {
+      "index": 6,
+      "text": "know",
+      "start": 47.039,
+      "duration": 21.01,
+      "end": 68.049
+    },
+    {
+      "index": 7,
+      "text": "[Music]",
+      "start": 48.33,
+      "duration": 19.719,
+      "end": 68.049
+    },
+    {
+      "index": 8,
+      "text": "[Music]",
+      "start": 73.53,
+      "duration": 18.67,
+      "end": 92.2
+    },
+    {
+      "index": 9,
+      "text": "so",
+      "start": 89.2,
+      "duration": 3.0,
+      "end": 92.2
+    },
+    {
+      "index": 10,
+      "text": "[Music]",
+      "start": 93.04,
+      "duration": 18.23,
+      "end": 111.27000000000001
+    },
+    {
+      "index": 11,
+      "text": "so",
+      "start": 109.52,
+      "duration": 29.34,
+      "end": 138.85999999999999
+    },
+    {
+      "index": 12,
+      "text": "[Music]",
+      "start": 111.27,
+      "duration": 27.59,
+      "end": 138.85999999999999
+    },
+    {
+      "index": 13,
+      "text": "[Music]",
+      "start": 141.24,
+      "duration": 3.569,
+      "end": 144.809
+    },
+    {
+      "index": 14,
+      "text": "[Music]",
+      "start": 148.92,
+      "duration": 16.83,
+      "end": 165.75
+    },
+    {
+      "index": 15,
+      "text": "me",
+      "start": 164.16,
+      "duration": 16.009,
+      "end": 180.16899999999998
+    },
+    {
+      "index": 16,
+      "text": "[Music]",
+      "start": 165.75,
+      "duration": 14.419,
+      "end": 180.169
+    },
+    {
+      "index": 17,
+      "text": "[Music]",
+      "start": 183.17,
+      "duration": 12.94,
+      "end": 196.10999999999999
+    },
+    {
+      "index": 18,
+      "text": "this",
+      "start": 194.159,
+      "duration": 6.98,
+      "end": 201.13899999999998
+    },
+    {
+      "index": 19,
+      "text": "[Music]",
+      "start": 196.11,
+      "duration": 5.029,
+      "end": 201.139
+    },
+    {
+      "index": 20,
+      "text": "so",
+      "start": 203.92,
+      "duration": 6.52,
+      "end": 210.44
+    },
+    {
+      "index": 21,
+      "text": "[Music]",
+      "start": 205.95,
+      "duration": 4.49,
+      "end": 210.44
+    },
+    {
+      "index": 22,
+      "text": "[Music]",
+      "start": 215.29,
+      "duration": 19.71,
+      "end": 235.0
+    },
+    {
+      "index": 23,
+      "text": "do",
+      "start": 232.0,
+      "duration": 3.0,
+      "end": 235.0
+    },
+    {
+      "index": 24,
+      "text": "[Music]",
+      "start": 237.33,
+      "duration": 16.29,
+      "end": 253.62
+    },
+    {
+      "index": 25,
+      "text": "no",
+      "start": 252.319,
+      "duration": 21.02,
+      "end": 273.339
+    },
+    {
+      "index": 26,
+      "text": "[Music]",
+      "start": 253.62,
+      "duration": 19.719,
+      "end": 273.339
+    },
+    {
+      "index": 27,
+      "text": "[Music]",
+      "start": 278.82,
+      "duration": 15.9,
+      "end": 294.71999999999997
+    },
+    {
+      "index": 28,
+      "text": "me",
+      "start": 293.52,
+      "duration": 10.189,
+      "end": 303.709
+    },
+    {
+      "index": 29,
+      "text": "[Music]",
+      "start": 294.72,
+      "duration": 8.989,
+      "end": 303.709
+    },
+    {
+      "index": 30,
+      "text": "this",
+      "start": 304.0,
+      "duration": 13.12,
+      "end": 317.12
+    },
+    {
+      "index": 31,
+      "text": "[Music]",
+      "start": 306.51,
+      "duration": 11.9,
+      "end": 318.40999999999997
+    },
+    {
+      "index": 32,
+      "text": "it",
+      "start": 317.12,
+      "duration": 32.93,
+      "end": 350.05
+    },
+    {
+      "index": 33,
+      "text": "[Music]",
+      "start": 318.41,
+      "duration": 31.64,
+      "end": 350.05
+    },
+    {
+      "index": 34,
+      "text": "[Music]",
+      "start": 354.21,
+      "duration": 31.249,
+      "end": 385.459
+    },
+    {
+      "index": 35,
+      "text": "[Music]",
+      "start": 388.46,
+      "duration": 17.97,
+      "end": 406.42999999999995
+    },
+    {
+      "index": 36,
+      "text": "[Music]",
+      "start": 411.24,
+      "duration": 4.49,
+      "end": 415.73
+    },
+    {
+      "index": 37,
+      "text": "[Music]",
+      "start": 420.58,
+      "duration": 29.459,
+      "end": 450.039
+    },
+    {
+      "index": 38,
+      "text": "me",
+      "start": 447.039,
+      "duration": 3.0,
+      "end": 450.039
+    },
+    {
+      "index": 39,
+      "text": "[Music]",
+      "start": 451.44,
+      "duration": 7.47,
+      "end": 458.91
+    },
+    {
+      "index": 40,
+      "text": "know",
+      "start": 457.599,
+      "duration": 10.0,
+      "end": 467.599
+    },
+    {
+      "index": 41,
+      "text": "[Music]",
+      "start": 458.91,
+      "duration": 10.42,
+      "end": 469.33000000000004
+    },
+    {
+      "index": 42,
+      "text": "so",
+      "start": 467.599,
+      "duration": 11.031,
+      "end": 478.63
+    },
+    {
+      "index": 43,
+      "text": "[Music]",
+      "start": 469.33,
+      "duration": 9.3,
+      "end": 478.63
+    },
+    {
+      "index": 44,
+      "text": "[Music]",
+      "start": 484.11,
+      "duration": 23.7,
+      "end": 507.81
+    },
+    {
+      "index": 45,
+      "text": "know",
+      "start": 504.96,
+      "duration": 33.76,
+      "end": 538.72
+    },
+    {
+      "index": 46,
+      "text": "[Music]",
+      "start": 507.81,
+      "duration": 33.91,
+      "end": 541.72
+    },
+    {
+      "index": 47,
+      "text": "okay",
+      "start": 538.72,
+      "duration": 3.0,
+      "end": 541.72
+    },
+    {
+      "index": 48,
+      "text": "[Music]",
+      "start": 546.24,
+      "duration": 3.149,
+      "end": 549.389
+    },
+    {
+      "index": 49,
+      "text": "uh",
+      "start": 550.0,
+      "duration": 8.149,
+      "end": 558.149
+    },
+    {
+      "index": 50,
+      "text": "[Music]",
+      "start": 552.32,
+      "duration": 5.829,
+      "end": 558.149
+    }
+  ],
+  "full_text": "[Music] [Music] so [Music] me [Music] know [Music] [Music] so [Music] so [Music] [Music] [Music] me [Music] [Music] this [Music] so [Music] [Music] do [Music] no [Music] [Music] me [Music] this [Music] it [Music] [Music] [Music] [Music] [Music] me [Music] know [Music] so [Music] [Music] know [Music] okay [Music] uh [Music]",
+  "total_segments": 51,
+  "total_duration": 558.149,
+  "extraction_timestamp": "2025-07-11T12:16:37.452325",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

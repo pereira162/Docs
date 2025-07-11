@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 1,
+    "avg_words_per_sentence": 1000.0,
+    "language": "pt"
+  },
+  "keywords": [
+    "vez",
+    "gente",
+    "vai",
+    "tem"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T13:32:47.549963",
+    "processing_mode": "memory_optimized"
+  }
+}

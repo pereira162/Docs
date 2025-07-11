@@ -1,0 +1,2516 @@
+{
+  "video_id": "pGNYjITG1-s",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "hi everyone thank you for joining me and",
+      "start": 0.0,
+      "duration": 5.46,
+      "end": 5.46
+    },
+    {
+      "index": 1,
+      "text": "episode number five for one bedroom sins",
+      "start": 2.159,
+      "duration": 6.631,
+      "end": 8.79
+    },
+    {
+      "index": 2,
+      "text": "so in the last video we did was and of",
+      "start": 5.46,
+      "duration": 6.21,
+      "end": 11.67
+    },
+    {
+      "index": 3,
+      "text": "course you know we need we need to find",
+      "start": 8.79,
+      "duration": 5.729,
+      "end": 14.518999999999998
+    },
+    {
+      "index": 4,
+      "text": "a way to enter the house correct so in",
+      "start": 11.67,
+      "duration": 4.92,
+      "end": 16.59
+    },
+    {
+      "index": 5,
+      "text": "this video we're gonna be putting in our",
+      "start": 14.519,
+      "duration": 5.371,
+      "end": 19.89
+    },
+    {
+      "index": 6,
+      "text": "doors and our openings I wanted to do",
+      "start": 16.59,
+      "duration": 5.37,
+      "end": 21.96
+    },
+    {
+      "index": 7,
+      "text": "windows as well but the video will be a",
+      "start": 19.89,
+      "duration": 3.96,
+      "end": 23.85
+    },
+    {
+      "index": 8,
+      "text": "little bit too long so I'm gonna just",
+      "start": 21.96,
+      "duration": 3.899,
+      "end": 25.859
+    },
+    {
+      "index": 9,
+      "text": "cut it right there and then we do",
+      "start": 23.85,
+      "duration": 4.21,
+      "end": 28.060000000000002
+    },
+    {
+      "index": 10,
+      "text": "windows",
+      "start": 25.859,
+      "duration": 18.24,
+      "end": 44.099000000000004
+    },
+    {
+      "index": 11,
+      "text": "[Music]",
+      "start": 28.06,
+      "duration": 16.039,
+      "end": 44.099000000000004
+    },
+    {
+      "index": 12,
+      "text": "all right so before we get started what",
+      "start": 44.77,
+      "duration": 4.32,
+      "end": 49.09
+    },
+    {
+      "index": 13,
+      "text": "I want you to do is to get familiar with",
+      "start": 47.02,
+      "duration": 5.25,
+      "end": 52.27
+    },
+    {
+      "index": 14,
+      "text": "the different types of doors and windows",
+      "start": 49.09,
+      "duration": 6.0,
+      "end": 55.09
+    },
+    {
+      "index": 15,
+      "text": "it's important that you know how each",
+      "start": 52.27,
+      "duration": 5.01,
+      "end": 57.28
+    },
+    {
+      "index": 16,
+      "text": "type of your work and all each type of",
+      "start": 55.09,
+      "duration": 5.31,
+      "end": 60.400000000000006
+    },
+    {
+      "index": 17,
+      "text": "window work so without further ado let's",
+      "start": 57.28,
+      "duration": 5.55,
+      "end": 62.83
+    },
+    {
+      "index": 18,
+      "text": "get into it all right so here we are in",
+      "start": 60.4,
+      "duration": 5.13,
+      "end": 65.53
+    },
+    {
+      "index": 19,
+      "text": "autocad and the first thing i want to",
+      "start": 62.83,
+      "duration": 5.88,
+      "end": 68.71
+    },
+    {
+      "index": 20,
+      "text": "mention is that you don't need to worry",
+      "start": 65.53,
+      "duration": 5.94,
+      "end": 71.47
+    },
+    {
+      "index": 21,
+      "text": "about layers at this point because",
+      "start": 68.71,
+      "duration": 5.46,
+      "end": 74.16999999999999
+    },
+    {
+      "index": 22,
+      "text": "AutoCAD will generate your layers for",
+      "start": 71.47,
+      "duration": 6.03,
+      "end": 77.5
+    },
+    {
+      "index": 23,
+      "text": "you all right so for every tool that we",
+      "start": 74.17,
+      "duration": 5.91,
+      "end": 80.08
+    },
+    {
+      "index": 24,
+      "text": "use over here for instance last video we",
+      "start": 77.5,
+      "duration": 6.63,
+      "end": 84.13
+    },
+    {
+      "index": 25,
+      "text": "placed our wall AutoCAD creates a wall",
+      "start": 80.08,
+      "duration": 7.92,
+      "end": 88.0
+    },
+    {
+      "index": 26,
+      "text": "layer for us it gives us a color it",
+      "start": 84.13,
+      "duration": 8.06,
+      "end": 92.19
+    },
+    {
+      "index": 27,
+      "text": "gives us the line weight let me show you",
+      "start": 88.0,
+      "duration": 4.19,
+      "end": 92.19
+    },
+    {
+      "index": 28,
+      "text": "alright so here we are it gives us a",
+      "start": 92.28,
+      "duration": 6.31,
+      "end": 98.59
+    },
+    {
+      "index": 29,
+      "text": "color we can change the color it gives",
+      "start": 96.16,
+      "duration": 5.28,
+      "end": 101.44
+    },
+    {
+      "index": 30,
+      "text": "us the line tab and the line width all",
+      "start": 98.59,
+      "duration": 4.38,
+      "end": 102.97
+    },
+    {
+      "index": 31,
+      "text": "right the only thing I would probably",
+      "start": 101.44,
+      "duration": 3.27,
+      "end": 104.71
+    },
+    {
+      "index": 32,
+      "text": "change is the color if I'm gonna change",
+      "start": 102.97,
+      "duration": 3.03,
+      "end": 106.0
+    },
+    {
+      "index": 33,
+      "text": "anything I wouldn't change the line",
+      "start": 104.71,
+      "duration": 3.48,
+      "end": 108.19
+    },
+    {
+      "index": 34,
+      "text": "weight because the line width is",
+      "start": 106.0,
+      "duration": 5.55,
+      "end": 111.55
+    },
+    {
+      "index": 35,
+      "text": "actually a good line weight to use the",
+      "start": 108.19,
+      "duration": 5.76,
+      "end": 113.95
+    },
+    {
+      "index": 36,
+      "text": "recommended line width that AutoCAD",
+      "start": 111.55,
+      "duration": 5.099,
+      "end": 116.649
+    },
+    {
+      "index": 37,
+      "text": "gives is what we're gonna work with all",
+      "start": 113.95,
+      "duration": 5.43,
+      "end": 119.38
+    },
+    {
+      "index": 38,
+      "text": "right and it's the same thing when we",
+      "start": 116.649,
+      "duration": 5.701,
+      "end": 122.35
+    },
+    {
+      "index": 39,
+      "text": "create our doors we will get a layer",
+      "start": 119.38,
+      "duration": 5.64,
+      "end": 125.02
+    },
+    {
+      "index": 40,
+      "text": "four doors same thing for Windows and",
+      "start": 122.35,
+      "duration": 4.68,
+      "end": 127.03
+    },
+    {
+      "index": 41,
+      "text": "other other elements that we're gonna be",
+      "start": 125.02,
+      "duration": 4.59,
+      "end": 129.60999999999999
+    },
+    {
+      "index": 42,
+      "text": "creating all right without further ado",
+      "start": 127.03,
+      "duration": 5.31,
+      "end": 132.34
+    },
+    {
+      "index": 43,
+      "text": "let's begin so I'm gonna go back to our",
+      "start": 129.61,
+      "duration": 5.61,
+      "end": 135.22000000000003
+    },
+    {
+      "index": 44,
+      "text": "top view and I'm gonna go back to 2d",
+      "start": 132.34,
+      "duration": 5.22,
+      "end": 137.56
+    },
+    {
+      "index": 45,
+      "text": "wireframe so this is where we left off",
+      "start": 135.22,
+      "duration": 5.19,
+      "end": 140.41
+    },
+    {
+      "index": 46,
+      "text": "and we're gonna move forward from here",
+      "start": 137.56,
+      "duration": 5.58,
+      "end": 143.14000000000001
+    },
+    {
+      "index": 47,
+      "text": "if you look at the bottom right of your",
+      "start": 140.41,
+      "duration": 4.409,
+      "end": 144.819
+    },
+    {
+      "index": 48,
+      "text": "screen you're gonna see the door",
+      "start": 143.14,
+      "duration": 4.8,
+      "end": 147.94
+    },
+    {
+      "index": 49,
+      "text": "schedule so on this building we have",
+      "start": 144.819,
+      "duration": 7.5,
+      "end": 152.319
+    },
+    {
+      "index": 50,
+      "text": "three doors we have one at the entry",
+      "start": 147.94,
+      "duration": 7.29,
+      "end": 155.23
+    },
+    {
+      "index": 51,
+      "text": "here from the porch to the living the",
+      "start": 152.319,
+      "duration": 5.761,
+      "end": 158.07999999999998
+    },
+    {
+      "index": 52,
+      "text": "second door would be at the bedroom from",
+      "start": 155.23,
+      "duration": 4.5,
+      "end": 159.73
+    },
+    {
+      "index": 53,
+      "text": "your living room to the bedroom and then",
+      "start": 158.08,
+      "duration": 3.39,
+      "end": 161.47
+    },
+    {
+      "index": 54,
+      "text": "the third door would be from the bus",
+      "start": 159.73,
+      "duration": 5.7,
+      "end": 165.42999999999998
+    },
+    {
+      "index": 55,
+      "text": "from the living ear to the bathroom so",
+      "start": 161.47,
+      "duration": 6.9,
+      "end": 168.37
+    },
+    {
+      "index": 56,
+      "text": "we only have three simple doors on this",
+      "start": 165.43,
+      "duration": 5.94,
+      "end": 171.37
+    },
+    {
+      "index": 57,
+      "text": "house and then we have three openings as",
+      "start": 168.37,
+      "duration": 6.12,
+      "end": 174.49
+    },
+    {
+      "index": 58,
+      "text": "well we have one at the front here and",
+      "start": 171.37,
+      "duration": 4.78,
+      "end": 176.15
+    },
+    {
+      "index": 59,
+      "text": "we have one here",
+      "start": 174.49,
+      "duration": 5.19,
+      "end": 179.68
+    },
+    {
+      "index": 60,
+      "text": "and we have one to enter into the",
+      "start": 176.15,
+      "duration": 6.39,
+      "end": 182.54
+    },
+    {
+      "index": 61,
+      "text": "kitchen alright so the first thing we're",
+      "start": 179.68,
+      "duration": 5.44,
+      "end": 185.12
+    },
+    {
+      "index": 62,
+      "text": "gonna do is to put in our openings which",
+      "start": 182.54,
+      "duration": 5.16,
+      "end": 187.7
+    },
+    {
+      "index": 63,
+      "text": "is actually very very easy by the way if",
+      "start": 185.12,
+      "duration": 4.14,
+      "end": 189.26
+    },
+    {
+      "index": 64,
+      "text": "you need to this drawing you can",
+      "start": 187.7,
+      "duration": 3.45,
+      "end": 191.14999999999998
+    },
+    {
+      "index": 65,
+      "text": "download it from the link in the",
+      "start": 189.26,
+      "duration": 3.929,
+      "end": 193.189
+    },
+    {
+      "index": 66,
+      "text": "description as well as all the other",
+      "start": 191.15,
+      "duration": 5.0,
+      "end": 196.15
+    },
+    {
+      "index": 67,
+      "text": "materials that are related to this",
+      "start": 193.189,
+      "duration": 5.821,
+      "end": 199.01
+    },
+    {
+      "index": 68,
+      "text": "particular drawing so let's go so of",
+      "start": 196.15,
+      "duration": 5.11,
+      "end": 201.26000000000002
+    },
+    {
+      "index": 69,
+      "text": "course if you look under your tool",
+      "start": 199.01,
+      "duration": 4.949,
+      "end": 203.959
+    },
+    {
+      "index": 70,
+      "text": "palette which is right here again if you",
+      "start": 201.26,
+      "duration": 5.899,
+      "end": 207.159
+    },
+    {
+      "index": 71,
+      "text": "don't see this go to tools and click on",
+      "start": 203.959,
+      "duration": 5.731,
+      "end": 209.69
+    },
+    {
+      "index": 72,
+      "text": "content no sorry",
+      "start": 207.159,
+      "duration": 6.071,
+      "end": 213.23
+    },
+    {
+      "index": 73,
+      "text": "click on design tools alright and it",
+      "start": 209.69,
+      "duration": 5.159,
+      "end": 214.849
+    },
+    {
+      "index": 74,
+      "text": "should bring up your tool palette and",
+      "start": 213.23,
+      "duration": 4.259,
+      "end": 217.48899999999998
+    },
+    {
+      "index": 75,
+      "text": "under your tool palette we have a quite",
+      "start": 214.849,
+      "duration": 4.56,
+      "end": 219.409
+    },
+    {
+      "index": 76,
+      "text": "a few stuff and now we're doing doors",
+      "start": 217.489,
+      "duration": 4.95,
+      "end": 222.439
+    },
+    {
+      "index": 77,
+      "text": "under doors we do have this opening but",
+      "start": 219.409,
+      "duration": 4.651,
+      "end": 224.06
+    },
+    {
+      "index": 78,
+      "text": "this is not opening that we're looking",
+      "start": 222.439,
+      "duration": 2.311,
+      "end": 224.75
+    },
+    {
+      "index": 79,
+      "text": "for",
+      "start": 224.06,
+      "duration": 3.06,
+      "end": 227.12
+    },
+    {
+      "index": 80,
+      "text": "this is cased opening which means that",
+      "start": 224.75,
+      "duration": 6.359,
+      "end": 231.109
+    },
+    {
+      "index": 81,
+      "text": "this opening has a frame okay and we",
+      "start": 227.12,
+      "duration": 6.33,
+      "end": 233.45000000000002
+    },
+    {
+      "index": 82,
+      "text": "don't need a opening with a frame so",
+      "start": 231.109,
+      "duration": 4.5,
+      "end": 235.609
+    },
+    {
+      "index": 83,
+      "text": "where we want to find the right opening",
+      "start": 233.45,
+      "duration": 4.5,
+      "end": 237.95
+    },
+    {
+      "index": 84,
+      "text": "is we go back to design and we go down",
+      "start": 235.609,
+      "duration": 4.681,
+      "end": 240.29000000000002
+    },
+    {
+      "index": 85,
+      "text": "to the opening we can find it here or we",
+      "start": 237.95,
+      "duration": 4.56,
+      "end": 242.51
+    },
+    {
+      "index": 86,
+      "text": "can go to doors at the top here and we",
+      "start": 240.29,
+      "duration": 4.319,
+      "end": 244.60899999999998
+    },
+    {
+      "index": 87,
+      "text": "find it here is the same thing so I'm",
+      "start": 242.51,
+      "duration": 5.069,
+      "end": 247.57899999999998
+    },
+    {
+      "index": 88,
+      "text": "gonna use this one and the first thing",
+      "start": 244.609,
+      "duration": 4.47,
+      "end": 249.079
+    },
+    {
+      "index": 89,
+      "text": "we're gonna do here it says select a",
+      "start": 247.579,
+      "duration": 4.02,
+      "end": 251.59900000000002
+    },
+    {
+      "index": 90,
+      "text": "wall or enter so we're going to select",
+      "start": 249.079,
+      "duration": 3.961,
+      "end": 253.04000000000002
+    },
+    {
+      "index": 91,
+      "text": "this wall right here so we need a",
+      "start": 251.599,
+      "duration": 3.591,
+      "end": 255.19
+    },
+    {
+      "index": 92,
+      "text": "opening right there",
+      "start": 253.04,
+      "duration": 7.47,
+      "end": 260.51
+    },
+    {
+      "index": 93,
+      "text": "we need one right there we need one on",
+      "start": 255.19,
+      "duration": 7.449,
+      "end": 262.639
+    },
+    {
+      "index": 94,
+      "text": "this wall so that's the first thing we",
+      "start": 260.51,
+      "duration": 4.05,
+      "end": 264.56
+    },
+    {
+      "index": 95,
+      "text": "did was to just place our three openings",
+      "start": 262.639,
+      "duration": 5.4,
+      "end": 268.039
+    },
+    {
+      "index": 96,
+      "text": "of course if you knew the size we could",
+      "start": 264.56,
+      "duration": 7.349,
+      "end": 271.909
+    },
+    {
+      "index": 97,
+      "text": "set it over here before but sometimes we",
+      "start": 268.039,
+      "duration": 5.85,
+      "end": 273.889
+    },
+    {
+      "index": 98,
+      "text": "just have to do it free handed nothing",
+      "start": 271.909,
+      "duration": 2.641,
+      "end": 274.55
+    },
+    {
+      "index": 99,
+      "text": "is wrong with that",
+      "start": 273.889,
+      "duration": 2.881,
+      "end": 276.77
+    },
+    {
+      "index": 100,
+      "text": "minimize that and then what we're going",
+      "start": 274.55,
+      "duration": 7.589,
+      "end": 282.139
+    },
+    {
+      "index": 101,
+      "text": "to do is just stretch these out all",
+      "start": 276.77,
+      "duration": 5.85,
+      "end": 282.62
+    },
+    {
+      "index": 102,
+      "text": "right",
+      "start": 282.139,
+      "duration": 7.081,
+      "end": 289.22
+    },
+    {
+      "index": 103,
+      "text": "that's really simple I'm gonna stretch",
+      "start": 282.62,
+      "duration": 10.5,
+      "end": 293.12
+    },
+    {
+      "index": 104,
+      "text": "these out like that all right so that's",
+      "start": 289.22,
+      "duration": 6.99,
+      "end": 296.21000000000004
+    },
+    {
+      "index": 105,
+      "text": "good so we are left with a little square",
+      "start": 293.12,
+      "duration": 6.09,
+      "end": 299.21
+    },
+    {
+      "index": 106,
+      "text": "here which we're gonna use as a column",
+      "start": 296.21,
+      "duration": 5.76,
+      "end": 301.96999999999997
+    },
+    {
+      "index": 107,
+      "text": "in this corner and then we're going to",
+      "start": 299.21,
+      "duration": 5.12,
+      "end": 304.33
+    },
+    {
+      "index": 108,
+      "text": "fix this one",
+      "start": 301.97,
+      "duration": 4.4,
+      "end": 306.37
+    },
+    {
+      "index": 109,
+      "text": "if you look at the properties it is",
+      "start": 304.33,
+      "duration": 4.35,
+      "end": 308.68
+    },
+    {
+      "index": 110,
+      "text": "three feet wide and we need it to be",
+      "start": 306.37,
+      "duration": 5.52,
+      "end": 311.89
+    },
+    {
+      "index": 111,
+      "text": "four feet so let's fix that seven feet",
+      "start": 308.68,
+      "duration": 6.09,
+      "end": 314.77
+    },
+    {
+      "index": 112,
+      "text": "high that's good and everything is looks",
+      "start": 311.89,
+      "duration": 6.06,
+      "end": 317.95
+    },
+    {
+      "index": 113,
+      "text": "good so and then we're going to move it",
+      "start": 314.77,
+      "duration": 5.91,
+      "end": 320.68
+    },
+    {
+      "index": 114,
+      "text": "over into this corner so to go and grab",
+      "start": 317.95,
+      "duration": 6.42,
+      "end": 324.37
+    },
+    {
+      "index": 115,
+      "text": "our move tool and we're going to move it",
+      "start": 320.68,
+      "duration": 7.2,
+      "end": 327.88
+    },
+    {
+      "index": 116,
+      "text": "over like that so now all our openings",
+      "start": 324.37,
+      "duration": 7.31,
+      "end": 331.68
+    },
+    {
+      "index": 117,
+      "text": "are done let's look at it in 3d",
+      "start": 327.88,
+      "duration": 3.8,
+      "end": 331.68
+    },
+    {
+      "index": 118,
+      "text": "so now we can see that our openings have",
+      "start": 337.449,
+      "duration": 7.411,
+      "end": 344.86
+    },
+    {
+      "index": 119,
+      "text": "been created beautiful so now we can get",
+      "start": 340.389,
+      "duration": 5.49,
+      "end": 345.879
+    },
+    {
+      "index": 120,
+      "text": "on to the porch",
+      "start": 344.86,
+      "duration": 3.929,
+      "end": 348.789
+    },
+    {
+      "index": 121,
+      "text": "no we need to get into the house muscle",
+      "start": 345.879,
+      "duration": 7.201,
+      "end": 353.08000000000004
+    },
+    {
+      "index": 122,
+      "text": "all right bus let's get it back to the",
+      "start": 348.789,
+      "duration": 7.8,
+      "end": 356.589
+    },
+    {
+      "index": 123,
+      "text": "plant view before we move to the doors",
+      "start": 353.08,
+      "duration": 6.63,
+      "end": 359.71
+    },
+    {
+      "index": 124,
+      "text": "what I'm gonna do is to put these the",
+      "start": 356.589,
+      "duration": 7.23,
+      "end": 363.819
+    },
+    {
+      "index": 125,
+      "text": "openings on a hidden line layer all",
+      "start": 359.71,
+      "duration": 6.75,
+      "end": 366.46
+    },
+    {
+      "index": 126,
+      "text": "right so as a matter of fact a layer has",
+      "start": 363.819,
+      "duration": 5.011,
+      "end": 368.83000000000004
+    },
+    {
+      "index": 127,
+      "text": "been created for it already there we go",
+      "start": 366.46,
+      "duration": 4.229,
+      "end": 370.68899999999996
+    },
+    {
+      "index": 128,
+      "text": "so what we're gonna do is to open our",
+      "start": 368.83,
+      "duration": 5.309,
+      "end": 374.139
+    },
+    {
+      "index": 129,
+      "text": "layers palette you know if you can't",
+      "start": 370.689,
+      "duration": 6.301,
+      "end": 376.99
+    },
+    {
+      "index": 130,
+      "text": "find this this is the little guy that is",
+      "start": 374.139,
+      "duration": 4.95,
+      "end": 379.089
+    },
+    {
+      "index": 131,
+      "text": "responsible so you just click on that",
+      "start": 376.99,
+      "duration": 5.16,
+      "end": 382.15000000000003
+    },
+    {
+      "index": 132,
+      "text": "and it's gonna bring up your layers",
+      "start": 379.089,
+      "duration": 5.491,
+      "end": 384.58
+    },
+    {
+      "index": 133,
+      "text": "palette and then we're gonna go to",
+      "start": 382.15,
+      "duration": 3.93,
+      "end": 386.08
+    },
+    {
+      "index": 134,
+      "text": "opening and we're going to change it",
+      "start": 384.58,
+      "duration": 8.73,
+      "end": 393.31
+    },
+    {
+      "index": 135,
+      "text": "from continuous to hidden and then we're",
+      "start": 386.08,
+      "duration": 10.38,
+      "end": 396.46
+    },
+    {
+      "index": 136,
+      "text": "gonna minimize that so now you can see",
+      "start": 393.31,
+      "duration": 9.479,
+      "end": 402.789
+    },
+    {
+      "index": 137,
+      "text": "that your your arch are your openings",
+      "start": 396.46,
+      "duration": 9.929,
+      "end": 406.38899999999995
+    },
+    {
+      "index": 138,
+      "text": "are being represented by dotted lines",
+      "start": 402.789,
+      "duration": 5.34,
+      "end": 408.12899999999996
+    },
+    {
+      "index": 139,
+      "text": "which is what we want",
+      "start": 406.389,
+      "duration": 3.06,
+      "end": 409.449
+    },
+    {
+      "index": 140,
+      "text": "all right the next thing we're gonna do",
+      "start": 408.129,
+      "duration": 3.81,
+      "end": 411.939
+    },
+    {
+      "index": 141,
+      "text": "is to enter our doors all right",
+      "start": 409.449,
+      "duration": 5.731,
+      "end": 415.18
+    },
+    {
+      "index": 142,
+      "text": "so we go back to our tool palette I'm",
+      "start": 411.939,
+      "duration": 5.91,
+      "end": 417.84900000000005
+    },
+    {
+      "index": 143,
+      "text": "gonna stick it over I would go down to",
+      "start": 415.18,
+      "duration": 4.769,
+      "end": 419.949
+    },
+    {
+      "index": 144,
+      "text": "doors all right now if you look on the",
+      "start": 417.849,
+      "duration": 3.93,
+      "end": 421.779
+    },
+    {
+      "index": 145,
+      "text": "door schedule it says that door one",
+      "start": 419.949,
+      "duration": 4.65,
+      "end": 424.599
+    },
+    {
+      "index": 146,
+      "text": "which is located at the entryway right",
+      "start": 421.779,
+      "duration": 7.41,
+      "end": 429.189
+    },
+    {
+      "index": 147,
+      "text": "here is a single hinge six panel",
+      "start": 424.599,
+      "duration": 7.86,
+      "end": 432.459
+    },
+    {
+      "index": 148,
+      "text": "half-light all right now if you look",
+      "start": 429.189,
+      "duration": 6.21,
+      "end": 435.399
+    },
+    {
+      "index": 149,
+      "text": "over here I already have it in my pallet",
+      "start": 432.459,
+      "duration": 4.86,
+      "end": 437.319
+    },
+    {
+      "index": 150,
+      "text": "but I don't think you would have it in",
+      "start": 435.399,
+      "duration": 4.74,
+      "end": 440.139
+    },
+    {
+      "index": 151,
+      "text": "yours all right so where do you find it",
+      "start": 437.319,
+      "duration": 5.761,
+      "end": 443.08000000000004
+    },
+    {
+      "index": 152,
+      "text": "you would go to the more tools all right",
+      "start": 440.139,
+      "duration": 6.381,
+      "end": 446.52
+    },
+    {
+      "index": 153,
+      "text": "which would bring up more all right and",
+      "start": 443.08,
+      "duration": 7.41,
+      "end": 450.49
+    },
+    {
+      "index": 154,
+      "text": "in here you'll find a good amount of",
+      "start": 446.52,
+      "duration": 4.979,
+      "end": 451.49899999999997
+    },
+    {
+      "index": 155,
+      "text": "doors",
+      "start": 450.49,
+      "duration": 4.829,
+      "end": 455.319
+    },
+    {
+      "index": 156,
+      "text": "we have bifold double we have buy a full",
+      "start": 451.499,
+      "duration": 6.28,
+      "end": 457.779
+    },
+    {
+      "index": 157,
+      "text": "single these are the ones would use on",
+      "start": 455.319,
+      "duration": 5.46,
+      "end": 460.779
+    },
+    {
+      "index": 158,
+      "text": "that closet we have the keys open the",
+      "start": 457.779,
+      "duration": 4.92,
+      "end": 462.699
+    },
+    {
+      "index": 159,
+      "text": "one that we spoke about earlier know",
+      "start": 460.779,
+      "duration": 4.531,
+      "end": 465.31
+    },
+    {
+      "index": 160,
+      "text": "when you see double this means that that",
+      "start": 462.699,
+      "duration": 3.201,
+      "end": 465.90000000000003
+    },
+    {
+      "index": 161,
+      "text": "door is",
+      "start": 465.31,
+      "duration": 3.02,
+      "end": 468.33
+    },
+    {
+      "index": 162,
+      "text": "Dumbledore it has two doors swinging",
+      "start": 465.9,
+      "duration": 5.85,
+      "end": 471.75
+    },
+    {
+      "index": 163,
+      "text": "alright what we need is a single doors",
+      "start": 468.33,
+      "duration": 6.57,
+      "end": 474.9
+    },
+    {
+      "index": 164,
+      "text": "of the go across until we find single",
+      "start": 471.75,
+      "duration": 5.96,
+      "end": 477.71
+    },
+    {
+      "index": 165,
+      "text": "door and this is the one that I chose",
+      "start": 474.9,
+      "duration": 5.91,
+      "end": 480.81
+    },
+    {
+      "index": 166,
+      "text": "for this project you can go ahead I",
+      "start": 477.71,
+      "duration": 6.67,
+      "end": 484.38
+    },
+    {
+      "index": 167,
+      "text": "think this would be the more suitable",
+      "start": 480.81,
+      "duration": 6.18,
+      "end": 486.99
+    },
+    {
+      "index": 168,
+      "text": "one to use in Jamaica you know the six",
+      "start": 484.38,
+      "duration": 4.14,
+      "end": 488.52
+    },
+    {
+      "index": 169,
+      "text": "panel solid rock",
+      "start": 486.99,
+      "duration": 4.8,
+      "end": 491.79
+    },
+    {
+      "index": 170,
+      "text": "nobody can push it on back too easily",
+      "start": 488.52,
+      "duration": 4.86,
+      "end": 493.38
+    },
+    {
+      "index": 171,
+      "text": "this is the one you don't want to use",
+      "start": 491.79,
+      "duration": 6.14,
+      "end": 497.93
+    },
+    {
+      "index": 172,
+      "text": "alright any at all in Jamaica that is",
+      "start": 493.38,
+      "duration": 7.32,
+      "end": 500.7
+    },
+    {
+      "index": 173,
+      "text": "what I'm gonna just use this one for fun",
+      "start": 497.93,
+      "duration": 4.99,
+      "end": 502.92
+    },
+    {
+      "index": 174,
+      "text": "what you would do is to insert into your",
+      "start": 500.7,
+      "duration": 4.89,
+      "end": 505.59
+    },
+    {
+      "index": 175,
+      "text": "drawing or add to palette in this case I",
+      "start": 502.92,
+      "duration": 4.2,
+      "end": 507.12
+    },
+    {
+      "index": 176,
+      "text": "have already added it to my palette",
+      "start": 505.59,
+      "duration": 3.81,
+      "end": 509.4
+    },
+    {
+      "index": 177,
+      "text": "which is right here so I'm gonna just",
+      "start": 507.12,
+      "duration": 5.43,
+      "end": 512.55
+    },
+    {
+      "index": 178,
+      "text": "get rid of that so I click on it right",
+      "start": 509.4,
+      "duration": 5.67,
+      "end": 515.0699999999999
+    },
+    {
+      "index": 179,
+      "text": "here and then I'll go ahead and drop the",
+      "start": 512.55,
+      "duration": 4.59,
+      "end": 517.14
+    },
+    {
+      "index": 180,
+      "text": "door where I want it of course we could",
+      "start": 515.07,
+      "duration": 4.05,
+      "end": 519.12
+    },
+    {
+      "index": 181,
+      "text": "actually just click on any wall but we",
+      "start": 517.14,
+      "duration": 4.26,
+      "end": 521.4
+    },
+    {
+      "index": 182,
+      "text": "want it on this wall and we want it to",
+      "start": 519.12,
+      "duration": 4.59,
+      "end": 523.71
+    },
+    {
+      "index": 183,
+      "text": "be on the inside of it if I wanted it on",
+      "start": 521.4,
+      "duration": 5.46,
+      "end": 526.86
+    },
+    {
+      "index": 184,
+      "text": "the outside we could you know click on",
+      "start": 523.71,
+      "duration": 6.48,
+      "end": 530.19
+    },
+    {
+      "index": 185,
+      "text": "the outside there so when you click the",
+      "start": 526.86,
+      "duration": 6.87,
+      "end": 533.73
+    },
+    {
+      "index": 186,
+      "text": "door we could actually change the",
+      "start": 530.19,
+      "duration": 5.37,
+      "end": 535.5600000000001
+    },
+    {
+      "index": 187,
+      "text": "direction of the door by clicking these",
+      "start": 533.73,
+      "duration": 5.7,
+      "end": 539.4300000000001
+    },
+    {
+      "index": 188,
+      "text": "arrows alright and if you notice this",
+      "start": 535.56,
+      "duration": 6.18,
+      "end": 541.7399999999999
+    },
+    {
+      "index": 189,
+      "text": "door is too small that's because we did",
+      "start": 539.43,
+      "duration": 5.22,
+      "end": 544.65
+    },
+    {
+      "index": 190,
+      "text": "not set the size door that we wanted so",
+      "start": 541.74,
+      "duration": 6.87,
+      "end": 548.61
+    },
+    {
+      "index": 191,
+      "text": "this door should be three feet wide by",
+      "start": 544.65,
+      "duration": 7.32,
+      "end": 551.97
+    },
+    {
+      "index": 192,
+      "text": "seven feet high and we wanted to measure",
+      "start": 548.61,
+      "duration": 6.39,
+      "end": 555.0
+    },
+    {
+      "index": 193,
+      "text": "to the outside of the frame I'm going to",
+      "start": 551.97,
+      "duration": 5.55,
+      "end": 557.52
+    },
+    {
+      "index": 194,
+      "text": "explain that to you in a minute and then",
+      "start": 555.0,
+      "duration": 5.49,
+      "end": 560.49
+    },
+    {
+      "index": 195,
+      "text": "we want a swing to be 90 degrees all",
+      "start": 557.52,
+      "duration": 5.46,
+      "end": 562.98
+    },
+    {
+      "index": 196,
+      "text": "right if we change this to let's say 45",
+      "start": 560.49,
+      "duration": 3.33,
+      "end": 563.82
+    },
+    {
+      "index": 197,
+      "text": "degrees",
+      "start": 562.98,
+      "duration": 2.76,
+      "end": 565.74
+    },
+    {
+      "index": 198,
+      "text": "you notice what happened over here the",
+      "start": 563.82,
+      "duration": 5.1,
+      "end": 568.9200000000001
+    },
+    {
+      "index": 199,
+      "text": "door is now at a 45 degree angle we",
+      "start": 565.74,
+      "duration": 4.56,
+      "end": 570.3
+    },
+    {
+      "index": 200,
+      "text": "could actually close the door",
+      "start": 568.92,
+      "duration": 3.84,
+      "end": 572.76
+    },
+    {
+      "index": 201,
+      "text": "if we want it to but we're going to",
+      "start": 570.3,
+      "duration": 6.53,
+      "end": 576.8299999999999
+    },
+    {
+      "index": 202,
+      "text": "leave it at 90 and everything else looks",
+      "start": 572.76,
+      "duration": 8.28,
+      "end": 581.04
+    },
+    {
+      "index": 203,
+      "text": "good alright so you can see the type of",
+      "start": 576.83,
+      "duration": 6.19,
+      "end": 583.0200000000001
+    },
+    {
+      "index": 204,
+      "text": "door that we have here that's the one",
+      "start": 581.04,
+      "duration": 6.18,
+      "end": 587.2199999999999
+    },
+    {
+      "index": 205,
+      "text": "that we need and we're gonna go ahead",
+      "start": 583.02,
+      "duration": 9.75,
+      "end": 592.77
+    },
+    {
+      "index": 206,
+      "text": "and we're gonna move it from here",
+      "start": 587.22,
+      "duration": 10.14,
+      "end": 597.36
+    },
+    {
+      "index": 207,
+      "text": "down to the corner there alright so",
+      "start": 592.77,
+      "duration": 6.14,
+      "end": 598.91
+    },
+    {
+      "index": 208,
+      "text": "that's all front door",
+      "start": 597.36,
+      "duration": 3.44,
+      "end": 600.8000000000001
+    },
+    {
+      "index": 209,
+      "text": "so what I wanted to explain to you is",
+      "start": 598.91,
+      "duration": 4.23,
+      "end": 603.14
+    },
+    {
+      "index": 210,
+      "text": "what is what does it mean by measure",
+      "start": 600.8,
+      "duration": 4.38,
+      "end": 605.18
+    },
+    {
+      "index": 211,
+      "text": "outside of the frame so if I should",
+      "start": 603.14,
+      "duration": 4.35,
+      "end": 607.49
+    },
+    {
+      "index": 212,
+      "text": "actually measure the width of this door",
+      "start": 605.18,
+      "duration": 5.67,
+      "end": 610.8499999999999
+    },
+    {
+      "index": 213,
+      "text": "which we set for a three feet it would",
+      "start": 607.49,
+      "duration": 6.9,
+      "end": 614.39
+    },
+    {
+      "index": 214,
+      "text": "measure to the outside of the frame all",
+      "start": 610.85,
+      "duration": 5.79,
+      "end": 616.64
+    },
+    {
+      "index": 215,
+      "text": "right in some instances you might want",
+      "start": 614.39,
+      "duration": 4.44,
+      "end": 618.83
+    },
+    {
+      "index": 216,
+      "text": "to put it on the inside of the frame",
+      "start": 616.64,
+      "duration": 4.56,
+      "end": 621.1999999999999
+    },
+    {
+      "index": 217,
+      "text": "which would mean that the three feet",
+      "start": 618.83,
+      "duration": 6.3,
+      "end": 625.13
+    },
+    {
+      "index": 218,
+      "text": "would measure on the inside of the frame",
+      "start": 621.2,
+      "duration": 7.37,
+      "end": 628.57
+    },
+    {
+      "index": 219,
+      "text": "okay guys so we're gonna leave it at",
+      "start": 625.13,
+      "duration": 7.65,
+      "end": 632.78
+    },
+    {
+      "index": 220,
+      "text": "outside and the next thing I'm gonna do",
+      "start": 628.57,
+      "duration": 7.78,
+      "end": 636.35
+    },
+    {
+      "index": 221,
+      "text": "is to Center this door in between these",
+      "start": 632.78,
+      "duration": 5.31,
+      "end": 638.0899999999999
+    },
+    {
+      "index": 222,
+      "text": "walls all right I know that",
+      "start": 636.35,
+      "duration": 4.26,
+      "end": 640.61
+    },
+    {
+      "index": 223,
+      "text": "on the drawing the door is exactly right",
+      "start": 638.09,
+      "duration": 4.44,
+      "end": 642.5300000000001
+    },
+    {
+      "index": 224,
+      "text": "here but we're gonna Center it on this",
+      "start": 640.61,
+      "duration": 4.59,
+      "end": 645.2
+    },
+    {
+      "index": 225,
+      "text": "wall for this project so let's go ahead",
+      "start": 642.53,
+      "duration": 4.91,
+      "end": 647.4399999999999
+    },
+    {
+      "index": 226,
+      "text": "and hit the center button up here and",
+      "start": 645.2,
+      "duration": 8.64,
+      "end": 653.84
+    },
+    {
+      "index": 227,
+      "text": "we're gonna hit enter twice one two once",
+      "start": 647.44,
+      "duration": 7.9,
+      "end": 655.34
+    },
+    {
+      "index": 228,
+      "text": "you hit Enter twice then we're gonna",
+      "start": 653.84,
+      "duration": 5.13,
+      "end": 658.97
+    },
+    {
+      "index": 229,
+      "text": "click on the first corner and then we're",
+      "start": 655.34,
+      "duration": 7.29,
+      "end": 662.63
+    },
+    {
+      "index": 230,
+      "text": "gonna click on the second corner and the",
+      "start": 658.97,
+      "duration": 6.48,
+      "end": 665.45
+    },
+    {
+      "index": 231,
+      "text": "door would automatically move to the",
+      "start": 662.63,
+      "duration": 6.57,
+      "end": 669.2
+    },
+    {
+      "index": 232,
+      "text": "center of the space this can be done",
+      "start": 665.45,
+      "duration": 6.96,
+      "end": 672.4100000000001
+    },
+    {
+      "index": 233,
+      "text": "with any thing in a drawing I could",
+      "start": 669.2,
+      "duration": 6.33,
+      "end": 675.5300000000001
+    },
+    {
+      "index": 234,
+      "text": "Center this wall using the same method",
+      "start": 672.41,
+      "duration": 6.96,
+      "end": 679.37
+    },
+    {
+      "index": 235,
+      "text": "between these two walls all right by",
+      "start": 675.53,
+      "duration": 7.8,
+      "end": 683.3299999999999
+    },
+    {
+      "index": 236,
+      "text": "right clicking going to a EC Center is",
+      "start": 679.37,
+      "duration": 7.74,
+      "end": 687.11
+    },
+    {
+      "index": 237,
+      "text": "the same thing all right so our first",
+      "start": 683.33,
+      "duration": 5.91,
+      "end": 689.24
+    },
+    {
+      "index": 238,
+      "text": "door has been placed let's go ahead and",
+      "start": 687.11,
+      "duration": 5.25,
+      "end": 692.36
+    },
+    {
+      "index": 239,
+      "text": "place our second door which is on the",
+      "start": 689.24,
+      "duration": 6.09,
+      "end": 695.33
+    },
+    {
+      "index": 240,
+      "text": "bedroom and this door is a single hinge",
+      "start": 692.36,
+      "duration": 4.92,
+      "end": 697.28
+    },
+    {
+      "index": 241,
+      "text": "now we don't need to search for this",
+      "start": 695.33,
+      "duration": 4.41,
+      "end": 699.74
+    },
+    {
+      "index": 242,
+      "text": "door because it's actually right here so",
+      "start": 697.28,
+      "duration": 6.47,
+      "end": 703.75
+    },
+    {
+      "index": 243,
+      "text": "we're gonna just click on it like so and",
+      "start": 699.74,
+      "duration": 6.81,
+      "end": 706.55
+    },
+    {
+      "index": 244,
+      "text": "let's do something let's actually pick",
+      "start": 703.75,
+      "duration": 5.05,
+      "end": 708.8
+    },
+    {
+      "index": 245,
+      "text": "the size that we need before we place it",
+      "start": 706.55,
+      "duration": 4.71,
+      "end": 711.26
+    },
+    {
+      "index": 246,
+      "text": "so the size we actually need is 3 feet",
+      "start": 708.8,
+      "duration": 5.13,
+      "end": 713.93
+    },
+    {
+      "index": 247,
+      "text": "by 7 and we're going to do a couple of",
+      "start": 711.26,
+      "duration": 6.84,
+      "end": 718.1
+    },
+    {
+      "index": 248,
+      "text": "adjustments let's say outside of frame",
+      "start": 713.93,
+      "duration": 5.64,
+      "end": 719.5699999999999
+    },
+    {
+      "index": 249,
+      "text": "perfect 90 degrees",
+      "start": 718.1,
+      "duration": 3.38,
+      "end": 721.48
+    },
+    {
+      "index": 250,
+      "text": "all right this time we're gonna actually",
+      "start": 719.57,
+      "duration": 6.72,
+      "end": 726.2900000000001
+    },
+    {
+      "index": 251,
+      "text": "put in some location now what I want is",
+      "start": 721.48,
+      "duration": 7.81,
+      "end": 729.29
+    },
+    {
+      "index": 252,
+      "text": "for the door to be exactly in the center",
+      "start": 726.29,
+      "duration": 6.45,
+      "end": 732.74
+    },
+    {
+      "index": 253,
+      "text": "this one this piece of wall right here",
+      "start": 729.29,
+      "duration": 7.53,
+      "end": 736.8199999999999
+    },
+    {
+      "index": 254,
+      "text": "from here to here alright so how do you",
+      "start": 732.74,
+      "duration": 8.7,
+      "end": 741.44
+    },
+    {
+      "index": 255,
+      "text": "do that we could actually change that to",
+      "start": 736.82,
+      "duration": 7.8,
+      "end": 744.62
+    },
+    {
+      "index": 256,
+      "text": "offset Center and I'm gonna change the",
+      "start": 741.44,
+      "duration": 7.02,
+      "end": 748.46
+    },
+    {
+      "index": 257,
+      "text": "justification to Center and how far from",
+      "start": 744.62,
+      "duration": 6.45,
+      "end": 751.07
+    },
+    {
+      "index": 258,
+      "text": "the center do you want it zero because",
+      "start": 748.46,
+      "duration": 5.13,
+      "end": 753.59
+    },
+    {
+      "index": 259,
+      "text": "you want it exactly in the center so",
+      "start": 751.07,
+      "duration": 5.13,
+      "end": 756.2
+    },
+    {
+      "index": 260,
+      "text": "we're going to let that be zero now",
+      "start": 753.59,
+      "duration": 4.35,
+      "end": 757.94
+    },
+    {
+      "index": 261,
+      "text": "we're just gonna click on this wall now",
+      "start": 756.2,
+      "duration": 3.24,
+      "end": 759.44
+    },
+    {
+      "index": 262,
+      "text": "if you'll notice if i zoom in a little",
+      "start": 757.94,
+      "duration": 3.99,
+      "end": 761.9300000000001
+    },
+    {
+      "index": 263,
+      "text": "bit you see those two measurement on the",
+      "start": 759.44,
+      "duration": 5.82,
+      "end": 765.2600000000001
+    },
+    {
+      "index": 264,
+      "text": "top on the bottom that it that says nine",
+      "start": 761.93,
+      "duration": 5.31,
+      "end": 767.2399999999999
+    },
+    {
+      "index": 265,
+      "text": "inches on both sides that's what I'm",
+      "start": 765.26,
+      "duration": 4.74,
+      "end": 770.0
+    },
+    {
+      "index": 266,
+      "text": "talking about so the door would snap to",
+      "start": 767.24,
+      "duration": 6.06,
+      "end": 773.3
+    },
+    {
+      "index": 267,
+      "text": "the exact center of the world any wall",
+      "start": 770.0,
+      "duration": 5.22,
+      "end": 775.22
+    },
+    {
+      "index": 268,
+      "text": "that I have so guess what if I put it on",
+      "start": 773.3,
+      "duration": 4.5,
+      "end": 777.8
+    },
+    {
+      "index": 269,
+      "text": "this wall the door automatically snap to",
+      "start": 775.22,
+      "duration": 5.31,
+      "end": 780.53
+    },
+    {
+      "index": 270,
+      "text": "the middle of the wall let me try",
+      "start": 777.8,
+      "duration": 6.29,
+      "end": 784.0899999999999
+    },
+    {
+      "index": 271,
+      "text": "another one so you can see look at that",
+      "start": 780.53,
+      "duration": 6.45,
+      "end": 786.98
+    },
+    {
+      "index": 272,
+      "text": "alright and this is what we're gonna do",
+      "start": 784.09,
+      "duration": 5.23,
+      "end": 789.32
+    },
+    {
+      "index": 273,
+      "text": "for our windows cuz all our windows will",
+      "start": 786.98,
+      "duration": 5.64,
+      "end": 792.62
+    },
+    {
+      "index": 274,
+      "text": "be centered in the wall all right",
+      "start": 789.32,
+      "duration": 6.17,
+      "end": 795.49
+    },
+    {
+      "index": 275,
+      "text": "so let's place this door right here",
+      "start": 792.62,
+      "duration": 8.16,
+      "end": 800.78
+    },
+    {
+      "index": 276,
+      "text": "again go ahead and flip the door like",
+      "start": 795.49,
+      "duration": 8.02,
+      "end": 803.51
+    },
+    {
+      "index": 277,
+      "text": "that by the way guys a general rule of",
+      "start": 800.78,
+      "duration": 6.09,
+      "end": 806.87
+    },
+    {
+      "index": 278,
+      "text": "thumb is to always flip your door or",
+      "start": 803.51,
+      "duration": 6.81,
+      "end": 810.3199999999999
+    },
+    {
+      "index": 279,
+      "text": "swing your door towards a wall okay you",
+      "start": 806.87,
+      "duration": 5.46,
+      "end": 812.33
+    },
+    {
+      "index": 280,
+      "text": "don't want your doors to be swinging up",
+      "start": 810.32,
+      "duration": 4.56,
+      "end": 814.88
+    },
+    {
+      "index": 281,
+      "text": "into the room like that this is poor",
+      "start": 812.33,
+      "duration": 5.34,
+      "end": 817.6700000000001
+    },
+    {
+      "index": 282,
+      "text": "design and it's a waste of space",
+      "start": 814.88,
+      "duration": 4.53,
+      "end": 819.41
+    },
+    {
+      "index": 283,
+      "text": "alright so if you'll notice on this",
+      "start": 817.67,
+      "duration": 5.1,
+      "end": 822.77
+    },
+    {
+      "index": 284,
+      "text": "building all doors are swinging towards",
+      "start": 819.41,
+      "duration": 7.59,
+      "end": 827.0
+    },
+    {
+      "index": 285,
+      "text": "a wall unless it's a very tight",
+      "start": 822.77,
+      "duration": 5.97,
+      "end": 828.74
+    },
+    {
+      "index": 286,
+      "text": "situation you just have to do what you",
+      "start": 827.0,
+      "duration": 4.32,
+      "end": 831.32
+    },
+    {
+      "index": 287,
+      "text": "have to do but always practice to swing",
+      "start": 828.74,
+      "duration": 5.55,
+      "end": 834.29
+    },
+    {
+      "index": 288,
+      "text": "your doors towards a wall alright so",
+      "start": 831.32,
+      "duration": 5.49,
+      "end": 836.8100000000001
+    },
+    {
+      "index": 289,
+      "text": "let's go ahead and create our third door",
+      "start": 834.29,
+      "duration": 5.7,
+      "end": 839.99
+    },
+    {
+      "index": 290,
+      "text": "which is the bathroom door now it's",
+      "start": 836.81,
+      "duration": 4.77,
+      "end": 841.5799999999999
+    },
+    {
+      "index": 291,
+      "text": "actually the same door so we could",
+      "start": 839.99,
+      "duration": 4.5,
+      "end": 844.49
+    },
+    {
+      "index": 292,
+      "text": "actually go ahead and click on that over",
+      "start": 841.58,
+      "duration": 5.61,
+      "end": 847.19
+    },
+    {
+      "index": 293,
+      "text": "there and then we're gonna set the size",
+      "start": 844.49,
+      "duration": 5.37,
+      "end": 849.86
+    },
+    {
+      "index": 294,
+      "text": "of the door which is what two feet eight",
+      "start": 847.19,
+      "duration": 5.55,
+      "end": 852.74
+    },
+    {
+      "index": 295,
+      "text": "inches and we're going to search for",
+      "start": 849.86,
+      "duration": 7.38,
+      "end": 857.24
+    },
+    {
+      "index": 296,
+      "text": "that in here by seven outside of frame",
+      "start": 852.74,
+      "duration": 8.07,
+      "end": 860.8100000000001
+    },
+    {
+      "index": 297,
+      "text": "19 and this time I want to do it to be",
+      "start": 857.24,
+      "duration": 4.539,
+      "end": 861.779
+    },
+    {
+      "index": 298,
+      "text": "exactly",
+      "start": 860.81,
+      "duration": 3.49,
+      "end": 864.3
+    },
+    {
+      "index": 299,
+      "text": "here so what we could actually do is in",
+      "start": 861.779,
+      "duration": 9.261,
+      "end": 871.04
+    },
+    {
+      "index": 300,
+      "text": "down here is to say offset left okay",
+      "start": 864.3,
+      "duration": 9.36,
+      "end": 873.66
+    },
+    {
+      "index": 301,
+      "text": "now when you click on the wall the door",
+      "start": 871.04,
+      "duration": 7.659,
+      "end": 878.699
+    },
+    {
+      "index": 302,
+      "text": "would actually be adjusted exactly on",
+      "start": 873.66,
+      "duration": 8.52,
+      "end": 882.18
+    },
+    {
+      "index": 303,
+      "text": "the wall any side of the wall because I",
+      "start": 878.699,
+      "duration": 6.18,
+      "end": 884.8789999999999
+    },
+    {
+      "index": 304,
+      "text": "have the offset to be zero let's say I",
+      "start": 882.18,
+      "duration": 5.399,
+      "end": 887.579
+    },
+    {
+      "index": 305,
+      "text": "wanted the door three inches off of the",
+      "start": 884.879,
+      "duration": 3.33,
+      "end": 888.2090000000001
+    },
+    {
+      "index": 306,
+      "text": "wall",
+      "start": 887.579,
+      "duration": 2.911,
+      "end": 890.4899999999999
+    },
+    {
+      "index": 307,
+      "text": "I could actually type in three inches",
+      "start": 888.209,
+      "duration": 6.331,
+      "end": 894.54
+    },
+    {
+      "index": 308,
+      "text": "here three inches all right so three",
+      "start": 890.49,
+      "duration": 6.269,
+      "end": 896.759
+    },
+    {
+      "index": 309,
+      "text": "inches would you can know you can see",
+      "start": 894.54,
+      "duration": 5.58,
+      "end": 900.12
+    },
+    {
+      "index": 310,
+      "text": "that the door is offset at three inches",
+      "start": 896.759,
+      "duration": 6.841,
+      "end": 903.6
+    },
+    {
+      "index": 311,
+      "text": "from the corner of the wall",
+      "start": 900.12,
+      "duration": 5.759,
+      "end": 905.879
+    },
+    {
+      "index": 312,
+      "text": "all right so there we have it our three",
+      "start": 903.6,
+      "duration": 6.39,
+      "end": 909.99
+    },
+    {
+      "index": 313,
+      "text": "doors have been placed I know of course",
+      "start": 905.879,
+      "duration": 7.31,
+      "end": 913.189
+    },
+    {
+      "index": 314,
+      "text": "we can't leave without looking at it in",
+      "start": 909.99,
+      "duration": 8.13,
+      "end": 918.12
+    },
+    {
+      "index": 315,
+      "text": "3d so of course let's go ahead and put",
+      "start": 913.189,
+      "duration": 17.71,
+      "end": 930.899
+    },
+    {
+      "index": 316,
+      "text": "it in 3d I'm gonna turn this into 3d and",
+      "start": 918.12,
+      "duration": 15.36,
+      "end": 933.48
+    },
+    {
+      "index": 317,
+      "text": "we're gonna make it perspective",
+      "start": 930.899,
+      "duration": 5.071,
+      "end": 935.97
+    },
+    {
+      "index": 318,
+      "text": "alright so that is it for this video",
+      "start": 933.48,
+      "duration": 6.87,
+      "end": 940.35
+    },
+    {
+      "index": 319,
+      "text": "guys except one thing that I'm gonna do",
+      "start": 935.97,
+      "duration": 7.409,
+      "end": 943.379
+    },
+    {
+      "index": 320,
+      "text": "and is to put a little arch here and",
+      "start": 940.35,
+      "duration": 5.07,
+      "end": 945.4200000000001
+    },
+    {
+      "index": 321,
+      "text": "it's pretty ain't pretty simple you",
+      "start": 943.379,
+      "duration": 4.741,
+      "end": 948.12
+    },
+    {
+      "index": 322,
+      "text": "click on the opening let's see if I",
+      "start": 945.42,
+      "duration": 8.159,
+      "end": 953.579
+    },
+    {
+      "index": 323,
+      "text": "can't click on it from here click on the",
+      "start": 948.12,
+      "duration": 8.579,
+      "end": 956.699
+    },
+    {
+      "index": 324,
+      "text": "opening aisle over here is the shape you",
+      "start": 953.579,
+      "duration": 4.771,
+      "end": 958.3499999999999
+    },
+    {
+      "index": 325,
+      "text": "could actually change it from rectangle",
+      "start": 956.699,
+      "duration": 7.531,
+      "end": 964.2299999999999
+    },
+    {
+      "index": 326,
+      "text": "to round if you change it to arch you",
+      "start": 958.35,
+      "duration": 8.599,
+      "end": 966.9490000000001
+    },
+    {
+      "index": 327,
+      "text": "can change it",
+      "start": 964.23,
+      "duration": 2.719,
+      "end": 966.9490000000001
+    },
+    {
+      "index": 328,
+      "text": "yeah we could change it to a lot of",
+      "start": 969.4,
+      "duration": 4.39,
+      "end": 973.79
+    },
+    {
+      "index": 329,
+      "text": "things all right just go ahead choose",
+      "start": 971.45,
+      "duration": 4.17,
+      "end": 975.62
+    },
+    {
+      "index": 330,
+      "text": "the one that you like and stick with it",
+      "start": 973.79,
+      "duration": 5.07,
+      "end": 978.86
+    },
+    {
+      "index": 331,
+      "text": "I like to use arch and you can see it",
+      "start": 975.62,
+      "duration": 4.8,
+      "end": 980.42
+    },
+    {
+      "index": 332,
+      "text": "has a little design here to show you",
+      "start": 978.86,
+      "duration": 5.31,
+      "end": 984.17
+    },
+    {
+      "index": 333,
+      "text": "which measurement is is responsible for",
+      "start": 980.42,
+      "duration": 7.77,
+      "end": 988.1899999999999
+    },
+    {
+      "index": 334,
+      "text": "what so B which is the height from the",
+      "start": 984.17,
+      "duration": 7.95,
+      "end": 992.12
+    },
+    {
+      "index": 335,
+      "text": "base to the peak which is several feet",
+      "start": 988.19,
+      "duration": 6.6,
+      "end": 994.7900000000001
+    },
+    {
+      "index": 336,
+      "text": "I'm gonna make this eight feet all right",
+      "start": 992.12,
+      "duration": 7.17,
+      "end": 999.29
+    },
+    {
+      "index": 337,
+      "text": "and then the rise which is C which would",
+      "start": 994.79,
+      "duration": 7.08,
+      "end": 1001.87
+    },
+    {
+      "index": 338,
+      "text": "be from the start off the curve all the",
+      "start": 999.29,
+      "duration": 6.72,
+      "end": 1006.01
+    },
+    {
+      "index": 339,
+      "text": "way up to the peak is one foot so I have",
+      "start": 1001.87,
+      "duration": 5.97,
+      "end": 1007.84
+    },
+    {
+      "index": 340,
+      "text": "lifted it up a little bit so that the",
+      "start": 1006.01,
+      "duration": 6.69,
+      "end": 1012.7
+    },
+    {
+      "index": 341,
+      "text": "curve will come would come down and line",
+      "start": 1007.84,
+      "duration": 6.81,
+      "end": 1014.65
+    },
+    {
+      "index": 342,
+      "text": "up with this one over here right so I'm",
+      "start": 1012.7,
+      "duration": 3.78,
+      "end": 1016.48
+    },
+    {
+      "index": 343,
+      "text": "going to need this one has rectangle and",
+      "start": 1014.65,
+      "duration": 5.07,
+      "end": 1019.72
+    },
+    {
+      "index": 344,
+      "text": "then this one I'm Nikki barrage alright",
+      "start": 1016.48,
+      "duration": 8.79,
+      "end": 1025.27
+    },
+    {
+      "index": 345,
+      "text": "guys so that's what these are all doors",
+      "start": 1019.72,
+      "duration": 13.1,
+      "end": 1032.82
+    },
+    {
+      "index": 346,
+      "text": "no openings so so far so good",
+      "start": 1025.27,
+      "duration": 7.55,
+      "end": 1032.82
+    },
+    {
+      "index": 347,
+      "text": "[Music]",
+      "start": 1042.38,
+      "duration": 3.099,
+      "end": 1045.479
+    },
+    {
+      "index": 348,
+      "text": "alright guys so that wraps it up for",
+      "start": 1053.26,
+      "duration": 3.67,
+      "end": 1056.93
+    },
+    {
+      "index": 349,
+      "text": "this video I hope that you enjoyed it",
+      "start": 1055.43,
+      "duration": 3.9,
+      "end": 1059.3300000000002
+    },
+    {
+      "index": 350,
+      "text": "and hope you learned something today if",
+      "start": 1056.93,
+      "duration": 4.8,
+      "end": 1061.73
+    },
+    {
+      "index": 351,
+      "text": "you learned something drop a like and if",
+      "start": 1059.33,
+      "duration": 4.29,
+      "end": 1063.62
+    },
+    {
+      "index": 352,
+      "text": "you have any questions drop it in the",
+      "start": 1061.73,
+      "duration": 3.99,
+      "end": 1065.72
+    },
+    {
+      "index": 353,
+      "text": "comments below and don't forget to",
+      "start": 1063.62,
+      "duration": 3.03,
+      "end": 1066.6499999999999
+    },
+    {
+      "index": 354,
+      "text": "subscribe",
+      "start": 1065.72,
+      "duration": 4.7,
+      "end": 1070.42
+    },
+    {
+      "index": 355,
+      "text": "take care of yourself see",
+      "start": 1066.65,
+      "duration": 3.77,
+      "end": 1070.42
+    },
+    {
+      "index": 356,
+      "text": "[Music]",
+      "start": 1070.91,
+      "duration": 6.49,
+      "end": 1077.4
+    }
+  ],
+  "full_text": "hi everyone thank you for joining me and episode number five for one bedroom sins so in the last video we did was and of course you know we need we need to find a way to enter the house correct so in this video we're gonna be putting in our doors and our openings I wanted to do windows as well but the video will be a little bit too long so I'm gonna just cut it right there and then we do windows [Music] all right so before we get started what I want you to do is to get familiar with the different types of doors and windows it's important that you know how each type of your work and all each type of window work so without further ado let's get into it all right so here we are in autocad and the first thing i want to mention is that you don't need to worry about layers at this point because AutoCAD will generate your layers for you all right so for every tool that we use over here for instance last video we placed our wall AutoCAD creates a wall layer for us it gives us a color it gives us the line weight let me show you alright so here we are it gives us a color we can change the color it gives us the line tab and the line width all right the only thing I would probably change is the color if I'm gonna change anything I wouldn't change the line weight because the line width is actually a good line weight to use the recommended line width that AutoCAD gives is what we're gonna work with all right and it's the same thing when we create our doors we will get a layer four doors same thing for Windows and other other elements that we're gonna be creating all right without further ado let's begin so I'm gonna go back to our top view and I'm gonna go back to 2d wireframe so this is where we left off and we're gonna move forward from here if you look at the bottom right of your screen you're gonna see the door schedule so on this building we have three doors we have one at the entry here from the porch to the living the second door would be at the bedroom from your living room to the bedroom and then the third door would be from the bus from the living ear to the bathroom so we only have three simple doors on this house and then we have three openings as well we have one at the front here and we have one here and we have one to enter into the kitchen alright so the first thing we're gonna do is to put in our openings which is actually very very easy by the way if you need to this drawing you can download it from the link in the description as well as all the other materials that are related to this particular drawing so let's go so of course if you look under your tool palette which is right here again if you don't see this go to tools and click on content no sorry click on design tools alright and it should bring up your tool palette and under your tool palette we have a quite a few stuff and now we're doing doors under doors we do have this opening but this is not opening that we're looking for this is cased opening which means that this opening has a frame okay and we don't need a opening with a frame so where we want to find the right opening is we go back to design and we go down to the opening we can find it here or we can go to doors at the top here and we find it here is the same thing so I'm gonna use this one and the first thing we're gonna do here it says select a wall or enter so we're going to select this wall right here so we need a opening right there we need one right there we need one on this wall so that's the first thing we did was to just place our three openings of course if you knew the size we could set it over here before but sometimes we just have to do it free handed nothing is wrong with that minimize that and then what we're going to do is just stretch these out all right that's really simple I'm gonna stretch these out like that all right so that's good so we are left with a little square here which we're gonna use as a column in this corner and then we're going to fix this one if you look at the properties it is three feet wide and we need it to be four feet so let's fix that seven feet high that's good and everything is looks good so and then we're going to move it over into this corner so to go and grab our move tool and we're going to move it over like that so now all our openings are done let's look at it in 3d so now we can see that our openings have been created beautiful so now we can get on to the porch no we need to get into the house muscle all right bus let's get it back to the plant view before we move to the doors what I'm gonna do is to put these the openings on a hidden line layer all right so as a matter of fact a layer has been created for it already there we go so what we're gonna do is to open our layers palette you know if you can't find this this is the little guy that is responsible so you just click on that and it's gonna bring up your layers palette and then we're gonna go to opening and we're going to change it from continuous to hidden and then we're gonna minimize that so now you can see that your your arch are your openings are being represented by dotted lines which is what we want all right the next thing we're gonna do is to enter our doors all right so we go back to our tool palette I'm gonna stick it over I would go down to doors all right now if you look on the door schedule it says that door one which is located at the entryway right here is a single hinge six panel half-light all right now if you look over here I already have it in my pallet but I don't think you would have it in yours all right so where do you find it you would go to the more tools all right which would bring up more all right and in here you'll find a good amount of doors we have bifold double we have buy a full single these are the ones would use on that closet we have the keys open the one that we spoke about earlier know when you see double this means that that door is Dumbledore it has two doors swinging alright what we need is a single doors of the go across until we find single door and this is the one that I chose for this project you can go ahead I think this would be the more suitable one to use in Jamaica you know the six panel solid rock nobody can push it on back too easily this is the one you don't want to use alright any at all in Jamaica that is what I'm gonna just use this one for fun what you would do is to insert into your drawing or add to palette in this case I have already added it to my palette which is right here so I'm gonna just get rid of that so I click on it right here and then I'll go ahead and drop the door where I want it of course we could actually just click on any wall but we want it on this wall and we want it to be on the inside of it if I wanted it on the outside we could you know click on the outside there so when you click the door we could actually change the direction of the door by clicking these arrows alright and if you notice this door is too small that's because we did not set the size door that we wanted so this door should be three feet wide by seven feet high and we wanted to measure to the outside of the frame I'm going to explain that to you in a minute and then we want a swing to be 90 degrees all right if we change this to let's say 45 degrees you notice what happened over here the door is now at a 45 degree angle we could actually close the door if we want it to but we're going to leave it at 90 and everything else looks good alright so you can see the type of door that we have here that's the one that we need and we're gonna go ahead and we're gonna move it from here down to the corner there alright so that's all front door so what I wanted to explain to you is what is what does it mean by measure outside of the frame so if I should actually measure the width of this door which we set for a three feet it would measure to the outside of the frame all right in some instances you might want to put it on the inside of the frame which would mean that the three feet would measure on the inside of the frame okay guys so we're gonna leave it at outside and the next thing I'm gonna do is to Center this door in between these walls all right I know that on the drawing the door is exactly right here but we're gonna Center it on this wall for this project so let's go ahead and hit the center button up here and we're gonna hit enter twice one two once you hit Enter twice then we're gonna click on the first corner and then we're gonna click on the second corner and the door would automatically move to the center of the space this can be done with any thing in a drawing I could Center this wall using the same method between these two walls all right by right clicking going to a EC Center is the same thing all right so our first door has been placed let's go ahead and place our second door which is on the bedroom and this door is a single hinge now we don't need to search for this door because it's actually right here so we're gonna just click on it like so and let's do something let's actually pick the size that we need before we place it so the size we actually need is 3 feet by 7 and we're going to do a couple of adjustments let's say outside of frame perfect 90 degrees all right this time we're gonna actually put in some location now what I want is for the door to be exactly in the center this one this piece of wall right here from here to here alright so how do you do that we could actually change that to offset Center and I'm gonna change the justification to Center and how far from the center do you want it zero because you want it exactly in the center so we're going to let that be zero now we're just gonna click on this wall now if you'll notice if i zoom in a little bit you see those two measurement on the top on the bottom that it that says nine inches on both sides that's what I'm talking about so the door would snap to the exact center of the world any wall that I have so guess what if I put it on this wall the door automatically snap to the middle of the wall let me try another one so you can see look at that alright and this is what we're gonna do for our windows cuz all our windows will be centered in the wall all right so let's place this door right here again go ahead and flip the door like that by the way guys a general rule of thumb is to always flip your door or swing your door towards a wall okay you don't want your doors to be swinging up into the room like that this is poor design and it's a waste of space alright so if you'll notice on this building all doors are swinging towards a wall unless it's a very tight situation you just have to do what you have to do but always practice to swing your doors towards a wall alright so let's go ahead and create our third door which is the bathroom door now it's actually the same door so we could actually go ahead and click on that over there and then we're gonna set the size of the door which is what two feet eight inches and we're going to search for that in here by seven outside of frame 19 and this time I want to do it to be exactly here so what we could actually do is in down here is to say offset left okay now when you click on the wall the door would actually be adjusted exactly on the wall any side of the wall because I have the offset to be zero let's say I wanted the door three inches off of the wall I could actually type in three inches here three inches all right so three inches would you can know you can see that the door is offset at three inches from the corner of the wall all right so there we have it our three doors have been placed I know of course we can't leave without looking at it in 3d so of course let's go ahead and put it in 3d I'm gonna turn this into 3d and we're gonna make it perspective alright so that is it for this video guys except one thing that I'm gonna do and is to put a little arch here and it's pretty ain't pretty simple you click on the opening let's see if I can't click on it from here click on the opening aisle over here is the shape you could actually change it from rectangle to round if you change it to arch you can change it yeah we could change it to a lot of things all right just go ahead choose the one that you like and stick with it I like to use arch and you can see it has a little design here to show you which measurement is is responsible for what so B which is the height from the base to the peak which is several feet I'm gonna make this eight feet all right and then the rise which is C which would be from the start off the curve all the way up to the peak is one foot so I have lifted it up a little bit so that the curve will come would come down and line up with this one over here right so I'm going to need this one has rectangle and then this one I'm Nikki barrage alright guys so that's what these are all doors no openings so so far so good [Music] alright guys so that wraps it up for this video I hope that you enjoyed it and hope you learned something today if you learned something drop a like and if you have any questions drop it in the comments below and don't forget to subscribe take care of yourself see [Music]",
+  "total_segments": 357,
+  "total_duration": 1077.4,
+  "extraction_timestamp": "2025-07-11T13:15:52.776126",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

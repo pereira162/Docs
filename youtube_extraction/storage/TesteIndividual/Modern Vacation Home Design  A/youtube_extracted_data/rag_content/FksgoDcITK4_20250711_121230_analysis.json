@@ -1,0 +1,30 @@
+{
+  "statistics": {
+    "total_characters": 1428,
+    "total_words": 196,
+    "total_sentences": 1,
+    "average_words_per_segment": 1.3066666666666666,
+    "total_duration_minutes": 21.79765
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 7.895000000000039
+  },
+  "keywords": [
+    "music",
+    "foreign",
+    "applause",
+    "baby",
+    "thank",
+    "youll",
+    "dont",
+    "get",
+    "leave",
+    "laughter"
+  ],
+  "topics": [
+    "tecnologia"
+  ],
+  "sentiment": "neutral"
+}

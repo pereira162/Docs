@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "hi so this is episode 9 of our\none-bedroom house series and today we're\ngonna start working on our roof plan\ndesign so if you notice in each episode\nas we progress on this project things\nstart to get a little bit more technical\nand guess what this video is not an\nexception so you're gonna get into some\ndeeper stuff but don't worry it's not\nthat if you go when you break it down\nsimply enough all right so without\nfurther ado let's get into it all right\nso we're going to be modeling a hip roof\nfor",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 499,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "ght so without\nfurther ado let's get into it all right\nso we're going to be modeling a hip roof\nfor this house and of course there are\nmany types of roof as you can see in\nthis picture right here but we're\nsticking with probably the most popular\nand second most basic roof of our design\nwhich is the hip roof following right\nbehind the gable roof design it is\nimportant to note those that AutoCAD\ndoes not have the ability to auto\ngenerate a timber roof framing structure\nsomething that looks like th",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 500,
+    "word_count": 95,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "s not have the ability to auto\ngenerate a timber roof framing structure\nsomething that looks like this which\nwould include like each rafter each\ntruss and each roof member like the\nridge board and the hip rafters and all\nof that now there are other software's\nlike\narchicad our chief architect that has\nthe ability to do this AutoCAD is just\nnot one of those software however what\nAutoCAD is capable of doing is to model\na profile of the roof that looks\nsomething like this now this is a lot to\nmodel",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 500,
+    "word_count": 94,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "of doing is to model\na profile of the roof that looks\nsomething like this now this is a lot to\nmodel this is very detail so I would\nrather to simplify it to something that\nlooks more like this which is what we're\ngoing to be modeling in this drawing\ntoday the reason for doing this is so\nthat when we create our sectional views\nwe would be able to see the profile and\nall the materials that are present in\nthe roof all right so with that said\nlet's get into the video so the first\nthing we're going t",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "nt in\nthe roof all right so with that said\nlet's get into the video so the first\nthing we're going to be doing here is to\ngo back to our plan view top 2d\nwireframe now we need to find the roof\ntool which is actually right here under\nthe Home tab so you could go down and\nclick on a roof or we could go to the\ntool pallet and simply select it down\nhere as well we're gonna go ahead and\nclick on the tool and the first thing\nwe're gonna do is to draw a random roof\noutside here it doesn't matter the sh",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 500,
+    "word_count": 108,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "ol and the first thing\nwe're gonna do is to draw a random roof\noutside here it doesn't matter the shape\nor the size just draw something so no\ngood time to practice so just click 1 2\n3 4 something that looks like that good\nenough and what we're gonna do is to\nconvert this roof so this is considered\na layout of the roof it's actually not\nthe roof as yet so what we're going to\ndo to convert this by clicking on this\nbutton and we're converting it from what\nit is to a standard slab and we're gonna\ner",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "licking on this\nbutton and we're converting it from what\nit is to a standard slab and we're gonna\nerase this geometry so we're gonna hit\nOK and this is what the standard roof\nslab looks like what we're doing really\nis to create the profile first before we\nactually put it on the house so that's\nwhy we're doing this random one outside\nhere so we're gonna click on one of\nthese roof slab and we're gonna copy\nstyle this is how we create our own\nprofile by copying one and modifying it\nso we're copying",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 500,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "na copy\nstyle this is how we create our own\nprofile by copying one and modifying it\nso we're copying that style we're gonna\nchange the name to no standard roof\nprofile you could be more detailed\nof course but I'm just gonna do that for\nthis demonstration I'm gonna drag this\nup so we can see what we're looking at\nall right so we're gonna make our\nprofile look like what we have on the\nleft side of the screen so we should\nhave a rafter at the bottom we should\nhave this arcing in the middle and a\nro",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "he screen so we should\nhave a rafter at the bottom we should\nhave this arcing in the middle and a\nroof covering at the top okay so that's\nwhat\nwe want to see here so far we only have\none material which is this down here we\nneed to have some more so we're gonna\nadd them up here so this one we're gonna\nchange the name to rafters or rafter and\nthe thickness of the rafter should be\nwhat six inches make that zero click and\nwe're gonna make the offset to be zero\nas well and so now as we make changes w",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 500,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "e that zero click and\nwe're gonna make the offset to be zero\nas well and so now as we make changes we\ncan see the difference down here so far\nwe have the rafter on top of the the\nthis zero line I actually want a rafter\nto be in a negative side so we're gonna\njust turn this six into a minus six and\nboom just like that the rafter is now\ninside of the negative portion okay and\nit says zero here that's because it is\nalso resting on the zero line so we're\ngonna add our second material by\nclicking on",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 499,
+    "word_count": 105,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "s because it is\nalso resting on the zero line so we're\ngonna add our second material by\nclicking on the add component button\nhere the second one we're gonna call it\nthe psyching and the psyching is how\nthick three and a quarter inch this time\nit's going to be on the positive side so\nwe don't need a negative before it so\nnow you can see it popping up on top of\nthere after just like that I'm gonna add\nour third one which would be the roof\ncovering and we're giving the roof\ncovering a thickness of",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "dd\nour third one which would be the roof\ncovering and we're giving the roof\ncovering a thickness of three inches\nthree inches it can be two inches as\nwell or depending on the roof covering\nthat you're using\nso the typical zinc or galvanized sheet\nwould be more than like two inches and\nwe wanted to start on top of the circle\nwhich is already three three quarters so\nwe need to write the 3/4 here as well so\nwe have\noops let's go back to the front view so\nwe have the rafters below six inches\nthick t",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "well so\nwe have\noops let's go back to the front view so\nwe have the rafters below six inches\nthick to the zero mark then we have the\nsacking from zero to three quarters and\nwe have the roof covering starting at\nthe 3/4 up to the three inches and\nthat's it we're gonna hit OK and we're\ngood to go\nso now we can go ahead and draw our roof\non top of this so we're gonna go ahead\nand click here and we're gonna go and go\nto roof and just go ahead and draw your\nalright so we're gonna click the first\ncorn",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 500,
+    "word_count": 107,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "gonna go and go\nto roof and just go ahead and draw your\nalright so we're gonna click the first\ncorner here and we always draw the roof\non the exterior of the wall and the roof\nshould always be on a load-bearing wall\nso all of these walls on this house are\nload-bearing so we're good\nclick here back down to the third corner\nand as we draw you can see the roof\ncoming together I'm gonna click over\nhere and that's about it we can hit\nenter so now you can see that we have a\nnice hip roof on top of th",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 499,
+    "word_count": 105,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "re and that's about it we can hit\nenter so now you can see that we have a\nnice hip roof on top of the house we can\nmake this a gable roof if we want we\ncould just click on it like that and\ndrag these points outwards like so all\nright so now this side becomes gable and\nof course we could make this side gable\nas well by pulling it out like that all\nright what we're gonna be using the hip\nstyle roof so I undo that back to the\nhip roof I'm gonna go to the front view\nlike so by the way let's delete t",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 500,
+    "word_count": 111,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "so I undo that back to the\nhip roof I'm gonna go to the front view\nlike so by the way let's delete this we\ndon't need this anymore all right so we\ngo back to the front view and I want to\njust show you a couple of things here\nlet me put this in\nright so we can change a couple of\nthings about this roof after the fact we\ncan actually change the thickness of the\nroof which would be how thick the roof\nis we could change the edge cut which is\nthe cut of the edge from square to plum\nand plum is what lo",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 500,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "is we could change the edge cut which is\nthe cut of the edge from square to plum\nand plum is what looks like this I mean\nyou know the regular stuff but I'm gonna\nleave it on square the Metallica stand\nthe overhang is 1 foot which is usually\nwhat we use in Jamaica so the overhang\nis from the edge of the wall to where\nthe roof ends okay and we have the plate\nheight and in order for me to show you\nthe plate height I'm gonna have to go\nback into the 2d the plate ad is right\nwhere the wall meets the",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 499,
+    "word_count": 107,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "e plate height I'm gonna have to go\nback into the 2d the plate ad is right\nwhere the wall meets the roof okay\nso right here is the plate height so the\nplate right as you can see is 10 feet\nwhich is the same height of the wall so\nthe wall is also 10 feet tall\nwe need the roof to sit exactly on top\nof the wall just like that so the plate\nheight also need to be 10 feet and then\nfinally we can change the slope of the\nroof if we want we can make it 45\ndegrees and of course the more degrees\nyou add th",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 500,
+    "word_count": 112,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "the slope of the\nroof if we want we can make it 45\ndegrees and of course the more degrees\nyou add the higher the roof will get so\nwe don't want to do that but they're not\ntrying to bring it down to 30 degrees\nand it should look something like that\nso once you're satisfied with how the\nroof is laid out then we're gonna go\nback to our top view to D and we're\nsatisfied with how the roof is laid out\nnow is the time to convert the roof okay\nyou do not convert if you're not\nsatisfied so we're satisfie",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 500,
+    "word_count": 105,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "ow is the time to convert the roof okay\nyou do not convert if you're not\nsatisfied so we're satisfied we're gonna\nconvert and you know this is where we\nwould select the one that we had created\nearlier\nso we're gonna sneak that we're gonna\nhear hit the erase button to erase this\none I'm gonna say okay and just like\nthat if I should go to 3d we can see\nthat our roof is now the one that we did\nit has the profile it has the rafter\ndown here it has the Tsar king and it\nalso has the roof covering on t",
+    "start_char": 7600,
+    "end_char": 8100,
+    "char_count": 500,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "the profile it has the rafter\ndown here it has the Tsar king and it\nalso has the roof covering on top of it\nokay and yeah that's that's what we want\nput it in x-ray so we can see it a\nlittle better so what we're gonna do\nnext is to add a fascia board on on the\nedge of these roof okay so let's go back\nto top view 2d and our fascia board\nshould be 1 inch by 10 inch so what\nwe're gonna do is to draw a box anywhere\nsomewhere polyline that box should\nmeasure 1 inches by 10 inches of course\nyou have",
+    "start_char": 8000,
+    "end_char": 8500,
+    "char_count": 498,
+    "word_count": 109,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "a box anywhere\nsomewhere polyline that box should\nmeasure 1 inches by 10 inches of course\nyou have different size fascia boards so\nyou'd go ahead and draw the one that you\nwould prefer gonna click close the box\nand we're going to click on the box and\nwe're going to right click and go down\nto convert to profile definition just\nlike that it says here select your\ninsertion point so we're gonna select\nthe top left corner as the insertion\npoint then it says do we want to create\na new one or add it t",
+    "start_char": 8400,
+    "end_char": 8900,
+    "char_count": 499,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "t\nthe top left corner as the insertion\npoint then it says do we want to create\na new one or add it to an existing one\nwe want to create any one\nnow we're gonna call this standard 1 by\n10 fascia profile\nokay and just like that we can now add\nit to the edge of our roof so how do we\ndo that we're gonna click on this go to\nedit style we're gonna go down to roof\nslab edge style so modifying the edge of\nthe roof and we need to get it inside of\nhere okay so it's pretty simple we're\ngonna copy this one",
+    "start_char": 8800,
+    "end_char": 9300,
+    "char_count": 499,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "the roof and we need to get it inside of\nhere okay so it's pretty simple we're\ngonna copy this one and we're gonna\npaste it and we're gonna rename it to\nstandard one by ten fish proof you can\nadd a description if you want and then\nwe go to default and we would turn these\noff go over to design rules and then\nwe're gonna add the fascia okay so we\ncheck it and we go and select the one\nthat we just create so we're gonna click\non that and we're gonna uncheck this you\ncan if you want\nI usually just u",
+    "start_char": 9200,
+    "end_char": 9700,
+    "char_count": 499,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "reate so we're gonna click\non that and we're gonna uncheck this you\ncan if you want\nI usually just uncheck it cuz I would I\ndon't want it to auto adjust and here we\ncan also add a soffit\nwhich would look something like this we\ncould actually create our own soffit\nprofile and add it inside here just like\nwe did with the fascia profile alright\nonce that is done guys that's it you hit\nOK and now we need to add that fascia\nboard to the edge of these roof all\nright so that's what we're gonna do I'm\ng",
+    "start_char": 9600,
+    "end_char": 10100,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "eed to add that fascia\nboard to the edge of these roof all\nright so that's what we're gonna do I'm\ngonna do this box so I'm gonna go to 3d\nso that you can see see it as it\nhappened all right\nfirst age I'm gonna do is this one so\nthis particle this side of the roof has\nthree edges and we want to add it to\nthis edge right here so we're gonna\nclick on that roof and we're gonna go to\nedges over here and we want to change\nthe first edge style to the one that we\ncreate okay\njust like that okay now it",
+    "start_char": 10000,
+    "end_char": 10500,
+    "char_count": 499,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "nd we want to change\nthe first edge style to the one that we\ncreate okay\njust like that okay now it has a fascia\nboard on it can you see that going to do\nthe same thing for this one\nedge go to the first one add the fascia\nboard to it we're gonna do the same\nthing around here edge finish the board\njust like that\nI'm in for the last one which is this\nguy right here I'm gonna do the same\nthing yep yep just like that so now all\nfour edges of our roof has the fascia\nboard added to it let me go perspe",
+    "start_char": 10400,
+    "end_char": 10900,
+    "char_count": 500,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "p just like that so now all\nfour edges of our roof has the fascia\nboard added to it let me go perspective\nalright so there we can see that our\nroof is now complete\nnow there's one thing that I also wanted\nto do which was to make this wall in the\nmiddle let me show you this wall I want\nto make this wall so that it goes all\nthe way up underneath this roof to\nsupport the roof we don't have to do it\nbut I just want to show you how to get\nthat done okay and the same principle\nwould apply if we're usi",
+    "start_char": 10800,
+    "end_char": 11300,
+    "char_count": 500,
+    "word_count": 109,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "ut I just want to show you how to get\nthat done okay and the same principle\nwould apply if we're using a gable roof\nwhere if the roof goes up in goes up\nlike a gable roof you would need this\nwall to go up underneath that roof and\nit's pretty simple alright so what we're\ngonna do is to click on the wall like\njust like that now we're gonna go up\nhere where it says where is it roof line\nand we're gonna see modify roof no\nmodifier roof line if you're not seeing\nit here you could actually just right",
+    "start_char": 11200,
+    "end_char": 11700,
+    "char_count": 499,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "na see modify roof no\nmodifier roof line if you're not seeing\nit here you could actually just right\nclick and go to roof line modify roof\nline don't you do that we're gonna say\nAuto project so I wanted to auto project\nand we need to select the objects that\nwe want\n- project - I wanted to project this\nwall to this roof rather as well as this\none around here so you need to select\nthese two hoops to reflect this one just\nlike that and then we're gonna hit enter\nand it's done it's done you can't see",
+    "start_char": 11600,
+    "end_char": 12100,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

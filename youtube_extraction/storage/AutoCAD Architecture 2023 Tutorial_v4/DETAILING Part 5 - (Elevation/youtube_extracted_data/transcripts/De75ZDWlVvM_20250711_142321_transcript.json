@@ -1,0 +1,1509 @@
+{
+  "video_id": "De75ZDWlVvM",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Hi everybody, welcome back to the channel.",
+      "start": 0.0,
+      "end": 25.44,
+      "duration": 25.44
+    },
+    {
+      "index": 1,
+      "text": "Thank you for joining and today what I'm going to be showing you is how to get your elevation",
+      "start": 25.44,
+      "end": 30.48,
+      "duration": 5.039999999999999
+    },
+    {
+      "index": 2,
+      "text": "views to look for a little bit in our mean, make them look so much better than this.",
+      "start": 30.48,
+      "end": 36.72,
+      "duration": 6.239999999999998
+    },
+    {
+      "index": 3,
+      "text": "So we have a tournament this.",
+      "start": 36.72,
+      "end": 41.760000000000005,
+      "duration": 5.040000000000006
+    },
+    {
+      "index": 4,
+      "text": "Yes, so there's a lot to unpack in this video today that is why it is a little bit longer",
+      "start": 41.760000000000005,
+      "end": 45.84,
+      "duration": 4.079999999999998
+    },
+    {
+      "index": 5,
+      "text": "than the usual stuff in our mean but I'm sure you're going to learn something and guess",
+      "start": 45.84,
+      "end": 50.480000000000004,
+      "duration": 4.640000000000001
+    },
+    {
+      "index": 6,
+      "text": "what if you did you know what to do? Hit the like button drop a comment",
+      "start": 50.480000000000004,
+      "end": 55.120000000000005,
+      "duration": 4.640000000000001
+    },
+    {
+      "index": 7,
+      "text": "and guess what if you didn't subscribe it? No, it's the right time to subscribe and hit the bell",
+      "start": 55.44,
+      "end": 60.48,
+      "duration": 5.039999999999999
+    },
+    {
+      "index": 8,
+      "text": "that is the only way you're going to know that another video comes out when it does.",
+      "start": 60.48,
+      "end": 65.28,
+      "duration": 4.800000000000004
+    },
+    {
+      "index": 9,
+      "text": "You know what I mean? Well, you might not be the only one who you bought. You don't know it.",
+      "start": 65.28,
+      "end": 67.92,
+      "duration": 2.6400000000000006
+    },
+    {
+      "index": 10,
+      "text": "Just subscribe. All right, without further ado, let's get into it.",
+      "start": 69.36,
+      "end": 73.6,
+      "duration": 4.239999999999995
+    },
+    {
+      "index": 11,
+      "text": "All right, so here we are back in our Takaar architecture and today we want to enhance and finalize",
+      "start": 73.6,
+      "end": 80.96,
+      "duration": 7.359999999999999
+    },
+    {
+      "index": 12,
+      "text": "our elevation views. So as you can see here, this is what they currently look like.",
+      "start": 80.96,
+      "end": 86.55999999999999,
+      "duration": 5.599999999999994
+    },
+    {
+      "index": 13,
+      "text": "What we want to do is to get them to look like what we have in this image right here where we have",
+      "start": 86.55999999999999,
+      "end": 92.88,
+      "duration": 6.320000000000007
+    },
+    {
+      "index": 14,
+      "text": "added some annotations, dimensions and we have also removed the wall hatch pattern. Also,",
+      "start": 92.88,
+      "end": 99.44,
+      "duration": 6.560000000000002
+    },
+    {
+      "index": 15,
+      "text": "we've added some trees in the background to give some depth to the elevation views.",
+      "start": 99.44,
+      "end": 104.88,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 16,
+      "text": "Now bear in mind, trees are not necessary in an elevation view for working drawing purposes,",
+      "start": 104.88,
+      "end": 111.28,
+      "duration": 6.400000000000006
+    },
+    {
+      "index": 17,
+      "text": "but just in case you need to do elevation views for presentation purposes. Then I'm going to",
+      "start": 111.28,
+      "end": 117.92,
+      "duration": 6.640000000000001
+    },
+    {
+      "index": 18,
+      "text": "be showing you how to do that in this video today. So let's go over back to AutoCAD and this is where we are",
+      "start": 117.92,
+      "end": 125.03999999999999,
+      "duration": 7.11999999999999
+    },
+    {
+      "index": 19,
+      "text": "at. Now if you don't know how to create these elevation views, I have a video back in episode 12.",
+      "start": 125.03999999999999,
+      "end": 131.35999999999999,
+      "duration": 6.319999999999993
+    },
+    {
+      "index": 20,
+      "text": "So we would be able to find these views in our project navigator underneath our section and elevation",
+      "start": 131.44000000000003,
+      "end": 138.0,
+      "duration": 6.559999999999974
+    },
+    {
+      "index": 21,
+      "text": "folder. Of course, we have them right here and we also have our two section of views. So that out of",
+      "start": 138.0,
+      "end": 144.72000000000003,
+      "duration": 6.720000000000027
+    },
+    {
+      "index": 22,
+      "text": "the way, let's get right into this. No, what I want you to understand is that your elevation views",
+      "start": 144.72000000000003,
+      "end": 151.20000000000002,
+      "duration": 6.47999999999999
+    },
+    {
+      "index": 23,
+      "text": "are direct reflection of what you draw in your drawing. So for those of you who are new here,",
+      "start": 151.20000000000002,
+      "end": 157.36,
+      "duration": 6.159999999999997
+    },
+    {
+      "index": 24,
+      "text": "this drawing is actually a 3D drawing. And so whatever is being done in this 3D drawing is what you're",
+      "start": 157.44000000000003,
+      "end": 166.24,
+      "duration": 8.799999999999983
+    },
+    {
+      "index": 25,
+      "text": "going to see over here. What that means is that the more accurate you do this drawing over here,",
+      "start": 166.24,
+      "end": 171.60000000000002,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 26,
+      "text": "then the more accurate your elevation views will be. Also, the more details you add to this drawing,",
+      "start": 171.60000000000002,
+      "end": 178.08,
+      "duration": 6.47999999999999
+    },
+    {
+      "index": 27,
+      "text": "such as let's say window moldings, you know, roof gutters and stuff like that. The more you add to",
+      "start": 178.08,
+      "end": 184.08,
+      "duration": 6.0
+    },
+    {
+      "index": 28,
+      "text": "your drawing, then the more detail your elevation views. And also your section views will be. Of course,",
+      "start": 184.08,
+      "end": 191.36,
+      "duration": 7.280000000000001
+    },
+    {
+      "index": 29,
+      "text": "this is a very basic video. So we're not going to get into all of that crazy details. Maybe a future",
+      "start": 191.36,
+      "end": 197.60000000000002,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 30,
+      "text": "video we'll talk about that. All right. So the next thing we want to do here is to remove",
+      "start": 197.60000000000002,
+      "end": 202.16000000000003,
+      "duration": 4.560000000000002
+    },
+    {
+      "index": 31,
+      "text": "hatching on these walls. They are very, very annoying. So let's go ahead and click on one of these views.",
+      "start": 202.16000000000003,
+      "end": 208.48000000000002,
+      "duration": 6.319999999999993
+    },
+    {
+      "index": 32,
+      "text": "We're going to go to edit style and we're going to go over to design properties. Click on that",
+      "start": 208.56,
+      "end": 213.92,
+      "duration": 5.359999999999985
+    },
+    {
+      "index": 33,
+      "text": "button underneath layers. We're going to go down to hatch our rather surface hatch line work",
+      "start": 213.92,
+      "end": 220.07999999999998,
+      "duration": 6.159999999999997
+    },
+    {
+      "index": 34,
+      "text": "and we're going to turn that bad boy off. Okay. Okay. And just like that, all surface hatching will",
+      "start": 220.07999999999998,
+      "end": 228.39999999999998,
+      "duration": 8.319999999999993
+    },
+    {
+      "index": 35,
+      "text": "be turned off. So if you notice it applies that to all our elevation. So we have nothing to worry about.",
+      "start": 228.39999999999998,
+      "end": 234.07999999999998,
+      "duration": 5.680000000000007
+    },
+    {
+      "index": 36,
+      "text": "Let's move to the next step. All right. What I want to do is to bring in to this drawing our site",
+      "start": 234.16000000000003,
+      "end": 240.96,
+      "duration": 6.799999999999983
+    },
+    {
+      "index": 37,
+      "text": "plan. Because if you remember in past episodes, I'm going to link it below. If you missed it,",
+      "start": 240.96,
+      "end": 246.56,
+      "duration": 5.599999999999994
+    },
+    {
+      "index": 38,
+      "text": "we drew a site plan, as you can see here. And it has a couple of 3D elements to it. You know,",
+      "start": 246.56,
+      "end": 253.36,
+      "duration": 6.800000000000011
+    },
+    {
+      "index": 39,
+      "text": "we have some trees and we have a car and so on and so forth. So if we bring this into our elevation view,",
+      "start": 253.36,
+      "end": 260.0,
+      "duration": 6.639999999999986
+    },
+    {
+      "index": 40,
+      "text": "we should be able to see those trees and car reflected in our elevation views. All right. So what",
+      "start": 260.08,
+      "end": 266.64,
+      "duration": 6.560000000000002
+    },
+    {
+      "index": 41,
+      "text": "I'm going to do here is to just exit this back off. I'm not going to save it. What I will do is go back",
+      "start": 266.64,
+      "end": 271.84,
+      "duration": 5.199999999999989
+    },
+    {
+      "index": 42,
+      "text": "to my project navigator, go to construct and on your site plan, we're going to right click and we're",
+      "start": 271.84,
+      "end": 278.08,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 43,
+      "text": "going to say Xref overlay. And just like that, we have the site drawing included in this drawing.",
+      "start": 278.08,
+      "end": 285.68,
+      "duration": 7.600000000000023
+    },
+    {
+      "index": 44,
+      "text": "And what that allows us to do is to reflect those onto these drawings now. So we're going to",
+      "start": 285.68,
+      "end": 293.2,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 45,
+      "text": "highlight them all and we're going to hit refresh. And just like that, as you can see, no trees are",
+      "start": 293.2,
+      "end": 301.6,
+      "duration": 8.400000000000034
+    },
+    {
+      "index": 46,
+      "text": "in the elevation views cars. Well, one car is in the view as well. And it would be seen in all",
+      "start": 301.6,
+      "end": 309.68,
+      "duration": 8.079999999999984
+    },
+    {
+      "index": 47,
+      "text": "the other views. All right. Now, if you notice the trees are being cut off. And that's because",
+      "start": 310.0,
+      "end": 316.24,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 48,
+      "text": "the view is not wide enough to capture everything. So if we go back over to this 3D drawing,",
+      "start": 316.88,
+      "end": 324.48,
+      "duration": 7.600000000000023
+    },
+    {
+      "index": 49,
+      "text": "you will notice that we have these lines here representing the views. Whatever is within this box",
+      "start": 324.48,
+      "end": 332.16,
+      "duration": 7.680000000000007
+    },
+    {
+      "index": 50,
+      "text": "is what will show up here. So what that means, if we want to see everything, what we have to",
+      "start": 332.72,
+      "end": 338.16,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 51,
+      "text": "do is to widen the box. But before we move ahead and the box, I will actually want to move",
+      "start": 338.16,
+      "end": 344.40000000000003,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 52,
+      "text": "these over because I don't know if you noticed, but my site plan is coming over into the drawing",
+      "start": 344.40000000000003,
+      "end": 350.48,
+      "duration": 6.079999999999984
+    },
+    {
+      "index": 53,
+      "text": "on this. All right. All right. So those are moved over looking good. So now we can widen this box",
+      "start": 350.48,
+      "end": 365.28000000000003,
+      "duration": 14.800000000000011
+    },
+    {
+      "index": 54,
+      "text": "out some more. So let's go ahead and start with the left elevation. Let's capture everything",
+      "start": 365.35999999999996,
+      "end": 374.0,
+      "duration": 8.640000000000043
+    },
+    {
+      "index": 55,
+      "text": "down to this point here. And if you notice guys, this line represents the left elevation and everything",
+      "start": 374.0,
+      "end": 383.84,
+      "duration": 9.839999999999975
+    },
+    {
+      "index": 56,
+      "text": "within this box will show up on our left elevation. So if I go back to my left elevation here",
+      "start": 383.84,
+      "end": 391.91999999999996,
+      "duration": 8.079999999999984
+    },
+    {
+      "index": 57,
+      "text": "and I refresh. Now I'm seeing everything that was within that box. All right. So that's what",
+      "start": 392.0,
+      "end": 400.08000000000004,
+      "duration": 8.080000000000041
+    },
+    {
+      "index": 58,
+      "text": "I want to do with all of these lines. So I'm going to move this. This would represent the back",
+      "start": 400.08000000000004,
+      "end": 404.72,
+      "duration": 4.639999999999986
+    },
+    {
+      "index": 59,
+      "text": "elevation. Move that up and I'm going to widen this out. By the way, when you're widening these",
+      "start": 404.72,
+      "end": 412.56,
+      "duration": 7.839999999999975
+    },
+    {
+      "index": 60,
+      "text": "out, please make sure that your are from all this turned on because what you don't want to do is to",
+      "start": 412.56,
+      "end": 416.64,
+      "duration": 4.079999999999984
+    },
+    {
+      "index": 61,
+      "text": "widen it and it looks something like that. All right. So on do turn on my off a more this turn on",
+      "start": 416.71999999999997,
+      "end": 424.15999999999997,
+      "duration": 7.439999999999998
+    },
+    {
+      "index": 62,
+      "text": "all right. Pull this out and I'm going to pull this down. All right. So everything within this box",
+      "start": 424.15999999999997,
+      "end": 432.47999999999996,
+      "duration": 8.319999999999993
+    },
+    {
+      "index": 63,
+      "text": "will be seen. And then I'm going to move this one out like that. You know what? It's not necessary",
+      "start": 432.47999999999996,
+      "end": 441.12,
+      "duration": 8.640000000000043
+    },
+    {
+      "index": 64,
+      "text": "to collect them. And I'm going to also move this one. This one here. Back to about here. And I'm going",
+      "start": 441.12,
+      "end": 453.28000000000003,
+      "duration": 12.160000000000025
+    },
+    {
+      "index": 65,
+      "text": "to widen them out a little bit. But I'll go a little bit. All right. So now it's not all very neat, but",
+      "start": 453.28000000000003,
+      "end": 461.84000000000003,
+      "duration": 8.560000000000002
+    },
+    {
+      "index": 66,
+      "text": "it doesn't matter once it captures everything. We're going to refresh them all. And now you can see",
+      "start": 461.84000000000003,
+      "end": 469.44,
+      "duration": 7.599999999999966
+    },
+    {
+      "index": 67,
+      "text": "all our elevations are pulling those information. One thing you definitely don't want is any",
+      "start": 470.0,
+      "end": 476.64,
+      "duration": 6.639999999999986
+    },
+    {
+      "index": 68,
+      "text": "object to block the building, especially if these are working drawings. Drawings that there",
+      "start": 476.64,
+      "end": 483.76,
+      "duration": 7.1200000000000045
+    },
+    {
+      "index": 69,
+      "text": "are your carpenter and your Mason and the contract is going to use. You definitely don't want these",
+      "start": 483.76,
+      "end": 489.2,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 70,
+      "text": "to be blocking. But if you're doing a presentation drawing, then of course you can have it like that.",
+      "start": 489.2,
+      "end": 495.12,
+      "duration": 5.920000000000016
+    },
+    {
+      "index": 71,
+      "text": "In this scenario we don't want it. So what I'm going to do is to move these back in front of",
+      "start": 496.0,
+      "end": 504.0,
+      "duration": 8.0
+    },
+    {
+      "index": 72,
+      "text": "those objects. So I kind of put it in front of the car. So I don't see the car. For this one, I want to",
+      "start": 504.0,
+      "end": 510.88,
+      "duration": 6.8799999999999955
+    },
+    {
+      "index": 73,
+      "text": "put it in front of those trees like that tree right there. And I want to see it like wise for the",
+      "start": 510.88,
+      "end": 517.92,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 74,
+      "text": "back elevation. I don't want to see those trees. And for this side, I guess this side is good.",
+      "start": 517.92,
+      "end": 523.92,
+      "duration": 6.0
+    },
+    {
+      "index": 75,
+      "text": "Nothing is really blocking the building. So that would be good. Then I would go ahead and refresh.",
+      "start": 523.92,
+      "end": 529.76,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 76,
+      "text": "So now you can see that those trees are gone. For this view, now we can see the door",
+      "start": 532.16,
+      "end": 537.8399999999999,
+      "duration": 5.67999999999995
+    },
+    {
+      "index": 77,
+      "text": "clearly, which is important. And for the front view, there's no tree in front of the house. But then we",
+      "start": 537.8399999999999,
+      "end": 543.52,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 78,
+      "text": "also have those in the back, which we're going to be using to add depth to this drawing. All right.",
+      "start": 543.52,
+      "end": 549.76,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 79,
+      "text": "So what I'm going to do from this point is to drop the ground six inches down. All right. Now",
+      "start": 549.76,
+      "end": 556.88,
+      "duration": 7.1200000000000045
+    },
+    {
+      "index": 80,
+      "text": "if you notice currently, it is in the same line as our finished floor level. And that's not good.",
+      "start": 556.88,
+      "end": 563.52,
+      "duration": 6.639999999999986
+    },
+    {
+      "index": 81,
+      "text": "What I mean is if I should go to 3D view, this matter of fact, let's go to",
+      "start": 563.52,
+      "end": 567.84,
+      "duration": 4.32000000000005
+    },
+    {
+      "index": 82,
+      "text": "concept to it. Where it's a little bit easier to see. So the ground level is on the same level as",
+      "start": 568.88,
+      "end": 574.56,
+      "duration": 5.67999999999995
+    },
+    {
+      "index": 83,
+      "text": "the finished floor level, which is in the house, which simply means every and far, what are",
+      "start": 574.64,
+      "end": 579.28,
+      "duration": 4.639999999999986
+    },
+    {
+      "index": 84,
+      "text": "going to go in there also, you need to drop this. So what we're going to do is to click on it, go over to",
+      "start": 579.28,
+      "end": 584.3199999999999,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 85,
+      "text": "where you see insertion point z. I'm going to take away six inches from this, three feet,",
+      "start": 584.3199999999999,
+      "end": 592.0,
+      "duration": 7.680000000000064
+    },
+    {
+      "index": 86,
+      "text": "six inches. We're going to hit enter. And so that is being dropped six inches below. So now if we",
+      "start": 593.1999999999999,
+      "end": 601.5999999999999,
+      "duration": 8.399999999999977
+    },
+    {
+      "index": 87,
+      "text": "rotate, we can actually see that the ground level is now below the finished floor level. And so let's",
+      "start": 601.6800000000001,
+      "end": 609.2,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 88,
+      "text": "go back to 2D wire frame. Let's also go back to our top view and then we're going to refresh.",
+      "start": 609.2,
+      "end": 616.08,
+      "duration": 6.8799999999999955
+    },
+    {
+      "index": 89,
+      "text": "And if you look at it now, we can see that the ground has no been depressed six inches,",
+      "start": 618.96,
+      "end": 625.76,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 90,
+      "text": "which is exactly what we want. What we're left to do is to just modify our elevation views.",
+      "start": 625.92,
+      "end": 631.92,
+      "duration": 6.0
+    },
+    {
+      "index": 91,
+      "text": "Now I'm going to modify a one. And then of course, you would apply those principles to your",
+      "start": 631.92,
+      "end": 637.68,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 92,
+      "text": "other elevation views. Don't think I would have enough time to go through all of them. But let's",
+      "start": 637.68,
+      "end": 643.36,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 93,
+      "text": "see what we can do. So I'm going to do this one in particular. This is the right elevation.",
+      "start": 643.36,
+      "end": 648.48,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 94,
+      "text": "Mainly because it has the door none of my other views actually have a door on it. So",
+      "start": 648.48,
+      "end": 655.36,
+      "duration": 6.8799999999999955
+    },
+    {
+      "index": 95,
+      "text": "I want to do this because you know, I want to give an example of a door. So what we're going to do",
+      "start": 655.36,
+      "end": 661.76,
+      "duration": 6.399999999999977
+    },
+    {
+      "index": 96,
+      "text": "is we actually can click on the elevation view. Let's widen this out some more.",
+      "start": 661.76,
+      "end": 666.96,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 97,
+      "text": "All right to capture everything. And then what we can actually do from here is to we can",
+      "start": 668.24,
+      "end": 674.4,
+      "duration": 6.159999999999968
+    },
+    {
+      "index": 98,
+      "text": "explore it. All right, that's one way to do it. So if we do explore it and then we have to explore it",
+      "start": 674.4,
+      "end": 681.04,
+      "duration": 6.639999999999986
+    },
+    {
+      "index": 99,
+      "text": "another time, we would be able to select the line and delete what we don't want, you know,",
+      "start": 681.12,
+      "end": 687.68,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 100,
+      "text": "and add stuff that we want. And this would be like the more traditional way of doing it.",
+      "start": 687.68,
+      "end": 692.64,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 101,
+      "text": "Like we used to do it. Right. And sometimes this is necessary. But for this video, I want to",
+      "start": 692.64,
+      "end": 698.0,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 102,
+      "text": "show you another method. So I'm going to undo back to this position. And then we're going to go ahead",
+      "start": 698.0,
+      "end": 703.76,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 103,
+      "text": "and edit this elevation view by clicking on the edit button up here. And no, as you can see, we",
+      "start": 703.76,
+      "end": 710.3199999999999,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 104,
+      "text": "can actually click on lines and delete lines. One thing you cannot do here is to like say move a line.",
+      "start": 710.4000000000001,
+      "end": 717.36,
+      "duration": 6.959999999999923
+    },
+    {
+      "index": 105,
+      "text": "You can't move the line or you cannot length a line. All right, but don't worry. Let's know",
+      "start": 717.36,
+      "end": 723.2,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 106,
+      "text": "problem. So we're going to delete the foundation, of course. We're going to also delete this line",
+      "start": 723.2,
+      "end": 728.4000000000001,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 107,
+      "text": "because I want it to make it a little bit more customizable. And then we're going to go ahead and hit",
+      "start": 728.4000000000001,
+      "end": 734.0,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 108,
+      "text": "finish. And so this is what we're left with. Now what we want to do is to go ahead and use lines and draw",
+      "start": 734.0,
+      "end": 739.6800000000001,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 109,
+      "text": "the areas that we want to draw. So the first thing I'm going to draw is this line right here,",
+      "start": 740.4000000000001,
+      "end": 744.88,
+      "duration": 4.4799999999999045
+    },
+    {
+      "index": 110,
+      "text": "which would represent our finished floor level. And then we're going to disconnect these walls",
+      "start": 744.88,
+      "end": 750.08,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 111,
+      "text": "back into the ground with another line. Just like that. All right. So once we have those three lines",
+      "start": 750.08,
+      "end": 755.5200000000001,
+      "duration": 5.440000000000055
+    },
+    {
+      "index": 112,
+      "text": "in place, what we're going to do is to merge it with the current elevation. So we're going to hit",
+      "start": 755.5200000000001,
+      "end": 761.0400000000001,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 113,
+      "text": "merge and we're going to select the elevation along with those lines that we drew. I'm going to hit",
+      "start": 761.0400000000001,
+      "end": 768.24,
+      "duration": 7.199999999999932
+    },
+    {
+      "index": 114,
+      "text": "enter and we're going to basically match those lines to look like the wall. So we click on the wall",
+      "start": 768.32,
+      "end": 776.96,
+      "duration": 8.639999999999986
+    },
+    {
+      "index": 115,
+      "text": "and it changes to the wall component. Hit OK. And so now those lines basically take on the same",
+      "start": 776.96,
+      "end": 785.36,
+      "duration": 8.399999999999977
+    },
+    {
+      "index": 116,
+      "text": "component as the walls. All right. The next thing I want to do, I'm going to actually draw",
+      "start": 785.36,
+      "end": 791.6800000000001,
+      "duration": 6.32000000000005
+    },
+    {
+      "index": 117,
+      "text": "two other lines, one here, going across and another one here, going across.",
+      "start": 791.6800000000001,
+      "end": 797.04,
+      "duration": 5.3599999999999
+    },
+    {
+      "index": 118,
+      "text": "And that would represent my finished floor level going through the building. So we're going to add",
+      "start": 798.0,
+      "end": 804.48,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 119,
+      "text": "those again merge. I'm going to select those two lines as well as the elevation. And we're going",
+      "start": 804.48,
+      "end": 810.0799999999999,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 120,
+      "text": "to hit enter. This time we're going to change the component to what is called a hidden vector. Because",
+      "start": 810.0799999999999,
+      "end": 815.5999999999999,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 121,
+      "text": "those lines I want to be in a hidden line. All right. And as you notice, we have quite a number of",
+      "start": 815.5999999999999,
+      "end": 821.12,
+      "duration": 5.5200000000000955
+    },
+    {
+      "index": 122,
+      "text": "options here to choose from. We have section hatched. That is if you were going to use hatching.",
+      "start": 821.12,
+      "end": 825.76,
+      "duration": 4.639999999999986
+    },
+    {
+      "index": 123,
+      "text": "We have subdivisions which we can assign different things to. And later on you'll see that",
+      "start": 825.76,
+      "end": 832.72,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 124,
+      "text": "actually we're using one of these. All right. So let's stick with hidden vectors here. Hit OK.",
+      "start": 832.72,
+      "end": 838.64,
+      "duration": 5.919999999999959
+    },
+    {
+      "index": 125,
+      "text": "And know those lines have actually become a part of the elevation. And have also taken on a hidden",
+      "start": 838.64,
+      "end": 845.04,
+      "duration": 6.399999999999977
+    },
+    {
+      "index": 126,
+      "text": "line pattern. All right. So looking good so far. Another thing I want to do is to go again and edit",
+      "start": 845.04,
+      "end": 852.48,
+      "duration": 7.440000000000055
+    },
+    {
+      "index": 127,
+      "text": "and actually want to be this line because this should actually be a flat wall going all the way across.",
+      "start": 853.36,
+      "end": 859.28,
+      "duration": 5.919999999999959
+    },
+    {
+      "index": 128,
+      "text": "And these door swing lines should actually look like this. I want them to look like this. So I'm",
+      "start": 859.28,
+      "end": 866.32,
+      "duration": 7.040000000000077
+    },
+    {
+      "index": 129,
+      "text": "going to edit these lines go to model a component and I'm going to change them over to swing lines.",
+      "start": 866.32,
+      "end": 873.04,
+      "duration": 6.719999999999914
+    },
+    {
+      "index": 130,
+      "text": "All right. And then I hit OK. So just like that, I have my swing lines looking like this one over here.",
+      "start": 873.04,
+      "end": 881.44,
+      "duration": 8.400000000000091
+    },
+    {
+      "index": 131,
+      "text": "All right guys. So if you're enjoying the video so far then definitely remember to hit the like button.",
+      "start": 881.5200000000001,
+      "end": 886.6400000000001,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 132,
+      "text": "And guess what? If you learned something new today and it's your first time on the channel,",
+      "start": 886.6400000000001,
+      "end": 891.12,
+      "duration": 4.4799999999999045
+    },
+    {
+      "index": 133,
+      "text": "I'm going to ask you to do me a favor. Subscribe button. Remember to hit the bell because that is",
+      "start": 891.12,
+      "end": 896.8800000000001,
+      "duration": 5.760000000000105
+    },
+    {
+      "index": 134,
+      "text": "how you're going to know when I drop another video. All right. Thanks. Be glad yourself. Let's get back to it.",
+      "start": 896.8800000000001,
+      "end": 902.96,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 135,
+      "text": "No. I also want to make the ground. All these lines don't here. No, let's let's do this.",
+      "start": 902.96,
+      "end": 910.5600000000001,
+      "duration": 7.600000000000023
+    },
+    {
+      "index": 136,
+      "text": "I'm going to go modify a component. I'm going to switch these over to medium weight objects. All right.",
+      "start": 911.6,
+      "end": 920.32,
+      "duration": 8.720000000000027
+    },
+    {
+      "index": 137,
+      "text": "Because this is a much thicker line than the current subdivision one line. So we're going to switch",
+      "start": 920.32,
+      "end": 927.7600000000001,
+      "duration": 7.440000000000055
+    },
+    {
+      "index": 138,
+      "text": "them over to medium weight. I'm going to hit OK. And if you notice it changes color. So if I should turn",
+      "start": 927.7600000000001,
+      "end": 934.96,
+      "duration": 7.199999999999932
+    },
+    {
+      "index": 139,
+      "text": "on line weight here, you can see that those lines are actually a little bit thicker. No, I want to put",
+      "start": 935.12,
+      "end": 941.44,
+      "duration": 6.32000000000005
+    },
+    {
+      "index": 140,
+      "text": "the trees on a separate component as well. So I'm going to select all of the trees.",
+      "start": 941.44,
+      "end": 947.36,
+      "duration": 5.919999999999959
+    },
+    {
+      "index": 141,
+      "text": "All right. I'm going to go ahead and click on a model component or modify your",
+      "start": 950.4000000000001,
+      "end": 958.1600000000001,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 142,
+      "text": "other. And I'm going to place these on subdivision too. The more elements you have in your",
+      "start": 958.1600000000001,
+      "end": 962.96,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 143,
+      "text": "elevation, you can actually assign to different subdivisions. But I'm going to stick with subdivision",
+      "start": 963.0400000000001,
+      "end": 968.96,
+      "duration": 5.919999999999959
+    },
+    {
+      "index": 144,
+      "text": "too for this one. I'm going to say OK. And if you notice the trees change color as well,",
+      "start": 968.96,
+      "end": 974.96,
+      "duration": 6.0
+    },
+    {
+      "index": 145,
+      "text": "but this is not the color I actually want. I want these to be a gray color. So I'm going to hit",
+      "start": 974.96,
+      "end": 981.52,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 146,
+      "text": "finish here. And then I'm going to click on the elevation and we're going to edit style. So let's go",
+      "start": 982.1600000000001,
+      "end": 987.12,
+      "duration": 4.959999999999923
+    },
+    {
+      "index": 147,
+      "text": "to edit style. I'm going to go back to the same place we were before. And of course,",
+      "start": 987.12,
+      "end": 992.24,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 148,
+      "text": "in here, you can see that we have all of our subdivisions, all of our components. And we can",
+      "start": 992.32,
+      "end": 998.0,
+      "duration": 5.67999999999995
+    },
+    {
+      "index": 149,
+      "text": "actually modify them. The colors are here. We can change them. We can change the line weight.",
+      "start": 998.0,
+      "end": 1003.52,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 150,
+      "text": "We can change the transparency. Whatever we want. So I'm actually going to change subdivision",
+      "start": 1003.52,
+      "end": 1010.48,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 151,
+      "text": "too. Now what? The color of this to be gray. Maybe this gray or darker gray. Let's use this",
+      "start": 1010.48,
+      "end": 1019.2,
+      "duration": 8.720000000000027
+    },
+    {
+      "index": 152,
+      "text": "gray. But I don't want it to be indexed. I want to move it over to true color. So once you click on true",
+      "start": 1019.76,
+      "end": 1024.8,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 153,
+      "text": "color, it's going to automatically register that color here. Now the reason for that is because",
+      "start": 1024.8,
+      "end": 1030.48,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 154,
+      "text": "if I had to use index color, it's going to print out as black. All right. Because I wanted to take",
+      "start": 1030.48,
+      "end": 1037.28,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 155,
+      "text": "on the gray color, I use true color. All right. Hit OK. Hit OK. And then I hit OK. I'm just like that. You can",
+      "start": 1037.28,
+      "end": 1045.92,
+      "duration": 8.6400000000001
+    },
+    {
+      "index": 156,
+      "text": "see that the trees are no gray. All right. And that's all we have to do with our elevation view. We",
+      "start": 1045.92,
+      "end": 1052.64,
+      "duration": 6.720000000000027
+    },
+    {
+      "index": 157,
+      "text": "could do a lot more, but I'm going to stop right there and leave you to explore and miss our own.",
+      "start": 1052.64,
+      "end": 1058.8000000000002,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 158,
+      "text": "What don't spoil the drive. All right. So from this point, what we're going to do is to add some",
+      "start": 1058.8000000000002,
+      "end": 1063.8400000000001,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 159,
+      "text": "annotations to this drawing. Now as you know, the goal in the rule already before you add any form of",
+      "start": 1063.8400000000001,
+      "end": 1069.68,
+      "duration": 5.839999999999918
+    },
+    {
+      "index": 160,
+      "text": "annotation, make sure that your scale is at the right scale. All right. So of course, we're going to be",
+      "start": 1069.68,
+      "end": 1075.76,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 161,
+      "text": "using a quarter inch for this drawing. All right. So let's go ahead. And the first thing we're",
+      "start": 1075.76,
+      "end": 1079.92,
+      "duration": 4.160000000000082
+    },
+    {
+      "index": 162,
+      "text": "going to do is to add some dimensions. So I'm going to just use the AEC dimensions here. Of course,",
+      "start": 1079.92,
+      "end": 1085.52,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 163,
+      "text": "you can use the linear for this one. But I'm going to use AEC. And I'm going to just use pick points.",
+      "start": 1085.52,
+      "end": 1091.12,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 164,
+      "text": "And the first thing I'm going to dimension to is the window. All right. So from there to there,",
+      "start": 1092.0,
+      "end": 1098.08,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 165,
+      "text": "to there. And I'm going to hit Enter. And I'm going to pull this dimension out and click right there.",
+      "start": 1098.08,
+      "end": 1105.6,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 166,
+      "text": "All right. So that would be my first string of dimension there. Giving us the height of the window.",
+      "start": 1106.16,
+      "end": 1112.48,
+      "duration": 6.319999999999936
+    },
+    {
+      "index": 167,
+      "text": "And how far it is from the ground. Also, bear in mind that in an elevation view, we only need to see",
+      "start": 1112.48,
+      "end": 1119.52,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 168,
+      "text": "vertical dimensions. There's no need to put horizontal dimensions because those are already in your",
+      "start": 1120.16,
+      "end": 1127.12,
+      "duration": 6.959999999999809
+    },
+    {
+      "index": 169,
+      "text": "floor plan drawing. So these are the dimensions that you want to add to your elevation view. So we're",
+      "start": 1127.12,
+      "end": 1132.48,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 170,
+      "text": "going to go again and add another one to the door. Now the door and the opening is on the same height.",
+      "start": 1132.56,
+      "end": 1139.6,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 171,
+      "text": "So you know, it's just one dimension to show both. Of course, if the opening was a little bit higher,",
+      "start": 1139.6,
+      "end": 1145.52,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 172,
+      "text": "we could add one for the door and then another one for the opening. But that's where that is going",
+      "start": 1145.52,
+      "end": 1151.68,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 173,
+      "text": "to end. Let me add one more. Maybe from the ground or the finished row level to the eve of the roof.",
+      "start": 1151.68,
+      "end": 1160.0,
+      "duration": 8.319999999999936
+    },
+    {
+      "index": 174,
+      "text": "Pull like out and add it. I'm over there. There's not much on this to be dimensioned. So those are the",
+      "start": 1160.96,
+      "end": 1167.36,
+      "duration": 6.399999999999864
+    },
+    {
+      "index": 175,
+      "text": "only three dimensions. I'm going to be adding. Let's move over to some leader annotations. So",
+      "start": 1167.36,
+      "end": 1174.24,
+      "duration": 6.880000000000109
+    },
+    {
+      "index": 176,
+      "text": "first thing I'm going to annotate is the fascia board. All right. I'm going to also put",
+      "start": 1174.24,
+      "end": 1185.52,
+      "duration": 11.279999999999973
+    },
+    {
+      "index": 177,
+      "text": "one. Maybe here. Just to say, Eve. Let's the eve right there. I think that's how Eve is spelled.",
+      "start": 1185.84,
+      "end": 1195.12,
+      "duration": 9.279999999999973
+    },
+    {
+      "index": 178,
+      "text": "Right. Could also put one on the top here. That says whatever the roof covering material would be,",
+      "start": 1195.12,
+      "end": 1201.92,
+      "duration": 6.800000000000182
+    },
+    {
+      "index": 179,
+      "text": "you could add that as a note here. But for this, I'm going to just say roof covering to owners.",
+      "start": 1201.92,
+      "end": 1210.48,
+      "duration": 8.559999999999945
+    },
+    {
+      "index": 180,
+      "text": "choice. All right. So that's that. And then the last thing I'm going to do actually is to add the",
+      "start": 1210.56,
+      "end": 1216.72,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 181,
+      "text": "slope. Yeah, we could type it in or we could go back to our roof plan, which is what I'm actually",
+      "start": 1216.72,
+      "end": 1223.3600000000001,
+      "duration": 6.6400000000001
+    },
+    {
+      "index": 182,
+      "text": "going to do. And I'm going to just copy this thing right here. Copy X that off. I'm going to paste it",
+      "start": 1223.3600000000001,
+      "end": 1232.48,
+      "duration": 9.11999999999989
+    },
+    {
+      "index": 183,
+      "text": "in here. I'm also going to rotate this just to make it look something like that.",
+      "start": 1232.48,
+      "end": 1238.32,
+      "duration": 5.839999999999918
+    },
+    {
+      "index": 184,
+      "text": "I'm going to put it right here. One more thing I want to add is a text down here to say",
+      "start": 1241.44,
+      "end": 1250.72,
+      "duration": 9.279999999999973
+    },
+    {
+      "index": 185,
+      "text": "FFL, which stands for finish for level. So this level right here is the finish floor level. And",
+      "start": 1250.72,
+      "end": 1258.0,
+      "duration": 7.279999999999973
+    },
+    {
+      "index": 186,
+      "text": "I'm going to copy this. I'm going to paste it maybe like here. And I'm going to change this to",
+      "start": 1258.0,
+      "end": 1263.6,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 187,
+      "text": "GL, which stands for ground level, which would be the outside here. And so this is what the basics",
+      "start": 1264.48,
+      "end": 1272.0,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 188,
+      "text": "of a elevation view would look like. So now we can go ahead and repeat this process for all of our",
+      "start": 1272.0,
+      "end": 1280.3999999999999,
+      "duration": 8.399999999999864
+    },
+    {
+      "index": 189,
+      "text": "elevation views. At this point, I'm going to fast forward the video so that we can get through this quickly.",
+      "start": 1280.3999999999999,
+      "end": 1286.9599999999998,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 190,
+      "text": "So this is where we're going to stop with the elevation views. I think we have enough",
+      "start": 1413.84,
+      "end": 1440.56,
+      "duration": 26.720000000000027
+    },
+    {
+      "index": 191,
+      "text": "information on here. One thing that you do not want to do guys is to refresh your elevation views",
+      "start": 1440.56,
+      "end": 1448.08,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 192,
+      "text": "at this point. Because once you refresh, it's going to bring back all the things that you don't want",
+      "start": 1448.08,
+      "end": 1455.2,
+      "duration": 7.120000000000118
+    },
+    {
+      "index": 193,
+      "text": "to see. All right. So if you notice it brings back that line there. Locally it didn't bring back your",
+      "start": 1455.2,
+      "end": 1461.12,
+      "duration": 5.919999999999845
+    },
+    {
+      "index": 194,
+      "text": "foundation, but it usually does. So don't refresh if you need another back elevation. What we could do",
+      "start": 1461.12,
+      "end": 1468.8,
+      "duration": 7.680000000000064
+    },
+    {
+      "index": 195,
+      "text": "is actually click on the elevation line itself and say generate. So what we're going to do is to",
+      "start": 1469.76,
+      "end": 1477.28,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 196,
+      "text": "generate a new elevation and you could just place it wherever you want it and it will bring back",
+      "start": 1477.28,
+      "end": 1483.52,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 197,
+      "text": "another elevation for you. But we don't need another elevation view. Now one last trick that I wanted to",
+      "start": 1483.52,
+      "end": 1490.6399999999999,
+      "duration": 7.119999999999891
+    },
+    {
+      "index": 198,
+      "text": "show you and this was something that was brought up in the past where somebody asked, is it possible",
+      "start": 1490.6399999999999,
+      "end": 1496.32,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 199,
+      "text": "to see through the building meaning is it possible to see the hidden lines within the building and",
+      "start": 1496.32,
+      "end": 1502.96,
+      "duration": 6.6400000000001
+    },
+    {
+      "index": 200,
+      "text": "answer is yes. This is something I discovered recently. All you gotta do is click on the elevation",
+      "start": 1502.96,
+      "end": 1508.1599999999999,
+      "duration": 5.199999999999818
+    },
+    {
+      "index": 201,
+      "text": "itself and go to edit style and underneath design rules we're going to click on this little chat box",
+      "start": 1508.1599999999999,
+      "end": 1514.72,
+      "duration": 6.560000000000173
+    },
+    {
+      "index": 202,
+      "text": "here that says keep all hidden line work points. We hit OK you're going to have to refresh the view",
+      "start": 1514.72,
+      "end": 1520.56,
+      "duration": 5.839999999999918
+    },
+    {
+      "index": 203,
+      "text": "in order to see it. So let's refresh and now as you can see all the hidden lines are showing up.",
+      "start": 1520.6399999999999,
+      "end": 1529.6,
+      "duration": 8.960000000000036
+    },
+    {
+      "index": 204,
+      "text": "But of course we don't want to see them in this. So I'm going to undo and I'm going to be the",
+      "start": 1530.6399999999999,
+      "end": 1535.36,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 205,
+      "text": "type. All right, gender folks. So that's the end of the video for today and of course there is much",
+      "start": 1535.36,
+      "end": 1542.0,
+      "duration": 6.6400000000001
+    },
+    {
+      "index": 206,
+      "text": "more that we could do to our elevation views but I'm sure you learn enough to go and explore",
+      "start": 1542.0,
+      "end": 1546.3999999999999,
+      "duration": 4.399999999999864
+    },
+    {
+      "index": 207,
+      "text": "on your own. To just mess our own and I'm sure you'll come up with some great ideas. So definitely",
+      "start": 1546.96,
+      "end": 1552.0800000000002,
+      "duration": 5.120000000000118
+    },
+    {
+      "index": 208,
+      "text": "remember to hit the like button, subscribe and share, comment, likes, follow me on Instagram and Twitter.",
+      "start": 1552.0800000000002,
+      "end": 1558.5600000000002,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 209,
+      "text": "All of that. What also check out my Patreon page and I just want to show it all of my Patreon.",
+      "start": 1558.5600000000002,
+      "end": 1564.0,
+      "duration": 5.439999999999827
+    },
+    {
+      "index": 210,
+      "text": "We're going to serve. Thank you all for the support and guess what? I'll see you guys. I'll see you in the next",
+      "start": 1564.0,
+      "end": 1570.4,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 211,
+      "text": "video promise.",
+      "start": 1570.4,
+      "end": 1576.24,
+      "duration": 5.839999999999918
+    },
+    {
+      "index": 212,
+      "text": "Bye.",
+      "start": 1576.4,
+      "end": 1600.24,
+      "duration": 23.839999999999918
+    }
+  ],
+  "full_text": "Hi everybody, welcome back to the channel. Thank you for joining and today what I'm going to be showing you is how to get your elevation views to look for a little bit in our mean, make them look so much better than this. So we have a tournament this. Yes, so there's a lot to unpack in this video today that is why it is a little bit longer than the usual stuff in our mean but I'm sure you're going to learn something and guess what if you did you know what to do? Hit the like button drop a comment and guess what if you didn't subscribe it? No, it's the right time to subscribe and hit the bell that is the only way you're going to know that another video comes out when it does. You know what I mean? Well, you might not be the only one who you bought. You don't know it. Just subscribe. All right, without further ado, let's get into it. All right, so here we are back in our Takaar architecture and today we want to enhance and finalize our elevation views. So as you can see here, this is what they currently look like. What we want to do is to get them to look like what we have in this image right here where we have added some annotations, dimensions and we have also removed the wall hatch pattern. Also, we've added some trees in the background to give some depth to the elevation views. Now bear in mind, trees are not necessary in an elevation view for working drawing purposes, but just in case you need to do elevation views for presentation purposes. Then I'm going to be showing you how to do that in this video today. So let's go over back to AutoCAD and this is where we are at. Now if you don't know how to create these elevation views, I have a video back in episode 12. So we would be able to find these views in our project navigator underneath our section and elevation folder. Of course, we have them right here and we also have our two section of views. So that out of the way, let's get right into this. No, what I want you to understand is that your elevation views are direct reflection of what you draw in your drawing. So for those of you who are new here, this drawing is actually a 3D drawing. And so whatever is being done in this 3D drawing is what you're going to see over here. What that means is that the more accurate you do this drawing over here, then the more accurate your elevation views will be. Also, the more details you add to this drawing, such as let's say window moldings, you know, roof gutters and stuff like that. The more you add to your drawing, then the more detail your elevation views. And also your section views will be. Of course, this is a very basic video. So we're not going to get into all of that crazy details. Maybe a future video we'll talk about that. All right. So the next thing we want to do here is to remove hatching on these walls. They are very, very annoying. So let's go ahead and click on one of these views. We're going to go to edit style and we're going to go over to design properties. Click on that button underneath layers. We're going to go down to hatch our rather surface hatch line work and we're going to turn that bad boy off. Okay. Okay. And just like that, all surface hatching will be turned off. So if you notice it applies that to all our elevation. So we have nothing to worry about. Let's move to the next step. All right. What I want to do is to bring in to this drawing our site plan. Because if you remember in past episodes, I'm going to link it below. If you missed it, we drew a site plan, as you can see here. And it has a couple of 3D elements to it. You know, we have some trees and we have a car and so on and so forth. So if we bring this into our elevation view, we should be able to see those trees and car reflected in our elevation views. All right. So what I'm going to do here is to just exit this back off. I'm not going to save it. What I will do is go back to my project navigator, go to construct and on your site plan, we're going to right click and we're going to say Xref overlay. And just like that, we have the site drawing included in this drawing. And what that allows us to do is to reflect those onto these drawings now. So we're going to highlight them all and we're going to hit refresh. And just like that, as you can see, no trees are in the elevation views cars. Well, one car is in the view as well. And it would be seen in all the other views. All right. Now, if you notice the trees are being cut off. And that's because the view is not wide enough to capture everything. So if we go back over to this 3D drawing, you will notice that we have these lines here representing the views. Whatever is within this box is what will show up here. So what that means, if we want to see everything, what we have to do is to widen the box. But before we move ahead and the box, I will actually want to move these over because I don't know if you noticed, but my site plan is coming over into the drawing on this. All right. All right. So those are moved over looking good. So now we can widen this box out some more. So let's go ahead and start with the left elevation. Let's capture everything down to this point here. And if you notice guys, this line represents the left elevation and everything within this box will show up on our left elevation. So if I go back to my left elevation here and I refresh. Now I'm seeing everything that was within that box. All right. So that's what I want to do with all of these lines. So I'm going to move this. This would represent the back elevation. Move that up and I'm going to widen this out. By the way, when you're widening these out, please make sure that your are from all this turned on because what you don't want to do is to widen it and it looks something like that. All right. So on do turn on my off a more this turn on all right. Pull this out and I'm going to pull this down. All right. So everything within this box will be seen. And then I'm going to move this one out like that. You know what? It's not necessary to collect them. And I'm going to also move this one. This one here. Back to about here. And I'm going to widen them out a little bit. But I'll go a little bit. All right. So now it's not all very neat, but it doesn't matter once it captures everything. We're going to refresh them all. And now you can see all our elevations are pulling those information. One thing you definitely don't want is any object to block the building, especially if these are working drawings. Drawings that there are your carpenter and your Mason and the contract is going to use. You definitely don't want these to be blocking. But if you're doing a presentation drawing, then of course you can have it like that. In this scenario we don't want it. So what I'm going to do is to move these back in front of those objects. So I kind of put it in front of the car. So I don't see the car. For this one, I want to put it in front of those trees like that tree right there. And I want to see it like wise for the back elevation. I don't want to see those trees. And for this side, I guess this side is good. Nothing is really blocking the building. So that would be good. Then I would go ahead and refresh. So now you can see that those trees are gone. For this view, now we can see the door clearly, which is important. And for the front view, there's no tree in front of the house. But then we also have those in the back, which we're going to be using to add depth to this drawing. All right. So what I'm going to do from this point is to drop the ground six inches down. All right. Now if you notice currently, it is in the same line as our finished floor level. And that's not good. What I mean is if I should go to 3D view, this matter of fact, let's go to concept to it. Where it's a little bit easier to see. So the ground level is on the same level as the finished floor level, which is in the house, which simply means every and far, what are going to go in there also, you need to drop this. So what we're going to do is to click on it, go over to where you see insertion point z. I'm going to take away six inches from this, three feet, six inches. We're going to hit enter. And so that is being dropped six inches below. So now if we rotate, we can actually see that the ground level is now below the finished floor level. And so let's go back to 2D wire frame. Let's also go back to our top view and then we're going to refresh. And if you look at it now, we can see that the ground has no been depressed six inches, which is exactly what we want. What we're left to do is to just modify our elevation views. Now I'm going to modify a one. And then of course, you would apply those principles to your other elevation views. Don't think I would have enough time to go through all of them. But let's see what we can do. So I'm going to do this one in particular. This is the right elevation. Mainly because it has the door none of my other views actually have a door on it. So I want to do this because you know, I want to give an example of a door. So what we're going to do is we actually can click on the elevation view. Let's widen this out some more. All right to capture everything. And then what we can actually do from here is to we can explore it. All right, that's one way to do it. So if we do explore it and then we have to explore it another time, we would be able to select the line and delete what we don't want, you know, and add stuff that we want. And this would be like the more traditional way of doing it. Like we used to do it. Right. And sometimes this is necessary. But for this video, I want to show you another method. So I'm going to undo back to this position. And then we're going to go ahead and edit this elevation view by clicking on the edit button up here. And no, as you can see, we can actually click on lines and delete lines. One thing you cannot do here is to like say move a line. You can't move the line or you cannot length a line. All right, but don't worry. Let's know problem. So we're going to delete the foundation, of course. We're going to also delete this line because I want it to make it a little bit more customizable. And then we're going to go ahead and hit finish. And so this is what we're left with. Now what we want to do is to go ahead and use lines and draw the areas that we want to draw. So the first thing I'm going to draw is this line right here, which would represent our finished floor level. And then we're going to disconnect these walls back into the ground with another line. Just like that. All right. So once we have those three lines in place, what we're going to do is to merge it with the current elevation. So we're going to hit merge and we're going to select the elevation along with those lines that we drew. I'm going to hit enter and we're going to basically match those lines to look like the wall. So we click on the wall and it changes to the wall component. Hit OK. And so now those lines basically take on the same component as the walls. All right. The next thing I want to do, I'm going to actually draw two other lines, one here, going across and another one here, going across. And that would represent my finished floor level going through the building. So we're going to add those again merge. I'm going to select those two lines as well as the elevation. And we're going to hit enter. This time we're going to change the component to what is called a hidden vector. Because those lines I want to be in a hidden line. All right. And as you notice, we have quite a number of options here to choose from. We have section hatched. That is if you were going to use hatching. We have subdivisions which we can assign different things to. And later on you'll see that actually we're using one of these. All right. So let's stick with hidden vectors here. Hit OK. And know those lines have actually become a part of the elevation. And have also taken on a hidden line pattern. All right. So looking good so far. Another thing I want to do is to go again and edit and actually want to be this line because this should actually be a flat wall going all the way across. And these door swing lines should actually look like this. I want them to look like this. So I'm going to edit these lines go to model a component and I'm going to change them over to swing lines. All right. And then I hit OK. So just like that, I have my swing lines looking like this one over here. All right guys. So if you're enjoying the video so far then definitely remember to hit the like button. And guess what? If you learned something new today and it's your first time on the channel, I'm going to ask you to do me a favor. Subscribe button. Remember to hit the bell because that is how you're going to know when I drop another video. All right. Thanks. Be glad yourself. Let's get back to it. No. I also want to make the ground. All these lines don't here. No, let's let's do this. I'm going to go modify a component. I'm going to switch these over to medium weight objects. All right. Because this is a much thicker line than the current subdivision one line. So we're going to switch them over to medium weight. I'm going to hit OK. And if you notice it changes color. So if I should turn on line weight here, you can see that those lines are actually a little bit thicker. No, I want to put the trees on a separate component as well. So I'm going to select all of the trees. All right. I'm going to go ahead and click on a model component or modify your other. And I'm going to place these on subdivision too. The more elements you have in your elevation, you can actually assign to different subdivisions. But I'm going to stick with subdivision too for this one. I'm going to say OK. And if you notice the trees change color as well, but this is not the color I actually want. I want these to be a gray color. So I'm going to hit finish here. And then I'm going to click on the elevation and we're going to edit style. So let's go to edit style. I'm going to go back to the same place we were before. And of course, in here, you can see that we have all of our subdivisions, all of our components. And we can actually modify them. The colors are here. We can change them. We can change the line weight. We can change the transparency. Whatever we want. So I'm actually going to change subdivision too. Now what? The color of this to be gray. Maybe this gray or darker gray. Let's use this gray. But I don't want it to be indexed. I want to move it over to true color. So once you click on true color, it's going to automatically register that color here. Now the reason for that is because if I had to use index color, it's going to print out as black. All right. Because I wanted to take on the gray color, I use true color. All right. Hit OK. Hit OK. And then I hit OK. I'm just like that. You can see that the trees are no gray. All right. And that's all we have to do with our elevation view. We could do a lot more, but I'm going to stop right there and leave you to explore and miss our own. What don't spoil the drive. All right. So from this point, what we're going to do is to add some annotations to this drawing. Now as you know, the goal in the rule already before you add any form of annotation, make sure that your scale is at the right scale. All right. So of course, we're going to be using a quarter inch for this drawing. All right. So let's go ahead. And the first thing we're going to do is to add some dimensions. So I'm going to just use the AEC dimensions here. Of course, you can use the linear for this one. But I'm going to use AEC. And I'm going to just use pick points. And the first thing I'm going to dimension to is the window. All right. So from there to there, to there. And I'm going to hit Enter. And I'm going to pull this dimension out and click right there. All right. So that would be my first string of dimension there. Giving us the height of the window. And how far it is from the ground. Also, bear in mind that in an elevation view, we only need to see vertical dimensions. There's no need to put horizontal dimensions because those are already in your floor plan drawing. So these are the dimensions that you want to add to your elevation view. So we're going to go again and add another one to the door. Now the door and the opening is on the same height. So you know, it's just one dimension to show both. Of course, if the opening was a little bit higher, we could add one for the door and then another one for the opening. But that's where that is going to end. Let me add one more. Maybe from the ground or the finished row level to the eve of the roof. Pull like out and add it. I'm over there. There's not much on this to be dimensioned. So those are the only three dimensions. I'm going to be adding. Let's move over to some leader annotations. So first thing I'm going to annotate is the fascia board. All right. I'm going to also put one. Maybe here. Just to say, Eve. Let's the eve right there. I think that's how Eve is spelled. Right. Could also put one on the top here. That says whatever the roof covering material would be, you could add that as a note here. But for this, I'm going to just say roof covering to owners. choice. All right. So that's that. And then the last thing I'm going to do actually is to add the slope. Yeah, we could type it in or we could go back to our roof plan, which is what I'm actually going to do. And I'm going to just copy this thing right here. Copy X that off. I'm going to paste it in here. I'm also going to rotate this just to make it look something like that. I'm going to put it right here. One more thing I want to add is a text down here to say FFL, which stands for finish for level. So this level right here is the finish floor level. And I'm going to copy this. I'm going to paste it maybe like here. And I'm going to change this to GL, which stands for ground level, which would be the outside here. And so this is what the basics of a elevation view would look like. So now we can go ahead and repeat this process for all of our elevation views. At this point, I'm going to fast forward the video so that we can get through this quickly. So this is where we're going to stop with the elevation views. I think we have enough information on here. One thing that you do not want to do guys is to refresh your elevation views at this point. Because once you refresh, it's going to bring back all the things that you don't want to see. All right. So if you notice it brings back that line there. Locally it didn't bring back your foundation, but it usually does. So don't refresh if you need another back elevation. What we could do is actually click on the elevation line itself and say generate. So what we're going to do is to generate a new elevation and you could just place it wherever you want it and it will bring back another elevation for you. But we don't need another elevation view. Now one last trick that I wanted to show you and this was something that was brought up in the past where somebody asked, is it possible to see through the building meaning is it possible to see the hidden lines within the building and answer is yes. This is something I discovered recently. All you gotta do is click on the elevation itself and go to edit style and underneath design rules we're going to click on this little chat box here that says keep all hidden line work points. We hit OK you're going to have to refresh the view in order to see it. So let's refresh and now as you can see all the hidden lines are showing up. But of course we don't want to see them in this. So I'm going to undo and I'm going to be the type. All right, gender folks. So that's the end of the video for today and of course there is much more that we could do to our elevation views but I'm sure you learn enough to go and explore on your own. To just mess our own and I'm sure you'll come up with some great ideas. So definitely remember to hit the like button, subscribe and share, comment, likes, follow me on Instagram and Twitter. All of that. What also check out my Patreon page and I just want to show it all of my Patreon. We're going to serve. Thank you all for the support and guess what? I'll see you guys. I'll see you in the next video promise. Bye.",
+  "total_segments": 213,
+  "total_duration": 1600.24,
+  "extraction_timestamp": "2025-07-11T14:23:21.899326",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "tiny"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high"
+}

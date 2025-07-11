@@ -1,0 +1,431 @@
+chunk_id,content
+0,"[Music]
+[Music]
+hi everyone thank you for joining me on
+episode number three for one bedroom
+series in the previous video we learned
+how to set up our project in ArchiCAD
+using the project browser and project
+navigator alright so if you missed that
+episode you need to watch it click the
+link up there or click the link down
+there because it's important that you
+understand how to set up your project
+before we move into the more exciting
+stuff you're I'm saying yeah so in the
+previous video we lear"
+1,"before we move into the more exciting
+stuff you're I'm saying yeah so in the
+previous video we learned how to set up
+our projects using the project browser
+which is it's little about right here
+and also the project navigator alright
+because if you look over here this is
+what we did we went through we set our
+project settings we did our levels and
+we also did our divisions alright so you
+can't afford to miss that alright so
+today is gonna be a little bit more
+interesting because now we're going"
+2,"ord to miss that alright so
+today is gonna be a little bit more
+interesting because now we're going to
+move to our constructs and this is where
+we're gonna start to do actual drawing
+all right now as you can see I have two
+of the constructs open up here we have
+the foundation and we also have the
+ground floor which you can actually see
+them over here alright so we would draw
+our ground floor in this drawing and we
+will draw our foundation in this drawing
+but before we do any of these drawings
+wh"
+3,"is drawing and we
+will draw our foundation in this drawing
+but before we do any of these drawings
+what we want to draw first is our grid
+all right so today's video is about
+gridlines how do we draw or unset up our
+grid lines now for those of you who
+don't know what grid lines are grid
+lines are also commonly referred as
+column grids okay now most times column
+grids are used on large buildings where
+there's a lot of columns throughout the
+building so take for instance this
+building right all righ"
+4,"e
+there's a lot of columns throughout the
+building so take for instance this
+building right all right
+this building has quite a few columns
+throughout it all right now can you
+identify any of the columns in this
+building of course you can all right you
+can see one here and there but what if I
+were to add some column grids to it like
+that now you're able to identify each
+column by name so for instance if I say
+to you where is column f1 you'll be able
+to locate column f1 if I say where is
+column a"
+5,"nce if I say
+to you where is column f1 you'll be able
+to locate column f1 if I say where is
+column a tube we'll be able to locate
+column a2 and so now you can start to
+appreciate significance of column grids
+throughout a building all right
+it helps to layout your columns and it
+also help you to locate columns all
+right now there are many more advantages
+of column grids but we're gonna stick to
+those two for today all right
+so what would a column grid look like
+for a one bedroom house like the on"
+6,"se two for today all right
+so what would a column grid look like
+for a one bedroom house like the one
+that we're about to do now it would look
+something like this
+all right of course a tiny bedroom house
+like this doesn't need column grids but
+this way you will be able to apply these
+principles to your larger projects okay
+guys so what we're gonna do is to open
+up our grid line drawing so what we're
+going to do so just open it like that
+and it is in this project or this
+drawing that we're gonna"
+7,"re
+going to do so just open it like that
+and it is in this project or this
+drawing that we're gonna do
+gridlines of course we could go ahead
+and start to just draw our grid lines
+starting at the zero zero point here but
+I want to start mine somewhere up here
+so our grid line will take up this space
+here so what I'm gonna do is to draw a
+line from 0 0 up at a 45 degree angle so
+let's click on our line tool and I'm
+gonna type it says here specify your
+first point I want my first point to be
+0 0 no"
+8,"ine tool and I'm
+gonna type it says here specify your
+first point I want my first point to be
+0 0 now you can see that man I'm
+starting at 0 0 and then I'm gonna draw
+a line at 45 degrees so I'm gonna put
+the less than sign 45 enter now my line
+is running on the 45-degree angle
+alright so I can't draw another a line
+at any other angle because I set it at a
+45 degree and then I'm gonna type how
+far away do I want it to go so I'm gonna
+put 25 feet enter alright so that is
+where we're gonna start t"
+9,"away do I want it to go so I'm gonna
+put 25 feet enter alright so that is
+where we're gonna start to draw our grid
+lines so our grid lines should take up
+this space right there let me minimize
+that so we can see a little bit clearer
+alright so let's go ahead and draw our
+first grid line now we need 4 vertical
+lines and two horizontal lines
+so our first vertical line is going to
+be drawn upwards now if you notice I
+don't have my 90 degrees turned on this
+is important because grid lines must be
+p"
+10,"ow if you notice I
+don't have my 90 degrees turned on this
+is important because grid lines must be
+perfectly straight so you want to turn
+this on that way your your your lines
+will be perfectly straight all right
+line up 90 degrees so let's go ahead and
+we're going to draw our first grid line
+which
+be 16 feet enta now this is what 16 feet
+looks like looks let's check it perfect
+16 foot and then our next line vertical
+line is 9 feet 6 inches away from this
+one
+so what we're going to use is the of"
+11,"r next line vertical
+line is 9 feet 6 inches away from this
+one
+so what we're going to use is the offset
+tool offset how far you want it off of
+that would be 9 feet 6 inches enter and
+then we're gonna click on the side that
+you want it on so of course we don't
+want it on the side we want it on this
+side so we're gonna click over there
+then though the other line would be 5
+foot 6 inches away from this one so
+we're going to offset again offset type
+in your distance which would be 5 feet 6
+inches a"
+12,"his one so
+we're going to offset again offset type
+in your distance which would be 5 feet 6
+inches and then we're gonna just do like
+that click over there and then of course
+our fourth grid would be offset again 12
+foot are feet 6 inches oh dear we have
+it so now we have all 4 vertical lines
+no our horizontal lines actually they
+are just two and there they would be
+exactly at the top and at the bottom of
+these lines now of course if you had
+some in the middle we would go ahead and
+use the offset"
+13,"ttom of
+these lines now of course if you had
+some in the middle we would go ahead and
+use the offset tool to offset those but
+being that we only have two here we just
+need to complete the box there all right
+of course we're gonna go ahead and
+delete this because we don't need that
+again this is what we need so what we're
+gonna do next is to extend each line
+outwards out of the box about 12 inches
+all right now there are many ways you
+can do this but I'm gonna just use a
+very simple way that ever"
+14,"all right now there are many ways you
+can do this but I'm gonna just use a
+very simple way that everybody can
+understand so what we're going to do is
+just click on the box here
+again ensure that your artha is turned
+on all right click on this box drag it
+out and type 12 inches enter okay so
+we're going to do that for all of these
+lines drag it out twelve launches all
+right so I'm gonna just move a little
+quick quickly here so we can speed
+through this part I'm gonna do all of
+them like that
+but"
+15,"little
+quick quickly here so we can speed
+through this part I'm gonna do all of
+them like that
+but those of you who know easier way to
+do it please feel free to go ahead and
+use it easier method there we go so now
+we have something that is looking pretty
+close to what we need all we need now is
+our bubble all right
+now that is the part that AutoCAD will
+actually generate for us all right so
+what we're gonna do is to open up what
+is called our tool palette or design
+tool palette now if you're no"
+16,"we're gonna do is to open up what
+is called our tool palette or design
+tool palette now if you're not seeing
+this guy right here you can actually
+find it up here so click on this thing
+and click on this little guy right here
+there you'll find this tool palette all
+right now when you open it up you'll
+have a lot of stuff you have design wall
+doors windows everything is right here
+what we want to go to design and under
+design you will find column grid okay so
+of course if we click on it like that"
+17,"to design and under
+design you will find column grid okay so
+of course if we click on it like that
+AutoCAD is giving us a grid but we don't
+want that great because we already have
+our layout here so what we're gonna do
+is to right click and say apply to line
+work good
+so because we had already create some
+lines here we want AutoCAD to use our
+lines so we're gonna highlight them all
+right and it says here select your line
+work we already selected it or selected
+them now we're gonna hit enter
+it"
+18,"ays here select your line
+work we already selected it or selected
+them now we're gonna hit enter
+it says here enter your how far away
+from these lines do you want your
+bubbles 4 feet that's the standard enter
+do you want to erase these line work the
+answer is yes so click on yes and what
+it does here is to erase your line work
+and replace them with
+the proper gridlines all right so of
+course this is what AutoCAD generates
+for us all right so we have a wonderful
+grid line set up here now if you'l"
+19,"is what AutoCAD generates
+for us all right so we have a wonderful
+grid line set up here now if you'll
+notice the bubbles are a little bit too
+big and that's because of the scale that
+we are using the correct scale would be
+one in 50 which which is equivalent to
+quarter inch to one foot so they're
+gonna click on that and now our bubbles
+are now at the correct size all right
+now it's important that you adjust that
+because when you're gonna print your
+drawing you're going to be printing it
+on that"
+20,"you adjust that
+because when you're gonna print your
+drawing you're going to be printing it
+on that scale so you need to ensure that
+your bubbles are at the correct scale
+and size all right guys so we're gonna
+move on from here what you can do from
+this point is to just check to ensure
+that your grid lines are where there
+should be so that's nine foot six this
+one is five foot six in fact let's let's
+add these dimensions
+now for those of you who do know where
+to find the dimension is right here"
+21,"t's
+add these dimensions
+now for those of you who do know where
+to find the dimension is right here so
+it could click on it click on linear and
+this one would be what 16-foot right
+perfect
+alright now I'm gonna put these on a
+separate layer dimensions so let's do
+that
+oh if you don't know how layers work I
+have a video on this so I'm gonna link
+it up there go and watch the video as
+well alright so we're gonna create a
+layer for this and call it the dimension
+layer and when I give it another colo"
+22,"we're gonna create a
+layer for this and call it the dimension
+layer and when I give it another color
+switch this to its whatever yellow line
+weight so I'm going to select all of
+these select similar and I'm gonna move
+them to the dimension layer all right so
+now we verify that our dimensions are
+perfect where they're at now we need to
+put in some labels into these bubbles
+alright so what we're gonna do is to
+click on the grid line itself and say
+edit label once we say edit label it
+says here pi"
+23,"nna do is to
+click on the grid line itself and say
+edit label once we say edit label it
+says here pick the first custom column
+grid line so I wanna do we're gonna do
+these ones first and we're gonna label
+these numerically okay so we're gonna
+start at 1 2 3 4 so what you want to do
+is to pick them in the order in which
+you want the numbers to to follow so
+let's say that would be 1 this would be
+2 this would be 3 and this would be 4
+and then what you're gonna do is to hit
+enter and then it asked"
+24,"this would be 3 and this would be 4
+and then what you're gonna do is to hit
+enter and then it asked you know what do
+you what do you want a pallet to be this
+is where you say ok you want it to be
+numerical so I wanted to start at number
+one enter and now you can see AutoCAD
+populates your bubbles with the numbers
+that you need one two three four and it
+would have done the same at the bottom
+field so I'm gonna do the same thing at
+the side this time we're gonna use
+alphabet alright so click on th"
+25,"so I'm gonna do the same thing at
+the side this time we're gonna use
+alphabet alright so click on the grid
+edit label and we're going to select
+this to be a and then this would be B
+enter now we're gonna enter the first
+letter in our sequence which would be a
+now make sure you use capital e because
+if you use common a it's gonna populate
+the entire thing with common letters all
+right so a B now guess what we're done
+our grid line is done there's nothing
+else left to do here more than to save
+so"
+26,"ess what we're done
+our grid line is done there's nothing
+else left to do here more than to save
+so we're gonna go ahead and we're gonna
+hit save and that would be our grid line
+no let's say if you wanted to add more
+grid lines of course you just click on
+the grid and say add a grid line and
+then of course you click on that line
+that you drew and follow through the
+commands down here but for this project
+this is where we're going to stop it
+that's all we need
+we're gonna hit the same button agai"
+27,"project
+this is where we're going to stop it
+that's all we need
+we're gonna hit the same button again
+just to be sure
+so what we're gonna do in our next video
+is to move to our ground floor which is
+where we're gonna now draw our ground
+floor here no this is the beautiful
+thing we can actually bring in our grid
+lines into this project all we would
+need to do is to right-click on the grid
+and say xref overlay
+alright xref means external reference so
+what this is doing is to pull the the
+excel fil"
+28,"ref overlay
+alright xref means external reference so
+what this is doing is to pull the the
+excel file from out
+side into your current drunk so we're
+pulling the gridlines into this drawing
+so now we're in or groan for what or
+glory or gridlines are now showing up
+within our ground floor now if you
+notice it comes in as a block all right
+so we can edit the grid line from here
+we would have to go back to our grid
+lines to edit our grid line all right
+now we know that grid line is good so
+we're not"
+29,"ck to our grid
+lines to edit our grid line all right
+now we know that grid line is good so
+we're not gonna change anything over
+there so this is where we're at with our
+ground floor all right so we're gonna
+stop it right here in the next video
+we're gonna be drawing our walls gonna
+put in some doors and windows now we're
+gonna kick it off real good alright guys
+so pick up on yourself I'm gonna for
+watching this episode again trust me for
+the like the video just hit the like
+button and let me kno"

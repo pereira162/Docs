@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Hello everybody, welcome to another episode on the one bedroom house series.\nAnd today what we're going to do is to continue where we left off on the drainage and electrical\nplan.\nWe're going to be adding annotations and some details to fleshy-tot, make it ready for print\nand set off.\nSee me as a...\nIn the meantime, if it's your first time on the channel, be sure to hit the subscribe button\nshare, drop a comment, especially if you learned something new.\nAnd I can almost bet just almost.\nLet's do",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 92,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "drop a comment, especially if you learned something new.\nAnd I can almost bet just almost.\nLet's do it.\nAlright guys, so here we are back in Atacad Architecture.\nAnd today we're going to be looking at the drainage and electrical plan.\nSo of course, as you already know, we're going to be adding some annotations and some notes\nto this drawing to make it sheet ready.\nSo to speak, and as you can see here, we have both drainage and electrical showing on this\ndrawing.\nNow, there will be instances whe",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 499,
+    "word_count": 92,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "here, we have both drainage and electrical showing on this\ndrawing.\nNow, there will be instances where you might want to separate these two drawings, especially\nif they are very complex and detailed.\nSo you know, bear that in mind.\nIn this case, of course, this is just a simple drawing.\nNot a lot of components, not a lot of fixtures.\nSo we're going to be adding them both on this one view or this one drawing.\nSo as you can see, we have brought in all our constructs that we need.\nLet me go to our",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 499,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "ne drawing.\nSo as you can see, we have brought in all our constructs that we need.\nLet me go to our extra friends panel.\nAs you can see, we have our drainage layer there.\nWe have the electrical layer of fixtures and the ground floor drawing itself.\nAnd if you're not seeing one or the other, you can go to the view step, right click on\nthat view, go to properties, go to content and go ahead and check all the ones that you\nwant to see.\nOf course, I don't want to see structural in this view.\nSo I di",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "k all the ones that you\nwant to see.\nOf course, I don't want to see structural in this view.\nSo I did not select that.\nAlright, so I'm going to minimize this.\nOf course, we are seeing some stuff that we don't want to be seeing in this view.\nSo we're going to be freezing some layers.\nBut before we do that, let's go ahead and tag our rooms.\nBecause eventually, we're going to need to freeze the space layer as well.\nBut before we freeze it, we want to tag the rooms.\nSo go ahead and tag your rooms.\nG",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "layer as well.\nBut before we freeze it, we want to tag the rooms.\nSo go ahead and tag your rooms.\nGuys, you already know how to do this.\nSo I'm going to just do one and then just like that, a little bit of video magic tricks.\nAll of them is done.\nGo ahead, tag your rooms.\nAnd from there, we can go ahead and freeze the layers that we don't need.\nSo of course, I don't want to see the roof.\nI don't want to see space.\nI don't want to see these guys here.\nAnd I definitely don't want to see that.\nI'm",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 499,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "want to see space.\nI don't want to see these guys here.\nAnd I definitely don't want to see that.\nI'm going to just keep the main things that I need such as the fixtures.\nBecause we do need to know where the kitchen sink is.\nWe do need to know where the toilet and the drains are.\nAlright, I'm going to freeze this one as well.\nAnd then we keep everything else.\nAnd then from here, we can go ahead and kind of move these around so that they're not blocking\nanything that is important, such as the ligh",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "kind of move these around so that they're not blocking\nanything that is important, such as the light or electrical fixtures there.\nAlright, so make sure that you get that adjusted.\nI think I'm going to move this down a little bit like probably about here.\nAlright, so from here, what we're going to do is to go ahead and add some annotations to our drainage\nsystem.\nAlright, so what we're going to do here is to go ahead and go to our text.\nAnd we're going to type m.h.1.\nmh as we all know stands fo",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 499,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "o here is to go ahead and go to our text.\nAnd we're going to type m.h.1.\nmh as we all know stands for manhole.\nAnd we give it a number, a unique number at the end there so that we can identify which\nmanhole this is referring to.\nAlright, because of course, we have multiple manholes.\nAnd so giving them a unique number or name will help to identify them individually.\nAlright, so what I did there was to just copy that one, give it a new number.\nWe're going to copy it again.\nAnd I'm going to give it",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "to just copy that one, give it a new number.\nWe're going to copy it again.\nAnd I'm going to give it a new number.\nAnd if you notice how I am numbering them in a chronological order or in a sequential order,\nat the closest end to the host, we start at one and then at the furthest end with the\nlarger number.\nAlright, so you kind of want to keep it a little bit organized.\nYou wouldn't want to put one up here and then two, don't here and then three, you know,\nyou kind of confuse the thing like that",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 499,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "e up here and then two, don't here and then three, you know,\nyou kind of confuse the thing like that.\nSo we're going to leave it at that.\nAlright, so let's name these are the guys here.\nOf course, well, already know what these are.\nTrap, goly basin.\nSo T g.\nB.\nAnd we don't have to give these a number because of course, this is just one here.\nIf I had more than one than I would give it a number, but in this case, we only have one.\nSo and this would be grease, trap basin.\nAlright, good.\nSo we have",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "t in this case, we only have one.\nSo and this would be grease, trap basin.\nAlright, good.\nSo we have those labeled and that's that.\nThen we're going to go ahead and label our pipes.\nAlright, so what we need to label on here would be the size and the material.\nOkay, so for this project we're using PVC pipes, I want to make sure that you put the\ncorrect size on here.\nSo we're going to use a leader.\nSo let's go to multi leader here and we're going to click on this first one right here\nand drag it o",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 500,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "So let's go to multi leader here and we're going to click on this first one right here\nand drag it out.\nNow if you notice when you move it out, you get the arrow.\nIf you put it too close, you're not going to get the arrow and you always want to have\nthe arrow.\nSo pull it out enough so that you can see the arrow and then click.\nAnd then we're going to go ahead and type 4 inch PVC.\nActually, I want to put the millimeters here as well, which would be 100 millimeters.\nAnd what we want to also do is",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 499,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "to put the millimeters here as well, which would be 100 millimeters.\nAnd what we want to also do is to put the diameter symbol here, because this is a circular\npipe.\nSo we're going to put the diameter symbol, which would be the shortcut would be percentage\npercentage C as in cat.\nSo that's how we want to have that.\nAnd then guess what, we could just copy this and paste it under other areas that we need\nit.\nSo we need one here, we need one here.\nWe're going to need one down here as well.\nAnd we'r",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "need\nit.\nSo we need one here, we need one here.\nWe're going to need one down here as well.\nAnd we're going to move the arrows so that they can point in the correct direction.\nSo let's do that with these.\nI'm going to do actually, you know what, let me delete these.\nI'm going to copy this one and paste it here and here.\nAnd then for this one, I'm going to point it in this direction, point it here.\nAs well, I need another arrow from this to point to this pipe right here.\nSo what I'm going to do i",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 499,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "As well, I need another arrow from this to point to this pipe right here.\nSo what I'm going to do is to highlight that, go to the leader drop don and say add leader.\nAll right, so once we click on that, we know how the ability to add another leader.\nAnd if we want, we could actually add another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 499,
+    "word_count": 95,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "ther one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 500,
+    "word_count": 84,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one ano",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 499,
+    "word_count": 84,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one another one\nSo guess what, we also have some two inch ones and these are some smaller PVC pipes that are running from the laboratory to the bathroom dr",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 499,
+    "word_count": 87,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "ch ones and these are some smaller PVC pipes that are running from the laboratory to the bathroom drain here floor drain.\nSo this would be two inches enough course if four equal 100 and two would equal the what.\nAlmost 150 that's how I know you're some brilliant dudes and girls.",
+    "start_char": 7600,
+    "end_char": 7880,
+    "char_count": 279,
+    "word_count": 52,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "0 and two would equal the what.\nAlmost 150 that's how I know you're some brilliant dudes and girls. All right, so that's gonna be that and then I'm gonna copy this again and put it in the kitchen because we have another two inch pipe inside of here.\nSo as you can see we're just going around and labeling each pipe making sure that they have the correct information on them.\nAll right, I also want to label.\nThis little thing right here, so this would be a four inch equally the PVC under PVC,\nDon't spout our don't pipe whichever you want to use.",
+    "start_char": 7780,
+    "end_char": 8328,
+    "char_count": 547,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "uld be a four inch equally the PVC under PVC,\nDon't spout our don't pipe whichever you want to use. So this would be the don't spout from the roof gotter and then it would go into this PVC pipe all the way to the river at the back of this property.\nAll right, so that's it for the drainage plan. I just have too little additional notes that I would add text.\nLet's add it right here. I'm gonna storm water line two.\nReverse at the back of property.",
+    "start_char": 8228,
+    "end_char": 8677,
+    "char_count": 448,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "add text.\nLet's add it right here. I'm gonna storm water line two.\nReverse at the back of property. All right, so I would put this here.\nBut if you notice the line the pipe is running through the text and I kind of want to block that out.\nSo what I would do is to just highlight everything go to mask and choose background and of course I'm\ngoing to be using the drawing background. That's all you need to do and he'd okay. And so that will get\nrid of the line in the background there.",
+    "start_char": 8577,
+    "end_char": 9063,
+    "char_count": 485,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "t's all you need to do and he'd okay. And so that will get\nrid of the line in the background there. And of course I'm going to copy this text now and I'm going to paste it down here.\nAnd I'm going to write something similar except that it's going to be more along the lines of sewer line to main\ncommunity sewer system. Something like that.",
+    "start_char": 8963,
+    "end_char": 9304,
+    "char_count": 340,
+    "word_count": 68,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "going to be more along the lines of sewer line to main\ncommunity sewer system. Something like that. Yeah, of course you might be able to work it a little bit\naround that, but essentially what we're going to do when we create our view is to cut off.\nWe're going to cut the drawing about here because we don't want to see this part of the drainage system.\nAnd we don't want to see that little back part. I can stay. Those areas will be seen on the site plan.\nAll right. So you don't have to worry about that. All right.",
+    "start_char": 9204,
+    "end_char": 9722,
+    "char_count": 517,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "e areas will be seen on the site plan.\nAll right. So you don't have to worry about that. All right. So that would be it for the drainage plan.\nNo, we would go over to the electrical plan. And guys, we are like 95% done already. Because there's nothing\nreally to be done with the electrical plan. All we need really is a legend to show all the symbols and\nwhat they represent. And if you remember it when we were doing the electrical plan, we had already done\nour legend. All right. So I'm going to go ahead and I'm going to open that legend up.",
+    "start_char": 9622,
+    "end_char": 10167,
+    "char_count": 544,
+    "word_count": 108,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "already done\nour legend. All right. So I'm going to go ahead and I'm going to open that legend up. So this is the\nlegend that I have created from the time we had done the electrical plan. All right. Now I have this\nlegend available on my Patreon page guide. So if you need to download it definitely go over there.\nThe AutoCAD file is there. But I also have the PDF file linked in the description below if you need\nsomething to reference for your project. All right. Now the good thing about having your legends in\nin a separate drawing is that we can link this drawing to all of our projects.",
+    "start_char": 10067,
+    "end_char": 10661,
+    "char_count": 592,
+    "word_count": 115,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "ving your legends in\nin a separate drawing is that we can link this drawing to all of our projects. All right. So\nwhat we're going to do here is to make this drawing a part of our current project. And how we're\ngoing to do that is we're going to go to our construct and we're going to make it an element. All right.\nSo we're going to just right click and we're going to save current drawing as an element. So we go ahead\nand I'm going to rename this to say electrical and drainage legend. Okay. And if you notice,\nI renamed it because I want to add a couple others to stuff inside of here.",
+    "start_char": 10561,
+    "end_char": 11151,
+    "char_count": 589,
+    "word_count": 119,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "kay. And if you notice,\nI renamed it because I want to add a couple others to stuff inside of here. What I'm going to do is\nto probably just copy one of these. By the way, guys, this legend I made from scratch. So this is\nsomething you will have to spend time on. Do there are some tools out there that we can use to\ncreate legends. But I do not have access to those. So you will have to go ahead and figure that out.\nDefinitely go ahead and do the same. So I'm going to rename this to be drainage legend.\nAll right.",
+    "start_char": 11051,
+    "end_char": 11568,
+    "char_count": 516,
+    "word_count": 107,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "Definitely go ahead and do the same. So I'm going to rename this to be drainage legend.\nAll right. So basically what I'm going to do is to just have, we're going to be copying\nthese down one, two, three. And I'm going to be having the abbreviations here. So I'm going to have\nm, h. I'm also going to have shrub, golly, piece. I'm going to have piece shrub piece. And I'm\ngoing to give the descriptions here. All right. So I'm going to go ahead and finish this legend here.\nI'm going to copy this down like that. And then I'm going to get rid of this piece. All right.",
+    "start_char": 11468,
+    "end_char": 12037,
+    "char_count": 567,
+    "word_count": 112,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

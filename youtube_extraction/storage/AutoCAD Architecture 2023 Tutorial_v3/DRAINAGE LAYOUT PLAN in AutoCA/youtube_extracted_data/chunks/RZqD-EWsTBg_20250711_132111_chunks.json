@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Olá, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 7600,
+    "end_char": 8100,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 8000,
+    "end_char": 8500,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 8400,
+    "end_char": 8900,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 8800,
+    "end_char": 9300,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 9200,
+    "end_char": 9700,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 9600,
+    "end_char": 10100,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 10000,
+    "end_char": 10500,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 10400,
+    "end_char": 10900,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 10800,
+    "end_char": 11300,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 11200,
+    "end_char": 11700,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 11600,
+    "end_char": 12100,
+    "char_count": 499,
+    "word_count": 125,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

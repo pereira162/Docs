@@ -1,0 +1,163 @@
+Hey everybody, welcome to another episode of our one bedroom house series and today what we're going to do is to take a look at drainage systems and see how best we can implement a drainage system layout for this one bedroom house.
+Alright, so if that's something you're interested in then stick around man.
+Alright guys, so welcome back and thank you for joining me with the first time. Don't be afraid to hit the subscribe button especially if you like what you're seeing.
+If you have questions again don't be afraid to ask your questions below I'll try my best to give you an answer. Alright, so let's get right into it then.
+Alright, so a drainage system has one main function and that is to get rid of wastewater.
+Whether it be from the house itself you know the tile it the kitchen the laundry room you have to get rid of all that water and also water that is coming off of your roof off of your pavement.
+We have to get rid of all of that because if you don't then you're going to have pollution and then you're going to also have flooding and so that is the main purpose of a drainage system.
+Now what you have to know is that there are different types of wastewater namely we have the grey water which is coming from like bath tops sink laundry machine so on and so forth we have yellow water I don't need to explain that one we have brown water I really don't think I need to explain that one either and then we have star water which also probably I don't need to explain as the term would have suggest and then we also have black water.
+And that is everything combined together. Alright, so put everything in our one cake we get black water.
+No, the second important thing to know is that there are two main types of drainage system we have the combined system and we have the separate system.
+So as you see in this picture right here the combined system is when we combine everything together into one main system and we channel that true one main shoreline and we send it off to the sewage treatment plant.
+Okay, now the separate system is when we separate the star water are the rain water from everything else and that's crucial in some areas are some countries especially if it rains a lot we have to separate the rain water so that it doesn't cause flooding of those pipelines.
+So like in Jamaica here where we have our other rains it is recommended that we use the separate drainage system unless you have a really good system that can handle all that pressure.
+We're going to use the separate system so that we can channel that star water after the river or maybe to a water tank or we just allow it to soak away in the earth.
+And then of course we would have everything else from the house all that brown water, yellow water, gray water all that being transferred to a waste treatment area whether it be on the site or on that property or it is somewhere off site maybe at a community sewer treatment facility.
+So without further ado let's get into AutoCannas show you how I go about doing a layout for this drainage system.
+All right, let's do it. All right guys, so here we are in AutoCanned architecture and of course the first thing we're going to do is to find our project navigator right here as you can see I have it open up if you don't know where this is it is right up here.
+So we open our project navigator what we're going to do is to create a new construct and we are going to call it drainage layout as you can see I have it here already.
+So go ahead right click go to new construct and apply that construct to the ground floor of course if you had more levels like a level two level three then you would want to have a construct for each level if you're going to be doing a drainage layout plan for those levels as well.
+All right, so we only have one level here we only need one drainage layout plan and so that's what we're doing.
+All right, so I have it open here already. All right, so if you notice we're calling it a drainage layout and the reason for that is because it is exactly just a layout it is not detailed it only gives us a line diagram of what the drainage system should look like and it contains just a major components of that drainage system.
+If it is that you want to do a more detailed and accurate and precise drainage system then you will have to download or get access to AutoCAD, MEP which is different from AutoCAD architecture.
+AutoCAD MEP is for mechanical electrical and plumbing it has all the tools and accessories needed to create and draw a precise drainage system.
+All right, also for electrical and plumbing and mechanical, all right, so we're just doing a layout here and that is all that is necessary for approval in Jamaica.
+Of course in AutoCAD it may not be the case. All right, so of course in this drawing I already have a couple of blocks that I have already created these are the three main components of our drainage system and as you can see we have a manhole we have the trap golly basal and we have the grease trap basal and we're going to place these in the correct position and we're going to connect them using lines.
+Of course I have two different color lines here one for brown water or sewer water and then we have one for star water, okay and I have a little arrow that I also created can also be rotated to place on these lines to show the direction of flow.
+Okay, so what I wanted to do is to go ahead and download the PDF below because it has these three diagrams and you can go ahead and draw them make them into a block and also the ones that I have provided there are just the minimum basic ones that are required for residential houses in Jamaica.
+So if you're in another country you would have to do research and final what is acceptable and what is required. Of course we will need to produce details for these if it is that we're going to be building them on site.
+If they are going to be prefabricated by a company and you just take it and install it then you'll have to show the necessary information for those as well.
+All right, so of course, these are all going to be built on site so we will be providing details for these.
+All right, so once you go ahead and draw these make them into blocks. If you don't know how to make them into blocks, I have a video the previous video that I did.
+There's a section of that video that shows you how to create blocks. I will drop the link in the description so check that out.
+All right, so what we're going to do of course is to x-ref overlay our building into this drawing so go ahead and bring in our ground floor x-ref overlay.
+All right, good and then we want to bring in our fixtures because we need to know where the title is located we need to know where the kitchen and the the sink is located and so on.
+All right, the next thing we also need to bring in is our site plan. All right, so let's go ahead and x-ref overlay our site plan and this is also important because this will help us to know where to place each of our components up here.
+All right, it's going to be a separate drainage system. So everything from the roof will be going into a separate line and everything from the house will be going into a community sewer line. So what we need what I'm going to do here is to draw a line down here. So this line represents the community sewer line.
+So when we connect up all of our sewer system up in the house here, we need to connect it finally to this line here that is running underneath the road. All right, so but before we actually get into the nitty gritty let us freeze a couple of these layers like this. I don't want to see that I don't want to see this. I don't want to see this at least for now we can turn them back on later.
+All right, freeze that. Let's freeze the car as well. All right, so yeah, this is good enough for us to be able to coordinate our system around the building and you know you're going to have to use some common sense, you know, and determine which direction would be the shortest distance to the sewer line would it be coming around the building this way or going around it this way, which way do you think?
+Of course you're correct. So I mean we are bright. We have to go this way because it is shorter it makes more sense it's more cost effective. All right, so you want to make sure that you plan and lay out your thing properly. All right, now if it is that we were going to treat our sewage and wastewater on this property then we would have to create what is called a tile field and a septic tank and we would have to connect everything to those.
+But for this project, I'm just going to run it directly into a sewer line so we won't need a tile field and we won't need a septic tank. All right, so let's move right along. The first component I'm going to be using is the grease trap basin and as the name suggests, let's take it down.
+As the name suggests, grease trap where do you think we should place it? Toize the bathroom or toize the kitchen. You're correct. Again, towards the kitchen because what the kitchen is what produces the most grease and so we need something to trap that grease so that it doesn't get into the sewer system because that can be a problem.
+You know, any grease go is catastrophic so we need to rotate this 90 degrees.
+Boop and then we're going to just move him over just like that. Right. Let's place him close to the sink because of course when you cook and you throw away all that I'll it needs to go into this thing here that will treat that grease.
+Well, what it does is to trap the grease and release the rest of the water into this area which then is moved into a manhole. Okay.
+The once the grease trap becomes filled with grease then you will need to clean it. Okay, so that is how the grease trap works.
+So that is in this position. We're going to connect it. Of course, I would have created some layers already. I have a sewer pipe layer. I have a storm pipe layer and I have a site utility layer. Let me show you what they look like. So you have that.
+That phantom point 25 storm water phantom again point 25 when I have the site utility which is also point 25 continuous.
+All right, so those are the only three layers I have created here and of course those are the only three we will need for this project.
+So what I'm going to do is to connect the sink to this just using lines because it's a land diagram.
+So I'm going to kind of draw a little circle here measuring a diameter of two. I'm going to place it on the sewer probably need to make that layer active.
+So that again draw directly on that layer.
+Then we're going to draw a line from this and connect it directly into the grease trap just like that.
+All right, so that's that for the kitchen. Let's move over to the bathroom now and we're going to connect the trap gully basin. We're going to move it down and we're going to place it just about here.
+I'm going to place it against the wall. Of course you don't have to put it up against the wall. But you know, a lot of us do that and it's not interfering with the foundation. So you don't have to worry about that either.
+So what we're going to do really here now is to connect gray water to that. All right, you do not connect the toilet to the trap gully basin. I'm going to be explaining that to you in a little bit.
+So I'm going to copy this two inch diameter circle because what these two inch represent are for me is that is the size pipe that will be connecting these areas.
+So the pipe that we're using to connect these are two inches. So that is why I use a two inch circle. All right.
+So I'll connect the face basin or the lavatory to the shower and then the shower drain connects to the trap gully basin.
+All right, and I'll be explaining what this does in a little bit. As soon as I get the manhole and I have been pulling this down and placing it somewhere maybe about here.
+And what happened is that the toilet connects directly to the manhole and this is very important guys. I'm going to draw a circle that measures four inches in diameter.
+And that's because we always use a four inch pipe to connect the toilet to the manhole. So I'm going to draw a line connecting this.
+I'm going to draw a line connecting that to the manhole. And then we're going to connect the trap gully basin to the manhole.
+Now if you notice this is how we do the toilet and the other areas. We do not connect gray water and brown water into the same manhole.
+You have to connect the gray water into a trap gully basin before it goes into the manhole. That's cool shell guys. All right.
+And the reason for that is the trap gully basin has a trap inside of it as the name would suggest.
+All right. It has a trap that contains water and that water prevent certain things from coming back up into the line such as stench descent.
+It blocks insects and other creatures from coming back up even though our insects are getting very skilled nowadays. And so even with the trap there is still passing through.
+But then they would have another trap here to pass and another trap on the need here as well to pass. So it's like a double up of security when you put a trap right here.
+The toilet however has a big trap inside of it. So we connect it directly to the manhole. All right guys, and that is very very important.
+Now we're going to be placing another manhole. No, remember we are trying to get around the building.
+So we can just run a pipe and bend the counter like that. We have to put another manhole wherever you have a change in direction, especially for a small four inch pipe that we're going to be using to connect manholes.
+We have to have another manhole. Sorry, what I should have been is to copy that. So let's do that way.
+All right. So I'm copying it and we need to put one here because we need to go around the building.
+And so we have a corner here that we need to put another manhole at and so I'm going to be connecting the manhole together like so.
+All right.
+And so what happened? You can't bend the corner like that because what will happen? You'll have a blockage in that corner.
+So it's important to have a manhole where if there's actually a blockage, we could just remove the cover, clear the blockage and everything will be fine and dandy.
+Remember know that we had the kitchen running into the grease trap basin and so on now the grease trap basin need to go into the manhole.
+So we could just go ahead and connect it just like that.
+And then know if you take a stuck and look everything is looking wonderful.
+We have our sink, our face basin connecting to our shower drain and that connects to a trap gully basin.
+And from there to a manhole, we have the toilet going directly into a manhole and then from manhole to manhole.
+Keep saying manhole by how do I have one other word guys so be with me.
+All right, and then I'm need another one just before we leave off of the property.
+What I did there was to copy that one and place it down here and so what I'm going to do is to connect this manhole to this one right here.
+So we have one last manhole before we leave the property and then from here right connected directly into the this line here and need to place this also on the.
+That layer.
+All right, so there we have our drainage layout from the house itself.
+We need to do one from the from the roof and yeah that doesn't look bad.
+And if you notice the maximum distance between each manhole can be 20 to 30 feet apart if you're going to go longer than that then you need to place an intermediate manhole so bear that in mind.
+And I'm going to just draw a little box to represent the don't pipe from the roof.
+I'm going to make this pipe about four by four.
+I'm going to be placing this on that layer.
+And then I'm going to kind of move it over to line up with.
+That I mean it depends on where you want the don't pipe to be.
+I'm putting it on the back of the house so that nobody can see it.
+And you may need more than one depending on the size of the house.
+But this one is just going to be one for this house that they don't want to draw.
+I need to switch layer first to my storm water layer.
+And I'm going to be drawing some lines.
+Now the reason why I'm running this towards the back of the building is because there's a river running behind here.
+And so what we're doing is the channel all of this water into that river.
+All right.
+If some people would want the channel this to a tank or to a so-called way.
+All right.
+So it all depends on what your would like to do for your project.
+All right.
+So that's the reason why we're running it into that direction.
+All right. So that's it, basically.
+All we need to do now is to place our arrows on the lines so that we can show the direction of flow.
+You just place one arrow on each line.
+So I'll just copy that and place it one there.
+One there.
+One there.
+You just place it on the center of the line.
+If it's a very long line though you might need to put two arrows just to make sure that you have sufficient information.
+Person scanner read it clearly.
+All right.
+So of course we're going to need to rotate the arrows to show the direction of flow.
+So that is why I put this rotational handle on this arrow to show the direction of flow.
+All right. Guys, the direction of flow is very, very important to show.
+All right. So you can't send your drawing to a parish once without showing the direction of flow because they're going to run your out.
+Of course I'm going to replacing these on the same layer as the pipe.
+So that they can be controlled by that layer.
+I need to do this one for that.
+All right. So there we go guys.
+That's it.
+Basically, and the last thing I'm going to actually do is to go to my deaf point layer.
+I just draw a box around the kitchen area and the bathroom area just to highlight these areas a little bit.
+I mean, the deaf point layer won't be printed, but I just like to have it there to kind of see where the plumbing areas are.
+And so if we were to let's say we were to detach our unloaded these, we can just look at the details.
+Look at the drainage system itself and see how everything looks and how everything is connected together.
+All right.
+So that's what the drainage system for a separate system on this building would look like.
+Of course, I'm going to reload this to have them showing up.
+I never going to hate to say one.
+All right. So that would be our drainage layout construct.
+If we want to see them on our views, of course, we would have to go down into architecture going to drainage and electrical right click and go down to properties context.
+We don't want to see structure.
+What we want to see all of these including drainage and layout that we just did.
+We're going to hit OK.
+So that when we open our drainage and electrical view, we can see that it is now inside of this drawing as a whole block itself.
+And these two lines are showing up. I forgot to delete them. So let's go back over to the construct.
+I'm going to hit save again.
+Go back over to our view, which would be in this area drainage and electrical.
+What we would do here is to click on the drainage and reload it.
+So that it gets rid of that.
+I hope I'm not confusing you.
+So if you don't understand go ahead and rewatch.
+All right. So we have a manhole there. We have.
+Trap, grease trap basin, another manhole there.
+And we have everything we can nicely done our own here as well.
+All right guys. So that is it for this video.
+This is just a brief introduction to you know a drainage layout.
+And of course, if you're doing a larger project, you should get some amount of value from this list.
+I would hope.
+So if you liked the video, then be sure to hit the like button and don't forget to hit the subscribe as well.
+And if you want to be reminded of all the videos when I post them, then hit that bell.
+All right. And that's it guys.
+Share, comment. You know the whole work's already.
+Check me out on the other sites.
+And yeah, let's do it. Let's do it.
+Thank you.

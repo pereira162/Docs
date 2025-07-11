@@ -1,0 +1,429 @@
+chunk_id,content
+0,"so this is episode 7 of our one-bedroom
+house and no it has been a long wait but
+you know I got a little busy that aside
+I'm here now and I'm ready to rock and
+roll again so in today's video what
+we're gonna do is foundations all right
+in particular we're gonna do the
+foundation walls the foundation footing
+and we're gonna do the floor all three
+of these we're gonna actually model them
+in 3d
+we're gonna get a little deeper into
+some stuff so prepare your brains all
+right if this is your first ti"
+1,"gonna get a little deeper into
+some stuff so prepare your brains all
+right if this is your first time on the
+channel welcome thank you for joining
+and I hope that you learn something new
+if you have any questions at all or any
+thoughts feel free to drop them below
+and also don't forget to hit the like
+button I'd really appreciate that
+let's go so for those of you who don't
+know what a foundation is which would be
+foundation of a building is also
+referred to as the sub structure so you
+have a su"
+2,"is which would be
+foundation of a building is also
+referred to as the sub structure so you
+have a superstructure which is the
+portion above ground level and you have
+sub structure which is below the ground
+level which is what we will be focusing
+on and there are many types of
+foundation you have a pile RAF pad
+foundation but the one we're gonna be
+focusing on or the one we're gonna be
+using this is known as strict foundation
+which is typical of what we use mostly
+in Jamaica and other parts of th"
+3,"s known as strict foundation
+which is typical of what we use mostly
+in Jamaica and other parts of the
+Caribbean so a strip foundation is
+basically a strip of reinforced concrete
+that runs along the bottom of a wall all
+right and what it does is to support
+that wall that's basically it just a
+strip of concrete all right
+so that's what we'll be doing today all
+right so here we are back in AutoCAD in
+the last couple of videos this was where
+we cut and so now we're going to add our
+foundation now if"
+4,"the last couple of videos this was where
+we cut and so now we're going to add our
+foundation now if you go back over to
+your project navigator
+this is it right here we are now going
+to go into our foundation construct and
+this is where we'll be drawing our
+foundation everything foundation related
+will be going into that file all right
+and if you're not seeing project
+navigator it is right up here so you're
+gonna open it up and it should bring you
+to your project settings go down to
+constructs f"
+5,"so you're
+gonna open it up and it should bring you
+to your project settings go down to
+constructs foundations so we're going to
+open it and up here we can see that we
+have it open and it's almost like a
+brand-new drawing because there's
+nothing inside of it so the first thing
+we're gonna do is to bring in our grid
+lines just like we did for the ground
+floor so right click and we're gonna say
+xref overlay and just like that our grid
+lines are no in the second thing to do
+is to draw our foundatio"
+6,"overlay and just like that our grid
+lines are no in the second thing to do
+is to draw our foundation walls
+so there are two ways we can do this we
+can draw the walls from scratch like we
+did in episode 4 or since we already
+have the walls over here we could
+actually copy these walls what do you
+think why not
+so let's go back to the top view and
+we're gonna go back to 2d wireframe
+and we're gonna copy these walls
+so we're gonna click on one of the walls
+and we're gonna right click and we're
+gonn"
+7,"copy these walls
+so we're gonna click on one of the walls
+and we're gonna right click and we're
+gonna say select similar now what that
+will do is to select all your walls no
+people we're not gonna copy the doors
+and we're not gonna copy the windows
+because we don't have windows and doors
+in a foundation we only need the walls
+ok that is why we're copying just was so
+we go over to back to home and I just
+want to show you now this copy tool
+we're not gonna use it
+ok cuz we're copying from one file"
+8,"I just
+want to show you now this copy tool
+we're not gonna use it
+ok cuz we're copying from one file to
+another file but we need to copy using
+our
+reference point and the reference point
+that I want to use is one a right at
+this intersection so how do we do that
+we're gonna use the command copy base
+and the shortcut for that is ctrl shift
+C as you can see here it is now active
+and we're going to select this
+intersection here as a reference point
+so we're going to click and now we can
+go over to"
+9,"elect this
+intersection here as a reference point
+so we're going to click and now we can
+go over to our foundation and we're
+gonna paste now if you know the shortcut
+for paste that would be what control V
+so ctrl V and now you can see that we
+have the same reference point here for
+the one e on the grid line so we're
+gonna drop it right at that intersection
+and just like that
+our walls are now inside of our
+foundation drawing all right
+now if I should go to 3d and observe
+what do you observe thes"
+10,"de of our
+foundation drawing all right
+now if I should go to 3d and observe
+what do you observe these walls are too
+tall to be hidden there is no way we'd
+have our foundation walls this top so
+the first thing we need to do is to
+reduce the height so we're gonna click
+on it let's select all our walls again
+and we're going to go over to our
+properties and change the height of our
+walls to 4 feet that's it you have to
+remember that when we set up the project
+we set the foundation to be 4 feet high"
+11,"t's it you have to
+remember that when we set up the project
+we set the foundation to be 4 feet high
+all right so that's gonna be that so now
+we have the foundation walls all set and
+all done the second thing we're gonna do
+is to add the floor slab all right and
+the floor slab should be right on top of
+this area here right on top of it it
+should flush with the top of the wall so
+let me show you if I should rotate the
+floor like this the floor should be
+exactly on top of here all right so
+we're go"
+12,"I should rotate the
+floor like this the floor should be
+exactly on top of here all right so
+we're gonna do that let's go back to the
+top view to the wireframe and we're
+gonna go to roof slab and change it to
+slab all right we can find it here or we
+can go over to our tool pallet where it
+is also located in the design tab you'll
+go down until you see slab right here
+alright either way let's click on it and
+now we are we can draw our slab so the
+first thing we're gonna do is to type in
+how thick w"
+13,"n it and
+now we are we can draw our slab so the
+first thing we're gonna do is to type in
+how thick we want this slab to be so we
+want the slab to be 6 inches thick okay
+for residential properties it would be 6
+inches and for commercial it would be a
+little bit thicker maybe 8 inches so for
+this building imma leave it at 6 make
+sure that the justify is top everything
+else is good and then we're gonna go
+ahead and draw a box around and this box
+we're gonna draw it on the inside of
+this wall so tur"
+14,"na go
+ahead and draw a box around and this box
+we're gonna draw it on the inside of
+this wall so turn this off so I'm gonna
+draw it from here over to this corner
+like that don't to this corner like that
+over to this corner and then back up to
+this corner like that all right
+and so we close the box right there and
+we're gonna hit enter and that's it hit
+enter one more time let's look at that
+in 3d you know I love my 3d view I'm
+gonna say concept to all this time now
+if you notice now that the flo"
+15,"you know I love my 3d view I'm
+gonna say concept to all this time now
+if you notice now that the floor slab is
+below the foundation which is ridiculous
+I don't want it there I want it to be on
+top of flushing with the top of the wall
+so what I need to do so click on the
+floor slab and change the elevation from
+0 to 4 4
+four feet and just like that all right
+so that is how that should look flush
+just like that now if you'll notice I'm
+gonna put this in x-ray view so you can
+see what I'm saying no"
+16,"st like that now if you'll notice I'm
+gonna put this in x-ray view so you can
+see what I'm saying now if you notice
+the walls are intersecting with the
+floor so if I should go like this you
+can see that the floor actually runs
+through the wall and we don't want that
+okay we actually want the floor to to
+stop at each wall all right so what
+we're gonna do we're gonna create what
+is called interference all right so
+click on the wall or rather click on the
+slab and then we're gonna go up to
+interfer"
+17,"ce all right so
+click on the wall or rather click on the
+slab and then we're gonna go up to
+interference and we're gonna add some
+interference so click on it and you
+wanna select it says down here select
+objects to add so what do we want to add
+we want to add these walls that are
+interfering with the floor slab so let's
+go ahead and select them we could
+actually do it from the 3d view which is
+what I'm gonna do here that one then we
+have this one we have this wall and we
+also have this one so th"
+18,"t I'm gonna do here that one then we
+have this one we have this wall and we
+also have this one so these are the
+walls that are interfering with the
+floor slab
+once you're done selecting you would
+press ENTER and then you have the
+decision to say do you want it to be
+additive or do you want it to be
+subtractive which one do you think
+perfect subtractive something OC a
+brightener Yemen subtract and just like
+that boom the floor is now separated for
+each rule so each room now has its own
+floor slab"
+19,"just like
+that boom the floor is now separated for
+each rule so each room now has its own
+floor slab alright and the last thing we
+need to do is to add our foundation
+footing okay
+so you see it's not all that difficult
+in fact this might be the most difficult
+part of the video so pay attention so
+we're gonna add some footing what we
+need to do is to go to our tool pallet
+and we're gonna say content browser and
+we're gonna look for the footing to add
+to this drawing so we'll go to imperial
+let me"
+20,"t browser and
+we're gonna look for the footing to add
+to this drawing so we'll go to imperial
+let me go back if you're using metric
+you would go to match it what were using
+Imperial for this project so we're gonna
+go to Imperial and then we're gonna go
+down to was go to concrete and here we
+can see that we have a couple of options
+we have like a concrete wall founded
+with with a footing beneath it we have
+concrete walls have a lot of different
+stuff but the one that we're going to be
+using is th"
+21,"we have
+concrete walls have a lot of different
+stuff but the one that we're going to be
+using is this one here okay it says here
+variable width times 12 inches concrete
+strip foundation so we can change the
+width but the height of it is 12 inches
+which is too thick but we're gonna make
+some adjustment to it still but this is
+the one that I would recommend that you
+use so what I'm going to do actually is
+to add it to my walls tool pallet so I'm
+gonna go here and I'm gonna say add to
+tool palette"
+22,"ally is
+to add it to my walls tool pallet so I'm
+gonna go here and I'm gonna say add to
+tool palette so now it is in my tool
+pallet down here and we're gonna go
+ahead and draw one of these strip
+foundation so we're gonna click on it
+and
+we want the width to be one into six
+inches okay one into six and we want the
+justifier to be Center and what else
+I'll leave it at that for now
+and I'm gonna click I'm gonna draw the
+first footing foundation from here to
+here click enter so just like that we
+hav"
+23,"k I'm gonna draw the
+first footing foundation from here to
+here click enter so just like that we
+have our first foundation but the
+problem with this is that it is too
+thick it is 12 inches which would be
+fine if that's what you wanted but for
+this project I want a foundation that is
+9 inches thick which is typical for most
+of the houses that we do in Jamaica
+all right so 9 inches so how do we do
+this we're gonna have to edit this
+foundation so what we're gonna do is to
+copy style well first you"
+24,"his we're gonna have to edit this
+foundation so what we're gonna do is to
+copy style well first you need to
+highlight the object and then we're
+gonna say copy style and we're gonna
+change the name of it because we want
+this to be our own one that we use so
+we're going to change it to 9 because
+this one is gonna be 9 inches tall or
+thick change the description to 9 as
+well and then we'll go over to
+components and this is where now things
+get deep technical it looks difficult
+but it's not alright"
+25,"components and this is where now things
+get deep technical it looks difficult
+but it's not alright so this is like a
+View window where we can see what the
+footing looks like based on what we do
+over here basically all we're gonna do
+is to change this to 9 that's all but
+make sure that it is negative 9 okay so
+it is gonna be negative 9 9 inches and
+I'm gonna change this to zero and then
+I'm gonna say okay oh okay that's it yep
+that is it and we can go over to our
+style just to check if that's th"
+26,"say okay oh okay that's it yep
+that is it and we can go over to our
+style just to check if that's the one we
+are using so now we have a separate
+style that we've just created called
+x times 9 which is a variable width
+times a 9 inch deep foundation all right
+strip foundation just to make sure so
+now we're good to go
+if we look at it in 3d let's do that we
+can see that we have a strip foundation
+running underneath that wall that is 9
+inches thick perfect so we're gonna
+finish the rest of it top t"
+27,"nning underneath that wall that is 9
+inches thick perfect so we're gonna
+finish the rest of it top to be
+wireframe
+so what we're gonna do is to click on
+this one we're gonna say add selected
+all right so we're gonna be adding the
+rest of it so let's start from this
+corner go all the way across so almost
+like a drawing walls going down
+never better walk across all right so so
+far we have our external walls being
+done now we need to do the internal ones
+the internal ones might be a little bit
+more"
+28,"al walls being
+done now we need to do the internal ones
+the internal ones might be a little bit
+more challenging because we don't have a
+grid line running through all of them
+and selected well this one has a grid
+line so let's do this one so we're gonna
+start right at the green box I'm gonna
+bring it all the way up to this one I
+would recommend turn on the ortho mode
+this will help you so that your
+foundation walls are your foundation
+footing will be straight no one on lino
+clean up all right so"
+29,"r
+foundation walls are your foundation
+footing will be straight no one on lino
+clean up all right so we have that one
+we're gonna add one across here let's do
+that click on one of these and we're
+gonna say add selected and when what I'm
+looking for is a green box to pop up in
+this corner let me see right see that
+green box why don't you see the green
+box click alright good bring it across
+and I see another green box over there
+I'm gonna just click even though it
+looks like the mouse or the curso"

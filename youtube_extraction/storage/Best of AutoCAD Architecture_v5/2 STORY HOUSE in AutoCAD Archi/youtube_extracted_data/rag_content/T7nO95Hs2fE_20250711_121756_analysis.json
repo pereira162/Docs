@@ -1,0 +1,30 @@
+{
+  "statistics": {
+    "total_characters": 2625,
+    "total_words": 493,
+    "total_sentences": 1,
+    "average_words_per_segment": 2.8830409356725144,
+    "total_duration_minutes": 22.425333333333334
+  },
+  "content_analysis": {
+    "language_detected": "en",
+    "transcript_type": "generated",
+    "readability_score": 0
+  },
+  "keywords": [
+    "music",
+    "want",
+    "hmm",
+    "applause",
+    "video",
+    "gonna",
+    "dont",
+    "know",
+    "get",
+    "channel"
+  ],
+  "topics": [
+    "tecnologia"
+  ],
+  "sentiment": "negative"
+}

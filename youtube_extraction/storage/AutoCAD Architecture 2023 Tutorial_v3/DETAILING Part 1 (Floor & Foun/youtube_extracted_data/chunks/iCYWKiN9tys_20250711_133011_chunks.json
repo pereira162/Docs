@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "O que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é is",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 144,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO qu",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 500,
+    "word_count": 143,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nO que é isso?\nEntão, vamos fazer o primeiro aqui,\ne ele vai fazer um gráfico\npara illustrate o que ele vai fazer.\nE vamos fa",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 500,
+    "word_count": 133,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "os fazer o primeiro aqui,\ne ele vai fazer um gráfico\npara illustrate o que ele vai fazer.\nE vamos fazer o que você vai fazer.\nEntão, vamos fazer o que você vai fazer.\nE aí, ele vai fazer um dialogo de box-up,\nonde podemos entrar a informação\nsobre o que você pode entrar.\nEntão, podemos entrar,\nfreir o material,\nde gelo,\nde gelo,\ne vamos ver.\nE, então, vamos entrar,\nentão, esses são as coisas que você pode entrar no lado do lado.\nEntão, isso é um lado do lado.\nO que é isso?\nO que é isso?\nE ele va",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "ocê pode entrar no lado do lado.\nEntão, isso é um lado do lado.\nO que é isso?\nO que é isso?\nE ele vai fazer o que é isso?\nO que é isso?\nVamos fazer o que é isso?\nE ele vai fazer o que é isso?\nVamos fazer o que é isso?\nVamos fazer o que é isso?\nEntão, vamos fazer o número 2,\ne vamos fazer o número 3.\nEntão, podemos entrar em números,\nou seja, vamos fazer aqui,\ne justipe em um número,\ne isso vai ser reflacto.\nVamos fazer o que é isso.\nEntão, isso é isso.\nEntão, todos os dois,\nnós temos um número,",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 499,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "reflacto.\nVamos fazer o que é isso.\nEntão, isso é isso.\nEntão, todos os dois,\nnós temos um número,\nque, se temos dois mais dois,\nque são a mesma,\nque é o que ele vai fazer,\ne que ele vai fazer os dois,\ne que é o que é o que ele vai fazer,\nentão,\nse este é o que ele vai fazer,\ne este é o que ele vai fazer,\ne eles vão ser um número 1,\nmas,\nmas, porque este é o que ele vai fazer,\neste é um número 2,\ne,\nmas,\neles são a mesma.\nEntão,\nos dois dois,\nvocê tem que dar um número 2,\ne o número 2,\nentão,\né",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 499,
+    "word_count": 116,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "e,\nmas,\neles são a mesma.\nEntão,\nos dois dois,\nvocê tem que dar um número 2,\ne o número 2,\nentão,\né uma vez mais,\nentão,\neles são a outra.\nE a mesma vez,\nquando nós vamos fazer os dois,\nos dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 498,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 4400,
+    "end_char": 4900,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 4800,
+    "end_char": 5300,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 5200,
+    "end_char": 5700,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 5600,
+    "end_char": 6100,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 6000,
+    "end_char": 6500,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 6400,
+    "end_char": 6900,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 6800,
+    "end_char": 7300,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 7200,
+    "end_char": 7700,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 7600,
+    "end_char": 8100,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 8000,
+    "end_char": 8500,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 8400,
+    "end_char": 8900,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 8800,
+    "end_char": 9300,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 9200,
+    "end_char": 9700,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 9600,
+    "end_char": 10100,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 10000,
+    "end_char": 10500,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 10400,
+    "end_char": 10900,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 10800,
+    "end_char": 11300,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois\ndois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 11200,
+    "end_char": 11700,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois dois",
+    "start_char": 11600,
+    "end_char": 12100,
+    "char_count": 499,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]

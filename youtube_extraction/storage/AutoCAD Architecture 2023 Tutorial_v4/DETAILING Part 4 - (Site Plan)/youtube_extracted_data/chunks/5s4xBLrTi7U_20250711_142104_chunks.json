@@ -1,0 +1,362 @@
+[
+  {
+    "index": 0,
+    "text": "Hello everybody, welcome back to another episode on the channel and today what we're\ngoing to do is to finish up our site plan.\nYes, so we're going to add some annotations and details and call it a day.\nWrap it up.\nDon't worry that.\nIt's been a while since I uploaded a video and that's because I got really, really busy\nand also I was taken down by the fever that is going around.\nSo I'm going to have to take some time to recuperate.\nWe'll say it right and get back to the level where I need to be.",
+    "start_char": 0,
+    "end_char": 500,
+    "char_count": 500,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 1,
+    "text": "ve to take some time to recuperate.\nWe'll say it right and get back to the level where I need to be.\nAnd I mean, if it's a first time on the channel, thank you for joining.\nI hope that by the end of the video, you'll learn something and you will also subscribe, drop a comment, hit the like button.\nJust do one of those things.\nAnd for those of you who have been here already, you don't know the thing or bigger\nitself, let's jump right into it.\nAlright guys, so here we are back in AutoCAD architect",
+    "start_char": 400,
+    "end_char": 900,
+    "char_count": 500,
+    "word_count": 100,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 2,
+    "text": "g or bigger\nitself, let's jump right into it.\nAlright guys, so here we are back in AutoCAD architecture and already you know what we're going to do.\nWe're going to be adding annotations, details to this site plan.\nAnd of course, we would have done probably 80 to 85% of the job already.\nWhere we drew the site plan and the building and everything already.\nSo you know, easy movements today.\nBefore I get any deeper into this though, I want to show you a couple of changes that I made to this project.",
+    "start_char": 800,
+    "end_char": 1300,
+    "char_count": 500,
+    "word_count": 95,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 3,
+    "text": "get any deeper into this though, I want to show you a couple of changes that I made to this project.\nMine changes but very important.\nSo if you go back to our project Navigator and go over to our constructs tab here,\nwe can see that there's nothing underneath my elements folder here.\nSo what I realized was that anything that is inside of your elements folder will not be printed on your sheets.\nWhen we go to create sheets.\nAnd everything we had here is needed on sheets.\nSo I had to move them over",
+    "start_char": 1200,
+    "end_char": 1700,
+    "char_count": 500,
+    "word_count": 97,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 4,
+    "text": "n we go to create sheets.\nAnd everything we had here is needed on sheets.\nSo I had to move them over into our constructs folder.\nSo if you notice we have the legend moved over, we have the grid lines moved over and we also have the property boundary.\nAnd it's pretty simple.\nAll you gotta do is to just click and drag it into your construct folder.\nAnd once you do that, you'll get a popup that is asking you to select which level you want added to.\nSo if I should right click on this and go to prope",
+    "start_char": 1600,
+    "end_char": 2100,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 5,
+    "text": "king you to select which level you want added to.\nSo if I should right click on this and go to properties, something like this should pop up.\nAnd you would select the ground floor and you would hit OK.\nAnd then once you do that, it's going to ask if you want to repath this drawing.\nYou're just going to say repath, no and move forward with the process.\nAll right.\nAnd the same thing applies for grid line and property boundary.\nFor the grid lines, what I did here was to add it to both levels becaus",
+    "start_char": 2000,
+    "end_char": 2500,
+    "char_count": 500,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 6,
+    "text": "line and property boundary.\nFor the grid lines, what I did here was to add it to both levels because we want to see the grid line on the foundation drawing as well as the ground floor drawing.\nAll right.\nSo make sure you select both levels.\nYeah.\nSo that's that.\nAll right.\nGo back over to views.\nYou want to make sure that you read those into your views.\nSo for the legend, we wanted to make sure that it is re-added into objected in electrical drawing.\nSo go to properties and go to the content an",
+    "start_char": 2400,
+    "end_char": 2900,
+    "char_count": 499,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 7,
+    "text": "hat it is re-added into objected in electrical drawing.\nSo go to properties and go to the content and you just want to make sure that the legend is selected here as well as everything else that you would have needed in this drawing.\nAnd for the foundation plan where we had the grid lines, you want to make sure that you have the grid lines selected here as well.\nAll right.\nWe hit OK.\nAnd of course for the side plan, you want to make sure that you have the property boundary selected as well as eve",
+    "start_char": 2800,
+    "end_char": 3300,
+    "char_count": 500,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 8,
+    "text": "for the side plan, you want to make sure that you have the property boundary selected as well as everything else that we need, which would include the drainage layout drawing are construct.\nAll right.\nSo make sure you go through and select what is necessary for each drawing and you don't make sure everything are right.\nSame as I said.\nSo know that we are here in this drawing.\nLet's go ahead and add some annotations and details.\nThe first thing we want to do is to set our scale because you don't",
+    "start_char": 3200,
+    "end_char": 3700,
+    "char_count": 499,
+    "word_count": 94,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 9,
+    "text": "d some annotations and details.\nThe first thing we want to do is to set our scale because you don't know that's the rule of the game.\nYou have to set your scale before you start.\nIn this case, we're going to be using a 1 in 8 of an inch.\nThis is equivalent to 1 in 100 if you're using millimeters.\nAnd of course, this is the typical scale that we use for side plan.\nBut of course, you can go up a little further and a little further.\nIf it is that you have a larger building or a larger property, but",
+    "start_char": 3600,
+    "end_char": 4100,
+    "char_count": 500,
+    "word_count": 104,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 10,
+    "text": "tle further and a little further.\nIf it is that you have a larger building or a larger property, but we're going to use the regular acceptable scale 1 in 100 or 1 8 of an inch and we're going to move forward.\nThe next thing we're going to do is to kind of highlight the corners of the property using a tool that is located within our tool palette.\nSo we're going to go to the settings button and you go down to what is called document.\nI hope that you're seeing this.\nAnd we're going to go up to date",
+    "start_char": 4000,
+    "end_char": 4500,
+    "char_count": 500,
+    "word_count": 102,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 11,
+    "text": "go down to what is called document.\nI hope that you're seeing this.\nAnd we're going to go up to date on point.\nSo this is what we want to use to highlight our corners.\nSo we're going to click on it and we're going to be adding you know to each corner.\nSo let's add it in this corner here.\nIt is asking us for our rotation.\nWe're going to just use zero degrees and we're going to repeat the command for each corner zero zero.\nZero zero.\nAll right. I don't know if these should be at a particular angle. If somebody knows, please tell me in the description below.\nAll right.",
+    "start_char": 4400,
+    "end_char": 4973,
+    "char_count": 572,
+    "word_count": 114,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 12,
+    "text": "ld be at a particular angle. If somebody knows, please tell me in the description below.\nAll right. So now that we can see all five corners of the property.\nLet's go ahead and add the property boundary label on here.\nSo we're going to go to text.\nAnd we're going to draw a text box here and we're going to say property boundary.\nAnd you're going to type the length in this case. I'm going to be typing 15.61 meters.\nI'm using meters here even though I drew this drawing in inches.\nI'm using millimeters because that's what is acceptable here in Jamaica.\nAll right.",
+    "start_char": 4873,
+    "end_char": 5438,
+    "char_count": 564,
+    "word_count": 106,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 13,
+    "text": "wing in inches.\nI'm using millimeters because that's what is acceptable here in Jamaica.\nAll right. So if your country accepts feet and inches them by all means go ahead and use what is acceptable.\nSo I had to convert my thing to meters so I can have it there.\nYeah. So I'm going to just copy this and we're going to do the same thing on this side.\nSo of course, I'm going to fast forward the video just to get ahead of this part.\nAll right. So there we have all four or five labels.\nAnd of course, we kind of want to rotate them.",
+    "start_char": 5338,
+    "end_char": 5869,
+    "char_count": 530,
+    "word_count": 107,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 14,
+    "text": "All right. So there we have all four or five labels.\nAnd of course, we kind of want to rotate them. So how I rotate them is to click on the rotate and click on the line that I wanted to be aligned to.\nAnd then I'll just move my next point like that. And of course, it now aligns. I can move it to somewhere that is suitable.\nI'm going to do the same thing here. Rotate click on the line and click here next point somewhere out there.\nNow I'm going to move it. Put it about right there. That one is pretty good. And I'm going to do the same thing with this.\nAll right. And I'm going to move it.",
+    "start_char": 5769,
+    "end_char": 6363,
+    "char_count": 593,
+    "word_count": 124,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 15,
+    "text": "is pretty good. And I'm going to do the same thing with this.\nAll right. And I'm going to move it. Please hit a board here. I think this is a good spot.\nIn fact, I might do the same thing with these kind of put them more towards the corner towards the corner. All right. Good.\nSo that's that. What I'm going to do next is to add some other information such as me, like for instance, I could add in the middle of this paved driveway.\nAnd you want to basically label as much as you can on a side plan. Things that you think will be important.",
+    "start_char": 6263,
+    "end_char": 6805,
+    "char_count": 540,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 16,
+    "text": "want to basically label as much as you can on a side plan. Things that you think will be important. So if you had a posts or walls or fence, you know, you kind of want to make sure that you add a little label to see such.\nAll right. So this is a p of the driveway. What I'm going to do now is to put a note in the middle of this building. So let me write it out here.\nI'm going to write proposed building. Of course, I want this text to be a little bit bigger. So I'm going to increase the size to say quarter of an inch.\nAnd I'm going to actually mask it out. So let's mask it out. Okay.",
+    "start_char": 6705,
+    "end_char": 7294,
+    "char_count": 588,
+    "word_count": 127,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 17,
+    "text": "size to say quarter of an inch.\nAnd I'm going to actually mask it out. So let's mask it out. Okay. So that when I place it, it will cause cover everything just like that.\nAnd then what I'll do next is to label the street. So of course you don't know if you know or remember what the name of the street is, then you need to go back to your properties or your project, go into your project information.\nAll right. You're going inside of that and check to see what street where the property is located.",
+    "start_char": 7194,
+    "end_char": 7695,
+    "char_count": 499,
+    "word_count": 99,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 18,
+    "text": "All right. You're going inside of that and check to see what street where the property is located. So of course this would be on had field of a new.\nAnd I want this to be a little bit bigger as well. So I'm going to make this one over it.\nSo that's the name of this street. And I'm going to copy this again, just a little bit smaller. I'm going to say this street leads to spur tree hill. I don't know if that's what it's been.\nFrom Mondayville. Okay. Good. So now the next thing I'm going to do is to copy this big text here.",
+    "start_char": 7595,
+    "end_char": 8123,
+    "char_count": 526,
+    "word_count": 109,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 19,
+    "text": "From Mondayville. Okay. Good. So now the next thing I'm going to do is to copy this big text here. And I'm going to place that back because we do have a river running behind here called Duns River. You definitely want to label that out.\nAnd we also do have a retaining wall at the back.\nAll right. So definitely want to call that out. If you notice my leader is underlining the stuff and I hit that. So I need to fix it.\nAll right. So that is that is there anything else that I need to add over there. I don't think so.\nSo now what we need to do is to label our drainage system.",
+    "start_char": 8023,
+    "end_char": 8603,
+    "char_count": 578,
+    "word_count": 119,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 20,
+    "text": "eed to add over there. I don't think so.\nSo now what we need to do is to label our drainage system. And if you remember clearly, we actually have done this before for the drainage plan. So what I'm going to do is to go over to the drainage plan that we did earlier in this episode.\nSo if you missed the link below or above. And we're going to basically copy all of these text and writings. What I'll do is to just highlight and I'll say select similar and of course I don't want this part, but everything else.\nActually, we don't need the ones inside of the house.",
+    "start_char": 8503,
+    "end_char": 9068,
+    "char_count": 564,
+    "word_count": 112,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 21,
+    "text": "I don't want this part, but everything else.\nActually, we don't need the ones inside of the house. So we can uncheck those and we're going to copy control C go over to our site plan and before we paste them I kind of want to isolate I'm going to isolate this by itself.\nI just wanted to get rid of everything so that I can paste my text. So we're going to go ahead and paste what we're going to use a command paste or ridge. There it is.\nAll right, I learned this command from a subscriber or a viewer of the channel. He posted it on our video and I'm like, cool, I didn't know that. So here we go.",
+    "start_char": 8968,
+    "end_char": 9568,
+    "char_count": 598,
+    "word_count": 123,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 22,
+    "text": "er of the channel. He posted it on our video and I'm like, cool, I didn't know that. So here we go. I'm going to use it in this video. When you select paste or ridge, what it does is to paste your text in exact same position as they were in the previous drawing that you copied it from.\nAll right, so there we go. We have everything where we wanted, but of course I wanted them to be isolated so that I can address the scale because we copied from a quarter in scale to a one eight afternoon scale.\nSo obviously these text would be too small.",
+    "start_char": 9468,
+    "end_char": 10011,
+    "char_count": 542,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 23,
+    "text": "from a quarter in scale to a one eight afternoon scale.\nSo obviously these text would be too small. They should be at least the size of this one that we're looking at here. So what we're going to do is to highlight all those that we copied over. I'm going to right click. I'm going to go to add current scale.\nJust like that, everything is not on the correct scale, but also if you click on one of these, let me click on this, you can see that the quarter in scale is kind of still there in the background and we want to get rid of that.",
+    "start_char": 9911,
+    "end_char": 10449,
+    "char_count": 537,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 24,
+    "text": "that the quarter in scale is kind of still there in the background and we want to get rid of that. So I'm going to highlight everything again, and I'm going to say delete scale.\nI'm going to delete the scales that I don't need. So I only want the one eighth of an inch scale to be seen. Once we do that, everything is now only on a one eighth of an inch scale.\nAll right, so I know that we have that out of the way. Let's go to our thing here and we're going to end the isolation. So we bring everything back enough course.",
+    "start_char": 10349,
+    "end_char": 10874,
+    "char_count": 523,
+    "word_count": 108,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 25,
+    "text": "to our thing here and we're going to end the isolation. So we bring everything back enough course. We're going to have to make some adjustments to these to make sure that everything is where there are ought to be.\nAll right, so when it's moved things are on a little bit to make sure that there's no obstruction. The good thing though is that we didn't have to go and rewrite everything. We just copy and paste.\nThat's the beautiful thing about this copy and paste thing. All right.\nSo we just want to see the information that is outside.",
+    "start_char": 10774,
+    "end_char": 11314,
+    "char_count": 538,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 26,
+    "text": "about this copy and paste thing. All right.\nSo we just want to see the information that is outside. That's why we didn't bother to bring in the ones on the inside because those are not necessary. I'm going to move this over a little bit like that.\nThat looks about good. I'm going to move these over a little bit too. So that they are not obstructing anything.\nThat up a little bit move this over a little bit. That little bit. And of course, this one we need to fix it. I'm going to put it on this side. My whole three and it looks good so far. Can't complain.\nAll right.",
+    "start_char": 11214,
+    "end_char": 11787,
+    "char_count": 572,
+    "word_count": 114,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 27,
+    "text": "m going to put it on this side. My whole three and it looks good so far. Can't complain.\nAll right. So the last thing I'm going to add here is the lot number. So of course on the service report you would see the adjacent lots so far.\nSo far, it stands on this side of the property. There is a lot number seven. For example, I'm just putting this there.\nAnd then the current lot would be what the next one in the sequence.\nLot number eight and the opposite side would be lot number nine or whatever the case may be.\nAll right. So that's what we're going to have there.",
+    "start_char": 11687,
+    "end_char": 12255,
+    "char_count": 567,
+    "word_count": 114,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 28,
+    "text": "e lot number nine or whatever the case may be.\nAll right. So that's what we're going to have there. And then finally we're going to be adding dimensions.\nYou know, you can't leave after dimensions. All right. So what we're going to do is to move over toward dimension layer.\nAnd we're going to add dimensions in this situation. We're going to be using a line dimension because not all of our dimensions will be in a linear fashion. So kick on a line.\nAnd we're going to start at the front of the building. All right.",
+    "start_char": 12155,
+    "end_char": 12672,
+    "char_count": 516,
+    "word_count": 98,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  },
+  {
+    "index": 29,
+    "text": "inear fashion. So kick on a line.\nAnd we're going to start at the front of the building. All right. So you want to take your dimensions from the edge of the wall to the boundary line.\nThat's important. Don't take it from the roof. Always take it from the building itself. And of course you want to take it from the closest point of that building to the boundary line.\nAnd a little while you'll see what I'm talking about. So let's go ahead. I'm going to add one right here. I'm going to drag it down to the boundary.",
+    "start_char": 12572,
+    "end_char": 13089,
+    "char_count": 516,
+    "word_count": 101,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100
+    }
+  }
+]
