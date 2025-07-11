@@ -1,0 +1,42 @@
+# Arquivos grandes e temporários
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Arquivos de áudio/vídeo grandes
+*.mp4
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+
+# Pastas de storage com arquivos grandes
+youtube_extraction/storage/*/AutoCAD*
+youtube_extraction/storage/*/*.zip
+youtube_extraction/storage/*/*.rar
+
+# Cache e temporários
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
