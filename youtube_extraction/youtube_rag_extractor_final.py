@@ -33,10 +33,32 @@ except ImportError:
 
 try:
     from youtube_transcript_api import YouTubeTranscriptApi
+    from youtube_transcript_api.formatters import TextFormatter
     YOUTUBE_TRANSCRIPT_AVAILABLE = True
 except ImportError:
     print("❌ youtube-transcript-api não instalado. Execute: pip install youtube-transcript-api")
     YOUTUBE_TRANSCRIPT_AVAILABLE = False
+
+# Tentar importar bibliotecas para transcrição local
+try:
+    import whisper
+    WHISPER_AVAILABLE = True
+    print("✅ Whisper disponível para transcrição local")
+except ImportError:
+    WHISPER_AVAILABLE = False
+
+try:
+    import speech_recognition as sr
+    SPEECH_RECOGNITION_AVAILABLE = True
+    print("✅ SpeechRecognition disponível")
+except ImportError:
+    SPEECH_RECOGNITION_AVAILABLE = False
+
+try:
+    from pydub import AudioSegment
+    PYDUB_AVAILABLE = True
+except ImportError:
+    PYDUB_AVAILABLE = False
 
 try:
     import requests
@@ -90,21 +112,33 @@ class YouTubeRAGExtractor:
     🎬 Extrator RAG completo de vídeos do YouTube
     """
     
-    def __init__(self, storage_dir: str = "storage"):
+    def __init__(self, storage_dir: str = "storage", proxy: Optional[str] = None, use_tor: bool = False):
         """
         Inicializa o extrator RAG de vídeos do YouTube
         
         Args:
             storage_dir: Diretório principal de armazenamento
+            proxy: Proxy no formato 'http://host:port' ou 'socks5://host:port'
+            use_tor: Se True, tenta usar Tor (porta 9050)
         """
         self.storage_dir = Path(storage_dir)
         self.storage_dir.mkdir(exist_ok=True)
+        
+        # Configurar proxy
+        self.proxy = proxy
+        self.use_tor = use_tor
+        if use_tor and not proxy:
+            self.proxy = "socks5://127.0.0.1:9050"  # Tor padrão
         
         # Configurar estrutura de diretórios baseada no sistema antigo
         self.setup_directory_structure()
         
         print(f"🎬 YouTubeRAGExtractor inicializado")
         print(f"📁 Diretório de armazenamento: {self.storage_dir}")
+        if self.proxy:
+            print(f"🌐 Usando proxy: {self.proxy}")
+        elif self.use_tor:
+            print(f"🧅 Tentando usar Tor")
     
     def setup_directory_structure(self):
         """
@@ -175,7 +209,7 @@ class YouTubeRAGExtractor:
     
     def get_video_metadata(self, video_id: str) -> Dict[str, Any]:
         """
-        Obtém metadados do vídeo usando yt-dlp
+        Obtém metadados do vídeo usando yt-dlp com suporte a proxy
         """
         if not YT_DLP_AVAILABLE:
             return {'error': 'yt-dlp não disponível'}
@@ -188,6 +222,11 @@ class YouTubeRAGExtractor:
                 'no_warnings': True,
                 'extract_flat': False
             }
+            
+            # Adicionar configuração de proxy se disponível
+            if self.proxy:
+                ydl_opts['proxy'] = self.proxy
+                print(f"🌐 yt-dlp usando proxy: {self.proxy}")
             
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 info = ydl.extract_info(url, download=False)
@@ -205,7 +244,8 @@ class YouTubeRAGExtractor:
                     'thumbnail': info.get('thumbnail', ''),
                     'url': url,
                     'extraction_date': datetime.now().isoformat(),
-                    'extractor_version': '3.0.0'
+                    'extractor_version': '3.0.0',
+                    'proxy_used': self.proxy if self.proxy else None
                 }
                 
                 return metadata
@@ -219,12 +259,12 @@ class YouTubeRAGExtractor:
                 'extraction_date': datetime.now().isoformat()
             }
     
-    def get_playlist_videos(self, playlist_id: str) -> List[str]:
+    def get_playlist_info(self, playlist_id: str) -> Dict[str, Any]:
         """
-        Obtém lista de vídeos de uma playlist
+        Obtém informações completas da playlist incluindo nome
         """
         if not YT_DLP_AVAILABLE:
-            return []
+            return {}
         
         try:
             url = f'https://www.youtube.com/playlist?list={playlist_id}'
@@ -232,53 +272,135 @@ class YouTubeRAGExtractor:
             ydl_opts = {
                 'quiet': True,
                 'no_warnings': True,
-                'extract_flat': True
+                'extract_flat': False  # Extrair metadados completos
             }
+            
+            # Adicionar configuração de proxy se disponível
+            if self.proxy:
+                ydl_opts['proxy'] = self.proxy
+                print(f"🌐 yt-dlp playlist usando proxy: {self.proxy}")
             
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 playlist_info = ydl.extract_info(url, download=False)
                 
+                # Extrair informações da playlist
+                playlist_data = {
+                    'id': playlist_id,
+                    'title': playlist_info.get('title', f'playlist_{playlist_id}'),
+                    'uploader': playlist_info.get('uploader', 'Unknown'),
+                    'description': playlist_info.get('description', ''),
+                    'video_count': len(playlist_info.get('entries', [])),
+                    'url': url,
+                    'extraction_timestamp': datetime.now().isoformat()
+                }
+                
+                # Extrair IDs dos vídeos
                 video_ids = []
                 for entry in playlist_info.get('entries', []):
                     if entry and entry.get('id'):
                         video_ids.append(entry['id'])
                 
-                print(f"📋 Playlist {playlist_id}: {len(video_ids)} vídeos encontrados")
-                return video_ids
+                playlist_data['video_ids'] = video_ids
+                
+                print(f"📋 Playlist: '{playlist_data['title']}' ({len(video_ids)} vídeos)")
+                return playlist_data
         
         except Exception as e:
-            logger.error(f"Erro ao obter vídeos da playlist: {e}")
-            return []
+            logger.error(f"Erro ao obter informações da playlist: {e}")
+            # Fallback para método antigo
+            return {
+                'id': playlist_id,
+                'title': f'playlist_{playlist_id}',
+                'video_ids': self.get_playlist_videos(playlist_id)
+            }
+
+    def get_playlist_videos(self, playlist_id: str) -> List[str]:
+        """
+        Obtém lista de vídeos de uma playlist com suporte a proxy (método simplificado)
+        """
+        playlist_info = self.get_playlist_info(playlist_id)
+        return playlist_info.get('video_ids', [])
     
     def get_transcript(self, video_id: str) -> Optional[Dict[str, Any]]:
         """
-        Obtém transcrição do vídeo
+        Obtém transcrição do vídeo com suporte a proxy/Tor
         """
         if not YOUTUBE_TRANSCRIPT_AVAILABLE:
             return None
         
         try:
-            # Tentar idiomas preferidos
-            languages = ['pt', 'pt-BR', 'en', 'es']
+            # Configurar proxy se disponível
+            import os
+            original_proxies = {}
             
+            if self.proxy:
+                if self.proxy.startswith('socks'):
+                    # Para SOCKS, precisamos configurar diferente
+                    print(f"🌐 Usando proxy SOCKS: {self.proxy}")
+                    # Configurar via environment variables
+                    original_proxies = {
+                        'http_proxy': os.environ.get('http_proxy'),
+                        'https_proxy': os.environ.get('https_proxy'),
+                        'HTTP_PROXY': os.environ.get('HTTP_PROXY'),
+                        'HTTPS_PROXY': os.environ.get('HTTPS_PROXY')
+                    }
+                    os.environ['http_proxy'] = self.proxy
+                    os.environ['https_proxy'] = self.proxy
+                    os.environ['HTTP_PROXY'] = self.proxy
+                    os.environ['HTTPS_PROXY'] = self.proxy
+                else:
+                    print(f"🌐 Usando proxy HTTP: {self.proxy}")
+                    original_proxies = {
+                        'http_proxy': os.environ.get('http_proxy'),
+                        'https_proxy': os.environ.get('https_proxy')
+                    }
+                    os.environ['http_proxy'] = self.proxy
+                    os.environ['https_proxy'] = self.proxy
+            
+            # Tentar múltiplas estratégias para contornar bloqueios
+            transcript_data = None
+            errors = []
+            
+            # Estratégia 1: Idiomas preferidos
+            languages = ['pt', 'pt-BR', 'en', 'es']
             try:
                 transcript_data = YouTubeTranscriptApi.get_transcript(video_id, languages=languages)
-            except Exception:
+                print("✅ Transcrição obtida com idiomas preferidos")
+            except Exception as e:
+                errors.append(f"Idiomas preferidos: {str(e)}")
+                
+                # Estratégia 2: Apenas inglês
                 try:
                     transcript_data = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
-                except Exception:
+                    print("✅ Transcrição obtida em inglês")
+                except Exception as e2:
+                    errors.append(f"Inglês: {str(e2)}")
+                    
+                    # Estratégia 3: Listar e pegar qualquer disponível
                     try:
                         transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
                         available_transcripts = list(transcript_list)
                         if available_transcripts:
                             transcript = available_transcripts[0]
                             transcript_data = transcript.fetch()
+                            print(f"✅ Transcrição obtida: {transcript.language}")
                         else:
-                            return None
-                    except Exception:
-                        return None
+                            errors.append("Nenhuma transcrição disponível")
+                    except Exception as e3:
+                        errors.append(f"Lista de transcrições: {str(e3)}")
+            
+            # Restaurar configurações de proxy
+            if self.proxy:
+                for key, value in original_proxies.items():
+                    if value is None:
+                        os.environ.pop(key, None)
+                    else:
+                        os.environ[key] = value
             
             if not transcript_data:
+                print(f"⚠️ Não foi possível obter transcrição após múltiplas tentativas:")
+                for error in errors:
+                    print(f"   - {error}")
                 return None
             
             # Processar segmentos
@@ -323,7 +445,693 @@ class YouTubeRAGExtractor:
                 'transcript_info': {
                     'language': language,
                     'type': 'generated' if is_generated else 'manual'
+                },
+                'proxy_used': self.proxy if self.proxy else None
+            }
+            
+        except Exception as e:
+            logger.error(f"Erro ao obter transcrição: {e}")
+            return None
+    
+    def download_audio_and_transcribe(self, video_id: str, video_folder: Optional[Path] = None) -> Optional[Dict[str, Any]]:
+        """
+        Baixa áudio do vídeo e faz transcrição local - SOLUÇÃO DEFINITIVA PARA BLOQUEIO IP
+        """
+        import tempfile
+        import os
+        
+        try:
+            print("🎵 Baixando áudio do vídeo...")
+            
+            url = f'https://www.youtube.com/watch?v={video_id}'
+            
+            # Criar diretório temporário para áudio
+            with tempfile.TemporaryDirectory() as temp_dir:
+                audio_file = os.path.join(temp_dir, f"{video_id}.%(ext)s")
+                
+                # Configurar yt-dlp para baixar apenas áudio (sem pós-processamento)
+                ydl_opts = {
+                    'format': 'bestaudio/best',
+                    'outtmpl': audio_file,
+                    'quiet': True,
+                    'no_warnings': True
                 }
+                
+                # Configurar proxy se disponível
+                if self.proxy:
+                    ydl_opts['proxy'] = self.proxy
+                    print(f"🌐 Download usando proxy: {self.proxy}")
+                
+                # Baixar áudio
+                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                    try:
+                        ydl.download([url])
+                        print("✅ Áudio baixado com sucesso")
+                        
+                        # Encontrar arquivo de áudio baixado
+                        audio_files = [f for f in os.listdir(temp_dir) if f.startswith(video_id) and (f.endswith('.wav') or f.endswith('.webm') or f.endswith('.m4a') or f.endswith('.mp4'))]
+                        
+                        if not audio_files:
+                            print("❌ Arquivo de áudio não encontrado")
+                            print(f"📁 Arquivos no diretório: {os.listdir(temp_dir)}")
+                            return None
+                        
+                        audio_path = os.path.join(temp_dir, audio_files[0])
+                        print(f"🎵 Arquivo de áudio: {audio_files[0]}")
+                        print(f"📁 Caminho completo: {audio_path}")
+                        
+                        # Verificar se o arquivo existe
+                        if not os.path.exists(audio_path):
+                            print(f"❌ Arquivo não existe: {audio_path}")
+                            return None
+                        
+                        # Salvar cópia do áudio na pasta do vídeo para verificação
+                        if video_folder:
+                            try:
+                                import shutil
+                                video_folder.mkdir(exist_ok=True)
+                                saved_audio_path = video_folder / f"audio_{video_id}{os.path.splitext(audio_files[0])[1]}"
+                                shutil.copy2(audio_path, saved_audio_path)
+                                print(f"💾 Áudio salvo em: {saved_audio_path}")
+                            except Exception as e:
+                                print(f"⚠️ Erro ao salvar áudio: {e}")
+                        
+                        # Converter para WAV se necessário (opcional, Whisper suporta webm)
+                        if PYDUB_AVAILABLE and not audio_files[0].endswith('.wav'):
+                            try:
+                                audio = AudioSegment.from_file(audio_path)
+                                wav_path = os.path.join(temp_dir, f"{video_id}.wav")
+                                audio.export(wav_path, format='wav')
+                                audio_path = wav_path
+                                print("🔄 Convertido para WAV")
+                                
+                                # Salvar versão WAV também se o video_folder estiver disponível
+                                if video_folder:
+                                    try:
+                                        wav_saved_path = video_folder / f"audio_{video_id}.wav"
+                                        shutil.copy2(wav_path, wav_saved_path)
+                                        print(f"💾 Áudio WAV salvo em: {wav_saved_path}")
+                                    except Exception as e:
+                                        print(f"⚠️ Erro ao salvar áudio WAV: {e}")
+                            except Exception as e:
+                                print(f"⚠️ Erro na conversão para WAV: {e}")
+                                print("📝 Usando arquivo original")
+                        else:
+                            print("📝 Usando arquivo de áudio diretamente")
+                        
+                        # Tentar transcrição com Whisper (melhor qualidade)
+                        if WHISPER_AVAILABLE:
+                            return self.transcribe_with_whisper(video_id, audio_path)
+                        
+                        # Fallback: SpeechRecognition
+                        elif SPEECH_RECOGNITION_AVAILABLE and PYDUB_AVAILABLE:
+                            return self.transcribe_with_speech_recognition(video_id, audio_path)
+                        
+                        else:
+                            print("❌ Nenhuma biblioteca de transcrição disponível")
+                            print("💡 Instale: pip install openai-whisper")
+                            print("💡 Ou: pip install SpeechRecognition pydub")
+                            return None
+                    
+                    except Exception as e:
+                        print(f"❌ Erro no download: {e}")
+                        return None
+        
+        except Exception as e:
+            print(f"❌ Erro no processo de download/transcrição: {e}")
+            return None
+    
+    def transcribe_with_whisper(self, video_id: str, audio_path: str) -> Optional[Dict[str, Any]]:
+        """
+        Transcreve áudio usando Whisper (OpenAI) - COM CONTROLE DE MEMÓRIA
+        """
+        try:
+            print("🧠 Transcrevendo com Whisper...")
+            
+            # Verificar se arquivo existe
+            if not os.path.exists(audio_path):
+                print(f"❌ Arquivo não encontrado: {audio_path}")
+                return None
+            
+            print(f"📁 Transcrevendo arquivo: {audio_path}")
+            file_size_mb = os.path.getsize(audio_path) / (1024 * 1024)
+            print(f"📊 Tamanho do arquivo: {file_size_mb:.2f} MB")
+            
+            # CONTROLE DE MEMÓRIA - Evitar sobrecarga que causa desligamento
+            import gc
+            import torch
+            
+            # Limpar cache antes de começar
+            gc.collect()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+            
+            # Usar modelo mais leve para arquivos grandes
+            model_size = "tiny" if file_size_mb > 10 else "base"
+            print(f"🔧 Usando modelo Whisper: {model_size}")
+            
+            # Carregar modelo com configurações otimizadas
+            model = whisper.load_model(model_size, device="cpu")  # Forçar CPU para estabilidade
+            
+            # Transcrever com detecção automática de idioma
+            print("🔍 Detectando idioma automaticamente...")
+            result = model.transcribe(
+                audio_path,
+                language=None,  # Detecção automática de idioma
+                fp16=False,     # Usar FP32 no CPU
+                verbose=False,  # Menos verbose
+                beam_size=1,    # Reduzir beam search para economizar memória
+                best_of=1,      # Reduzir número de tentativas
+                temperature=0   # Determinístico
+            )
+            
+            detected_language = result.get('language', 'unknown')
+            print(f"🌍 Idioma detectado: {detected_language}")
+            
+            # Limpar modelo da memória imediatamente
+            del model
+            gc.collect()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+            
+            print("🧹 Memória limpa após transcrição")
+            
+            # Processar resultado
+            segments = []
+            full_text = result.get('text', '')
+            
+            # Whisper retorna segmentos com timestamps
+            for i, segment in enumerate(result.get('segments', [])):
+                segment_info = {
+                    'index': i,
+                    'text': segment.get('text', '').strip(),
+                    'start': segment.get('start', 0),
+                    'end': segment.get('end', 0),
+                    'duration': segment.get('end', 0) - segment.get('start', 0)
+                }
+                segments.append(segment_info)
+            
+            # Se não há segmentos mas há texto, criar um segmento único
+            if not segments and full_text.strip():
+                segments = [{
+                    'index': 0,
+                    'text': full_text.strip(),
+                    'start': 0,
+                    'end': 180,  # Aproximar 3 minutos
+                    'duration': 180
+                }]
+            
+            print(f"✅ Whisper: {len(segments)} segmentos transcritos")
+            print(f"📝 Texto: {full_text[:100]}..." if len(full_text) > 100 else f"📝 Texto: {full_text}")
+            
+            return {
+                'video_id': video_id,
+                'language': detected_language,
+                'is_generated': True,
+                'segments': segments,
+                'full_text': full_text.strip(),
+                'total_segments': len(segments),
+                'total_duration': segments[-1]['end'] if segments else 0,
+                'extraction_timestamp': datetime.now().isoformat(),
+                'transcript_info': {
+                    'language': detected_language,
+                    'type': 'whisper_local',
+                    'model_size': model_size
+                },
+                'source': 'whisper_audio_download',
+                'quality': 'high'
+            }
+        
+        except Exception as e:
+            print(f"❌ Erro no Whisper: {e}")
+            print(f"❌ Tipo do erro: {type(e)}")
+            import traceback
+            print(f"❌ Traceback: {traceback.format_exc()}")
+            return None
+    
+    def transcribe_with_speech_recognition(self, video_id: str, audio_path: str) -> Optional[Dict[str, Any]]:
+        """
+        Transcreve áudio usando SpeechRecognition - FALLBACK
+        """
+        try:
+            print("🎤 Transcrevendo com SpeechRecognition...")
+            
+            # Converter áudio para WAV se necessário
+            audio = AudioSegment.from_file(audio_path)
+            wav_path = audio_path.rsplit('.', 1)[0] + '.wav'
+            audio.export(wav_path, format='wav')
+            
+            # Configurar recognizer
+            recognizer = sr.Recognizer()
+            
+            # Dividir áudio em chunks para processamento
+            chunk_duration = 30000  # 30 segundos por chunk
+            chunks = []
+            full_text = ""
+            
+            for i, chunk_start in enumerate(range(0, len(audio), chunk_duration)):
+                chunk_end = min(chunk_start + chunk_duration, len(audio))
+                chunk = audio[chunk_start:chunk_end]
+                
+                # Salvar chunk temporário
+                chunk_path = f"{wav_path}_chunk_{i}.wav"
+                chunk.export(chunk_path, format='wav')
+                
+                try:
+                    # Transcrever chunk
+                    with sr.AudioFile(chunk_path) as source:
+                        audio_data = recognizer.record(source)
+                        text = recognizer.recognize_google(audio_data, language='pt-BR')
+                        
+                        if text.strip():
+                            chunk_info = {
+                                'index': i,
+                                'text': text.strip(),
+                                'start': chunk_start / 1000,  # Converter para segundos
+                                'end': chunk_end / 1000,
+                                'duration': (chunk_end - chunk_start) / 1000
+                            }
+                            chunks.append(chunk_info)
+                            full_text += text + " "
+                
+                except sr.UnknownValueError:
+                    # Chunk sem fala reconhecível
+                    pass
+                except sr.RequestError as e:
+                    print(f"⚠️ Erro no Google Speech API: {e}")
+                
+                # Limpar chunk temporário
+                try:
+                    os.remove(chunk_path)
+                except:
+                    pass
+            
+            # Limpar arquivo WAV temporário
+            try:
+                os.remove(wav_path)
+            except:
+                pass
+            
+            if chunks:
+                print(f"✅ SpeechRecognition: {len(chunks)} chunks transcritos")
+                
+                return {
+                    'video_id': video_id,
+                    'language': 'pt-BR',
+                    'is_generated': True,
+                    'segments': chunks,
+                    'full_text': full_text.strip(),
+                    'total_segments': len(chunks),
+                    'total_duration': chunks[-1]['end'] if chunks else 0,
+                    'extraction_timestamp': datetime.now().isoformat(),
+                    'transcript_info': {
+                        'language': 'pt-BR',
+                        'type': 'speech_recognition_local'
+                    },
+                    'source': 'speech_recognition_audio_download',
+                    'quality': 'medium'
+                }
+            else:
+                print("❌ Nenhum texto reconhecido")
+                return None
+        
+        except Exception as e:
+            print(f"❌ Erro no SpeechRecognition: {e}")
+            return None
+
+    def get_transcript_with_fallbacks(self, video_id: str, video_folder: Optional[Path] = None) -> Optional[Dict[str, Any]]:
+        """
+        Tenta múltiplas estratégias para obter transcrição - INCLUINDO DOWNLOAD LOCAL
+        """
+        try:
+            # Estratégia 1: youtube-transcript-api direto
+            print("📝 Tentando: youtube-transcript-api direto...")
+            transcript = self.get_transcript(video_id)
+            if transcript and transcript.get('segments'):
+                print("✅ Sucesso com youtube-transcript-api direto")
+                transcript['source'] = 'youtube_transcript_api_direct'
+                return transcript
+            
+            print("❌ Falhou: youtube-transcript-api direto")
+            
+            # Estratégia 2: youtube-transcript-api com proxy
+            if self.proxy:
+                print("📝 Tentando: youtube-transcript-api com proxy...")
+                transcript = self.get_transcript(video_id)
+                if transcript and transcript.get('segments'):
+                    print("✅ Sucesso com youtube-transcript-api + proxy")
+                    transcript['source'] = 'youtube_transcript_api_proxy'
+                    return transcript
+                
+                print("❌ Falhou: youtube-transcript-api com proxy")
+            
+            # Estratégia 3: yt-dlp subtitles
+            print("📝 Tentando: yt-dlp subtitles...")
+            transcript = self.extract_subtitles_with_ydl(video_id)
+            if transcript and transcript.get('segments'):
+                print("✅ Sucesso com yt-dlp subtitles")
+                transcript['source'] = 'ytdlp_subtitles'
+                return transcript
+            
+            print("❌ Falhou: yt-dlp subtitles")
+            
+            # Estratégia 4: DOWNLOAD DE ÁUDIO + TRANSCRIÇÃO LOCAL (SOLUÇÃO DEFINITIVA)
+            print("📝 Tentando: Download de áudio + transcrição local...")
+            transcript = self.download_audio_and_transcribe(video_id, video_folder)
+            if transcript and transcript.get('segments'):
+                print("✅ Sucesso com download de áudio + transcrição local")
+                return transcript
+            
+            print("❌ Falhou: Download de áudio + transcrição local")
+            
+            print("❌ Todas as estratégias falharam para:", video_id)
+            return None
+        
+        except Exception as e:
+            print(f"❌ Erro em get_transcript_with_fallbacks: {e}")
+            return None
+    
+    def extract_subtitles_with_ydl(self, video_id: str) -> Optional[Dict[str, Any]]:
+        """
+        Extrai legendas usando yt-dlp como fallback
+        """
+        import tempfile
+        import os
+        
+        try:
+            url = f'https://www.youtube.com/watch?v={video_id}'
+            
+            # Criar diretório temporário
+            with tempfile.TemporaryDirectory() as temp_dir:
+                output_template = os.path.join(temp_dir, f"{video_id}.%(ext)s")
+                
+                ydl_opts = {
+                    'writesubtitles': True,
+                    'writeautomaticsub': True,
+                    'skip_download': True,
+                    'outtmpl': output_template,
+                    'quiet': True,
+                    'no_warnings': True,
+                    'subtitleslangs': ['pt', 'pt-BR', 'en'],
+                    'subtitlesformat': 'vtt'
+                }
+                
+                if self.proxy:
+                    ydl_opts['proxy'] = self.proxy
+                
+                with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                    try:
+                        # Extrair informações e baixar legendas
+                        info = ydl.extract_info(url, download=False)
+                        
+                        # Verificar quais legendas estão disponíveis
+                        subtitles = info.get('subtitles', {})
+                        automatic_captions = info.get('automatic_captions', {})
+                        
+                        all_subs = {**subtitles, **automatic_captions}
+                        
+                        # Tentar baixar legendas na ordem de preferência
+                        for lang in ['pt', 'pt-BR', 'en']:
+                            if lang in all_subs:
+                                print(f"🔽 Baixando legenda em {lang}...")
+                                
+                                # Baixar só essa legenda específica
+                                ydl_opts_specific = ydl_opts.copy()
+                                ydl_opts_specific['subtitleslangs'] = [lang]
+                                
+                                with yt_dlp.YoutubeDL(ydl_opts_specific) as ydl_specific:
+                                    ydl_specific.download([url])
+                                
+                                # Procurar arquivo de legenda baixado
+                                vtt_file = os.path.join(temp_dir, f"{video_id}.{lang}.vtt")
+                                if os.path.exists(vtt_file):
+                                    with open(vtt_file, 'r', encoding='utf-8') as f:
+                                        vtt_content = f.read()
+                                    
+                                    return self.parse_vtt_content(video_id, vtt_content, lang)
+                        
+                        # Se não conseguiu com idiomas específicos, tentar qualquer um
+                        for lang_code in all_subs.keys():
+                            print(f"🔽 Tentando baixar legenda em {lang_code}...")
+                            
+                            ydl_opts_any = ydl_opts.copy()
+                            ydl_opts_any['subtitleslangs'] = [lang_code]
+                            
+                            with yt_dlp.YoutubeDL(ydl_opts_any) as ydl_any:
+                                try:
+                                    ydl_any.download([url])
+                                    
+                                    vtt_file = os.path.join(temp_dir, f"{video_id}.{lang_code}.vtt")
+                                    if os.path.exists(vtt_file):
+                                        with open(vtt_file, 'r', encoding='utf-8') as f:
+                                            vtt_content = f.read()
+                                        
+                                        return self.parse_vtt_content(video_id, vtt_content, lang_code)
+                                except:
+                                    continue
+                    
+                    except Exception as e:
+                        print(f"Erro ao extrair com yt-dlp: {e}")
+        
+        except Exception as e:
+            print(f"Erro no método yt-dlp: {e}")
+        
+        return None
+    
+    def parse_vtt_content(self, video_id: str, vtt_content: str, language: str) -> Dict[str, Any]:
+        """
+        Parseia conteúdo VTT e retorna estrutura de transcrição
+        """
+        try:
+            segments = []
+            full_text = ""
+            lines = vtt_content.split('\n')
+            
+            current_segment = None
+            segment_index = 0
+            
+            for line in lines:
+                line = line.strip()
+                
+                # Pular linhas vazias e cabeçalhos
+                if not line or line.startswith('WEBVTT') or line.startswith('NOTE'):
+                    continue
+                
+                # Linha de tempo: 00:00:01.000 --> 00:00:05.000
+                if '-->' in line:
+                    try:
+                        times = line.split('-->')
+                        start_time = self.parse_vtt_time(times[0].strip())
+                        end_time = self.parse_vtt_time(times[1].strip())
+                        
+                        current_segment = {
+                            'index': segment_index,
+                            'start': start_time,
+                            'end': end_time,
+                            'duration': end_time - start_time,
+                            'text': ''
+                        }
+                    except:
+                        continue
+                
+                # Texto da legenda
+                elif line and current_segment is not None:
+                    # Remover tags HTML e formatação
+                    clean_text = re.sub(r'<[^>]+>', '', line)
+                    clean_text = clean_text.replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>')
+                    clean_text = clean_text.strip()
+                    
+                    if clean_text:
+                        if current_segment['text']:
+                            current_segment['text'] += ' ' + clean_text
+                        else:
+                            current_segment['text'] = clean_text
+                
+                # Linha vazia indica fim do segmento
+                elif not line and current_segment is not None and current_segment['text']:
+                    segments.append(current_segment)
+                    full_text += current_segment['text'] + ' '
+                    segment_index += 1
+                    current_segment = None
+            
+            # Adicionar último segmento se necessário
+            if current_segment is not None and current_segment['text']:
+                segments.append(current_segment)
+                full_text += current_segment['text'] + ' '
+            
+            if segments:
+                print(f"✅ Extraídos {len(segments)} segmentos via yt-dlp")
+                
+                return {
+                    'video_id': video_id,
+                    'language': language,
+                    'is_generated': True,
+                    'segments': segments,
+                    'full_text': full_text.strip(),
+                    'total_segments': len(segments),
+                    'total_duration': segments[-1]['end'] if segments else 0,
+                    'extraction_timestamp': datetime.now().isoformat(),
+                    'transcript_info': {
+                        'language': language,
+                        'type': 'ydl_extracted'
+                    },
+                    'source': 'yt-dlp_subtitles'
+                }
+        
+        except Exception as e:
+            print(f"Erro ao parsear VTT: {e}")
+        
+        return None
+    
+    def parse_vtt_time(self, time_str: str) -> float:
+        """
+        Converte timestamp VTT para segundos
+        """
+        try:
+            # Remove espaços e normaliza
+            time_str = time_str.strip().replace(',', '.')
+            
+            # Formato: HH:MM:SS.mmm ou MM:SS.mmm
+            parts = time_str.split(':')
+            
+            if len(parts) == 3:  # HH:MM:SS.mmm
+                hours = float(parts[0])
+                minutes = float(parts[1])
+                seconds = float(parts[2])
+                return hours * 3600 + minutes * 60 + seconds
+            elif len(parts) == 2:  # MM:SS.mmm
+                minutes = float(parts[0])
+                seconds = float(parts[1])
+                return minutes * 60 + seconds
+            else:
+                return float(parts[0])
+        except:
+            return 0.0
+        """
+        Obtém transcrição do vídeo com suporte a proxy/Tor
+        """
+        if not YOUTUBE_TRANSCRIPT_AVAILABLE:
+            return None
+        
+        try:
+            # Configurar proxy se disponível
+            import os
+            original_proxies = {}
+            
+            if self.proxy:
+                if self.proxy.startswith('socks'):
+                    # Para SOCKS, precisamos configurar diferente
+                    print(f"🌐 Usando proxy SOCKS: {self.proxy}")
+                    # Configurar via environment variables
+                    original_proxies = {
+                        'http_proxy': os.environ.get('http_proxy'),
+                        'https_proxy': os.environ.get('https_proxy'),
+                        'HTTP_PROXY': os.environ.get('HTTP_PROXY'),
+                        'HTTPS_PROXY': os.environ.get('HTTPS_PROXY')
+                    }
+                    os.environ['http_proxy'] = self.proxy
+                    os.environ['https_proxy'] = self.proxy
+                    os.environ['HTTP_PROXY'] = self.proxy
+                    os.environ['HTTPS_PROXY'] = self.proxy
+                else:
+                    print(f"🌐 Usando proxy HTTP: {self.proxy}")
+                    original_proxies = {
+                        'http_proxy': os.environ.get('http_proxy'),
+                        'https_proxy': os.environ.get('https_proxy')
+                    }
+                    os.environ['http_proxy'] = self.proxy
+                    os.environ['https_proxy'] = self.proxy
+            
+            # Tentar múltiplas estratégias para contornar bloqueios
+            transcript_data = None
+            errors = []
+            
+            # Estratégia 1: Idiomas preferidos
+            languages = ['pt', 'pt-BR', 'en', 'es']
+            try:
+                transcript_data = YouTubeTranscriptApi.get_transcript(video_id, languages=languages)
+                print("✅ Transcrição obtida com idiomas preferidos")
+            except Exception as e:
+                errors.append(f"Idiomas preferidos: {str(e)}")
+                
+                # Estratégia 2: Apenas inglês
+                try:
+                    transcript_data = YouTubeTranscriptApi.get_transcript(video_id, languages=['en'])
+                    print("✅ Transcrição obtida em inglês")
+                except Exception as e2:
+                    errors.append(f"Inglês: {str(e2)}")
+                    
+                    # Estratégia 3: Listar e pegar qualquer disponível
+                    try:
+                        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+                        available_transcripts = list(transcript_list)
+                        if available_transcripts:
+                            transcript = available_transcripts[0]
+                            transcript_data = transcript.fetch()
+                            print(f"✅ Transcrição obtida: {transcript.language}")
+                        else:
+                            errors.append("Nenhuma transcrição disponível")
+                    except Exception as e3:
+                        errors.append(f"Lista de transcrições: {str(e3)}")
+            
+            # Restaurar configurações de proxy
+            if self.proxy:
+                for key, value in original_proxies.items():
+                    if value is None:
+                        os.environ.pop(key, None)
+                    else:
+                        os.environ[key] = value
+            
+            if not transcript_data:
+                print(f"⚠️ Não foi possível obter transcrição após múltiplas tentativas:")
+                for error in errors:
+                    print(f"   - {error}")
+                return None
+            
+            # Processar segmentos
+            segments = []
+            full_text = ""
+            total_duration = 0
+            
+            for i, segment in enumerate(transcript_data):
+                segment_info = {
+                    'index': i,
+                    'text': segment['text'].strip(),
+                    'start': segment['start'],
+                    'duration': segment['duration'],
+                    'end': segment['start'] + segment['duration']
+                }
+                segments.append(segment_info)
+                full_text += segment['text'] + " "
+                total_duration = max(total_duration, segment_info['end'])
+            
+            # Detectar idioma e tipo
+            language = 'en'
+            is_generated = True
+            
+            try:
+                transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+                for transcript in transcript_list:
+                    language = transcript.language_code
+                    is_generated = transcript.is_generated
+                    break
+            except:
+                pass
+            
+            return {
+                'video_id': video_id,
+                'language': language,
+                'is_generated': is_generated,
+                'segments': segments,
+                'full_text': full_text.strip(),
+                'total_segments': len(segments),
+                'total_duration': total_duration,
+                'extraction_timestamp': datetime.now().isoformat(),
+                'transcript_info': {
+                    'language': language,
+                    'type': 'generated' if is_generated else 'manual'
+                },
+                'proxy_used': self.proxy if self.proxy else None
             }
             
         except Exception as e:
@@ -347,73 +1155,181 @@ class YouTubeRAGExtractor:
         
         return filtered_words
     
-    def create_chunks(self, text: str, chunk_size: int = 1000, overlap: int = 200) -> List[Dict[str, Any]]:
+    def extract_text_from_segments(self, segments: List[Dict]) -> str:
         """
-        Cria chunks do texto para RAG baseado no sistema antigo
+        Extrai texto simples dos segmentos de transcrição
         """
+        if not segments:
+            return ""
+        
+        text_parts = []
+        for segment in segments:
+            if isinstance(segment, dict):
+                text = segment.get('text', '') or segment.get('content', '')
+            else:
+                text = str(segment)
+            
+            if text.strip():
+                text_parts.append(text.strip())
+        
+        return "\n".join(text_parts)
+    
+    def create_chunks(self, text: str, chunk_size: int = 500, overlap: int = 100) -> List[Dict[str, Any]]:
+        """
+        Cria chunks do texto para RAG com controle de memória otimizado
+        """
+        import gc
+        import psutil
+        
+        # Verificar memória disponível
+        try:
+            import psutil
+            memory = psutil.virtual_memory()
+            if memory.percent > 85:
+                print("⚠️ Memória alta detectada, reduzindo tamanho dos chunks")
+                chunk_size = 300
+                overlap = 50
+        except ImportError:
+            pass  # Se psutil não estiver disponível, usar valores padrão
+        except:
+            pass  # Se psutil falhar, continuar com valores padrão
+        
         chunks = []
         start = 0
         chunk_index = 0
+        max_chunks = 30  # Limitar número de chunks para evitar sobrecarga
         
-        while start < len(text):
-            end = start + chunk_size
-            
-            if end < len(text):
-                sentence_breaks = ['. ', '! ', '? ', '\n\n']
-                best_break = end
+        # Limitar texto se muito grande
+        if len(text) > 30000:  # 30KB limite
+            print("⚠️ Texto muito grande, truncando para evitar sobrecarga de memória")
+            text = text[:30000]
+        
+        try:
+            while start < len(text) and chunk_index < max_chunks:
+                end = start + chunk_size
                 
-                for break_char in sentence_breaks:
-                    break_pos = text.rfind(break_char, start, end + 100)
-                    if break_pos > start:
-                        best_break = break_pos + len(break_char)
-                        break
+                if end < len(text):
+                    sentence_breaks = ['. ', '! ', '? ', '\n\n']
+                    best_break = end
+                    
+                    for break_char in sentence_breaks:
+                        break_pos = text.rfind(break_char, start, end + 100)
+                        if break_pos > start:
+                            best_break = break_pos + len(break_char)
+                            break
+                    
+                    end = best_break
                 
-                end = best_break
-            
-            chunk_text = text[start:end].strip()
-            
-            if chunk_text:
-                chunk = {
-                    'index': chunk_index,
-                    'text': chunk_text,
-                    'start_char': start,
-                    'end_char': end,
-                    'char_count': len(chunk_text),
-                    'word_count': len(chunk_text.split()),
-                    'metadata': {
-                        'chunk_size': chunk_size,
-                        'overlap': overlap
+                chunk_text = text[start:end].strip()
+                
+                if chunk_text:
+                    chunk = {
+                        'index': chunk_index,
+                        'text': chunk_text,
+                        'start_char': start,
+                        'end_char': end,
+                        'char_count': len(chunk_text),
+                        'word_count': len(chunk_text.split()),
+                        'metadata': {
+                            'chunk_size': chunk_size,
+                            'overlap': overlap
+                        }
                     }
-                }
-                chunks.append(chunk)
-                chunk_index += 1
+                    chunks.append(chunk)
+                    chunk_index += 1
+                
+                start = end - overlap
+                if start >= len(text):
+                    break
+                
+                # Limpeza de memória a cada 5 chunks
+                if chunk_index % 5 == 0:
+                    gc.collect()
+                    try:
+                        import psutil
+                        memory = psutil.virtual_memory()
+                        if memory.percent > 90:
+                            print(f"⚠️ Memória crítica ({memory.percent}%), parando criação de chunks")
+                            break
+                    except ImportError:
+                        pass  # psutil não disponível
+                    except:
+                        pass
             
-            start = end - overlap
-            if start >= len(text):
-                break
-        
-        return chunks
+            print(f"📊 Chunks criados: {len(chunks)} (máximo permitido: {max_chunks})")
+            return chunks
+            
+        except Exception as e:
+            print(f"❌ Erro na criação de chunks: {e}")
+            gc.collect()
+            return []
     
     def analyze_content(self, transcript_data: Dict[str, Any]) -> Dict[str, Any]:
         """
-        Análise avançada do conteúdo para RAG baseada no sistema antigo
+        Análise leve do conteúdo para RAG com controle de memória
         """
         try:
+            import gc
+            
             full_text = transcript_data.get('full_text', '')
             segments = transcript_data.get('segments', [])
             
             if not full_text:
                 return {}
             
-            # Análise básica de texto
-            words = full_text.split()
-            sentences = [s for s in full_text.split('.') if s.strip()]
+            # Limitar tamanho do texto para análise
+            if len(full_text) > 20000:  # 20KB limite
+                print("⚠️ Texto muito grande para análise, truncando...")
+                full_text = full_text[:20000]
             
-            # Keywords filtradas
+            # Análise básica e leve
+            words = full_text.split()[:1000]  # Limitar palavras analisadas
+            sentences = [s for s in full_text.split('.')[:50] if s.strip()]  # Limitar sentenças
+            
+            # Keywords filtradas (limitado)
             word_freq = Counter(words)
-            most_common_words = [word for word, count in word_freq.most_common(50)]
+            most_common_words = [word for word, count in word_freq.most_common(20)]  # Reduzido de 50 para 20
             language = transcript_data.get('language', 'en')
             filtered_keywords = self.filter_keywords(most_common_words, language)
+            
+            # Análise simplificada
+            analysis = {
+                'summary': {
+                    'total_words': len(words),
+                    'total_sentences': len(sentences),
+                    'avg_words_per_sentence': len(words) / max(len(sentences), 1),
+                    'language': language
+                },
+                'keywords': filtered_keywords[:15],  # Limitado a 15 keywords
+                'metadata': {
+                    'analysis_version': '2.0_light',
+                    'timestamp': datetime.now().isoformat(),
+                    'processing_mode': 'memory_optimized'
+                }
+            }
+            
+            # Limpeza imediata
+            words = None
+            sentences = None
+            word_freq = None
+            most_common_words = None
+            filtered_keywords = None
+            gc.collect()
+            
+            return analysis
+            
+        except Exception as e:
+            print(f"❌ Erro na análise: {e}")
+            import gc
+            gc.collect()
+            return {
+                'error': str(e),
+                'metadata': {
+                    'analysis_version': '2.0_light',
+                    'timestamp': datetime.now().isoformat(),
+                    'processing_mode': 'error_fallback'
+                }
+            }
             
             # Análise de legibilidade
             readability_score = 0
@@ -666,6 +1582,56 @@ class YouTubeRAGExtractor:
         
         return folder_name
     
+    def create_playlist_folder_name(self, playlist_title: str, playlist_id: str) -> str:
+        """
+        Cria nome da pasta da playlist baseado no título real
+        """
+        try:
+            # Limpar caracteres especiais
+            clean_title = re.sub(r'[<>:"/\\|?*]', '', playlist_title)
+            clean_title = re.sub(r'\s+', ' ', clean_title).strip()
+            
+            # Limitar a 50 caracteres para playlists (mais espaço que vídeos individuais)
+            if len(clean_title) > 50:
+                folder_name = clean_title[:50].strip()
+            else:
+                folder_name = clean_title
+            
+            # Fallback se não há título válido
+            if not folder_name:
+                folder_name = f"playlist_{playlist_id}"
+            
+            return folder_name
+            
+        except:
+            return f"playlist_{playlist_id}"
+    
+    def get_versioned_playlist_folder(self, base_name: str, storage_dir: Path) -> str:
+        """
+        Cria pasta da playlist com versionamento se já existir
+        """
+        base_path = storage_dir / base_name
+        
+        if not base_path.exists():
+            return base_name
+        
+        # Se existe, criar versão numerada
+        version = 1
+        while True:
+            versioned_name = f"{base_name}_v{version}"
+            versioned_path = storage_dir / versioned_name
+            
+            if not versioned_path.exists():
+                print(f"📁 Pasta da playlist já existe, criando: {versioned_name}")
+                return versioned_name
+            
+            version += 1
+            
+            # Segurança
+            if version > 100:
+                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                return f"{base_name}_{timestamp}"
+    
     def download_thumbnail(self, video_id: str, thumbnail_url: str, output_dir: Path) -> Optional[str]:
         """
         Baixa thumbnail do vídeo
@@ -712,26 +1678,34 @@ class YouTubeRAGExtractor:
             if 'error' in metadata:
                 return {'error': f"Erro ao obter metadados: {metadata['error']}", 'video_id': video_id}
             
+            # Criar nome da pasta do vídeo (30 caracteres baseado no título)
+            video_title = metadata.get('title', f'Video_{video_id}')
+            folder_name = self.create_video_folder_name(video_title, video_id)
+            
             # Determinar pasta de trabalho
             if custom_folder:
-                work_dir = self.storage_dir / custom_folder
-                work_dir.mkdir(exist_ok=True)
-                # Usar a estrutura de dados dentro da pasta personalizada
-                data_dir = work_dir / "youtube_extracted_data"
-                data_dir.mkdir(exist_ok=True)
-                
-                dirs = {
-                    'transcripts': data_dir / 'transcripts',
-                    'metadata': data_dir / 'metadata',
-                    'chunks': data_dir / 'chunks', 
-                    'rag_content': data_dir / 'rag_content',
-                    'database': data_dir / 'database'
-                }
-                
-                for directory in dirs.values():
-                    directory.mkdir(exist_ok=True)
+                work_dir = self.storage_dir / custom_folder / folder_name
             else:
-                dirs = self.dirs
+                work_dir = self.storage_dir / folder_name
+            
+            work_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Criar estrutura de dados dentro da pasta do vídeo
+            data_dir = work_dir / "youtube_extracted_data"
+            data_dir.mkdir(exist_ok=True)
+            
+            dirs = {
+                'transcripts': data_dir / 'transcripts',
+                'metadata': data_dir / 'metadata',
+                'chunks': data_dir / 'chunks', 
+                'rag_content': data_dir / 'rag_content',
+                'database': data_dir / 'database'
+            }
+            
+            for directory in dirs.values():
+                directory.mkdir(exist_ok=True)
+            
+            print(f"📁 Pasta do vídeo: {folder_name}")
             
             # Salvar metadados
             metadata_file = dirs['metadata'] / f"{video_id}_{timestamp}_metadata.json"
@@ -740,7 +1714,7 @@ class YouTubeRAGExtractor:
             
             # Obter transcrição
             print("📝 Extraindo transcrição...")
-            transcript = self.get_transcript(video_id)
+            transcript = self.get_transcript_with_fallbacks(video_id)
             
             # Inicializar estrutura de arquivos
             files_created = {
@@ -765,6 +1739,8 @@ class YouTubeRAGExtractor:
             analysis = {}
             
             if transcript:
+                print(f"✅ Transcrição encontrada: {len(transcript['segments'])} segmentos")
+                
                 # Salvar transcrição JSON
                 transcript_file = dirs['transcripts'] / f"{video_id}_{timestamp}_transcript.json"
                 with open(transcript_file, 'w', encoding='utf-8') as f:
@@ -781,7 +1757,7 @@ class YouTubeRAGExtractor:
                 files_created['text'] = str(text_file)
                 
                 # Criar chunks
-                print("🔗 Criando chunks...")
+                print("🔗 Criando chunks para RAG...")
                 chunks = self.create_chunks(full_text)
                 
                 # Salvar chunks JSON
@@ -791,20 +1767,15 @@ class YouTubeRAGExtractor:
                 files_created['chunks'] = str(chunks_file)
                 
                 # Salvar chunks CSV
-                if PANDAS_AVAILABLE:
+                if PANDAS_AVAILABLE and chunks:
                     chunks_csv = dirs['chunks'] / f"{video_id}_{timestamp}_chunks.csv"
                     chunks_df = pd.DataFrame(chunks)
                     chunks_df.to_csv(chunks_csv, index=False, encoding='utf-8')
                     files_created['chunks_csv'] = str(chunks_csv)
                 
-                # Análise RAG
+                # Análise RAG completa
                 print("🧠 Realizando análise RAG...")
                 analysis = self.analyze_content(transcript)
-                
-                # Adicionar estatísticas específicas
-                analysis['statistics']['total_segments'] = len(transcript['segments'])
-                analysis['statistics']['total_chunks'] = len(chunks)
-                analysis['statistics']['text_length'] = len(full_text)
                 
                 # Salvar análise
                 analysis_file = dirs['rag_content'] / f"{video_id}_{timestamp}_analysis.json"
@@ -819,84 +1790,102 @@ class YouTubeRAGExtractor:
                     'text_length': len(full_text)
                 })
                 
-                print(f"✅ Transcrição extraída: {len(transcript['segments'])} segmentos, {len(chunks)} chunks")
+                print(f"📊 Dados extraídos: {len(transcript['segments'])} segmentos, {len(chunks)} chunks, {len(full_text)} caracteres")
             else:
                 print("⚠️ Transcrição não disponível")
+                # Criar análise mínima mesmo sem transcrição
+                analysis = {
+                    'statistics': {
+                        'total_characters': 0,
+                        'total_words': 0,
+                        'total_segments': 0,
+                        'duration_minutes': metadata.get('duration', 0) / 60
+                    },
+                    'content_analysis': {
+                        'language_detected': 'unknown',
+                        'transcript_type': 'unavailable'
+                    },
+                    'keywords': [],
+                    'topics': [],
+                    'sentiment': 'neutral'
+                }
+                
+                analysis_file = dirs['rag_content'] / f"{video_id}_{timestamp}_analysis.json"
+                with open(analysis_file, 'w', encoding='utf-8') as f:
+                    json.dump(analysis, f, ensure_ascii=False, indent=2)
+                files_created['analysis'] = str(analysis_file)
             
             # Criar banco de dados
             print("💾 Criando banco de dados...")
-            db_path = self.create_database() if not custom_folder else None
-            if custom_folder:
-                # Criar banco na pasta personalizada
-                db_path = dirs['database'] / "youtube_transcripts.db"
-                conn = sqlite3.connect(str(db_path))
-                cursor = conn.cursor()
-                
-                # Criar estrutura completa do banco
-                cursor.execute('''
-                    CREATE TABLE IF NOT EXISTS video_metadata (
-                        video_id TEXT PRIMARY KEY,
-                        title TEXT,
-                        description TEXT,
-                        uploader TEXT,
-                        upload_date TEXT,
-                        duration INTEGER,
-                        view_count INTEGER,
-                        like_count INTEGER,
-                        extraction_date TEXT,
-                        extractor_version TEXT
-                    )
-                ''')
-                
-                cursor.execute('''
-                    CREATE TABLE IF NOT EXISTS transcript_segments (
-                        id INTEGER PRIMARY KEY AUTOINCREMENT,
-                        video_id TEXT,
-                        segment_index INTEGER,
-                        text TEXT,
-                        start_time REAL,
-                        duration REAL,
-                        end_time REAL,
-                        FOREIGN KEY (video_id) REFERENCES video_metadata (video_id)
-                    )
-                ''')
-                
-                cursor.execute('''
-                    CREATE TABLE IF NOT EXISTS content_chunks (
-                        id INTEGER PRIMARY KEY AUTOINCREMENT,
-                        video_id TEXT,
-                        chunk_index INTEGER,
-                        text TEXT,
-                        start_char INTEGER,
-                        end_char INTEGER,
-                        char_count INTEGER,
-                        word_count INTEGER,
-                        FOREIGN KEY (video_id) REFERENCES video_metadata (video_id)
-                    )
-                ''')
-                
-                cursor.execute('''
-                    CREATE TABLE IF NOT EXISTS content_analysis (
-                        video_id TEXT PRIMARY KEY,
-                        language_detected TEXT,
-                        transcript_type TEXT,
-                        total_characters INTEGER,
-                        total_words INTEGER,
-                        total_segments INTEGER,
-                        keywords TEXT,
-                        topics TEXT,
-                        sentiment TEXT,
-                        FOREIGN KEY (video_id) REFERENCES video_metadata (video_id)
-                    )
-                ''')
-                
-                conn.commit()
-                conn.close()
-                db_path = str(db_path)
+            db_path = dirs['database'] / "youtube_transcripts.db"
             
-            if db_path:
-                self.save_to_database(db_path, video_id, metadata, transcript, chunks, analysis)
-                files_created['database'] = db_path
+            conn = sqlite3.connect(str(db_path))
+            cursor = conn.cursor()
+            
+            # Criar estrutura completa do banco
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS video_metadata (
+                    video_id TEXT PRIMARY KEY,
+                    title TEXT,
+                    description TEXT,
+                    uploader TEXT,
+                    upload_date TEXT,
+                    duration INTEGER,
+                    view_count INTEGER,
+                    like_count INTEGER,
+                    extraction_date TEXT,
+                    extractor_version TEXT
+                )
+            ''')
+            
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS transcript_segments (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    video_id TEXT,
+                    segment_index INTEGER,
+                    text TEXT,
+                    start_time REAL,
+                    duration REAL,
+                    end_time REAL,
+                    FOREIGN KEY (video_id) REFERENCES video_metadata (video_id)
+                )
+            ''')
+            
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS content_chunks (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    video_id TEXT,
+                    chunk_index INTEGER,
+                    text TEXT,
+                    start_char INTEGER,
+                    end_char INTEGER,
+                    char_count INTEGER,
+                    word_count INTEGER,
+                    FOREIGN KEY (video_id) REFERENCES video_metadata (video_id)
+                )
+            ''')
+            
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS content_analysis (
+                    video_id TEXT PRIMARY KEY,
+                    language_detected TEXT,
+                    transcript_type TEXT,
+                    total_characters INTEGER,
+                    total_words INTEGER,
+                    total_segments INTEGER,
+                    keywords TEXT,
+                    topics TEXT,
+                    sentiment TEXT,
+                    FOREIGN KEY (video_id) REFERENCES video_metadata (video_id)
+                )
+            ''')
+            
+            conn.commit()
+            conn.close()
+            
+            # Salvar dados no banco
+            self.save_to_database(str(db_path), video_id, metadata, transcript, chunks, analysis)
+            files_created['database'] = str(db_path)
             
             # Baixar thumbnail
             print("🖼️ Baixando thumbnail...")
@@ -908,21 +1897,16 @@ class YouTubeRAGExtractor:
             if thumbnail_path:
                 files_created['thumbnail'] = thumbnail_path
             
-            # Criar resumo RAG completo baseado no sistema antigo
+            # Criar resumo RAG completo
             rag_summary = {
                 'video_id': video_id,
+                'video_title': video_title,
+                'folder_name': folder_name,
                 'extraction_date': timestamp,
                 'files_created': files_created,
                 'statistics': statistics,
-                'metadata': {
-                    'video_id': video_id,
-                    'url': f"https://www.youtube.com/watch?v={video_id}",
-                    'extraction_date': datetime.now().isoformat(),
-                    'extractor_version': '3.0.0',
-                    'title': metadata.get('title', ''),
-                    'description': metadata.get('description', '')
-                },
-                'analysis_summary': analysis if transcript else None
+                'metadata': metadata,
+                'analysis_summary': analysis
             }
             
             # Salvar resumo
@@ -930,15 +1914,19 @@ class YouTubeRAGExtractor:
             with open(summary_file, 'w', encoding='utf-8') as f:
                 json.dump(rag_summary, f, ensure_ascii=False, indent=2)
             
-            print(f"✅ Vídeo processado com sucesso!")
+            print(f"✅ Vídeo processado: '{video_title[:50]}...'")
+            print(f"📁 Pasta: {folder_name}")
             print(f"📊 Duração: {metadata.get('duration', 0) / 60:.1f} minutos")
             if transcript:
                 print(f"📝 Segmentos: {len(transcript['segments'])}")
                 print(f"🔗 Chunks: {len(chunks)}")
+                print(f"📄 Caracteres: {len(transcript['full_text'])}")
             
             return {
                 'success': True,
                 'video_id': video_id,
+                'video_title': video_title,
+                'folder_name': folder_name,
                 'custom_folder': custom_folder,
                 'rag_summary': rag_summary,
                 'files_created': files_created
@@ -948,9 +1936,14 @@ class YouTubeRAGExtractor:
             logger.error(f"Erro ao processar vídeo: {e}")
             return {'error': str(e), 'input': url_or_id}
     
-    def extract_playlist(self, playlist_url: str) -> Dict[str, Any]:
+    def extract_playlist(self, playlist_url: str, start_index: int = 1, end_index: int = None) -> Dict[str, Any]:
         """
-        Extrai todos os vídeos de uma playlist em subpasta dedicada
+        Extrai playlist com melhorias:
+        - Nome real da playlist
+        - Versionamento de pastas
+        - Range de vídeos (ex: do 3 ao 15)
+        - Pastas individuais para cada vídeo
+        - Controle de memória
         """
         try:
             print(f"\n📋 Processando playlist: {playlist_url}")
@@ -962,82 +1955,322 @@ class YouTubeRAGExtractor:
             
             print(f"📋 ID da playlist: {playlist_id}")
             
-            # Criar subpasta para a playlist
-            playlist_folder = self.storage_dir / f"playlist_{playlist_id}"
-            playlist_folder.mkdir(exist_ok=True)
+            # Obter informações completas da playlist
+            playlist_info = self.get_playlist_info(playlist_id)
+            playlist_title = playlist_info.get('title', f'playlist_{playlist_id}')
+            video_ids = playlist_info.get('video_ids', [])
             
-            print(f"📁 Subpasta da playlist: {playlist_folder.name}")
-            
-            # Obter vídeos da playlist
-            video_ids = self.get_playlist_videos(playlist_id)
             if not video_ids:
                 return {'error': 'Nenhum vídeo encontrado na playlist', 'playlist_id': playlist_id}
             
-            print(f"🎬 {len(video_ids)} vídeos para processar")
+            print(f"📋 Playlist: '{playlist_title}' ({len(video_ids)} vídeos)")
             
-            # Processar cada vídeo
+            # Criar nome da pasta baseado no título real
+            playlist_folder_name = self.create_playlist_folder_name(playlist_title, playlist_id)
+            
+            # Aplicar versionamento se pasta já existir
+            versioned_folder_name = self.get_versioned_playlist_folder(playlist_folder_name, self.storage_dir)
+            
+            # Criar subpasta para a playlist
+            playlist_folder = self.storage_dir / versioned_folder_name
+            playlist_folder.mkdir(exist_ok=True)
+            
+            print(f"📁 Pasta da playlist: {versioned_folder_name}")
+            
+            # Aplicar range de vídeos se especificado
+            if end_index is None:
+                end_index = len(video_ids)
+            
+            # Validar índices
+            start_index = max(1, start_index)
+            end_index = min(len(video_ids), end_index)
+            
+            if start_index > end_index:
+                return {'error': f'Índice inicial ({start_index}) maior que final ({end_index})'}
+            
+            # Selecionar vídeos do range especificado
+            selected_videos = video_ids[start_index-1:end_index]
+            print(f"🎯 Processando vídeos {start_index} até {end_index} ({len(selected_videos)} vídeos)")
+            
+            # Salvar informações da playlist
+            playlist_metadata = {
+                'playlist_info': playlist_info,
+                'selected_range': {'start': start_index, 'end': end_index},
+                'total_videos': len(video_ids),
+                'selected_videos': len(selected_videos),
+                'extraction_timestamp': datetime.now().isoformat()
+            }
+            
+            with open(playlist_folder / 'playlist_metadata.json', 'w', encoding='utf-8') as f:
+                json.dump(playlist_metadata, f, indent=2, ensure_ascii=False)
+            
+            # Processar cada vídeo selecionado
             results = []
             success_count = 0
             error_count = 0
             
-            for i, video_id in enumerate(video_ids, 1):
-                print(f"\n[{i}/{len(video_ids)}] Processando vídeo: {video_id}")
+            for i, video_id in enumerate(selected_videos, start_index):
+                print(f"\n[{i}/{end_index}] Processando vídeo: {video_id}")
                 
-                result = self.extract_single_video(
-                    f"https://www.youtube.com/watch?v={video_id}",
-                    custom_folder=playlist_folder.name
-                )
-                results.append(result)
+                # Controle de memória antes de cada vídeo
+                import gc
                 
-                if result.get('success'):
-                    success_count += 1
-                else:
+                try:
+                    import psutil
+                    memory = psutil.virtual_memory()
+                    print(f"💾 Memória atual: {memory.percent:.1f}% usada")
+                    
+                    if memory.percent > 80:
+                        print("⚠️ Memória alta detectada, forçando limpeza...")
+                        gc.collect()
+                        import time
+                        time.sleep(2)  # Dar tempo para limpeza
+                        
+                        memory = psutil.virtual_memory()
+                        if memory.percent > 90:
+                            print("🚨 MEMÓRIA CRÍTICA! Pausando processamento...")
+                            time.sleep(5)
+                            gc.collect()
+                except ImportError:
+                    print("⚠️ psutil não disponível, continuando sem monitoramento de memória")
+                except Exception:
+                    pass  # Se psutil falhar, continuar
+                
+                try:
+                    # Obter metadados primeiro para nome da pasta individual
+                    metadata = self.get_video_metadata(video_id)
+                    video_title = metadata.get('title', f'Video_{video_id}')
+                    video_folder_name = self.create_video_folder_name(video_title, video_id)
+                    
+                    # Criar pasta individual para o vídeo dentro da playlist
+                    video_folder = playlist_folder / video_folder_name
+                    video_folder.mkdir(exist_ok=True)
+                    
+                    print(f"📁 Pasta do vídeo: {playlist_folder.name}/{video_folder_name}")
+                    
+                    # Extrair o vídeo na pasta individual
+                    video_url = f"https://www.youtube.com/watch?v={video_id}"
+                    
+                    # Processar transcrição com controle de memória
+                    transcript = self.get_transcript_with_fallbacks(video_id, video_folder)
+                    
+                    if transcript:
+                        # Análise RAG (combinar metadata com transcript para análise)
+                        transcript_with_metadata = transcript.copy()
+                        transcript_with_metadata.update(metadata)
+                        analysis = self.analyze_content(transcript_with_metadata)
+                        
+                        # Salvar dados na pasta individual do vídeo
+                        self.save_video_data(video_folder, video_id, metadata, transcript, analysis)
+                        
+                        result = {
+                            'success': True,
+                            'video_id': video_id,
+                            'title': video_title,
+                            'folder': f"{versioned_folder_name}/{video_folder_name}",
+                            'segments': len(transcript.get('segments', [])),
+                            'source': transcript.get('source', 'unknown')
+                        }
+                        success_count += 1
+                        print(f"✅ [{i}/{end_index}] Vídeo extraído: {video_folder_name}")
+                    else:
+                        result = {
+                            'success': False,
+                            'video_id': video_id,
+                            'title': video_title,
+                            'error': 'Transcrição não disponível'
+                        }
+                        error_count += 1
+                        print(f"❌ [{i}/{end_index}] Falha na transcrição: {video_folder_name}")
+                    
+                    results.append(result)
+                    
+                    # Limpeza de memória robusta entre vídeos para evitar sobrecarga
+                    import gc
+                    import time
+                    
+                    print("🧹 Limpando memória...")
+                    
+                    # Liberar variáveis grandes
+                    transcript = None
+                    transcript_with_metadata = None
+                    analysis = None
+                    metadata = None
+                    
+                    # Forçar limpeza do garbage collector
+                    gc.collect()
+                    gc.collect()  # Duas vezes para garantir
+                    
+                    # Pausa entre vídeos para estabilizar sistema
+                    time.sleep(3)
+                    
+                    try:
+                        import psutil
+                        memory = psutil.virtual_memory()
+                        print(f"💾 Memória após limpeza: {memory.percent:.1f}% usada")
+                    except ImportError:
+                        print("💾 Limpeza de memória concluída")
+                    except:
+                        pass
+                    
+                except Exception as e:
+                    error_result = {
+                        'success': False,
+                        'video_id': video_id,
+                        'error': str(e)
+                    }
+                    results.append(error_result)
                     error_count += 1
-                
-                # Pausa entre vídeos
-                if i < len(video_ids):
-                    time.sleep(1)
-            
-            # Salvar relatório da playlist
-            playlist_report = {
-                'playlist_id': playlist_id,
-                'playlist_url': playlist_url,
-                'playlist_folder': str(playlist_folder),
-                'total_videos': len(video_ids),
-                'successful_extractions': success_count,
-                'failed_extractions': error_count,
-                'extraction_date': datetime.now().isoformat(),
-                'video_results': results
-            }
-            
-            report_file = playlist_folder / f"playlist_{playlist_id}_report.json"
-            with open(report_file, 'w', encoding='utf-8') as f:
-                json.dump(playlist_report, f, ensure_ascii=False, indent=2)
+                    print(f"❌ [{i}/{end_index}] Erro no vídeo {video_id}: {e}")
             
             # Criar ZIP da playlist
             zip_path = self.create_playlist_zip(playlist_folder)
             
-            print(f"\n✅ Playlist processada!")
-            print(f"📊 Sucessos: {success_count}")
-            print(f"❌ Erros: {error_count}")
-            print(f"📁 Pasta: {playlist_folder.name}")
-            if zip_path:
-                print(f"📦 ZIP criado: {zip_path}")
-            
-            return {
+            final_result = {
                 'success': True,
                 'playlist_id': playlist_id,
-                'playlist_folder': str(playlist_folder),
-                'total_videos': len(video_ids),
+                'playlist_title': playlist_title,
+                'folder_name': versioned_folder_name,
+                'range_processed': f"{start_index}-{end_index}",
+                'total_videos': len(selected_videos),
                 'successful_extractions': success_count,
                 'failed_extractions': error_count,
                 'zip_file': zip_path,
                 'results': results
             }
             
+            print(f"\n🎉 Playlist processada!")
+            print(f"📁 Pasta: {versioned_folder_name}")
+            print(f"✅ Sucessos: {success_count}/{len(selected_videos)}")
+            print(f"❌ Falhas: {error_count}/{len(selected_videos)}")
+            print(f"📦 ZIP: {zip_path}")
+            
+            return final_result
+            
         except Exception as e:
-            logger.error(f"Erro ao processar playlist: {e}")
-            return {'error': str(e), 'input': playlist_url}
+            logger.error(f"Erro ao extrair playlist: {e}")
+            return {'error': str(e), 'playlist_url': playlist_url}
+
+    def save_video_data(self, video_folder: Path, video_id: str, metadata: Dict, transcript: Dict, analysis: Dict):
+        """
+        Salva todos os dados do vídeo na pasta individual
+        """
+        try:
+            # Criar pasta youtube_extracted_data igual ao vídeo individual
+            extracted_folder = video_folder / 'youtube_extracted_data'
+            extracted_folder.mkdir(exist_ok=True)
+            
+            # Criar subpastas organizadas
+            chunks_folder = extracted_folder / 'chunks'
+            database_folder = extracted_folder / 'database'
+            metadata_folder = extracted_folder / 'metadata'
+            rag_folder = extracted_folder / 'rag_content'
+            transcripts_folder = extracted_folder / 'transcripts'
+            
+            for folder in [chunks_folder, database_folder, metadata_folder, rag_folder, transcripts_folder]:
+                folder.mkdir(exist_ok=True)
+            
+            # Gerar timestamp
+            from datetime import datetime
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            base_filename = f"{video_id}_{timestamp}"
+            
+            # Salvar metadados (formato principal e formato com timestamp)
+            with open(video_folder / 'metadata.json', 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, indent=2, ensure_ascii=False)
+            
+            metadata_file = metadata_folder / f'{base_filename}_metadata.json'
+            with open(metadata_file, 'w', encoding='utf-8') as f:
+                json.dump(metadata, f, indent=2, ensure_ascii=False)
+            
+            # Salvar transcrição (formato principal e formato com timestamp)
+            transcript_file = video_folder / f'transcript_{video_id}.json'
+            with open(transcript_file, 'w', encoding='utf-8') as f:
+                json.dump(transcript, f, indent=2, ensure_ascii=False)
+                
+            transcript_file_ts = transcripts_folder / f'{base_filename}_transcript.json'
+            with open(transcript_file_ts, 'w', encoding='utf-8') as f:
+                json.dump(transcript, f, indent=2, ensure_ascii=False)
+            
+            # Salvar análise RAG (ambos locais)
+            analysis_file = rag_folder / f'{video_id}_analysis.json'
+            with open(analysis_file, 'w', encoding='utf-8') as f:
+                json.dump(analysis, f, indent=2, ensure_ascii=False)
+                
+            analysis_file_ts = rag_folder / f'{base_filename}_analysis.json'
+            with open(analysis_file_ts, 'w', encoding='utf-8') as f:
+                json.dump(analysis, f, indent=2, ensure_ascii=False)
+            
+            # Salvar texto puro da transcrição
+            text_content = self.extract_text_from_segments(transcript.get('segments', []))
+            text_file = rag_folder / f'{base_filename}_text.txt'
+            with open(text_file, 'w', encoding='utf-8') as f:
+                f.write(text_content)
+            
+            # Criar chunks se possível
+            try:
+                import gc
+                print("🔗 Iniciando criação de chunks com controle de memória...")
+                
+                # Forçar limpeza antes de criar chunks
+                gc.collect()
+                
+                chunks = self.create_chunks(text_content)
+                if chunks:
+                    chunks_file_json = chunks_folder / f'{base_filename}_chunks.json'
+                    with open(chunks_file_json, 'w', encoding='utf-8') as f:
+                        json.dump(chunks, f, indent=2, ensure_ascii=False)
+                        
+                    # Salvar chunks em CSV também (versão mais leve)
+                    chunks_file_csv = chunks_folder / f'{base_filename}_chunks.csv'
+                    import csv
+                    with open(chunks_file_csv, 'w', newline='', encoding='utf-8') as f:
+                        writer = csv.writer(f)
+                        writer.writerow(['chunk_id', 'content'])
+                        for chunk in chunks:
+                            writer.writerow([chunk.get('index', ''), chunk.get('text', '')])
+                    
+                    print(f"✅ Chunks salvos: {len(chunks)} chunks")
+                else:
+                    print("⚠️ Nenhum chunk foi criado")
+                
+                # Limpeza imediata após chunks
+                chunks = None  # Liberar referência
+                gc.collect()
+                
+            except Exception as e:
+                print(f"❌ Erro ao criar chunks: {e}")
+                # Forçar limpeza em caso de erro
+                import gc
+                gc.collect()
+            
+            # Criar banco de dados
+            db_path = self.create_database()
+            if db_path:
+                # Mover banco para pasta do vídeo e para database folder
+                import shutil
+                target_db = video_folder / 'video_database.db'
+                shutil.copy2(db_path, target_db)
+                
+                target_db_ts = database_folder / 'youtube_transcripts.db'
+                shutil.copy2(db_path, target_db_ts)
+            
+            # Baixar thumbnail
+            thumbnail_url = metadata.get('thumbnail')
+            if thumbnail_url:
+                # Thumbnail na pasta principal
+                thumbnail_main = video_folder / f'{video_id}_thumbnail.jpg'
+                downloaded_thumb = self.download_thumbnail(video_id, thumbnail_url, video_folder)
+                
+                # Copiar para pasta extracted também
+                if downloaded_thumb and Path(downloaded_thumb).exists():
+                    import shutil
+                    shutil.copy2(downloaded_thumb, extracted_folder / f'{video_id}_thumbnail.jpg')
+            
+            print(f"💾 Dados salvos em: {video_folder.name}")
+            
+        except Exception as e:
+            print(f"❌ Erro ao salvar dados do vídeo {video_id}: {e}")
     
     def create_playlist_zip(self, playlist_folder: Path) -> str:
         """
@@ -1127,7 +2360,27 @@ class YouTubeRAGExtractor:
 
 def main():
     """
-    Interface de linha de comando avançada
+    SISTEMA RAG YOUTUBE - VERSÃO FINAL COM SOLUÇÃO PARA BLOQUEIO IP
+    
+    🎯 INSTALAÇÃO DE BIBLIOTECAS PARA TRANSCRIÇÃO LOCAL:
+    
+    Para máxima qualidade (Whisper):
+    pip install openai-whisper
+    
+    Para fallback (SpeechRecognition):
+    pip install SpeechRecognition pydub
+    
+    Para Windows (bibliotecas sistema):
+    pip install pyaudio
+    
+    🔧 RECURSOS IMPLEMENTADOS:
+    - ✅ Proxy/Tor para contornar bloqueio IP
+    - ✅ Download de áudio + transcrição local (SOLUÇÃO DEFINITIVA)
+    - ✅ Múltiplas estratégias de fallback
+    - ✅ Pastas com 30 caracteres
+    - ✅ Subpastas para playlists
+    - ✅ Keywords inteligentes
+    - ✅ Sistema RAG completo
     """
     parser = argparse.ArgumentParser(
         description='🎬 Extrator RAG Completo de Vídeos do YouTube',
@@ -1140,6 +2393,15 @@ Exemplos de uso:
   
   # Extrair vídeo em pasta personalizada
   python youtube_rag_extractor_final.py --url "VIDEO_URL" --folder "meus_videos"
+  
+  # Extrair com proxy HTTP
+  python youtube_rag_extractor_final.py --url "VIDEO_URL" --proxy "http://proxy.com:8080"
+  
+  # Extrair com proxy SOCKS5/Tor
+  python youtube_rag_extractor_final.py --url "VIDEO_URL" --proxy "socks5://127.0.0.1:9050"
+  
+  # Extrair usando Tor (atalho)
+  python youtube_rag_extractor_final.py --url "VIDEO_URL" --tor
   
   # Extrair playlist completa (cria subpasta automaticamente)
   python youtube_rag_extractor_final.py --playlist "https://www.youtube.com/playlist?list=PLAYLIST_ID"
@@ -1160,11 +2422,27 @@ Exemplos de uso:
     
     parser.add_argument('--storage', '-s', default='storage', help='Diretório de armazenamento (padrão: storage)')
     parser.add_argument('--folder', '-f', help='Pasta personalizada para vídeo individual')
+    parser.add_argument('--proxy', help='Proxy: http://host:port ou socks5://host:port')
+    parser.add_argument('--tor', action='store_true', help='Usar Tor (equivale a --proxy socks5://127.0.0.1:9050)')
+    
+    # Novos argumentos para range de playlist
+    parser.add_argument('--start', type=int, default=1, help='Índice inicial da playlist (padrão: 1)')
+    parser.add_argument('--end', type=int, help='Índice final da playlist (padrão: todos os vídeos)')
     
     args = parser.parse_args()
     
     # Criar extrator
-    extractor = YouTubeRAGExtractor(args.storage)
+    extractor = YouTubeRAGExtractor(args.storage, proxy=args.proxy, use_tor=args.tor)
+    
+    # Opção de pasta personalizada via input se não foi especificada via argumento
+    if args.url and not args.folder:
+        try:
+            custom_folder = input("\n🗂️  Deseja usar uma pasta personalizada? (Enter para padrão): ").strip()
+            if custom_folder:
+                args.folder = custom_folder
+                print(f"📁 Pasta personalizada: {custom_folder}")
+        except (KeyboardInterrupt, EOFError):
+            print("\n⏭️  Usando pasta padrão")
     
     try:
         if args.url:
@@ -1186,13 +2464,16 @@ Exemplos de uso:
                 sys.exit(1)
         
         elif args.playlist:
-            # Extrair playlist (cria subpasta e ZIP automaticamente)
-            result = extractor.extract_playlist(args.playlist)
+            # Extrair playlist com range opcional
+            if args.start > 1 or args.end:
+                print(f"🎯 Processando playlist do vídeo {args.start} até {args.end}")
+            
+            result = extractor.extract_playlist(args.playlist, args.start, args.end)
             
             if result.get('success'):
                 print(f"\n🎉 Playlist extraída com sucesso!")
                 print(f"📊 {result['successful_extractions']}/{result['total_videos']} vídeos processados")
-                print(f"📁 Pasta da playlist: {result['playlist_folder']}")
+                print(f"📁 Pasta da playlist: {result.get('folder_name', result.get('playlist_folder', 'N/A'))}")
                 if result.get('zip_file'):
                     print(f"📦 ZIP da playlist: {result['zip_file']}")
             else:
