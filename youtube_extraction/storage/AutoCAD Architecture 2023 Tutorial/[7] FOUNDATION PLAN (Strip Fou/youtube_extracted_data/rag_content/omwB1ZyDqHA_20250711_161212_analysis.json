@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 1,
+    "avg_words_per_sentence": 1000.0,
+    "language": "en"
+  },
+  "keywords": [
+    "gonna",
+    "foundation",
+    "right",
+    "walls"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T16:12:12.526065",
+    "processing_mode": "memory_optimized"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "playlist_info": {
+    "id": "PLyLLcCaRflgCTuP493CZuUOFdMdh-a_jc",
+    "title": "AutoCAD Architecture 2023 Tutorial",
+    "uploader": "TD Vision U",
+    "description": "This is a series of videos showing how to draw a one bedroom house from start to finish, in AutoCAD Architecture. I hope that you enjoy it. Thanks for watching. Hit the 👍",
+    "video_count": 24,
+    "url": "https://www.youtube.com/playlist?list=PLyLLcCaRflgCTuP493CZuUOFdMdh-a_jc",
+    "extraction_timestamp": "2025-07-11T16:11:29.149280",
+    "video_ids": [
+      "f1jFFxBPjDY",
+      "kAyfNOsc83Y",
+      "dW01WAGco-Y",
+      "dx9LmrPnC-w",
+      "pGNYjITG1-s",
+      "UDFddFCVz1w",
+      "omwB1ZyDqHA",
+      "LiqIRHXvReI",
+      "b_x77UL4gRo",
+      "4T1PptqTRPI",
+      "I_c5oqCJNN8",
+      "ECDBBHrp7tE",
+      "hmlNdZqI8_Q",
+      "RZqD-EWsTBg",
+      "VAn2-hG00XU",
+      "rA8VpPCw9rg",
+      "iCYWKiN9tys",
+      "SIRojqrpmYs",
+      "ptkLzhg-l4Y",
+      "5s4xBLrTi7U",
+      "De75ZDWlVvM",
+      "qeMM5_WIIuU",
+      "zxixHN87-38",
+      "mY5yz8nsvIk"
+    ]
+  },
+  "selected_range": {
+    "start": 1,
+    "end": 24
+  },
+  "total_videos": 24,
+  "selected_videos": 24,
+  "extraction_timestamp": "2025-07-11T16:11:29.159968",
+  "video_order": [
+    [
+      1,
+      "f1jFFxBPjDY"
+    ],
+    [
+      2,
+      "kAyfNOsc83Y"
+    ],
+    [
+      3,
+      "dW01WAGco-Y"
+    ],
+    [
+      4,
+      "dx9LmrPnC-w"
+    ],
+    [
+      5,
+      "pGNYjITG1-s"
+    ],
+    [
+      6,
+      "UDFddFCVz1w"
+    ],
+    [
+      7,
+      "omwB1ZyDqHA"
+    ],
+    [
+      8,
+      "LiqIRHXvReI"
+    ],
+    [
+      9,
+      "b_x77UL4gRo"
+    ],
+    [
+      10,
+      "4T1PptqTRPI"
+    ],
+    [
+      11,
+      "I_c5oqCJNN8"
+    ],
+    [
+      12,
+      "ECDBBHrp7tE"
+    ],
+    [
+      13,
+      "hmlNdZqI8_Q"
+    ],
+    [
+      14,
+      "RZqD-EWsTBg"
+    ],
+    [
+      15,
+      "VAn2-hG00XU"
+    ],
+    [
+      16,
+      "rA8VpPCw9rg"
+    ],
+    [
+      17,
+      "iCYWKiN9tys"
+    ],
+    [
+      18,
+      "SIRojqrpmYs"
+    ],
+    [
+      19,
+      "ptkLzhg-l4Y"
+    ],
+    [
+      20,
+      "5s4xBLrTi7U"
+    ],
+    [
+      21,
+      "De75ZDWlVvM"
+    ],
+    [
+      22,
+      "qeMM5_WIIuU"
+    ],
+    [
+      23,
+      "zxixHN87-38"
+    ],
+    [
+      24,
+      "mY5yz8nsvIk"
+    ]
+  ],
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": true,
+    "save_audio": false,
+    "reuse_data": true
+  }
+}

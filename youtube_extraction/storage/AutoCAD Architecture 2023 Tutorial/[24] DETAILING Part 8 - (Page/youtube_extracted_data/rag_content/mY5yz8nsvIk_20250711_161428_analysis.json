@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 40,
+    "avg_words_per_sentence": 25.0,
+    "language": "en"
+  },
+  "keywords": [
+    "project"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T16:14:27.956917",
+    "processing_mode": "memory_optimized"
+  }
+}

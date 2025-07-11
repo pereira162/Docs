@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "text": "Hello everybody!\nWelcome back to the channel and in today's episode we're going to be finishing up our section\nout elevation views.\nBe as a calli so that they can look something more like this.\nYou know what I mean?\nSo we're going to just add some annotations.\nI'm going to just wrap it up, bling bling bling bling bling bling bling.\nSo if that's something you're interested in, you can go ahead and download the PDF for this video\nin the description below.\nAnd while you're going down there, just hit the like button and guess what?\nIf you want to subscribe it, hit the subscribe button.\nAnd drop a comment.\nWhen I'll laugh, let's get into the video.\nAlright, so here we are back in AutoCard architecture and today we're going to be finalizing\nall of the drawings.\nIf time allows it, that we have left to do.\nSo we do have these sectional elevations and we have some detailed views that we need to\nget done.\nAs you can see, I have already gone ahead and you know, get some out of the way.\nBut I'm go",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 1000,
+    "word_count": 190,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "et done.\nAs you can see, I have already gone ahead and you know, get some out of the way.\nBut I'm going to be showing you these two here, which should give you a pretty good understanding\nof how to achieve all of what you're seeing here.\nAlright, so let's go back over to the elevation views.\nNow before I get to this, if you miss the elevation views in the previous episode, go\nand watch that video.\nBecause some of the things I'm going to be doing in today's video, you're going to have\nto watch this video to understand how to do that.\nIf you already don't know how to.\nSo far, in stance, we brought in the side plan again into this drawing and we dropped it to\nthree foot six inches so that it looks properly on here.\nHowever, one of the things I actually want to do is to turn off the trees because I don't\nwant to see them in these elevation views.\nAlright, so I'm going to go to my freeze tool and I'm going to actually freeze and then\nI'm going to refresh these drawings.\nAlright, so I'm just",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 1000,
+    "word_count": 198,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "and I'm going to actually freeze and then\nI'm going to refresh these drawings.\nAlright, so I'm just like that we get rid of the trees.\nNo, I'm actually going to move these over a little bit more cars.\nShift this over and then I might shift this one itself over some more.\nSo first rule of action here, noise to get rid off of the hatching.\nAnd as you can see, we have some gray thing inside of the wall, which I absolutely hate\nas well as this red line running around edge off everything basically.\nSo we're going to turn those off.\nSo what we did in the last video, the same thing we're going to do again, click on the drawing\nwith the view and we're going to go to edit style and we're going to go over to display\nproperties and then this little button right here.\nFrom here we can go ahead and turn off surface hatching.\nWe can also turn off shrink wrap.\nEverything that says shrink wrap.\nTurn them off.\nWe're going to hit OK.\nOK.\nAnd as you can see, now we have the true vision of what we want t",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 999,
+    "word_count": 199,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "em off.\nWe're going to hit OK.\nOK.\nAnd as you can see, now we have the true vision of what we want to see.\nYeah, understand.\nThe only thing that I am not seeing are some hatching underneath here to represent like the\nearth as well as the backfill and compacted hardcore.\nSo let's go ahead and do that.\nSo I'm going to be using polyline and I want to add one foot off hardcore on the need\nto floor.\nSo I'm going to draw a line from here going up two feet, six inches and then I'm going\nto go across like that.\nAnd I'm going to repeat that process two more times for the rest of the foundation.\nAll right.\nRepeat that again.\nSo these areas will become the backfill areas.\nAnd then I kind of want to also hatch underneath here to show earth.\nSo I'm going to use pyline this time and I'm going to just draw some random lines.\nAll right.\nSo let's go ahead and start to hatch.\nAge for hatch.\nAnd the first place I'm going to hatch is in the hardcore which I'm going to be using\na gravel pattern to do this",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 999,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "place I'm going to hatch is in the hardcore which I'm going to be using\na gravel pattern to do this gravel and I'm going to set that at a mere eight scale that\nshould give me a good level.\nLooks good.\nThat.\nSo that's my compacted hardcore and backfill.\nSo now we're going to hatch again.\nNow we're going to hatch the earth.\nSo we're going to scroll and we're going to look for earth.\nI think it's up some scrolling up earth.\nAnd I'm going to make this 15.\nAnd I'm also going to make it 45 degree angle.\nAnd then we can go ahead and hatch these areas with the earth.\nAll right.\nSo there we go.\nI'm going to hit OK.\nSo now we have earth and then we have compacted hardcore.\nI'm going to delete a spyla in the north as I don't want to.\nNice.\nOh.\nYou know what I forgot to do?\nI forgot to create a layer for hatching.\nSo I'm going to go to my layer properties here.\nI'm going to create a brand new layer.\nI'm going to call it a hatch.\nI'm going to give it a color node that is gray.\nI'm going to use this",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "I'm going to call it a hatch.\nI'm going to give it a color node that is gray.\nI'm going to use this gray and I'm going to make it.\nNo, that means a lighter gray and I'm going to make it a true color because if you're\nwatching previous video, you know what this does, we hit OK.\nAnd the line weight, I'm going to make it about 15.\nOK.\nAnd so I'm going to replace it all at each hatching on that layer.\nSo there we go.\nAll right.\nSo that takes care of that.\nAll right.\nSo the next thing I'm going to do here is to add our belt beam inside of the walls and also\nlintels over the windows.\nAll right.\nNow, there's a tool that we can actually use, which I'm going to be exploring more\nas we get into the details side of things.\nBut for now, you'll get a snap-sys of how it works.\nSo on your tool palette, when you go down to detailing, and we're going to click on concrete.\nAnd right away, we have a beams activated, which is actually what I want.\nWe're going to use a custom size.\nI'm going to make it si",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 999,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "activated, which is actually what I want.\nWe're going to use a custom size.\nI'm going to make it six inches wide by a one foot deep.\nAnd of course, I want to get rid of the shumford edges.\nSo I'm going to say no.\nDo I want the steel reinforcement inside of it at this point?\nNo.\nSo I turned those off and normalize with this.\nSo I'm going to be placing this at various points throughout the building mainly where\nthe wall ends at the top of the building.\nBut one wasn't placed properly.\nThis one wasn't placed properly.\nSo I'm going to fix it.\nSo a little bit lower than where it should be.\nSo, a little bit up.\nYeah.\nSo that's the bell beam that is wrapping around the building at the top of the wall.\nNow I want to place lintel and guess what is the same process?\nAll I'm going to be doing is to make it eight inches deep instead of one foot.\nDo I need reinforcement?\nNo.\nShumford?\nNo.\nNow, if you notice, it's the base point is at the top.\nAnd I actually want to make the base point at the bottom",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 999,
+    "word_count": 201,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "notice, it's the base point is at the top.\nAnd I actually want to make the base point at the bottom.\nSo I'm going to say flip along the X just like that.\nAnd then drop it all the top of the window.\nDrop it on top of that window.\nIf we had a door, we would do the same thing.\nBut not seeing any door from this view.\nSo yeah.\nBasically, when you're caught through the building, you should be seeing the bell beam and also\nthe lintels are both the windows and doors.\nSo that's what that is.\nAll right.\nThe next thing I'm going to do is to go back to our tool palette and we're going to go\ndown to document.\nBecause I want to use this tool right here to create some level markers.\nAll right.\nSo I'm going to drop my first one at the finish for a level.\nMaybe like I'm going to make it zero degrees.\nAnd then we're going to draw a line from here inwards.\nMaybe to a more this point.\nTurn my awesome mode on.\nI'm going to make that line much that line to the same layer as that.\nI'm going to make this lin",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 999,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "on.\nI'm going to make that line much that line to the same layer as that.\nI'm going to make this line.\nMaybe like a phantom or something phantom.\nYeah.\nSo that's going to be my level marker.\nAnd I'm going to put a text on top of it.\nAnd I'm going to call it finished.\nThen I'm going to call it that.\nMake this a little bit longer.\nBlank that.\nAnd then I'm going to copy this from here up to top of my building.\nAnd I'm going to say call this wall plate.\nThat's where the wall plate starts.\nAre you can say top of beam, top of built, something like that.\nYou can do it on both sides.\nI'm going to actually just do it on one side of the building.\nAnd yeah, leave it at that.\nThen we're going to add some dimensions now.\nSo let's use a big point.\nI want to add some dimension.\nThe first dimension I'm going to add is between my two points here.\nSo that's the distance between levels there.\nActually, I probably should add one at the base of the different thing.\nI could do that.\nLet's add one down here.",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "robably should add one at the base of the different thing.\nI could do that.\nLet's add one down here.\nAnd call this.\nAnd let's leave it at that.\nI'm going to add extension line to here.\nAnd good.\nSo our foundation is 4 feet deep.\nSo we're going to add some more dimensions.\nBy the way, guys, before you start to add any of these, please, I'm asking you.\nRemember to set your scale.\nAll right, I forgot to mention that.\nSo if your dimension or text is coming out at a wrong size, like it too bigger, too small,\nthat's because you're on the wrong scale.\nSo set your scale before you start to add any of these worded items.\nNow we're going to add some dimension to our windows.\nSo pick my picking my points here and turn drag it out.\nAnd I drop my windows size right there.\nI'm going to put some dimensions for the countertop as well as the case work.\nAnd if you put it right there, I'm going to pull these back somewhat and move this back.\nI'm going to drop another one for this window.\nNow I'm bearing",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 999,
+    "word_count": 197,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

@@ -1933,7 +1933,8 @@ class YouTubeRAGExtractor:
         except Exception as e:
             logger.warning(f"Não foi possível baixar thumbnail: {e}")
             return None
-      def extract_single_video(self, url_or_id: str, custom_folder: Optional[str] = None) -> Dict[str, Any]:
+    
+    def extract_single_video(self, url_or_id: str, custom_folder: Optional[str] = None) -> Dict[str, Any]:
         """
         Extrai dados RAG completos de um único vídeo v5.0 com reutilização de dados
         """

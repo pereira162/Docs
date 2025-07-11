@@ -1,0 +1,2497 @@
+{
+  "video_id": "LiqIRHXvReI",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "all right so thank you for joining me",
+      "start": 0.0,
+      "duration": 4.589,
+      "end": 4.589
+    },
+    {
+      "index": 1,
+      "text": "this is episode 8 of our one bedroom",
+      "start": 2.46,
+      "duration": 4.26,
+      "end": 6.72
+    },
+    {
+      "index": 2,
+      "text": "series and today we're gonna talk about",
+      "start": 4.589,
+      "duration": 5.791,
+      "end": 10.38
+    },
+    {
+      "index": 3,
+      "text": "space so in AutoCAD there is a tool that",
+      "start": 6.72,
+      "duration": 7.26,
+      "end": 13.98
+    },
+    {
+      "index": 4,
+      "text": "is called the space too so as you can",
+      "start": 10.38,
+      "duration": 5.429,
+      "end": 15.809000000000001
+    },
+    {
+      "index": 5,
+      "text": "see it can be found right here",
+      "start": 13.98,
+      "duration": 4.92,
+      "end": 18.9
+    },
+    {
+      "index": 6,
+      "text": "and also if you go into the enter the",
+      "start": 15.809,
+      "duration": 6.241,
+      "end": 22.049999999999997
+    },
+    {
+      "index": 7,
+      "text": "tool palette and we go to design and if",
+      "start": 18.9,
+      "duration": 5.19,
+      "end": 24.09
+    },
+    {
+      "index": 8,
+      "text": "you scroll down you have the same thing",
+      "start": 22.05,
+      "duration": 4.41,
+      "end": 26.46
+    },
+    {
+      "index": 9,
+      "text": "down here so we're gonna talk about what",
+      "start": 24.09,
+      "duration": 5.79,
+      "end": 29.88
+    },
+    {
+      "index": 10,
+      "text": "it is used for and how to put it in your",
+      "start": 26.46,
+      "duration": 24.18,
+      "end": 50.64
+    },
+    {
+      "index": 11,
+      "text": "drawing make sense I guess so the best",
+      "start": 29.88,
+      "duration": 22.769,
+      "end": 52.649
+    },
+    {
+      "index": 12,
+      "text": "way for me to explain what this space",
+      "start": 50.64,
+      "duration": 5.64,
+      "end": 56.28
+    },
+    {
+      "index": 13,
+      "text": "tool is is to illustrate it so here I",
+      "start": 52.649,
+      "duration": 6.121,
+      "end": 58.77
+    },
+    {
+      "index": 14,
+      "text": "have a box better yet let's make this",
+      "start": 56.28,
+      "duration": 4.95,
+      "end": 61.230000000000004
+    },
+    {
+      "index": 15,
+      "text": "box look like something we are familiar",
+      "start": 58.77,
+      "duration": 6.179,
+      "end": 64.949
+    },
+    {
+      "index": 16,
+      "text": "with a building yeah so this is a",
+      "start": 61.23,
+      "duration": 6.33,
+      "end": 67.56
+    },
+    {
+      "index": 17,
+      "text": "one-room building and inside this",
+      "start": 64.949,
+      "duration": 6.71,
+      "end": 71.65899999999999
+    },
+    {
+      "index": 18,
+      "text": "one-room building we have nothing and",
+      "start": 67.56,
+      "duration": 7.08,
+      "end": 74.64
+    },
+    {
+      "index": 19,
+      "text": "what we want to do though is to replace",
+      "start": 71.659,
+      "duration": 8.041,
+      "end": 79.7
+    },
+    {
+      "index": 20,
+      "text": "this nothingness with what we call space",
+      "start": 74.64,
+      "duration": 8.07,
+      "end": 82.71000000000001
+    },
+    {
+      "index": 21,
+      "text": "its own crazy but I hope that you kind",
+      "start": 79.7,
+      "duration": 5.8,
+      "end": 85.5
+    },
+    {
+      "index": 22,
+      "text": "of get the idea so in AutoCAD what we",
+      "start": 82.71,
+      "duration": 6.449,
+      "end": 89.15899999999999
+    },
+    {
+      "index": 23,
+      "text": "would do is to add space within each",
+      "start": 85.5,
+      "duration": 7.259,
+      "end": 92.759
+    },
+    {
+      "index": 24,
+      "text": "room all right and each room is bounded",
+      "start": 89.159,
+      "duration": 7.651,
+      "end": 96.81
+    },
+    {
+      "index": 25,
+      "text": "by the walls that make up that room",
+      "start": 92.759,
+      "duration": 7.261,
+      "end": 100.02
+    },
+    {
+      "index": 26,
+      "text": "okay and this space object would be able",
+      "start": 96.81,
+      "duration": 5.82,
+      "end": 102.63
+    },
+    {
+      "index": 27,
+      "text": "to give us a lot of information about",
+      "start": 100.02,
+      "duration": 5.879,
+      "end": 105.899
+    },
+    {
+      "index": 28,
+      "text": "that particular room so for instance we",
+      "start": 102.63,
+      "duration": 6.239,
+      "end": 108.869
+    },
+    {
+      "index": 29,
+      "text": "would be able to name that space such as",
+      "start": 105.899,
+      "duration": 6.031,
+      "end": 111.93
+    },
+    {
+      "index": 30,
+      "text": "let's say the bedroom once we give this",
+      "start": 108.869,
+      "duration": 5.61,
+      "end": 114.479
+    },
+    {
+      "index": 31,
+      "text": "space a name we would also be able to",
+      "start": 111.93,
+      "duration": 3.84,
+      "end": 115.77000000000001
+    },
+    {
+      "index": 32,
+      "text": "use autocad's",
+      "start": 114.479,
+      "duration": 4.71,
+      "end": 119.189
+    },
+    {
+      "index": 33,
+      "text": "smart tag to populate the name of the",
+      "start": 115.77,
+      "duration": 5.489,
+      "end": 121.259
+    },
+    {
+      "index": 34,
+      "text": "room when we're ready to annotate the",
+      "start": 119.189,
+      "duration": 5.61,
+      "end": 124.79899999999999
+    },
+    {
+      "index": 35,
+      "text": "drawing and also plot the drawing we",
+      "start": 121.259,
+      "duration": 5.371,
+      "end": 126.63
+    },
+    {
+      "index": 36,
+      "text": "would also be able to pull various",
+      "start": 124.799,
+      "duration": 5.401,
+      "end": 130.20000000000002
+    },
+    {
+      "index": 37,
+      "text": "information about the room such as the",
+      "start": 126.63,
+      "duration": 6.12,
+      "end": 132.75
+    },
+    {
+      "index": 38,
+      "text": "floor area the volume of the",
+      "start": 130.2,
+      "duration": 6.51,
+      "end": 136.70999999999998
+    },
+    {
+      "index": 39,
+      "text": "the parameter of the room also we would",
+      "start": 132.75,
+      "duration": 6.6,
+      "end": 139.35
+    },
+    {
+      "index": 40,
+      "text": "be able to pull the types of finishes",
+      "start": 136.71,
+      "duration": 5.46,
+      "end": 142.17000000000002
+    },
+    {
+      "index": 41,
+      "text": "that are being used within that room",
+      "start": 139.35,
+      "duration": 4.85,
+      "end": 144.2
+    },
+    {
+      "index": 42,
+      "text": "whether it be let's say for instance",
+      "start": 142.17,
+      "duration": 5.88,
+      "end": 148.04999999999998
+    },
+    {
+      "index": 43,
+      "text": "ceramic tiles on the floor red paints on",
+      "start": 144.2,
+      "duration": 4.63,
+      "end": 148.82999999999998
+    },
+    {
+      "index": 44,
+      "text": "the walls",
+      "start": 148.05,
+      "duration": 3.96,
+      "end": 152.01000000000002
+    },
+    {
+      "index": 45,
+      "text": "wooden ceilings whatever is in that room",
+      "start": 148.83,
+      "duration": 6.45,
+      "end": 155.28
+    },
+    {
+      "index": 46,
+      "text": "the space tool allows us to capture all",
+      "start": 152.01,
+      "duration": 6.12,
+      "end": 158.13
+    },
+    {
+      "index": 47,
+      "text": "that information and push them into",
+      "start": 155.28,
+      "duration": 6.15,
+      "end": 161.43
+    },
+    {
+      "index": 48,
+      "text": "let's say for instance a schedule all",
+      "start": 158.13,
+      "duration": 4.98,
+      "end": 163.10999999999999
+    },
+    {
+      "index": 49,
+      "text": "right so as you can see that the speech",
+      "start": 161.43,
+      "duration": 4.23,
+      "end": 165.66
+    },
+    {
+      "index": 50,
+      "text": "tool becomes very important and very",
+      "start": 163.11,
+      "duration": 5.25,
+      "end": 168.36
+    },
+    {
+      "index": 51,
+      "text": "helpful and will save you a lot of time",
+      "start": 165.66,
+      "duration": 5.07,
+      "end": 170.73
+    },
+    {
+      "index": 52,
+      "text": "in the future especially if you're",
+      "start": 168.36,
+      "duration": 4.92,
+      "end": 173.28
+    },
+    {
+      "index": 53,
+      "text": "working on a very large project so let's",
+      "start": 170.73,
+      "duration": 4.71,
+      "end": 175.44
+    },
+    {
+      "index": 54,
+      "text": "move over to AutoCAD where I will show",
+      "start": 173.28,
+      "duration": 4.5,
+      "end": 177.78
+    },
+    {
+      "index": 55,
+      "text": "you how to get this done the last thing",
+      "start": 175.44,
+      "duration": 5.43,
+      "end": 180.87
+    },
+    {
+      "index": 56,
+      "text": "we did was our foundation and what we're",
+      "start": 177.78,
+      "duration": 4.62,
+      "end": 182.4
+    },
+    {
+      "index": 57,
+      "text": "going to do is to go back over to our",
+      "start": 180.87,
+      "duration": 5.43,
+      "end": 186.3
+    },
+    {
+      "index": 58,
+      "text": "floor or ground the floor plan so let's",
+      "start": 182.4,
+      "duration": 8.52,
+      "end": 190.92000000000002
+    },
+    {
+      "index": 59,
+      "text": "go back over and of course all of these",
+      "start": 186.3,
+      "duration": 7.65,
+      "end": 193.95000000000002
+    },
+    {
+      "index": 60,
+      "text": "can be found in our project navigator",
+      "start": 190.92,
+      "duration": 6.0,
+      "end": 196.92
+    },
+    {
+      "index": 61,
+      "text": "that we have been using all this time so",
+      "start": 193.95,
+      "duration": 4.59,
+      "end": 198.54
+    },
+    {
+      "index": 62,
+      "text": "we have the foundation we would go back",
+      "start": 196.92,
+      "duration": 3.84,
+      "end": 200.76
+    },
+    {
+      "index": 63,
+      "text": "to our ground floor drawing which is",
+      "start": 198.54,
+      "duration": 4.59,
+      "end": 203.13
+    },
+    {
+      "index": 64,
+      "text": "this that is opening open up here and",
+      "start": 200.76,
+      "duration": 5.449,
+      "end": 206.209
+    },
+    {
+      "index": 65,
+      "text": "we're going to go back to the top view",
+      "start": 203.13,
+      "duration": 7.38,
+      "end": 210.51
+    },
+    {
+      "index": 66,
+      "text": "to be so we're going to add spaces to",
+      "start": 206.209,
+      "duration": 6.611,
+      "end": 212.82
+    },
+    {
+      "index": 67,
+      "text": "each of these rooms which is quite",
+      "start": 210.51,
+      "duration": 6.72,
+      "end": 217.23
+    },
+    {
+      "index": 68,
+      "text": "simple we'd go to the Home tab and we go",
+      "start": 212.82,
+      "duration": 7.26,
+      "end": 220.07999999999998
+    },
+    {
+      "index": 69,
+      "text": "down to generate space we're gonna use a",
+      "start": 217.23,
+      "duration": 5.479,
+      "end": 222.709
+    },
+    {
+      "index": 70,
+      "text": "generate space because it automatically",
+      "start": 220.08,
+      "duration": 5.79,
+      "end": 225.87
+    },
+    {
+      "index": 71,
+      "text": "identify your boundaries and create a",
+      "start": 222.709,
+      "duration": 5.861,
+      "end": 228.57
+    },
+    {
+      "index": 72,
+      "text": "space within those boundaries for us if",
+      "start": 225.87,
+      "duration": 4.619,
+      "end": 230.489
+    },
+    {
+      "index": 73,
+      "text": "we were to use just a space tool we",
+      "start": 228.57,
+      "duration": 5.58,
+      "end": 234.15
+    },
+    {
+      "index": 74,
+      "text": "would have two draw boxes two to the",
+      "start": 230.489,
+      "duration": 5.461,
+      "end": 235.95000000000002
+    },
+    {
+      "index": 75,
+      "text": "size of your room and that kind of stuff",
+      "start": 234.15,
+      "duration": 3.45,
+      "end": 237.6
+    },
+    {
+      "index": 76,
+      "text": "if you're not seeing it up here we're",
+      "start": 235.95,
+      "duration": 3.99,
+      "end": 239.94
+    },
+    {
+      "index": 77,
+      "text": "gonna go we can find it down here and we",
+      "start": 237.6,
+      "duration": 5.19,
+      "end": 242.79
+    },
+    {
+      "index": 78,
+      "text": "would go down to the space generic tool",
+      "start": 239.94,
+      "duration": 6.84,
+      "end": 246.78
+    },
+    {
+      "index": 79,
+      "text": "right here okay no actually if you go",
+      "start": 242.79,
+      "duration": 7.62,
+      "end": 250.41
+    },
+    {
+      "index": 80,
+      "text": "down the side of this bar we have one",
+      "start": 246.78,
+      "duration": 7.08,
+      "end": 253.86
+    },
+    {
+      "index": 81,
+      "text": "that is dedicated to spaces and inside",
+      "start": 250.41,
+      "duration": 6.42,
+      "end": 256.83
+    },
+    {
+      "index": 82,
+      "text": "of it we have some pre-loaded spaces",
+      "start": 253.86,
+      "duration": 5.4,
+      "end": 259.26
+    },
+    {
+      "index": 83,
+      "text": "that we could actually use but these",
+      "start": 256.83,
+      "duration": 5.01,
+      "end": 261.84
+    },
+    {
+      "index": 84,
+      "text": "were specifically made for office",
+      "start": 259.26,
+      "duration": 3.62,
+      "end": 262.88
+    },
+    {
+      "index": 85,
+      "text": "buildings and",
+      "start": 261.84,
+      "duration": 3.7,
+      "end": 265.53999999999996
+    },
+    {
+      "index": 86,
+      "text": "kind of stuff so for instance lobbies",
+      "start": 262.88,
+      "duration": 6.09,
+      "end": 268.96999999999997
+    },
+    {
+      "index": 87,
+      "text": "reception stairway corridors that kind",
+      "start": 265.54,
+      "duration": 5.8,
+      "end": 271.34000000000003
+    },
+    {
+      "index": 88,
+      "text": "of thing you know so we're not gonna use",
+      "start": 268.97,
+      "duration": 4.59,
+      "end": 273.56
+    },
+    {
+      "index": 89,
+      "text": "those we're gonna just stick with the",
+      "start": 271.34,
+      "duration": 4.62,
+      "end": 275.96
+    },
+    {
+      "index": 90,
+      "text": "one that is up here where we can create",
+      "start": 273.56,
+      "duration": 5.01,
+      "end": 278.57
+    },
+    {
+      "index": 91,
+      "text": "our own space so we're gonna click on",
+      "start": 275.96,
+      "duration": 8.55,
+      "end": 284.51
+    },
+    {
+      "index": 92,
+      "text": "the generate space minimize that zoom in",
+      "start": 278.57,
+      "duration": 8.16,
+      "end": 286.73
+    },
+    {
+      "index": 93,
+      "text": "a little bit and now you can see as I",
+      "start": 284.51,
+      "duration": 5.85,
+      "end": 290.36
+    },
+    {
+      "index": 94,
+      "text": "move the mouse over each room you see a",
+      "start": 286.73,
+      "duration": 8.34,
+      "end": 295.07
+    },
+    {
+      "index": 95,
+      "text": "red box being generated within each room",
+      "start": 290.36,
+      "duration": 7.86,
+      "end": 298.22
+    },
+    {
+      "index": 96,
+      "text": "and what it does is to use the walls as",
+      "start": 295.07,
+      "duration": 7.35,
+      "end": 302.42
+    },
+    {
+      "index": 97,
+      "text": "a boundary for each one okay so before",
+      "start": 298.22,
+      "duration": 5.79,
+      "end": 304.01000000000005
+    },
+    {
+      "index": 98,
+      "text": "we click though what we're gonna do is",
+      "start": 302.42,
+      "duration": 4.08,
+      "end": 306.5
+    },
+    {
+      "index": 99,
+      "text": "to go over to the properties box and",
+      "start": 304.01,
+      "duration": 4.32,
+      "end": 308.33
+    },
+    {
+      "index": 100,
+      "text": "we're gonna make sure that everything is",
+      "start": 306.5,
+      "duration": 4.65,
+      "end": 311.15
+    },
+    {
+      "index": 101,
+      "text": "okay over here so the first thing you",
+      "start": 308.33,
+      "duration": 6.48,
+      "end": 314.81
+    },
+    {
+      "index": 102,
+      "text": "want to do is to change the name of this",
+      "start": 311.15,
+      "duration": 6.11,
+      "end": 317.26
+    },
+    {
+      "index": 103,
+      "text": "space so we're gonna call this the",
+      "start": 314.81,
+      "duration": 8.1,
+      "end": 322.91
+    },
+    {
+      "index": 104,
+      "text": "kitchen enter everything is here looks",
+      "start": 317.26,
+      "duration": 7.98,
+      "end": 325.24
+    },
+    {
+      "index": 105,
+      "text": "good we're gonna go down to the",
+      "start": 322.91,
+      "duration": 4.95,
+      "end": 327.86
+    },
+    {
+      "index": 106,
+      "text": "component dimensions we can change a",
+      "start": 325.24,
+      "duration": 5.53,
+      "end": 330.77
+    },
+    {
+      "index": 107,
+      "text": "couple of things here if we need to all",
+      "start": 327.86,
+      "duration": 4.44,
+      "end": 332.3
+    },
+    {
+      "index": 108,
+      "text": "right so I usually make the surface",
+      "start": 330.77,
+      "duration": 4.29,
+      "end": 335.06
+    },
+    {
+      "index": 109,
+      "text": "height of my space the same height as",
+      "start": 332.3,
+      "duration": 8.28,
+      "end": 340.58
+    },
+    {
+      "index": 110,
+      "text": "the wall okay so the walls on this",
+      "start": 335.06,
+      "duration": 8.52,
+      "end": 343.58
+    },
+    {
+      "index": 111,
+      "text": "building are 10 feet tall so we're gonna",
+      "start": 340.58,
+      "duration": 5.01,
+      "end": 345.59
+    },
+    {
+      "index": 112,
+      "text": "make sure that our surface height is",
+      "start": 343.58,
+      "duration": 6.63,
+      "end": 350.21
+    },
+    {
+      "index": 113,
+      "text": "also 10 feet high once that is set then",
+      "start": 345.59,
+      "duration": 7.46,
+      "end": 353.04999999999995
+    },
+    {
+      "index": 114,
+      "text": "we're now clear to go ahead and add",
+      "start": 350.21,
+      "duration": 5.67,
+      "end": 355.88
+    },
+    {
+      "index": 115,
+      "text": "spaces so I'm gonna just go ahead and",
+      "start": 353.05,
+      "duration": 5.71,
+      "end": 358.76
+    },
+    {
+      "index": 116,
+      "text": "add the first piece here that's what it",
+      "start": 355.88,
+      "duration": 5.31,
+      "end": 361.19
+    },
+    {
+      "index": 117,
+      "text": "looks like when you add it so as you go",
+      "start": 358.76,
+      "duration": 4.53,
+      "end": 363.28999999999996
+    },
+    {
+      "index": 118,
+      "text": "on at each you want to change the name",
+      "start": 361.19,
+      "duration": 6.81,
+      "end": 368.0
+    },
+    {
+      "index": 119,
+      "text": "as you go along so we're gonna do the",
+      "start": 363.29,
+      "duration": 6.27,
+      "end": 369.56
+    },
+    {
+      "index": 120,
+      "text": "bathroom now we're going to change this",
+      "start": 368.0,
+      "duration": 8.78,
+      "end": 376.78
+    },
+    {
+      "index": 121,
+      "text": "to through click do the bedroom",
+      "start": 369.56,
+      "duration": 7.22,
+      "end": 376.78000000000003
+    },
+    {
+      "index": 122,
+      "text": "click to the living click and then we're",
+      "start": 378.07,
+      "duration": 16.69,
+      "end": 394.76
+    },
+    {
+      "index": 123,
+      "text": "gonna do porch I mean you can go back",
+      "start": 390.26,
+      "duration": 6.78,
+      "end": 397.03999999999996
+    },
+    {
+      "index": 124,
+      "text": "and change these names afterwards it it",
+      "start": 394.76,
+      "duration": 4.8,
+      "end": 399.56
+    },
+    {
+      "index": 125,
+      "text": "doesn't matter all of these you can do",
+      "start": 397.04,
+      "duration": 5.34,
+      "end": 402.38
+    },
+    {
+      "index": 126,
+      "text": "afterwards actually so there we have all",
+      "start": 399.56,
+      "duration": 10.05,
+      "end": 409.61
+    },
+    {
+      "index": 127,
+      "text": "five species being added it hit enter",
+      "start": 402.38,
+      "duration": 10.02,
+      "end": 412.4
+    },
+    {
+      "index": 128,
+      "text": "then we're out of that command so what",
+      "start": 409.61,
+      "duration": 5.4,
+      "end": 415.01
+    },
+    {
+      "index": 129,
+      "text": "I'm gonna do about now is to go into the",
+      "start": 412.4,
+      "duration": 7.8,
+      "end": 420.2
+    },
+    {
+      "index": 130,
+      "text": "3d mode so you can see what's happening",
+      "start": 415.01,
+      "duration": 5.82,
+      "end": 420.83
+    },
+    {
+      "index": 131,
+      "text": "here",
+      "start": 420.2,
+      "duration": 4.56,
+      "end": 424.76
+    },
+    {
+      "index": 132,
+      "text": "x-ray so each room has a space object",
+      "start": 420.83,
+      "duration": 6.24,
+      "end": 427.07
+    },
+    {
+      "index": 133,
+      "text": "inside of it like this box and this box",
+      "start": 424.76,
+      "duration": 5.4,
+      "end": 430.15999999999997
+    },
+    {
+      "index": 134,
+      "text": "can give us all the information that we",
+      "start": 427.07,
+      "duration": 5.97,
+      "end": 433.04
+    },
+    {
+      "index": 135,
+      "text": "mentioned earlier in the video such as",
+      "start": 430.16,
+      "duration": 5.19,
+      "end": 435.35
+    },
+    {
+      "index": 136,
+      "text": "the area volume parameter all of that",
+      "start": 433.04,
+      "duration": 9.69,
+      "end": 442.73
+    },
+    {
+      "index": 137,
+      "text": "can be found down here okay area 132",
+      "start": 435.35,
+      "duration": 12.83,
+      "end": 448.18
+    },
+    {
+      "index": 138,
+      "text": "square feet volume 1001 22 cubic feet",
+      "start": 442.73,
+      "duration": 7.77,
+      "end": 450.5
+    },
+    {
+      "index": 139,
+      "text": "parameter it gives you everything and",
+      "start": 448.18,
+      "duration": 4.99,
+      "end": 453.17
+    },
+    {
+      "index": 140,
+      "text": "these can be helpful especially if you",
+      "start": 450.5,
+      "duration": 4.35,
+      "end": 454.85
+    },
+    {
+      "index": 141,
+      "text": "know you're doing a large project and",
+      "start": 453.17,
+      "duration": 5.01,
+      "end": 458.18
+    },
+    {
+      "index": 142,
+      "text": "you would like to know the total area or",
+      "start": 454.85,
+      "duration": 5.01,
+      "end": 459.86
+    },
+    {
+      "index": 143,
+      "text": "the area of our the volume of a",
+      "start": 458.18,
+      "duration": 4.77,
+      "end": 462.95
+    },
+    {
+      "index": 144,
+      "text": "particular space and that kind of stuff",
+      "start": 459.86,
+      "duration": 6.51,
+      "end": 466.37
+    },
+    {
+      "index": 145,
+      "text": "all right it also can be used to pull",
+      "start": 462.95,
+      "duration": 7.14,
+      "end": 470.09
+    },
+    {
+      "index": 146,
+      "text": "finishes that would be used in that rule",
+      "start": 466.37,
+      "duration": 5.82,
+      "end": 472.19
+    },
+    {
+      "index": 147,
+      "text": "and we would find all of that under what",
+      "start": 470.09,
+      "duration": 5.07,
+      "end": 475.15999999999997
+    },
+    {
+      "index": 148,
+      "text": "we call extended beta all right we will",
+      "start": 472.19,
+      "duration": 4.68,
+      "end": 476.87
+    },
+    {
+      "index": 149,
+      "text": "click on this button here to add some",
+      "start": 475.16,
+      "duration": 4.23,
+      "end": 479.39000000000004
+    },
+    {
+      "index": 150,
+      "text": "property sets but we're not gonna get",
+      "start": 476.87,
+      "duration": 6.06,
+      "end": 482.93
+    },
+    {
+      "index": 151,
+      "text": "into all of that in this video we're",
+      "start": 479.39,
+      "duration": 6.84,
+      "end": 486.22999999999996
+    },
+    {
+      "index": 152,
+      "text": "gonna just stick to the you know just",
+      "start": 482.93,
+      "duration": 6.84,
+      "end": 489.77
+    },
+    {
+      "index": 153,
+      "text": "the regular stuff here and call it that",
+      "start": 486.23,
+      "duration": 6.75,
+      "end": 492.98
+    },
+    {
+      "index": 154,
+      "text": "know what I'm gonna do is to isolate",
+      "start": 489.77,
+      "duration": 6.12,
+      "end": 495.89
+    },
+    {
+      "index": 155,
+      "text": "these objects so just to show you what's",
+      "start": 492.98,
+      "duration": 6.12,
+      "end": 499.1
+    },
+    {
+      "index": 156,
+      "text": "happening here so let's say we select",
+      "start": 495.89,
+      "duration": 8.19,
+      "end": 504.08
+    },
+    {
+      "index": 157,
+      "text": "all and we're gonna isolate them so we",
+      "start": 499.1,
+      "duration": 8.1,
+      "end": 507.20000000000005
+    },
+    {
+      "index": 158,
+      "text": "go to this button down here click on it",
+      "start": 504.08,
+      "duration": 6.239,
+      "end": 510.31899999999996
+    },
+    {
+      "index": 159,
+      "text": "and we're gonna see isolate",
+      "start": 507.2,
+      "duration": 5.49,
+      "end": 512.6899999999999
+    },
+    {
+      "index": 160,
+      "text": "so these are what species look would",
+      "start": 510.319,
+      "duration": 6.15,
+      "end": 516.469
+    },
+    {
+      "index": 161,
+      "text": "look like by themselves all right just",
+      "start": 512.69,
+      "duration": 7.19,
+      "end": 519.8800000000001
+    },
+    {
+      "index": 162,
+      "text": "some boxes to fill the the voids",
+      "start": 516.469,
+      "duration": 7.98,
+      "end": 524.4490000000001
+    },
+    {
+      "index": 163,
+      "text": "basically all right no AutoCAD actually",
+      "start": 519.88,
+      "duration": 7.149,
+      "end": 527.029
+    },
+    {
+      "index": 164,
+      "text": "gives us the ability to add ceilings",
+      "start": 524.449,
+      "duration": 6.411,
+      "end": 530.8599999999999
+    },
+    {
+      "index": 165,
+      "text": "inside of these space and also floor",
+      "start": 527.029,
+      "duration": 6.781,
+      "end": 533.81
+    },
+    {
+      "index": 166,
+      "text": "slab so in the previous video when we",
+      "start": 530.86,
+      "duration": 4.959,
+      "end": 535.819
+    },
+    {
+      "index": 167,
+      "text": "did a floor slab we could actually skip",
+      "start": 533.81,
+      "duration": 5.969,
+      "end": 539.779
+    },
+    {
+      "index": 168,
+      "text": "that step and add the floor slab right",
+      "start": 535.819,
+      "duration": 7.411,
+      "end": 543.2299999999999
+    },
+    {
+      "index": 169,
+      "text": "here from the space object but I wanted",
+      "start": 539.779,
+      "duration": 6.151,
+      "end": 545.93
+    },
+    {
+      "index": 170,
+      "text": "to show you that way as well as this way",
+      "start": 543.23,
+      "duration": 5.07,
+      "end": 548.3000000000001
+    },
+    {
+      "index": 171,
+      "text": "and let you decide which one you prefer",
+      "start": 545.93,
+      "duration": 6.06,
+      "end": 551.9899999999999
+    },
+    {
+      "index": 172,
+      "text": "to use all right and how do we do that",
+      "start": 548.3,
+      "duration": 7.5,
+      "end": 555.8
+    },
+    {
+      "index": 173,
+      "text": "though in the component dimensions over",
+      "start": 551.99,
+      "duration": 7.62,
+      "end": 559.61
+    },
+    {
+      "index": 174,
+      "text": "here you would see a section for ceiling",
+      "start": 555.8,
+      "duration": 6.57,
+      "end": 562.37
+    },
+    {
+      "index": 175,
+      "text": "height which is already set at 8 feet 6",
+      "start": 559.61,
+      "duration": 7.409,
+      "end": 567.019
+    },
+    {
+      "index": 176,
+      "text": "and what the ceiling thickness is 0 that",
+      "start": 562.37,
+      "duration": 6.69,
+      "end": 569.0600000000001
+    },
+    {
+      "index": 177,
+      "text": "is why we're not seeing a ceiling as yet",
+      "start": 567.019,
+      "duration": 4.861,
+      "end": 571.88
+    },
+    {
+      "index": 178,
+      "text": "so let's let's add a ceiling thickness",
+      "start": 569.06,
+      "duration": 6.24,
+      "end": 575.3
+    },
+    {
+      "index": 179,
+      "text": "off I'm gonna give it 2 inches okay and",
+      "start": 571.88,
+      "duration": 6.3,
+      "end": 578.18
+    },
+    {
+      "index": 180,
+      "text": "that would include the ceiling finishing",
+      "start": 575.3,
+      "duration": 5.399,
+      "end": 580.699
+    },
+    {
+      "index": 181,
+      "text": "material as well as the the joist and",
+      "start": 578.18,
+      "duration": 5.99,
+      "end": 584.17
+    },
+    {
+      "index": 182,
+      "text": "all of those stuff so let's say 2 inches",
+      "start": 580.699,
+      "duration": 7.62,
+      "end": 588.319
+    },
+    {
+      "index": 183,
+      "text": "now you can see a ceiling appear within",
+      "start": 584.17,
+      "duration": 8.169,
+      "end": 592.3389999999999
+    },
+    {
+      "index": 184,
+      "text": "that space all right and it is at a",
+      "start": 588.319,
+      "duration": 8.46,
+      "end": 596.779
+    },
+    {
+      "index": 185,
+      "text": "height of what 8 feet 6 inches all right",
+      "start": 592.339,
+      "duration": 6.541,
+      "end": 598.8800000000001
+    },
+    {
+      "index": 186,
+      "text": "now let's say I want the ceiling to be",
+      "start": 596.779,
+      "duration": 6.091,
+      "end": 602.87
+    },
+    {
+      "index": 187,
+      "text": "in 9 feet up all right",
+      "start": 598.88,
+      "duration": 5.49,
+      "end": 604.37
+    },
+    {
+      "index": 188,
+      "text": "now you can see that the entire thing",
+      "start": 602.87,
+      "duration": 4.38,
+      "end": 607.25
+    },
+    {
+      "index": 189,
+      "text": "goes up above the rest which I don't",
+      "start": 604.37,
+      "duration": 5.79,
+      "end": 610.16
+    },
+    {
+      "index": 190,
+      "text": "want that that would be the space above",
+      "start": 607.25,
+      "duration": 6.66,
+      "end": 613.91
+    },
+    {
+      "index": 191,
+      "text": "the ceiling which would which we can",
+      "start": 610.16,
+      "duration": 7.47,
+      "end": 617.63
+    },
+    {
+      "index": 192,
+      "text": "find right here all right we can",
+      "start": 613.91,
+      "duration": 6.179,
+      "end": 620.0889999999999
+    },
+    {
+      "index": 193,
+      "text": "minimize it here or we can just go back",
+      "start": 617.63,
+      "duration": 6.72,
+      "end": 624.35
+    },
+    {
+      "index": 194,
+      "text": "to our default surface height and put it",
+      "start": 620.089,
+      "duration": 7.261,
+      "end": 627.35
+    },
+    {
+      "index": 195,
+      "text": "back down to 10 feet and I would just",
+      "start": 624.35,
+      "duration": 7.789,
+      "end": 632.139
+    },
+    {
+      "index": 196,
+      "text": "bring it back down to what we want okay",
+      "start": 627.35,
+      "duration": 7.979,
+      "end": 635.3290000000001
+    },
+    {
+      "index": 197,
+      "text": "the same thing we can do for floor",
+      "start": 632.139,
+      "duration": 5.921,
+      "end": 638.0600000000001
+    },
+    {
+      "index": 198,
+      "text": "thickness so our floor thickness will",
+      "start": 635.329,
+      "duration": 6.661,
+      "end": 641.9899999999999
+    },
+    {
+      "index": 199,
+      "text": "actually be 6 inch not 6 feet 6 inch and",
+      "start": 638.06,
+      "duration": 5.5,
+      "end": 643.56
+    },
+    {
+      "index": 200,
+      "text": "just like that we have",
+      "start": 641.99,
+      "duration": 4.57,
+      "end": 646.5600000000001
+    },
+    {
+      "index": 201,
+      "text": "of a floor thickness all right so we",
+      "start": 643.56,
+      "duration": 6.21,
+      "end": 649.77
+    },
+    {
+      "index": 202,
+      "text": "could do it here as well but of course",
+      "start": 646.56,
+      "duration": 4.86,
+      "end": 651.42
+    },
+    {
+      "index": 203,
+      "text": "we did that in the previous video so",
+      "start": 649.77,
+      "duration": 4.08,
+      "end": 653.85
+    },
+    {
+      "index": 204,
+      "text": "we're not gonna leave that we're gonna",
+      "start": 651.42,
+      "duration": 4.71,
+      "end": 656.13
+    },
+    {
+      "index": 205,
+      "text": "actually remove that but I'm gonna keep",
+      "start": 653.85,
+      "duration": 4.41,
+      "end": 658.26
+    },
+    {
+      "index": 206,
+      "text": "the ceiling so we're gonna add sealing",
+      "start": 656.13,
+      "duration": 5.28,
+      "end": 661.41
+    },
+    {
+      "index": 207,
+      "text": "to all of these rooms what I would do is",
+      "start": 658.26,
+      "duration": 7.19,
+      "end": 665.45
+    },
+    {
+      "index": 208,
+      "text": "you just click on all of them and just",
+      "start": 661.41,
+      "duration": 9.81,
+      "end": 671.2199999999999
+    },
+    {
+      "index": 209,
+      "text": "do one thing yes there are nine feet I'm",
+      "start": 665.45,
+      "duration": 9.91,
+      "end": 675.36
+    },
+    {
+      "index": 210,
+      "text": "gonna add a ceiling thickness of two and",
+      "start": 671.22,
+      "duration": 7.52,
+      "end": 678.74
+    },
+    {
+      "index": 211,
+      "text": "I'm gonna drop this back down to 10 feet",
+      "start": 675.36,
+      "duration": 8.04,
+      "end": 683.4
+    },
+    {
+      "index": 212,
+      "text": "so everybody is on the same height now",
+      "start": 678.74,
+      "duration": 6.25,
+      "end": 684.99
+    },
+    {
+      "index": 213,
+      "text": "of course you could put like say for",
+      "start": 683.4,
+      "duration": 3.45,
+      "end": 686.85
+    },
+    {
+      "index": 214,
+      "text": "instance the bedroom ceiling could be a",
+      "start": 684.99,
+      "duration": 4.8,
+      "end": 689.79
+    },
+    {
+      "index": 215,
+      "text": "little lower or higher depending on how",
+      "start": 686.85,
+      "duration": 5.429,
+      "end": 692.279
+    },
+    {
+      "index": 216,
+      "text": "you want it same thing for the kitchen",
+      "start": 689.79,
+      "duration": 4.799,
+      "end": 694.5889999999999
+    },
+    {
+      "index": 217,
+      "text": "or the bathroom you can decide and it",
+      "start": 692.279,
+      "duration": 4.891,
+      "end": 697.17
+    },
+    {
+      "index": 218,
+      "text": "all depends on how you are doing your",
+      "start": 694.589,
+      "duration": 8.221,
+      "end": 702.8100000000001
+    },
+    {
+      "index": 219,
+      "text": "design so I'm gonna annihilate so we go",
+      "start": 697.17,
+      "duration": 8.219,
+      "end": 705.389
+    },
+    {
+      "index": 220,
+      "text": "to end isolation",
+      "start": 702.81,
+      "duration": 6.059,
+      "end": 708.8689999999999
+    },
+    {
+      "index": 221,
+      "text": "now we're having another problem okay in",
+      "start": 705.389,
+      "duration": 6.151,
+      "end": 711.54
+    },
+    {
+      "index": 222,
+      "text": "our 3d view we're seeing the call the",
+      "start": 708.869,
+      "duration": 6.12,
+      "end": 714.989
+    },
+    {
+      "index": 223,
+      "text": "box itself and I don't want us to see",
+      "start": 711.54,
+      "duration": 5.82,
+      "end": 717.36
+    },
+    {
+      "index": 224,
+      "text": "the box I just want the seating alone",
+      "start": 714.989,
+      "duration": 6.45,
+      "end": 721.4390000000001
+    },
+    {
+      "index": 225,
+      "text": "and get rid of the box okay so what I'm",
+      "start": 717.36,
+      "duration": 7.439,
+      "end": 724.799
+    },
+    {
+      "index": 226,
+      "text": "gonna do is to hide that layer so what",
+      "start": 721.439,
+      "duration": 7.26,
+      "end": 728.699
+    },
+    {
+      "index": 227,
+      "text": "we will do is to click on it go to edit",
+      "start": 724.799,
+      "duration": 6.121,
+      "end": 730.92
+    },
+    {
+      "index": 228,
+      "text": "style and if you don't see the edit",
+      "start": 728.699,
+      "duration": 3.39,
+      "end": 732.0889999999999
+    },
+    {
+      "index": 229,
+      "text": "style button you could actually just",
+      "start": 730.92,
+      "duration": 5.099,
+      "end": 736.019
+    },
+    {
+      "index": 230,
+      "text": "right-click on it and you just edit",
+      "start": 732.089,
+      "duration": 6.09,
+      "end": 738.1790000000001
+    },
+    {
+      "index": 231,
+      "text": "style and it brings you to the same spot",
+      "start": 736.019,
+      "duration": 2.73,
+      "end": 738.749
+    },
+    {
+      "index": 232,
+      "text": "okay",
+      "start": 738.179,
+      "duration": 3.06,
+      "end": 741.2389999999999
+    },
+    {
+      "index": 233,
+      "text": "and then we would go over to the volume",
+      "start": 738.749,
+      "duration": 4.8,
+      "end": 743.549
+    },
+    {
+      "index": 234,
+      "text": "option and we're gonna override this",
+      "start": 741.239,
+      "duration": 4.71,
+      "end": 745.9490000000001
+    },
+    {
+      "index": 235,
+      "text": "photo again we're getting into some deep",
+      "start": 743.549,
+      "duration": 4.89,
+      "end": 748.439
+    },
+    {
+      "index": 236,
+      "text": "stuff but no worry self you'll get the",
+      "start": 745.949,
+      "duration": 4.2,
+      "end": 750.149
+    },
+    {
+      "index": 237,
+      "text": "hang of it and what we do is basically",
+      "start": 748.439,
+      "duration": 3.93,
+      "end": 752.3689999999999
+    },
+    {
+      "index": 238,
+      "text": "just turn it off turn off the visibility",
+      "start": 750.149,
+      "duration": 7.44,
+      "end": 757.589
+    },
+    {
+      "index": 239,
+      "text": "of that entity okay now we hit OK and",
+      "start": 752.369,
+      "duration": 8.491,
+      "end": 760.86
+    },
+    {
+      "index": 240,
+      "text": "just like that it is God because at the",
+      "start": 757.589,
+      "duration": 4.891,
+      "end": 762.48
+    },
+    {
+      "index": 241,
+      "text": "end of the day we don't want to see that",
+      "start": 760.86,
+      "duration": 3.419,
+      "end": 764.279
+    },
+    {
+      "index": 242,
+      "text": "space when we're gonna print the drawing",
+      "start": 762.48,
+      "duration": 4.38,
+      "end": 766.86
+    },
+    {
+      "index": 243,
+      "text": "okay it is just there to give us the",
+      "start": 764.279,
+      "duration": 5.011,
+      "end": 769.29
+    },
+    {
+      "index": 244,
+      "text": "information that we need it is still",
+      "start": 766.86,
+      "duration": 3.93,
+      "end": 770.79
+    },
+    {
+      "index": 245,
+      "text": "there in the background what we don't",
+      "start": 769.29,
+      "duration": 3.799,
+      "end": 773.0889999999999
+    },
+    {
+      "index": 246,
+      "text": "want to see it so now you can see that",
+      "start": 770.79,
+      "duration": 6.239,
+      "end": 777.029
+    },
+    {
+      "index": 247,
+      "text": "we have our ceiling and we can actually",
+      "start": 773.089,
+      "duration": 7.33,
+      "end": 780.4190000000001
+    },
+    {
+      "index": 248,
+      "text": "see inside of the house actually let me",
+      "start": 777.029,
+      "duration": 8.64,
+      "end": 785.669
+    },
+    {
+      "index": 249,
+      "text": "put this in unsexual so you can see what",
+      "start": 780.419,
+      "duration": 9.96,
+      "end": 790.379
+    },
+    {
+      "index": 250,
+      "text": "is happening all right so the horse",
+      "start": 785.669,
+      "duration": 7.14,
+      "end": 792.809
+    },
+    {
+      "index": 251,
+      "text": "actually was ceiling to come together",
+      "start": 790.379,
+      "duration": 4.591,
+      "end": 794.97
+    },
+    {
+      "index": 252,
+      "text": "nicely man alright so let's go back to",
+      "start": 792.809,
+      "duration": 6.72,
+      "end": 799.529
+    },
+    {
+      "index": 253,
+      "text": "the top view and to the way through also",
+      "start": 794.97,
+      "duration": 7.14,
+      "end": 802.11
+    },
+    {
+      "index": 254,
+      "text": "when we are printing the drawing we do",
+      "start": 799.529,
+      "duration": 5.22,
+      "end": 804.749
+    },
+    {
+      "index": 255,
+      "text": "not want to see these hatch lines so we",
+      "start": 802.11,
+      "duration": 5.49,
+      "end": 807.6
+    },
+    {
+      "index": 256,
+      "text": "could actually hide these hatch lines or",
+      "start": 804.749,
+      "duration": 5.31,
+      "end": 810.059
+    },
+    {
+      "index": 257,
+      "text": "put them on a layer that will not print",
+      "start": 807.6,
+      "duration": 5.429,
+      "end": 813.029
+    },
+    {
+      "index": 258,
+      "text": "how do you do that simply click on it",
+      "start": 810.059,
+      "duration": 6.38,
+      "end": 816.439
+    },
+    {
+      "index": 259,
+      "text": "and we would go to edit style again",
+      "start": 813.029,
+      "duration": 5.48,
+      "end": 818.509
+    },
+    {
+      "index": 260,
+      "text": "where is it",
+      "start": 816.439,
+      "duration": 6.13,
+      "end": 822.569
+    },
+    {
+      "index": 261,
+      "text": "edit style and we would go to the plan",
+      "start": 818.509,
+      "duration": 9.601,
+      "end": 828.11
+    },
+    {
+      "index": 262,
+      "text": "view we're gonna over edit and these two",
+      "start": 822.569,
+      "duration": 9.0,
+      "end": 831.569
+    },
+    {
+      "index": 263,
+      "text": "top ones we're gonna actually put them",
+      "start": 828.11,
+      "duration": 7.059,
+      "end": 835.169
+    },
+    {
+      "index": 264,
+      "text": "on a layer that will not print so when",
+      "start": 831.569,
+      "duration": 5.791,
+      "end": 837.36
+    },
+    {
+      "index": 265,
+      "text": "you go to print them they won't show",
+      "start": 835.169,
+      "duration": 5.16,
+      "end": 840.329
+    },
+    {
+      "index": 266,
+      "text": "on the people so you put them on a deaf",
+      "start": 837.36,
+      "duration": 4.86,
+      "end": 842.22
+    },
+    {
+      "index": 267,
+      "text": "point there cuz we all know that the",
+      "start": 840.329,
+      "duration": 5.791,
+      "end": 846.12
+    },
+    {
+      "index": 268,
+      "text": "Deaf point layer does not print okay",
+      "start": 842.22,
+      "duration": 6.51,
+      "end": 848.73
+    },
+    {
+      "index": 269,
+      "text": "at that point I'm gonna put this one a",
+      "start": 846.12,
+      "duration": 9.05,
+      "end": 855.17
+    },
+    {
+      "index": 270,
+      "text": "deaf point as well gonna hit okay and",
+      "start": 848.73,
+      "duration": 9.09,
+      "end": 857.82
+    },
+    {
+      "index": 271,
+      "text": "you could do the same thing for the high",
+      "start": 855.17,
+      "duration": 6.01,
+      "end": 861.18
+    },
+    {
+      "index": 272,
+      "text": "low details but I'm gonna just do the",
+      "start": 857.82,
+      "duration": 5.16,
+      "end": 862.98
+    },
+    {
+      "index": 273,
+      "text": "that one and I'm going to leave it there",
+      "start": 861.18,
+      "duration": 4.05,
+      "end": 865.2299999999999
+    },
+    {
+      "index": 274,
+      "text": "and I hit okay so even though you're",
+      "start": 862.98,
+      "duration": 5.669,
+      "end": 868.649
+    },
+    {
+      "index": 275,
+      "text": "seeing it here on this drawing when you",
+      "start": 865.23,
+      "duration": 7.799,
+      "end": 873.029
+    },
+    {
+      "index": 276,
+      "text": "go to print it you will not see it okay",
+      "start": 868.649,
+      "duration": 6.901,
+      "end": 875.55
+    },
+    {
+      "index": 277,
+      "text": "and that's important because we don't",
+      "start": 873.029,
+      "duration": 4.261,
+      "end": 877.29
+    },
+    {
+      "index": 278,
+      "text": "want it all these hatching and all of",
+      "start": 875.55,
+      "duration": 3.99,
+      "end": 879.54
+    },
+    {
+      "index": 279,
+      "text": "that in the drawing when we're going to",
+      "start": 877.29,
+      "duration": 5.1,
+      "end": 882.39
+    },
+    {
+      "index": 280,
+      "text": "print it alright the last thing I want",
+      "start": 879.54,
+      "duration": 5.43,
+      "end": 884.9699999999999
+    },
+    {
+      "index": 281,
+      "text": "to show you is how to separate a space",
+      "start": 882.39,
+      "duration": 6.449,
+      "end": 888.8389999999999
+    },
+    {
+      "index": 282,
+      "text": "without a wall so like this living area",
+      "start": 884.97,
+      "duration": 7.17,
+      "end": 892.14
+    },
+    {
+      "index": 283,
+      "text": "i I kind of want to break this area into",
+      "start": 888.839,
+      "duration": 6.211,
+      "end": 895.0500000000001
+    },
+    {
+      "index": 284,
+      "text": "two but there is no wall to break that",
+      "start": 892.14,
+      "duration": 5.73,
+      "end": 897.87
+    },
+    {
+      "index": 285,
+      "text": "area so what I'm gonna do is to draw a",
+      "start": 895.05,
+      "duration": 8.06,
+      "end": 903.1099999999999
+    },
+    {
+      "index": 286,
+      "text": "line here using the space separator",
+      "start": 897.87,
+      "duration": 8.64,
+      "end": 906.51
+    },
+    {
+      "index": 287,
+      "text": "alright this tool right here so I will",
+      "start": 903.11,
+      "duration": 6.64,
+      "end": 909.75
+    },
+    {
+      "index": 288,
+      "text": "just click on it and now we can go ahead",
+      "start": 906.51,
+      "duration": 7.019,
+      "end": 913.529
+    },
+    {
+      "index": 289,
+      "text": "and draw the line where we want the",
+      "start": 909.75,
+      "duration": 6.779,
+      "end": 916.529
+    },
+    {
+      "index": 290,
+      "text": "space to be divided so I'm gonna draw a",
+      "start": 913.529,
+      "duration": 7.56,
+      "end": 921.0889999999999
+    },
+    {
+      "index": 291,
+      "text": "line from here I'm gonna start it on the",
+      "start": 916.529,
+      "duration": 8.791,
+      "end": 925.32
+    },
+    {
+      "index": 292,
+      "text": "edge of the wall come across and I'm",
+      "start": 921.089,
+      "duration": 8.0,
+      "end": 929.089
+    },
+    {
+      "index": 293,
+      "text": "gonna kind of track it down like so",
+      "start": 925.32,
+      "duration": 7.05,
+      "end": 932.37
+    },
+    {
+      "index": 294,
+      "text": "click on that X then we're gonna bring",
+      "start": 929.089,
+      "duration": 8.161,
+      "end": 937.25
+    },
+    {
+      "index": 295,
+      "text": "it up like that and I'm gonna hit enter",
+      "start": 932.37,
+      "duration": 10.31,
+      "end": 942.68
+    },
+    {
+      "index": 296,
+      "text": "just like that this space kill them",
+      "start": 937.25,
+      "duration": 8.62,
+      "end": 945.87
+    },
+    {
+      "index": 297,
+      "text": "let's go down here know what should",
+      "start": 942.68,
+      "duration": 7.24,
+      "end": 949.92
+    },
+    {
+      "index": 298,
+      "text": "happen here is that this this error",
+      "start": 945.87,
+      "duration": 8.07,
+      "end": 953.94
+    },
+    {
+      "index": 299,
+      "text": "should be divided into two sections but",
+      "start": 949.92,
+      "duration": 5.93,
+      "end": 955.8499999999999
+    },
+    {
+      "index": 300,
+      "text": "it didn't happen and I think I know why",
+      "start": 953.94,
+      "duration": 4.11,
+      "end": 958.0500000000001
+    },
+    {
+      "index": 301,
+      "text": "what we're gonna do is go back to our",
+      "start": 955.85,
+      "duration": 7.39,
+      "end": 963.24
+    },
+    {
+      "index": 302,
+      "text": "edit style because we had turned off the",
+      "start": 958.05,
+      "duration": 8.88,
+      "end": 966.93
+    },
+    {
+      "index": 303,
+      "text": "volume that's the problem there so what",
+      "start": 963.24,
+      "duration": 6.52,
+      "end": 969.76
+    },
+    {
+      "index": 304,
+      "text": "we're going to do is turn it back on",
+      "start": 966.93,
+      "duration": 6.22,
+      "end": 973.15
+    },
+    {
+      "index": 305,
+      "text": "and we're gonna put it again on a layer",
+      "start": 969.76,
+      "duration": 7.44,
+      "end": 977.2
+    },
+    {
+      "index": 306,
+      "text": "that doesn't print so let's put it on a",
+      "start": 973.15,
+      "duration": 8.64,
+      "end": 981.79
+    },
+    {
+      "index": 307,
+      "text": "deaf point layer and we're gonna turn",
+      "start": 977.2,
+      "duration": 9.36,
+      "end": 986.5600000000001
+    },
+    {
+      "index": 308,
+      "text": "down the transparency all the way to 90",
+      "start": 981.79,
+      "duration": 6.99,
+      "end": 988.78
+    },
+    {
+      "index": 309,
+      "text": "cuz when we're going to 3d we don't want",
+      "start": 986.56,
+      "duration": 4.37,
+      "end": 990.93
+    },
+    {
+      "index": 310,
+      "text": "to see the space at all",
+      "start": 988.78,
+      "duration": 5.1,
+      "end": 993.88
+    },
+    {
+      "index": 311,
+      "text": "so we want to make it as transparent as",
+      "start": 990.93,
+      "duration": 5.29,
+      "end": 996.2199999999999
+    },
+    {
+      "index": 312,
+      "text": "possible even though it is still there",
+      "start": 993.88,
+      "duration": 5.15,
+      "end": 999.03
+    },
+    {
+      "index": 313,
+      "text": "so initially we had turned it off so",
+      "start": 996.22,
+      "duration": 6.03,
+      "end": 1002.25
+    },
+    {
+      "index": 314,
+      "text": "that's why the separation tool is not",
+      "start": 999.03,
+      "duration": 9.27,
+      "end": 1008.3
+    },
+    {
+      "index": 315,
+      "text": "working so we're gonna say okay okay and",
+      "start": 1002.25,
+      "duration": 9.72,
+      "end": 1011.97
+    },
+    {
+      "index": 316,
+      "text": "we're gonna redo this so let's do it",
+      "start": 1008.3,
+      "duration": 10.72,
+      "end": 1019.02
+    },
+    {
+      "index": 317,
+      "text": "again separate I'm gonna click bring it",
+      "start": 1011.97,
+      "duration": 10.59,
+      "end": 1022.5600000000001
+    },
+    {
+      "index": 318,
+      "text": "down I'm gonna just hover over that",
+      "start": 1019.02,
+      "duration": 6.45,
+      "end": 1025.47
+    },
+    {
+      "index": 319,
+      "text": "point so that I can get that a tracking",
+      "start": 1022.56,
+      "duration": 8.33,
+      "end": 1030.8899999999999
+    },
+    {
+      "index": 320,
+      "text": "line now click there and move over click",
+      "start": 1025.47,
+      "duration": 8.13,
+      "end": 1033.6000000000001
+    },
+    {
+      "index": 321,
+      "text": "once you draw the lines where you want",
+      "start": 1030.89,
+      "duration": 6.58,
+      "end": 1037.47
+    },
+    {
+      "index": 322,
+      "text": "it just hit enter and that should give",
+      "start": 1033.6,
+      "duration": 7.37,
+      "end": 1040.9699999999998
+    },
+    {
+      "index": 323,
+      "text": "you two separate species just like that",
+      "start": 1037.47,
+      "duration": 5.94,
+      "end": 1043.41
+    },
+    {
+      "index": 324,
+      "text": "all right so what we're gonna do now is",
+      "start": 1040.97,
+      "duration": 6.22,
+      "end": 1047.19
+    },
+    {
+      "index": 325,
+      "text": "to rename this space and we could call",
+      "start": 1043.41,
+      "duration": 6.59,
+      "end": 1050.0
+    },
+    {
+      "index": 326,
+      "text": "it no I will not call it passage",
+      "start": 1047.19,
+      "duration": 6.15,
+      "end": 1053.3400000000001
+    },
+    {
+      "index": 327,
+      "text": "something like that and we're gonna call",
+      "start": 1050.0,
+      "duration": 6.07,
+      "end": 1056.07
+    },
+    {
+      "index": 328,
+      "text": "this well it's a living already we're",
+      "start": 1053.34,
+      "duration": 4.65,
+      "end": 1057.99
+    },
+    {
+      "index": 329,
+      "text": "just gonna remove the tool from off of",
+      "start": 1056.07,
+      "duration": 7.89,
+      "end": 1063.96
+    },
+    {
+      "index": 330,
+      "text": "it and so we have our species just like",
+      "start": 1057.99,
+      "duration": 6.59,
+      "end": 1064.58
+    },
+    {
+      "index": 331,
+      "text": "that",
+      "start": 1063.96,
+      "duration": 4.44,
+      "end": 1068.4
+    },
+    {
+      "index": 332,
+      "text": "so we're going to go back to 3d go back",
+      "start": 1064.58,
+      "duration": 7.64,
+      "end": 1072.22
+    },
+    {
+      "index": 333,
+      "text": "to x-ray mode",
+      "start": 1068.4,
+      "duration": 6.739,
+      "end": 1075.1390000000001
+    },
+    {
+      "index": 334,
+      "text": "so now we can see that the species are",
+      "start": 1072.22,
+      "duration": 6.269,
+      "end": 1078.489
+    },
+    {
+      "index": 335,
+      "text": "still there but there are kind of",
+      "start": 1075.139,
+      "duration": 7.581,
+      "end": 1082.7199999999998
+    },
+    {
+      "index": 336,
+      "text": "transparent especially the box itself",
+      "start": 1078.489,
+      "duration": 8.461,
+      "end": 1086.95
+    },
+    {
+      "index": 337,
+      "text": "yeah it's very very transparent alright",
+      "start": 1082.72,
+      "duration": 19.439,
+      "end": 1102.159
+    },
+    {
+      "index": 338,
+      "text": "alright guys so by the way you guys",
+      "start": 1086.95,
+      "duration": 21.479,
+      "end": 1108.429
+    },
+    {
+      "index": 339,
+      "text": "don't forget to hit the Save button also",
+      "start": 1102.159,
+      "duration": 9.48,
+      "end": 1111.6390000000001
+    },
+    {
+      "index": 340,
+      "text": "don't forget to hit the like button",
+      "start": 1108.429,
+      "duration": 11.021,
+      "end": 1119.45
+    },
+    {
+      "index": 341,
+      "text": "yes ma'am I like what let see them so",
+      "start": 1111.639,
+      "duration": 9.701,
+      "end": 1121.34
+    },
+    {
+      "index": 342,
+      "text": "all right so let's hit the safe one",
+      "start": 1119.45,
+      "duration": 4.679,
+      "end": 1124.1290000000001
+    },
+    {
+      "index": 343,
+      "text": "first and then we're gonna go down and",
+      "start": 1121.34,
+      "duration": 7.439,
+      "end": 1128.779
+    },
+    {
+      "index": 344,
+      "text": "hit the black one okay so that wraps it",
+      "start": 1124.129,
+      "duration": 6.3,
+      "end": 1130.4289999999999
+    },
+    {
+      "index": 345,
+      "text": "up for this video I hope that you'll",
+      "start": 1128.779,
+      "duration": 3.12,
+      "end": 1131.899
+    },
+    {
+      "index": 346,
+      "text": "learn something if you have any",
+      "start": 1130.429,
+      "duration": 4.56,
+      "end": 1134.989
+    },
+    {
+      "index": 347,
+      "text": "questions at all any questions with",
+      "start": 1131.899,
+      "duration": 6.181,
+      "end": 1138.08
+    },
+    {
+      "index": 348,
+      "text": "regards to space art cut those drop them",
+      "start": 1134.989,
+      "duration": 4.741,
+      "end": 1139.73
+    },
+    {
+      "index": 349,
+      "text": "in the comments okay",
+      "start": 1138.08,
+      "duration": 4.049,
+      "end": 1142.129
+    },
+    {
+      "index": 350,
+      "text": "and don't forget to hit the like button",
+      "start": 1139.73,
+      "duration": 5.22,
+      "end": 1144.95
+    },
+    {
+      "index": 351,
+      "text": "and if you haven't already subscribed",
+      "start": 1142.129,
+      "duration": 5.13,
+      "end": 1147.259
+    },
+    {
+      "index": 352,
+      "text": "alright so thanks again for watching and",
+      "start": 1144.95,
+      "duration": 5.599,
+      "end": 1150.549
+    },
+    {
+      "index": 353,
+      "text": "I respect",
+      "start": 1147.259,
+      "duration": 3.29,
+      "end": 1150.549
+    }
+  ],
+  "full_text": "all right so thank you for joining me this is episode 8 of our one bedroom series and today we're gonna talk about space so in AutoCAD there is a tool that is called the space too so as you can see it can be found right here and also if you go into the enter the tool palette and we go to design and if you scroll down you have the same thing down here so we're gonna talk about what it is used for and how to put it in your drawing make sense I guess so the best way for me to explain what this space tool is is to illustrate it so here I have a box better yet let's make this box look like something we are familiar with a building yeah so this is a one-room building and inside this one-room building we have nothing and what we want to do though is to replace this nothingness with what we call space its own crazy but I hope that you kind of get the idea so in AutoCAD what we would do is to add space within each room all right and each room is bounded by the walls that make up that room okay and this space object would be able to give us a lot of information about that particular room so for instance we would be able to name that space such as let's say the bedroom once we give this space a name we would also be able to use autocad's smart tag to populate the name of the room when we're ready to annotate the drawing and also plot the drawing we would also be able to pull various information about the room such as the floor area the volume of the the parameter of the room also we would be able to pull the types of finishes that are being used within that room whether it be let's say for instance ceramic tiles on the floor red paints on the walls wooden ceilings whatever is in that room the space tool allows us to capture all that information and push them into let's say for instance a schedule all right so as you can see that the speech tool becomes very important and very helpful and will save you a lot of time in the future especially if you're working on a very large project so let's move over to AutoCAD where I will show you how to get this done the last thing we did was our foundation and what we're going to do is to go back over to our floor or ground the floor plan so let's go back over and of course all of these can be found in our project navigator that we have been using all this time so we have the foundation we would go back to our ground floor drawing which is this that is opening open up here and we're going to go back to the top view to be so we're going to add spaces to each of these rooms which is quite simple we'd go to the Home tab and we go down to generate space we're gonna use a generate space because it automatically identify your boundaries and create a space within those boundaries for us if we were to use just a space tool we would have two draw boxes two to the size of your room and that kind of stuff if you're not seeing it up here we're gonna go we can find it down here and we would go down to the space generic tool right here okay no actually if you go down the side of this bar we have one that is dedicated to spaces and inside of it we have some pre-loaded spaces that we could actually use but these were specifically made for office buildings and kind of stuff so for instance lobbies reception stairway corridors that kind of thing you know so we're not gonna use those we're gonna just stick with the one that is up here where we can create our own space so we're gonna click on the generate space minimize that zoom in a little bit and now you can see as I move the mouse over each room you see a red box being generated within each room and what it does is to use the walls as a boundary for each one okay so before we click though what we're gonna do is to go over to the properties box and we're gonna make sure that everything is okay over here so the first thing you want to do is to change the name of this space so we're gonna call this the kitchen enter everything is here looks good we're gonna go down to the component dimensions we can change a couple of things here if we need to all right so I usually make the surface height of my space the same height as the wall okay so the walls on this building are 10 feet tall so we're gonna make sure that our surface height is also 10 feet high once that is set then we're now clear to go ahead and add spaces so I'm gonna just go ahead and add the first piece here that's what it looks like when you add it so as you go on at each you want to change the name as you go along so we're gonna do the bathroom now we're going to change this to through click do the bedroom click to the living click and then we're gonna do porch I mean you can go back and change these names afterwards it it doesn't matter all of these you can do afterwards actually so there we have all five species being added it hit enter then we're out of that command so what I'm gonna do about now is to go into the 3d mode so you can see what's happening here x-ray so each room has a space object inside of it like this box and this box can give us all the information that we mentioned earlier in the video such as the area volume parameter all of that can be found down here okay area 132 square feet volume 1001 22 cubic feet parameter it gives you everything and these can be helpful especially if you know you're doing a large project and you would like to know the total area or the area of our the volume of a particular space and that kind of stuff all right it also can be used to pull finishes that would be used in that rule and we would find all of that under what we call extended beta all right we will click on this button here to add some property sets but we're not gonna get into all of that in this video we're gonna just stick to the you know just the regular stuff here and call it that know what I'm gonna do is to isolate these objects so just to show you what's happening here so let's say we select all and we're gonna isolate them so we go to this button down here click on it and we're gonna see isolate so these are what species look would look like by themselves all right just some boxes to fill the the voids basically all right no AutoCAD actually gives us the ability to add ceilings inside of these space and also floor slab so in the previous video when we did a floor slab we could actually skip that step and add the floor slab right here from the space object but I wanted to show you that way as well as this way and let you decide which one you prefer to use all right and how do we do that though in the component dimensions over here you would see a section for ceiling height which is already set at 8 feet 6 and what the ceiling thickness is 0 that is why we're not seeing a ceiling as yet so let's let's add a ceiling thickness off I'm gonna give it 2 inches okay and that would include the ceiling finishing material as well as the the joist and all of those stuff so let's say 2 inches now you can see a ceiling appear within that space all right and it is at a height of what 8 feet 6 inches all right now let's say I want the ceiling to be in 9 feet up all right now you can see that the entire thing goes up above the rest which I don't want that that would be the space above the ceiling which would which we can find right here all right we can minimize it here or we can just go back to our default surface height and put it back down to 10 feet and I would just bring it back down to what we want okay the same thing we can do for floor thickness so our floor thickness will actually be 6 inch not 6 feet 6 inch and just like that we have of a floor thickness all right so we could do it here as well but of course we did that in the previous video so we're not gonna leave that we're gonna actually remove that but I'm gonna keep the ceiling so we're gonna add sealing to all of these rooms what I would do is you just click on all of them and just do one thing yes there are nine feet I'm gonna add a ceiling thickness of two and I'm gonna drop this back down to 10 feet so everybody is on the same height now of course you could put like say for instance the bedroom ceiling could be a little lower or higher depending on how you want it same thing for the kitchen or the bathroom you can decide and it all depends on how you are doing your design so I'm gonna annihilate so we go to end isolation now we're having another problem okay in our 3d view we're seeing the call the box itself and I don't want us to see the box I just want the seating alone and get rid of the box okay so what I'm gonna do is to hide that layer so what we will do is to click on it go to edit style and if you don't see the edit style button you could actually just right-click on it and you just edit style and it brings you to the same spot okay and then we would go over to the volume option and we're gonna override this photo again we're getting into some deep stuff but no worry self you'll get the hang of it and what we do is basically just turn it off turn off the visibility of that entity okay now we hit OK and just like that it is God because at the end of the day we don't want to see that space when we're gonna print the drawing okay it is just there to give us the information that we need it is still there in the background what we don't want to see it so now you can see that we have our ceiling and we can actually see inside of the house actually let me put this in unsexual so you can see what is happening all right so the horse actually was ceiling to come together nicely man alright so let's go back to the top view and to the way through also when we are printing the drawing we do not want to see these hatch lines so we could actually hide these hatch lines or put them on a layer that will not print how do you do that simply click on it and we would go to edit style again where is it edit style and we would go to the plan view we're gonna over edit and these two top ones we're gonna actually put them on a layer that will not print so when you go to print them they won't show on the people so you put them on a deaf point there cuz we all know that the Deaf point layer does not print okay at that point I'm gonna put this one a deaf point as well gonna hit okay and you could do the same thing for the high low details but I'm gonna just do the that one and I'm going to leave it there and I hit okay so even though you're seeing it here on this drawing when you go to print it you will not see it okay and that's important because we don't want it all these hatching and all of that in the drawing when we're going to print it alright the last thing I want to show you is how to separate a space without a wall so like this living area i I kind of want to break this area into two but there is no wall to break that area so what I'm gonna do is to draw a line here using the space separator alright this tool right here so I will just click on it and now we can go ahead and draw the line where we want the space to be divided so I'm gonna draw a line from here I'm gonna start it on the edge of the wall come across and I'm gonna kind of track it down like so click on that X then we're gonna bring it up like that and I'm gonna hit enter just like that this space kill them let's go down here know what should happen here is that this this error should be divided into two sections but it didn't happen and I think I know why what we're gonna do is go back to our edit style because we had turned off the volume that's the problem there so what we're going to do is turn it back on and we're gonna put it again on a layer that doesn't print so let's put it on a deaf point layer and we're gonna turn down the transparency all the way to 90 cuz when we're going to 3d we don't want to see the space at all so we want to make it as transparent as possible even though it is still there so initially we had turned it off so that's why the separation tool is not working so we're gonna say okay okay and we're gonna redo this so let's do it again separate I'm gonna click bring it down I'm gonna just hover over that point so that I can get that a tracking line now click there and move over click once you draw the lines where you want it just hit enter and that should give you two separate species just like that all right so what we're gonna do now is to rename this space and we could call it no I will not call it passage something like that and we're gonna call this well it's a living already we're just gonna remove the tool from off of it and so we have our species just like that so we're going to go back to 3d go back to x-ray mode so now we can see that the species are still there but there are kind of transparent especially the box itself yeah it's very very transparent alright alright guys so by the way you guys don't forget to hit the Save button also don't forget to hit the like button yes ma'am I like what let see them so all right so let's hit the safe one first and then we're gonna go down and hit the black one okay so that wraps it up for this video I hope that you'll learn something if you have any questions at all any questions with regards to space art cut those drop them in the comments okay and don't forget to hit the like button and if you haven't already subscribed alright so thanks again for watching and I respect",
+  "total_segments": 354,
+  "total_duration": 1150.549,
+  "extraction_timestamp": "2025-07-11T13:16:24.405375",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct",
+  "reused_from": "storage\\AutoCAD Architecture 2023 Tutorial_v3\\SPACE & ZONES in AutoCAD Archi\\youtube_extracted_data\\transcripts\\LiqIRHXvReI_20250711_131624_transcript.json",
+  "reused_timestamp": "2025-07-11T16:12:19.291609"
+}

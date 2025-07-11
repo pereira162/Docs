@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "text": "hi everyone thank you for joining me and\nepisode number five for one bedroom sins\nso in the last video we did was and of\ncourse you know we need we need to find\na way to enter the house correct so in\nthis video we're gonna be putting in our\ndoors and our openings I wanted to do\nwindows as well but the video will be a\nlittle bit too long so I'm gonna just\ncut it right there and then we do\nwindows\n[Music]\nall right so before we get started what\nI want you to do is to get familiar with\nthe different types of doors and windows\nit's important that you know how each\ntype of your work and all each type of\nwindow work so without further ado let's\nget into it all right so here we are in\nautocad and the first thing i want to\nmention is that you don't need to worry\nabout layers at this point because\nAutoCAD will generate your layers for\nyou all right so for every tool that we\nuse over here for instance last video we\nplaced our wall AutoCAD creates a wall\nlayer for us it gives us a color it\ngives",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 999,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "ance last video we\nplaced our wall AutoCAD creates a wall\nlayer for us it gives us a color it\ngives us the line weight let me show you\nalright so here we are it gives us a\ncolor we can change the color it gives\nus the line tab and the line width all\nright the only thing I would probably\nchange is the color if I'm gonna change\nanything I wouldn't change the line\nweight because the line width is\nactually a good line weight to use the\nrecommended line width that AutoCAD\ngives is what we're gonna work with all\nright and it's the same thing when we\ncreate our doors we will get a layer\nfour doors same thing for Windows and\nother other elements that we're gonna be\ncreating all right without further ado\nlet's begin so I'm gonna go back to our\ntop view and I'm gonna go back to 2d\nwireframe so this is where we left off\nand we're gonna move forward from here\nif you look at the bottom right of your\nscreen you're gonna see the door\nschedule so on this building we have\nthree doors we have one at the",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 1000,
+    "word_count": 201,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "screen you're gonna see the door\nschedule so on this building we have\nthree doors we have one at the entry\nhere from the porch to the living the\nsecond door would be at the bedroom from\nyour living room to the bedroom and then\nthe third door would be from the bus\nfrom the living ear to the bathroom so\nwe only have three simple doors on this\nhouse and then we have three openings as\nwell we have one at the front here and\nwe have one here\nand we have one to enter into the\nkitchen alright so the first thing we're\ngonna do is to put in our openings which\nis actually very very easy by the way if\nyou need to this drawing you can\ndownload it from the link in the\ndescription as well as all the other\nmaterials that are related to this\nparticular drawing so let's go so of\ncourse if you look under your tool\npalette which is right here again if you\ndon't see this go to tools and click on\ncontent no sorry\nclick on design tools alright and it\nshould bring up your tool palette and\nunder your tool pale",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "orry\nclick on design tools alright and it\nshould bring up your tool palette and\nunder your tool palette we have a quite\na few stuff and now we're doing doors\nunder doors we do have this opening but\nthis is not opening that we're looking\nfor\nthis is cased opening which means that\nthis opening has a frame okay and we\ndon't need a opening with a frame so\nwhere we want to find the right opening\nis we go back to design and we go down\nto the opening we can find it here or we\ncan go to doors at the top here and we\nfind it here is the same thing so I'm\ngonna use this one and the first thing\nwe're gonna do here it says select a\nwall or enter so we're going to select\nthis wall right here so we need a\nopening right there\nwe need one right there we need one on\nthis wall so that's the first thing we\ndid was to just place our three openings\nof course if you knew the size we could\nset it over here before but sometimes we\njust have to do it free handed nothing\nis wrong with that\nminimize that and then",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "re but sometimes we\njust have to do it free handed nothing\nis wrong with that\nminimize that and then what we're going\nto do is just stretch these out all\nright\nthat's really simple I'm gonna stretch\nthese out like that all right so that's\ngood so we are left with a little square\nhere which we're gonna use as a column\nin this corner and then we're going to\nfix this one\nif you look at the properties it is\nthree feet wide and we need it to be\nfour feet so let's fix that seven feet\nhigh that's good and everything is looks\ngood so and then we're going to move it\nover into this corner so to go and grab\nour move tool and we're going to move it\nover like that so now all our openings\nare done let's look at it in 3d\nso now we can see that our openings have\nbeen created beautiful so now we can get\non to the porch\nno we need to get into the house muscle\nall right bus let's get it back to the\nplant view before we move to the doors\nwhat I'm gonna do is to put these the\nopenings on a hidden line laye",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 1000,
+    "word_count": 211,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "iew before we move to the doors\nwhat I'm gonna do is to put these the\nopenings on a hidden line layer all\nright so as a matter of fact a layer has\nbeen created for it already there we go\nso what we're gonna do is to open our\nlayers palette you know if you can't\nfind this this is the little guy that is\nresponsible so you just click on that\nand it's gonna bring up your layers\npalette and then we're gonna go to\nopening and we're going to change it\nfrom continuous to hidden and then we're\ngonna minimize that so now you can see\nthat your your arch are your openings\nare being represented by dotted lines\nwhich is what we want\nall right the next thing we're gonna do\nis to enter our doors all right\nso we go back to our tool palette I'm\ngonna stick it over I would go down to\ndoors all right now if you look on the\ndoor schedule it says that door one\nwhich is located at the entryway right\nhere is a single hinge six panel\nhalf-light all right now if you look\nover here I already have it in my pallet",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "single hinge six panel\nhalf-light all right now if you look\nover here I already have it in my pallet\nbut I don't think you would have it in\nyours all right so where do you find it\nyou would go to the more tools all right\nwhich would bring up more all right and\nin here you'll find a good amount of\ndoors\nwe have bifold double we have buy a full\nsingle these are the ones would use on\nthat closet we have the keys open the\none that we spoke about earlier know\nwhen you see double this means that that\ndoor is\nDumbledore it has two doors swinging\nalright what we need is a single doors\nof the go across until we find single\ndoor and this is the one that I chose\nfor this project you can go ahead I\nthink this would be the more suitable\none to use in Jamaica you know the six\npanel solid rock\nnobody can push it on back too easily\nthis is the one you don't want to use\nalright any at all in Jamaica that is\nwhat I'm gonna just use this one for fun\nwhat you would do is to insert into your\ndrawing or add",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 1000,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "is\nwhat I'm gonna just use this one for fun\nwhat you would do is to insert into your\ndrawing or add to palette in this case I\nhave already added it to my palette\nwhich is right here so I'm gonna just\nget rid of that so I click on it right\nhere and then I'll go ahead and drop the\ndoor where I want it of course we could\nactually just click on any wall but we\nwant it on this wall and we want it to\nbe on the inside of it if I wanted it on\nthe outside we could you know click on\nthe outside there so when you click the\ndoor we could actually change the\ndirection of the door by clicking these\narrows alright and if you notice this\ndoor is too small that's because we did\nnot set the size door that we wanted so\nthis door should be three feet wide by\nseven feet high and we wanted to measure\nto the outside of the frame I'm going to\nexplain that to you in a minute and then\nwe want a swing to be 90 degrees all\nright if we change this to let's say 45\ndegrees\nyou notice what happened over here the\ndoo",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 999,
+    "word_count": 214,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "grees all\nright if we change this to let's say 45\ndegrees\nyou notice what happened over here the\ndoor is now at a 45 degree angle we\ncould actually close the door\nif we want it to but we're going to\nleave it at 90 and everything else looks\ngood alright so you can see the type of\ndoor that we have here that's the one\nthat we need and we're gonna go ahead\nand we're gonna move it from here\ndown to the corner there alright so\nthat's all front door\nso what I wanted to explain to you is\nwhat is what does it mean by measure\noutside of the frame so if I should\nactually measure the width of this door\nwhich we set for a three feet it would\nmeasure to the outside of the frame all\nright in some instances you might want\nto put it on the inside of the frame\nwhich would mean that the three feet\nwould measure on the inside of the frame\nokay guys so we're gonna leave it at\noutside and the next thing I'm gonna do\nis to Center this door in between these\nwalls all right I know that\non the drawing the door",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "gonna do\nis to Center this door in between these\nwalls all right I know that\non the drawing the door is exactly right\nhere but we're gonna Center it on this\nwall for this project so let's go ahead\nand hit the center button up here and\nwe're gonna hit enter twice one two once\nyou hit Enter twice then we're gonna\nclick on the first corner and then we're\ngonna click on the second corner and the\ndoor would automatically move to the\ncenter of the space this can be done\nwith any thing in a drawing I could\nCenter this wall using the same method\nbetween these two walls all right by\nright clicking going to a EC Center is\nthe same thing all right so our first\ndoor has been placed let's go ahead and\nplace our second door which is on the\nbedroom and this door is a single hinge\nnow we don't need to search for this\ndoor because it's actually right here so\nwe're gonna just click on it like so and\nlet's do something let's actually pick\nthe size that we need before we place it\nso the size we actually n",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 1000,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "do something let's actually pick\nthe size that we need before we place it\nso the size we actually need is 3 feet\nby 7 and we're going to do a couple of\nadjustments let's say outside of frame\nperfect 90 degrees\nall right this time we're gonna actually\nput in some location now what I want is\nfor the door to be exactly in the center\nthis one this piece of wall right here\nfrom here to here alright so how do you\ndo that we could actually change that to\noffset Center and I'm gonna change the\njustification to Center and how far from\nthe center do you want it zero because\nyou want it exactly in the center so\nwe're going to let that be zero now\nwe're just gonna click on this wall now\nif you'll notice if i zoom in a little\nbit you see those two measurement on the\ntop on the bottom that it that says nine\ninches on both sides that's what I'm\ntalking about so the door would snap to\nthe exact center of the world any wall\nthat I have so guess what if I put it on\nthis wall the door automatically snap",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 999,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "of the world any wall\nthat I have so guess what if I put it on\nthis wall the door automatically snap to\nthe middle of the wall let me try\nanother one so you can see look at that\nalright and this is what we're gonna do\nfor our windows cuz all our windows will\nbe centered in the wall all right\nso let's place this door right here\nagain go ahead and flip the door like\nthat by the way guys a general rule of\nthumb is to always flip your door or\nswing your door towards a wall okay you\ndon't want your doors to be swinging up\ninto the room like that this is poor\ndesign and it's a waste of space\nalright so if you'll notice on this\nbuilding all doors are swinging towards\na wall unless it's a very tight\nsituation you just have to do what you\nhave to do but always practice to swing\nyour doors towards a wall alright so\nlet's go ahead and create our third door\nwhich is the bathroom door now it's\nactually the same door so we could\nactually go ahead and click on that over\nthere and then we're gonna set",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 1000,
+    "word_count": 205,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "ly the same door so we could\nactually go ahead and click on that over\nthere and then we're gonna set the size\nof the door which is what two feet eight\ninches and we're going to search for\nthat in here by seven outside of frame\n19 and this time I want to do it to be\nexactly\nhere so what we could actually do is in\ndown here is to say offset left okay\nnow when you click on the wall the door\nwould actually be adjusted exactly on\nthe wall any side of the wall because I\nhave the offset to be zero let's say I\nwanted the door three inches off of the\nwall\nI could actually type in three inches\nhere three inches all right so three\ninches would you can know you can see\nthat the door is offset at three inches\nfrom the corner of the wall\nall right so there we have it our three\ndoors have been placed I know of course\nwe can't leave without looking at it in\n3d so of course let's go ahead and put\nit in 3d I'm gonna turn this into 3d and\nwe're gonna make it perspective\nalright so that is it for this vid",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 1000,
+    "word_count": 211,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "d I'm gonna turn this into 3d and\nwe're gonna make it perspective\nalright so that is it for this video\nguys except one thing that I'm gonna do\nand is to put a little arch here and\nit's pretty ain't pretty simple you\nclick on the opening let's see if I\ncan't click on it from here click on the\nopening aisle over here is the shape you\ncould actually change it from rectangle\nto round if you change it to arch you\ncan change it\nyeah we could change it to a lot of\nthings all right just go ahead choose\nthe one that you like and stick with it\nI like to use arch and you can see it\nhas a little design here to show you\nwhich measurement is is responsible for\nwhat so B which is the height from the\nbase to the peak which is several feet\nI'm gonna make this eight feet all right\nand then the rise which is C which would\nbe from the start off the curve all the\nway up to the peak is one foot so I have\nlifted it up a little bit so that the\ncurve will come would come down and line\nup with this one over her",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 1000,
+    "word_count": 213,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 14,
+    "text": "ed it up a little bit so that the\ncurve will come would come down and line\nup with this one over here right so I'm\ngoing to need this one has rectangle and\nthen this one I'm Nikki barrage alright\nguys so that's what these are all doors\nno openings so so far so good\n[Music]\nalright guys so that wraps it up for\nthis video I hope that you enjoyed it\nand hope you learned something today if\nyou learned something drop a like and if\nyou have any questions drop it in the\ncomments below and don't forget to\nsubscribe\ntake care of yourself see\n[Music]",
+    "start_char": 12600,
+    "end_char": 13600,
+    "char_count": 546,
+    "word_count": 109,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

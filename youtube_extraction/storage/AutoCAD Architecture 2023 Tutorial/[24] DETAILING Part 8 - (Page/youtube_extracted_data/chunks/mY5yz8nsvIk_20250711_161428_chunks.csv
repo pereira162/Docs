@@ -1,0 +1,83 @@
+chunk_id,content
+0,"Music
+Hello everyone, welcome to the 24th and final episode on the one-bedroom house series
+that we have been doing on the channel. In today's video I'll be showing you how to get your
+sheets all set up in AutoCAD and how to print them in PDF format. So you might hear terminologies like
+sheet template, field text, sheet set, subsets or sheet properties, stuff like that but don't worry,
+I'm sure by the end of this episode you'll understand what all of that means.
+Now this video is going to be a long one so buckle up. What I'll do is to break this video in the
+parts so that you can skip to the part that you want to watch. So if that's something you want to
+do check the description below for the timestamps. You all said, I got you. I'll also be dropping the
+playlist for all the other episodes just in case you missed one or two aren't. You haven't seen it at
+all. Check the description."
+1,"sodes just in case you missed one or two aren't. You haven't seen it at
+all. Check the description. Yes, so I did enjoy making these videos and I hope that you enjoyed watching
+them as well and if you did comment below which ones were your favorite and if you're first I'm
+on a channel or if you haven't subscribed as yet, I'll sub this solid. All right, so let me stop talking
+and jump right into AutoCAD and show you how to do this thing. All right everybody, so here we are
+back in AutoCAD architecture and let's jump right into it. So as you already know we're going to be
+creating all of our sheets today but before I get into that I want to show you three additional
+views that I have created ahead of time for this video today. So I did do a location map as you can see
+right here. I also did some additional site information. You know just type of a little thing here and I
+also did some concrete notes here. Typical stuff, you know, just to make it into something we can
+place on the sheet."
+2,"rete notes here. Typical stuff, you know, just to make it into something we can
+place on the sheet. All right, now the location map actually I went on Google and I just find a spot
+and just take a snippet of it and as you can see I drew a box on the area and also kind of put a little
+text there to kind of identify the property. Also when you're doing a location map you want to make sure
+you have other, you know, table buildings or properties around so that persons who would like to
+locate the property can use those buildings as a landmark or as a references. So bear that in mind
+when you're going on Google to snip a photo or a snippet of that on here. Now this location map is not
+to scale so I'm going to actually change this from one eight to NTS because it's not done to
+scales so I don't want to have a scale there. Now if you notice this text up here is a little bit
+different from the others and that's because this is what we call a field text meaning this information
+is being pulled from somewhere else. All right and I'm going to show you exactly where it is being
+pulled from."
+3,"led from somewhere else. All right and I'm going to show you exactly where it is being
+pulled from. If we go back to our project Navigator where we see the project let me come out of that
+project tab here and we go to the little pencil. You remember when we started this project now we did
+types of information in this box here to describe the project or what we say project description.
+And so this is exactly what is being seen out here and so by using field text we can pull various
+information from out of the project Navigator and other areas as well into our details or notes
+and also our title block which is going to be very important as we get further into this video.
+All right so how do you add fields when you create a text box like this one here? All you have to
+do in fact let me create a brand new one so let's just do our random one out here.
+One two are inside of the text box you are able to add a field in and so once you click on that
+you just need to locate the one that you want."
+4,"able to add a field in and so once you click on that
+you just need to locate the one that you want. So that particular one would fall on AEC projects
+and it would be the project description and then of course you can choose whether or not you
+want it to be uppercase or lowercase whatever. I'm not going to select any I'm going to just hit
+okay and there it is it included it in that text box. All right now that is important because
+when we go back into this settings here and we go down a little bit further where it says
+detail information when I click on this you will notice that I have a lot of other information in
+here and we're going to need to be able to pull these out into our title block. So this is something
+you can set up at the beginning of your project as well as at the end or wherever in the middle
+but wherever you choose to do it you need to have it in so that you can pull these out in your
+title block."
+5,"ever you choose to do it you need to have it in so that you can pull these out in your
+title block. So as you can see I have the address for the project the volume and volume number.
+This is a number that is unique to every property on the island so if we need to locate a property
+in the database they would just type that number in likewise with the coordinates."
+6,"ocate a property
+in the database they would just type that number in likewise with the coordinates. Every property
+has a coordinate client information you can go ahead and add in stuff like that and it's very simple
+all you have to do is to click on the plus button here to add a line and you just type what you need
+and if you need to delete that line which I'm actually going to do here you just click on the X
+and as you can see I actually added an extra folder here for architectural firm and that
+can be done using the folder icon here and so as you can see I added some additional information
+within this folder you know so I added the firm's name address telephone number and email and also
+for some fun we added the YouTube and Instagram and Twitter as well as some architect notes.
+Guys go ahead and add all the information that you're going to need in this box here so that we can
+use them later when we need them. Alright so I'm going to access off now and we're going to stay
+in this property setting here we're going to scroll down to where we see sheet template."
+7,"ng to stay
+in this property setting here we're going to scroll down to where we see sheet template. Now if
+you remember when we had created this project back in episode I think it was episode two
+we did select this template here as our sheet template okay and we also selected this size as the
+size that we're going to be using for this project of course if you're doing a larger project you
+would want to select a larger page."
+8,"for this project of course if you're doing a larger project you
+would want to select a larger page."
+9,"for this project of course if you're doing a larger project you
+would want to select a larger page."

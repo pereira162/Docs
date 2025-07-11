@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 50,
+    "avg_words_per_sentence": 20.0,
+    "language": "pt"
+  },
+  "keywords": [
+    "vamos",
+    "fazer",
+    "fazer",
+    "outros",
+    "você",
+    "tem",
+    "todos",
+    "ver"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T16:13:05.093141",
+    "processing_mode": "memory_optimized"
+  }
+}

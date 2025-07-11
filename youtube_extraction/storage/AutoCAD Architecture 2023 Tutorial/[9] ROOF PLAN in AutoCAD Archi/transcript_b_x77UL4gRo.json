@@ -1,0 +1,2497 @@
+{
+  "video_id": "b_x77UL4gRo",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "hi so this is episode 9 of our",
+      "start": 0.0,
+      "duration": 4.68,
+      "end": 4.68
+    },
+    {
+      "index": 1,
+      "text": "one-bedroom house series and today we're",
+      "start": 2.129,
+      "duration": 4.591,
+      "end": 6.720000000000001
+    },
+    {
+      "index": 2,
+      "text": "gonna start working on our roof plan",
+      "start": 4.68,
+      "duration": 4.95,
+      "end": 9.629999999999999
+    },
+    {
+      "index": 3,
+      "text": "design so if you notice in each episode",
+      "start": 6.72,
+      "duration": 5.339,
+      "end": 12.059000000000001
+    },
+    {
+      "index": 4,
+      "text": "as we progress on this project things",
+      "start": 9.63,
+      "duration": 4.169,
+      "end": 13.799
+    },
+    {
+      "index": 5,
+      "text": "start to get a little bit more technical",
+      "start": 12.059,
+      "duration": 4.591,
+      "end": 16.65
+    },
+    {
+      "index": 6,
+      "text": "and guess what this video is not an",
+      "start": 13.799,
+      "duration": 5.101,
+      "end": 18.9
+    },
+    {
+      "index": 7,
+      "text": "exception so you're gonna get into some",
+      "start": 16.65,
+      "duration": 4.289,
+      "end": 20.939
+    },
+    {
+      "index": 8,
+      "text": "deeper stuff but don't worry it's not",
+      "start": 18.9,
+      "duration": 3.629,
+      "end": 22.529
+    },
+    {
+      "index": 9,
+      "text": "that if you go when you break it down",
+      "start": 20.939,
+      "duration": 3.6,
+      "end": 24.539
+    },
+    {
+      "index": 10,
+      "text": "simply enough all right so without",
+      "start": 22.529,
+      "duration": 20.491,
+      "end": 43.019999999999996
+    },
+    {
+      "index": 11,
+      "text": "further ado let's get into it all right",
+      "start": 24.539,
+      "duration": 20.311,
+      "end": 44.85
+    },
+    {
+      "index": 12,
+      "text": "so we're going to be modeling a hip roof",
+      "start": 43.02,
+      "duration": 4.5,
+      "end": 47.52
+    },
+    {
+      "index": 13,
+      "text": "for this house and of course there are",
+      "start": 44.85,
+      "duration": 4.92,
+      "end": 49.77
+    },
+    {
+      "index": 14,
+      "text": "many types of roof as you can see in",
+      "start": 47.52,
+      "duration": 4.679,
+      "end": 52.199000000000005
+    },
+    {
+      "index": 15,
+      "text": "this picture right here but we're",
+      "start": 49.77,
+      "duration": 4.23,
+      "end": 54.0
+    },
+    {
+      "index": 16,
+      "text": "sticking with probably the most popular",
+      "start": 52.199,
+      "duration": 5.43,
+      "end": 57.629
+    },
+    {
+      "index": 17,
+      "text": "and second most basic roof of our design",
+      "start": 54.0,
+      "duration": 6.3,
+      "end": 60.3
+    },
+    {
+      "index": 18,
+      "text": "which is the hip roof following right",
+      "start": 57.629,
+      "duration": 5.581,
+      "end": 63.21
+    },
+    {
+      "index": 19,
+      "text": "behind the gable roof design it is",
+      "start": 60.3,
+      "duration": 4.829,
+      "end": 65.12899999999999
+    },
+    {
+      "index": 20,
+      "text": "important to note those that AutoCAD",
+      "start": 63.21,
+      "duration": 4.35,
+      "end": 67.56
+    },
+    {
+      "index": 21,
+      "text": "does not have the ability to auto",
+      "start": 65.129,
+      "duration": 5.731,
+      "end": 70.86
+    },
+    {
+      "index": 22,
+      "text": "generate a timber roof framing structure",
+      "start": 67.56,
+      "duration": 5.34,
+      "end": 72.9
+    },
+    {
+      "index": 23,
+      "text": "something that looks like this which",
+      "start": 70.86,
+      "duration": 4.38,
+      "end": 75.24
+    },
+    {
+      "index": 24,
+      "text": "would include like each rafter each",
+      "start": 72.9,
+      "duration": 5.55,
+      "end": 78.45
+    },
+    {
+      "index": 25,
+      "text": "truss and each roof member like the",
+      "start": 75.24,
+      "duration": 5.669,
+      "end": 80.90899999999999
+    },
+    {
+      "index": 26,
+      "text": "ridge board and the hip rafters and all",
+      "start": 78.45,
+      "duration": 4.44,
+      "end": 82.89
+    },
+    {
+      "index": 27,
+      "text": "of that now there are other software's",
+      "start": 80.909,
+      "duration": 2.221,
+      "end": 83.13000000000001
+    },
+    {
+      "index": 28,
+      "text": "like",
+      "start": 82.89,
+      "duration": 2.94,
+      "end": 85.83
+    },
+    {
+      "index": 29,
+      "text": "archicad our chief architect that has",
+      "start": 83.13,
+      "duration": 5.97,
+      "end": 89.1
+    },
+    {
+      "index": 30,
+      "text": "the ability to do this AutoCAD is just",
+      "start": 85.83,
+      "duration": 5.94,
+      "end": 91.77
+    },
+    {
+      "index": 31,
+      "text": "not one of those software however what",
+      "start": 89.1,
+      "duration": 5.61,
+      "end": 94.71
+    },
+    {
+      "index": 32,
+      "text": "AutoCAD is capable of doing is to model",
+      "start": 91.77,
+      "duration": 5.639,
+      "end": 97.40899999999999
+    },
+    {
+      "index": 33,
+      "text": "a profile of the roof that looks",
+      "start": 94.71,
+      "duration": 5.94,
+      "end": 100.64999999999999
+    },
+    {
+      "index": 34,
+      "text": "something like this now this is a lot to",
+      "start": 97.409,
+      "duration": 6.6,
+      "end": 104.009
+    },
+    {
+      "index": 35,
+      "text": "model this is very detail so I would",
+      "start": 100.65,
+      "duration": 5.91,
+      "end": 106.56
+    },
+    {
+      "index": 36,
+      "text": "rather to simplify it to something that",
+      "start": 104.009,
+      "duration": 5.04,
+      "end": 109.049
+    },
+    {
+      "index": 37,
+      "text": "looks more like this which is what we're",
+      "start": 106.56,
+      "duration": 4.949,
+      "end": 111.509
+    },
+    {
+      "index": 38,
+      "text": "going to be modeling in this drawing",
+      "start": 109.049,
+      "duration": 4.53,
+      "end": 113.57900000000001
+    },
+    {
+      "index": 39,
+      "text": "today the reason for doing this is so",
+      "start": 111.509,
+      "duration": 4.231,
+      "end": 115.74
+    },
+    {
+      "index": 40,
+      "text": "that when we create our sectional views",
+      "start": 113.579,
+      "duration": 5.691,
+      "end": 119.27
+    },
+    {
+      "index": 41,
+      "text": "we would be able to see the profile and",
+      "start": 115.74,
+      "duration": 7.199,
+      "end": 122.939
+    },
+    {
+      "index": 42,
+      "text": "all the materials that are present in",
+      "start": 119.27,
+      "duration": 6.43,
+      "end": 125.69999999999999
+    },
+    {
+      "index": 43,
+      "text": "the roof all right so with that said",
+      "start": 122.939,
+      "duration": 6.781,
+      "end": 129.72
+    },
+    {
+      "index": 44,
+      "text": "let's get into the video so the first",
+      "start": 125.7,
+      "duration": 6.23,
+      "end": 131.93
+    },
+    {
+      "index": 45,
+      "text": "thing we're going to be doing here is to",
+      "start": 129.72,
+      "duration": 6.859,
+      "end": 136.579
+    },
+    {
+      "index": 46,
+      "text": "go back to our plan view top 2d",
+      "start": 131.93,
+      "duration": 8.13,
+      "end": 140.06
+    },
+    {
+      "index": 47,
+      "text": "wireframe now we need to find the roof",
+      "start": 136.579,
+      "duration": 6.511,
+      "end": 143.09
+    },
+    {
+      "index": 48,
+      "text": "tool which is actually right here under",
+      "start": 140.06,
+      "duration": 5.64,
+      "end": 145.7
+    },
+    {
+      "index": 49,
+      "text": "the Home tab so you could go down and",
+      "start": 143.09,
+      "duration": 6.36,
+      "end": 149.45000000000002
+    },
+    {
+      "index": 50,
+      "text": "click on a roof or we could go to the",
+      "start": 145.7,
+      "duration": 7.409,
+      "end": 153.10899999999998
+    },
+    {
+      "index": 51,
+      "text": "tool pallet and simply select it down",
+      "start": 149.45,
+      "duration": 5.28,
+      "end": 154.73
+    },
+    {
+      "index": 52,
+      "text": "here as well we're gonna go ahead and",
+      "start": 153.109,
+      "duration": 4.921,
+      "end": 158.03
+    },
+    {
+      "index": 53,
+      "text": "click on the tool and the first thing",
+      "start": 154.73,
+      "duration": 5.67,
+      "end": 160.39999999999998
+    },
+    {
+      "index": 54,
+      "text": "we're gonna do is to draw a random roof",
+      "start": 158.03,
+      "duration": 4.47,
+      "end": 162.5
+    },
+    {
+      "index": 55,
+      "text": "outside here it doesn't matter the shape",
+      "start": 160.4,
+      "duration": 6.199,
+      "end": 166.59900000000002
+    },
+    {
+      "index": 56,
+      "text": "or the size just draw something so no",
+      "start": 162.5,
+      "duration": 7.68,
+      "end": 170.18
+    },
+    {
+      "index": 57,
+      "text": "good time to practice so just click 1 2",
+      "start": 166.599,
+      "duration": 6.941,
+      "end": 173.54
+    },
+    {
+      "index": 58,
+      "text": "3 4 something that looks like that good",
+      "start": 170.18,
+      "duration": 6.3,
+      "end": 176.48000000000002
+    },
+    {
+      "index": 59,
+      "text": "enough and what we're gonna do is to",
+      "start": 173.54,
+      "duration": 5.94,
+      "end": 179.48
+    },
+    {
+      "index": 60,
+      "text": "convert this roof so this is considered",
+      "start": 176.48,
+      "duration": 6.899,
+      "end": 183.379
+    },
+    {
+      "index": 61,
+      "text": "a layout of the roof it's actually not",
+      "start": 179.48,
+      "duration": 6.119,
+      "end": 185.599
+    },
+    {
+      "index": 62,
+      "text": "the roof as yet so what we're going to",
+      "start": 183.379,
+      "duration": 4.381,
+      "end": 187.76
+    },
+    {
+      "index": 63,
+      "text": "do to convert this by clicking on this",
+      "start": 185.599,
+      "duration": 5.61,
+      "end": 191.209
+    },
+    {
+      "index": 64,
+      "text": "button and we're converting it from what",
+      "start": 187.76,
+      "duration": 6.179,
+      "end": 193.939
+    },
+    {
+      "index": 65,
+      "text": "it is to a standard slab and we're gonna",
+      "start": 191.209,
+      "duration": 5.761,
+      "end": 196.97
+    },
+    {
+      "index": 66,
+      "text": "erase this geometry so we're gonna hit",
+      "start": 193.939,
+      "duration": 6.571,
+      "end": 200.51
+    },
+    {
+      "index": 67,
+      "text": "OK and this is what the standard roof",
+      "start": 196.97,
+      "duration": 5.699,
+      "end": 202.669
+    },
+    {
+      "index": 68,
+      "text": "slab looks like what we're doing really",
+      "start": 200.51,
+      "duration": 6.809,
+      "end": 207.319
+    },
+    {
+      "index": 69,
+      "text": "is to create the profile first before we",
+      "start": 202.669,
+      "duration": 7.231,
+      "end": 209.9
+    },
+    {
+      "index": 70,
+      "text": "actually put it on the house so that's",
+      "start": 207.319,
+      "duration": 4.471,
+      "end": 211.79
+    },
+    {
+      "index": 71,
+      "text": "why we're doing this random one outside",
+      "start": 209.9,
+      "duration": 3.75,
+      "end": 213.65
+    },
+    {
+      "index": 72,
+      "text": "here so we're gonna click on one of",
+      "start": 211.79,
+      "duration": 5.25,
+      "end": 217.04
+    },
+    {
+      "index": 73,
+      "text": "these roof slab and we're gonna copy",
+      "start": 213.65,
+      "duration": 5.91,
+      "end": 219.56
+    },
+    {
+      "index": 74,
+      "text": "style this is how we create our own",
+      "start": 217.04,
+      "duration": 6.599,
+      "end": 223.63899999999998
+    },
+    {
+      "index": 75,
+      "text": "profile by copying one and modifying it",
+      "start": 219.56,
+      "duration": 6.419,
+      "end": 225.979
+    },
+    {
+      "index": 76,
+      "text": "so we're copying that style we're gonna",
+      "start": 223.639,
+      "duration": 8.391,
+      "end": 232.03
+    },
+    {
+      "index": 77,
+      "text": "change the name to no standard roof",
+      "start": 225.979,
+      "duration": 11.611,
+      "end": 237.59
+    },
+    {
+      "index": 78,
+      "text": "profile you could be more detailed",
+      "start": 232.03,
+      "duration": 9.239,
+      "end": 241.269
+    },
+    {
+      "index": 79,
+      "text": "of course but I'm just gonna do that for",
+      "start": 237.59,
+      "duration": 7.2,
+      "end": 244.79
+    },
+    {
+      "index": 80,
+      "text": "this demonstration I'm gonna drag this",
+      "start": 241.269,
+      "duration": 5.61,
+      "end": 246.87900000000002
+    },
+    {
+      "index": 81,
+      "text": "up so we can see what we're looking at",
+      "start": 244.79,
+      "duration": 5.64,
+      "end": 250.42999999999998
+    },
+    {
+      "index": 82,
+      "text": "all right so we're gonna make our",
+      "start": 246.879,
+      "duration": 6.85,
+      "end": 253.72899999999998
+    },
+    {
+      "index": 83,
+      "text": "profile look like what we have on the",
+      "start": 250.43,
+      "duration": 6.209,
+      "end": 256.639
+    },
+    {
+      "index": 84,
+      "text": "left side of the screen so we should",
+      "start": 253.729,
+      "duration": 5.97,
+      "end": 259.699
+    },
+    {
+      "index": 85,
+      "text": "have a rafter at the bottom we should",
+      "start": 256.639,
+      "duration": 5.311,
+      "end": 261.95
+    },
+    {
+      "index": 86,
+      "text": "have this arcing in the middle and a",
+      "start": 259.699,
+      "duration": 5.641,
+      "end": 265.34000000000003
+    },
+    {
+      "index": 87,
+      "text": "roof covering at the top okay so that's",
+      "start": 261.95,
+      "duration": 3.71,
+      "end": 265.65999999999997
+    },
+    {
+      "index": 88,
+      "text": "what",
+      "start": 265.34,
+      "duration": 2.51,
+      "end": 267.84999999999997
+    },
+    {
+      "index": 89,
+      "text": "we want to see here so far we only have",
+      "start": 265.66,
+      "duration": 5.61,
+      "end": 271.27000000000004
+    },
+    {
+      "index": 90,
+      "text": "one material which is this down here we",
+      "start": 267.85,
+      "duration": 5.85,
+      "end": 273.70000000000005
+    },
+    {
+      "index": 91,
+      "text": "need to have some more so we're gonna",
+      "start": 271.27,
+      "duration": 5.61,
+      "end": 276.88
+    },
+    {
+      "index": 92,
+      "text": "add them up here so this one we're gonna",
+      "start": 273.7,
+      "duration": 7.56,
+      "end": 281.26
+    },
+    {
+      "index": 93,
+      "text": "change the name to rafters or rafter and",
+      "start": 276.88,
+      "duration": 7.5,
+      "end": 284.38
+    },
+    {
+      "index": 94,
+      "text": "the thickness of the rafter should be",
+      "start": 281.26,
+      "duration": 10.25,
+      "end": 291.51
+    },
+    {
+      "index": 95,
+      "text": "what six inches make that zero click and",
+      "start": 284.38,
+      "duration": 11.1,
+      "end": 295.48
+    },
+    {
+      "index": 96,
+      "text": "we're gonna make the offset to be zero",
+      "start": 291.51,
+      "duration": 9.13,
+      "end": 300.64
+    },
+    {
+      "index": 97,
+      "text": "as well and so now as we make changes we",
+      "start": 295.48,
+      "duration": 10.25,
+      "end": 305.73
+    },
+    {
+      "index": 98,
+      "text": "can see the difference down here so far",
+      "start": 300.64,
+      "duration": 8.39,
+      "end": 309.03
+    },
+    {
+      "index": 99,
+      "text": "we have the rafter on top of the the",
+      "start": 305.73,
+      "duration": 7.0,
+      "end": 312.73
+    },
+    {
+      "index": 100,
+      "text": "this zero line I actually want a rafter",
+      "start": 309.03,
+      "duration": 7.21,
+      "end": 316.23999999999995
+    },
+    {
+      "index": 101,
+      "text": "to be in a negative side so we're gonna",
+      "start": 312.73,
+      "duration": 7.58,
+      "end": 320.31
+    },
+    {
+      "index": 102,
+      "text": "just turn this six into a minus six and",
+      "start": 316.24,
+      "duration": 7.68,
+      "end": 323.92
+    },
+    {
+      "index": 103,
+      "text": "boom just like that the rafter is now",
+      "start": 320.31,
+      "duration": 7.03,
+      "end": 327.34
+    },
+    {
+      "index": 104,
+      "text": "inside of the negative portion okay and",
+      "start": 323.92,
+      "duration": 6.33,
+      "end": 330.25
+    },
+    {
+      "index": 105,
+      "text": "it says zero here that's because it is",
+      "start": 327.34,
+      "duration": 6.0,
+      "end": 333.34
+    },
+    {
+      "index": 106,
+      "text": "also resting on the zero line so we're",
+      "start": 330.25,
+      "duration": 6.21,
+      "end": 336.46
+    },
+    {
+      "index": 107,
+      "text": "gonna add our second material by",
+      "start": 333.34,
+      "duration": 5.82,
+      "end": 339.15999999999997
+    },
+    {
+      "index": 108,
+      "text": "clicking on the add component button",
+      "start": 336.46,
+      "duration": 6.12,
+      "end": 342.58
+    },
+    {
+      "index": 109,
+      "text": "here the second one we're gonna call it",
+      "start": 339.16,
+      "duration": 7.11,
+      "end": 346.27000000000004
+    },
+    {
+      "index": 110,
+      "text": "the psyching and the psyching is how",
+      "start": 342.58,
+      "duration": 6.99,
+      "end": 349.57
+    },
+    {
+      "index": 111,
+      "text": "thick three and a quarter inch this time",
+      "start": 346.27,
+      "duration": 5.16,
+      "end": 351.43
+    },
+    {
+      "index": 112,
+      "text": "it's going to be on the positive side so",
+      "start": 349.57,
+      "duration": 4.56,
+      "end": 354.13
+    },
+    {
+      "index": 113,
+      "text": "we don't need a negative before it so",
+      "start": 351.43,
+      "duration": 5.4,
+      "end": 356.83
+    },
+    {
+      "index": 114,
+      "text": "now you can see it popping up on top of",
+      "start": 354.13,
+      "duration": 6.6,
+      "end": 360.73
+    },
+    {
+      "index": 115,
+      "text": "there after just like that I'm gonna add",
+      "start": 356.83,
+      "duration": 7.79,
+      "end": 364.62
+    },
+    {
+      "index": 116,
+      "text": "our third one which would be the roof",
+      "start": 360.73,
+      "duration": 6.9,
+      "end": 367.63
+    },
+    {
+      "index": 117,
+      "text": "covering and we're giving the roof",
+      "start": 364.62,
+      "duration": 5.67,
+      "end": 370.29
+    },
+    {
+      "index": 118,
+      "text": "covering a thickness of three inches",
+      "start": 367.63,
+      "duration": 8.34,
+      "end": 375.96999999999997
+    },
+    {
+      "index": 119,
+      "text": "three inches it can be two inches as",
+      "start": 370.29,
+      "duration": 8.35,
+      "end": 378.64000000000004
+    },
+    {
+      "index": 120,
+      "text": "well or depending on the roof covering",
+      "start": 375.97,
+      "duration": 3.69,
+      "end": 379.66
+    },
+    {
+      "index": 121,
+      "text": "that you're using",
+      "start": 378.64,
+      "duration": 4.1,
+      "end": 382.74
+    },
+    {
+      "index": 122,
+      "text": "so the typical zinc or galvanized sheet",
+      "start": 379.66,
+      "duration": 6.69,
+      "end": 386.35
+    },
+    {
+      "index": 123,
+      "text": "would be more than like two inches and",
+      "start": 382.74,
+      "duration": 6.1,
+      "end": 388.84000000000003
+    },
+    {
+      "index": 124,
+      "text": "we wanted to start on top of the circle",
+      "start": 386.35,
+      "duration": 5.61,
+      "end": 391.96000000000004
+    },
+    {
+      "index": 125,
+      "text": "which is already three three quarters so",
+      "start": 388.84,
+      "duration": 6.84,
+      "end": 395.67999999999995
+    },
+    {
+      "index": 126,
+      "text": "we need to write the 3/4 here as well so",
+      "start": 391.96,
+      "duration": 5.359,
+      "end": 397.31899999999996
+    },
+    {
+      "index": 127,
+      "text": "we have",
+      "start": 395.68,
+      "duration": 8.479,
+      "end": 404.159
+    },
+    {
+      "index": 128,
+      "text": "oops let's go back to the front view so",
+      "start": 397.319,
+      "duration": 10.08,
+      "end": 407.399
+    },
+    {
+      "index": 129,
+      "text": "we have the rafters below six inches",
+      "start": 404.159,
+      "duration": 6.48,
+      "end": 410.639
+    },
+    {
+      "index": 130,
+      "text": "thick to the zero mark then we have the",
+      "start": 407.399,
+      "duration": 6.27,
+      "end": 413.669
+    },
+    {
+      "index": 131,
+      "text": "sacking from zero to three quarters and",
+      "start": 410.639,
+      "duration": 5.67,
+      "end": 416.309
+    },
+    {
+      "index": 132,
+      "text": "we have the roof covering starting at",
+      "start": 413.669,
+      "duration": 6.691,
+      "end": 420.35999999999996
+    },
+    {
+      "index": 133,
+      "text": "the 3/4 up to the three inches and",
+      "start": 416.309,
+      "duration": 7.5,
+      "end": 423.809
+    },
+    {
+      "index": 134,
+      "text": "that's it we're gonna hit OK and we're",
+      "start": 420.36,
+      "duration": 4.019,
+      "end": 424.379
+    },
+    {
+      "index": 135,
+      "text": "good to go",
+      "start": 423.809,
+      "duration": 4.741,
+      "end": 428.55
+    },
+    {
+      "index": 136,
+      "text": "so now we can go ahead and draw our roof",
+      "start": 424.379,
+      "duration": 6.63,
+      "end": 431.009
+    },
+    {
+      "index": 137,
+      "text": "on top of this so we're gonna go ahead",
+      "start": 428.55,
+      "duration": 7.049,
+      "end": 435.599
+    },
+    {
+      "index": 138,
+      "text": "and click here and we're gonna go and go",
+      "start": 431.009,
+      "duration": 8.84,
+      "end": 439.849
+    },
+    {
+      "index": 139,
+      "text": "to roof and just go ahead and draw your",
+      "start": 435.599,
+      "duration": 7.231,
+      "end": 442.83
+    },
+    {
+      "index": 140,
+      "text": "alright so we're gonna click the first",
+      "start": 439.849,
+      "duration": 6.34,
+      "end": 446.18899999999996
+    },
+    {
+      "index": 141,
+      "text": "corner here and we always draw the roof",
+      "start": 442.83,
+      "duration": 6.989,
+      "end": 449.81899999999996
+    },
+    {
+      "index": 142,
+      "text": "on the exterior of the wall and the roof",
+      "start": 446.189,
+      "duration": 7.73,
+      "end": 453.91900000000004
+    },
+    {
+      "index": 143,
+      "text": "should always be on a load-bearing wall",
+      "start": 449.819,
+      "duration": 6.78,
+      "end": 456.599
+    },
+    {
+      "index": 144,
+      "text": "so all of these walls on this house are",
+      "start": 453.919,
+      "duration": 4.75,
+      "end": 458.669
+    },
+    {
+      "index": 145,
+      "text": "load-bearing so we're good",
+      "start": 456.599,
+      "duration": 6.15,
+      "end": 462.74899999999997
+    },
+    {
+      "index": 146,
+      "text": "click here back down to the third corner",
+      "start": 458.669,
+      "duration": 6.75,
+      "end": 465.419
+    },
+    {
+      "index": 147,
+      "text": "and as we draw you can see the roof",
+      "start": 462.749,
+      "duration": 4.71,
+      "end": 467.459
+    },
+    {
+      "index": 148,
+      "text": "coming together I'm gonna click over",
+      "start": 465.419,
+      "duration": 5.58,
+      "end": 470.99899999999997
+    },
+    {
+      "index": 149,
+      "text": "here and that's about it we can hit",
+      "start": 467.459,
+      "duration": 6.39,
+      "end": 473.849
+    },
+    {
+      "index": 150,
+      "text": "enter so now you can see that we have a",
+      "start": 470.999,
+      "duration": 7.41,
+      "end": 478.40900000000005
+    },
+    {
+      "index": 151,
+      "text": "nice hip roof on top of the house we can",
+      "start": 473.849,
+      "duration": 7.261,
+      "end": 481.11
+    },
+    {
+      "index": 152,
+      "text": "make this a gable roof if we want we",
+      "start": 478.409,
+      "duration": 4.641,
+      "end": 483.05
+    },
+    {
+      "index": 153,
+      "text": "could just click on it like that and",
+      "start": 481.11,
+      "duration": 8.309,
+      "end": 489.41900000000004
+    },
+    {
+      "index": 154,
+      "text": "drag these points outwards like so all",
+      "start": 483.05,
+      "duration": 9.579,
+      "end": 492.629
+    },
+    {
+      "index": 155,
+      "text": "right so now this side becomes gable and",
+      "start": 489.419,
+      "duration": 6.84,
+      "end": 496.25899999999996
+    },
+    {
+      "index": 156,
+      "text": "of course we could make this side gable",
+      "start": 492.629,
+      "duration": 7.62,
+      "end": 500.249
+    },
+    {
+      "index": 157,
+      "text": "as well by pulling it out like that all",
+      "start": 496.259,
+      "duration": 6.541,
+      "end": 502.8
+    },
+    {
+      "index": 158,
+      "text": "right what we're gonna be using the hip",
+      "start": 500.249,
+      "duration": 6.39,
+      "end": 506.639
+    },
+    {
+      "index": 159,
+      "text": "style roof so I undo that back to the",
+      "start": 502.8,
+      "duration": 7.289,
+      "end": 510.089
+    },
+    {
+      "index": 160,
+      "text": "hip roof I'm gonna go to the front view",
+      "start": 506.639,
+      "duration": 7.741,
+      "end": 514.38
+    },
+    {
+      "index": 161,
+      "text": "like so by the way let's delete this we",
+      "start": 510.089,
+      "duration": 8.88,
+      "end": 518.969
+    },
+    {
+      "index": 162,
+      "text": "don't need this anymore all right so we",
+      "start": 514.38,
+      "duration": 9.12,
+      "end": 523.5
+    },
+    {
+      "index": 163,
+      "text": "go back to the front view and I want to",
+      "start": 518.969,
+      "duration": 6.151,
+      "end": 525.12
+    },
+    {
+      "index": 164,
+      "text": "just show you a couple of things here",
+      "start": 523.5,
+      "duration": 3.94,
+      "end": 527.44
+    },
+    {
+      "index": 165,
+      "text": "let me put this in",
+      "start": 525.12,
+      "duration": 6.08,
+      "end": 531.2
+    },
+    {
+      "index": 166,
+      "text": "right so we can change a couple of",
+      "start": 527.44,
+      "duration": 6.34,
+      "end": 533.7800000000001
+    },
+    {
+      "index": 167,
+      "text": "things about this roof after the fact we",
+      "start": 531.2,
+      "duration": 4.74,
+      "end": 535.94
+    },
+    {
+      "index": 168,
+      "text": "can actually change the thickness of the",
+      "start": 533.78,
+      "duration": 5.13,
+      "end": 538.91
+    },
+    {
+      "index": 169,
+      "text": "roof which would be how thick the roof",
+      "start": 535.94,
+      "duration": 8.07,
+      "end": 544.0100000000001
+    },
+    {
+      "index": 170,
+      "text": "is we could change the edge cut which is",
+      "start": 538.91,
+      "duration": 8.43,
+      "end": 547.3399999999999
+    },
+    {
+      "index": 171,
+      "text": "the cut of the edge from square to plum",
+      "start": 544.01,
+      "duration": 7.08,
+      "end": 551.09
+    },
+    {
+      "index": 172,
+      "text": "and plum is what looks like this I mean",
+      "start": 547.34,
+      "duration": 6.06,
+      "end": 553.4
+    },
+    {
+      "index": 173,
+      "text": "you know the regular stuff but I'm gonna",
+      "start": 551.09,
+      "duration": 4.98,
+      "end": 556.07
+    },
+    {
+      "index": 174,
+      "text": "leave it on square the Metallica stand",
+      "start": 553.4,
+      "duration": 7.26,
+      "end": 560.66
+    },
+    {
+      "index": 175,
+      "text": "the overhang is 1 foot which is usually",
+      "start": 556.07,
+      "duration": 8.07,
+      "end": 564.1400000000001
+    },
+    {
+      "index": 176,
+      "text": "what we use in Jamaica so the overhang",
+      "start": 560.66,
+      "duration": 7.11,
+      "end": 567.77
+    },
+    {
+      "index": 177,
+      "text": "is from the edge of the wall to where",
+      "start": 564.14,
+      "duration": 7.77,
+      "end": 571.91
+    },
+    {
+      "index": 178,
+      "text": "the roof ends okay and we have the plate",
+      "start": 567.77,
+      "duration": 6.39,
+      "end": 574.16
+    },
+    {
+      "index": 179,
+      "text": "height and in order for me to show you",
+      "start": 571.91,
+      "duration": 4.86,
+      "end": 576.77
+    },
+    {
+      "index": 180,
+      "text": "the plate height I'm gonna have to go",
+      "start": 574.16,
+      "duration": 7.14,
+      "end": 581.3
+    },
+    {
+      "index": 181,
+      "text": "back into the 2d the plate ad is right",
+      "start": 576.77,
+      "duration": 8.37,
+      "end": 585.14
+    },
+    {
+      "index": 182,
+      "text": "where the wall meets the roof okay",
+      "start": 581.3,
+      "duration": 7.77,
+      "end": 589.0699999999999
+    },
+    {
+      "index": 183,
+      "text": "so right here is the plate height so the",
+      "start": 585.14,
+      "duration": 7.35,
+      "end": 592.49
+    },
+    {
+      "index": 184,
+      "text": "plate right as you can see is 10 feet",
+      "start": 589.07,
+      "duration": 7.53,
+      "end": 596.6
+    },
+    {
+      "index": 185,
+      "text": "which is the same height of the wall so",
+      "start": 592.49,
+      "duration": 6.12,
+      "end": 598.61
+    },
+    {
+      "index": 186,
+      "text": "the wall is also 10 feet tall",
+      "start": 596.6,
+      "duration": 5.07,
+      "end": 601.6700000000001
+    },
+    {
+      "index": 187,
+      "text": "we need the roof to sit exactly on top",
+      "start": 598.61,
+      "duration": 5.76,
+      "end": 604.37
+    },
+    {
+      "index": 188,
+      "text": "of the wall just like that so the plate",
+      "start": 601.67,
+      "duration": 7.31,
+      "end": 608.9799999999999
+    },
+    {
+      "index": 189,
+      "text": "height also need to be 10 feet and then",
+      "start": 604.37,
+      "duration": 8.1,
+      "end": 612.47
+    },
+    {
+      "index": 190,
+      "text": "finally we can change the slope of the",
+      "start": 608.98,
+      "duration": 6.46,
+      "end": 615.44
+    },
+    {
+      "index": 191,
+      "text": "roof if we want we can make it 45",
+      "start": 612.47,
+      "duration": 7.44,
+      "end": 619.9100000000001
+    },
+    {
+      "index": 192,
+      "text": "degrees and of course the more degrees",
+      "start": 615.44,
+      "duration": 8.07,
+      "end": 623.5100000000001
+    },
+    {
+      "index": 193,
+      "text": "you add the higher the roof will get so",
+      "start": 619.91,
+      "duration": 5.07,
+      "end": 624.98
+    },
+    {
+      "index": 194,
+      "text": "we don't want to do that but they're not",
+      "start": 623.51,
+      "duration": 3.68,
+      "end": 627.1899999999999
+    },
+    {
+      "index": 195,
+      "text": "trying to bring it down to 30 degrees",
+      "start": 624.98,
+      "duration": 5.03,
+      "end": 630.01
+    },
+    {
+      "index": 196,
+      "text": "and it should look something like that",
+      "start": 627.19,
+      "duration": 5.56,
+      "end": 632.75
+    },
+    {
+      "index": 197,
+      "text": "so once you're satisfied with how the",
+      "start": 630.01,
+      "duration": 5.86,
+      "end": 635.87
+    },
+    {
+      "index": 198,
+      "text": "roof is laid out then we're gonna go",
+      "start": 632.75,
+      "duration": 8.82,
+      "end": 641.57
+    },
+    {
+      "index": 199,
+      "text": "back to our top view to D and we're",
+      "start": 635.87,
+      "duration": 8.81,
+      "end": 644.68
+    },
+    {
+      "index": 200,
+      "text": "satisfied with how the roof is laid out",
+      "start": 641.57,
+      "duration": 6.66,
+      "end": 648.23
+    },
+    {
+      "index": 201,
+      "text": "now is the time to convert the roof okay",
+      "start": 644.68,
+      "duration": 6.34,
+      "end": 651.02
+    },
+    {
+      "index": 202,
+      "text": "you do not convert if you're not",
+      "start": 648.23,
+      "duration": 6.63,
+      "end": 654.86
+    },
+    {
+      "index": 203,
+      "text": "satisfied so we're satisfied we're gonna",
+      "start": 651.02,
+      "duration": 5.85,
+      "end": 656.87
+    },
+    {
+      "index": 204,
+      "text": "convert and you know this is where we",
+      "start": 654.86,
+      "duration": 4.74,
+      "end": 659.6
+    },
+    {
+      "index": 205,
+      "text": "would select the one that we had created",
+      "start": 656.87,
+      "duration": 3.69,
+      "end": 660.5600000000001
+    },
+    {
+      "index": 206,
+      "text": "earlier",
+      "start": 659.6,
+      "duration": 2.94,
+      "end": 662.5400000000001
+    },
+    {
+      "index": 207,
+      "text": "so we're gonna sneak that we're gonna",
+      "start": 660.56,
+      "duration": 5.639,
+      "end": 666.199
+    },
+    {
+      "index": 208,
+      "text": "hear hit the erase button to erase this",
+      "start": 662.54,
+      "duration": 8.279,
+      "end": 670.819
+    },
+    {
+      "index": 209,
+      "text": "one I'm gonna say okay and just like",
+      "start": 666.199,
+      "duration": 14.19,
+      "end": 680.389
+    },
+    {
+      "index": 210,
+      "text": "that if I should go to 3d we can see",
+      "start": 670.819,
+      "duration": 15.87,
+      "end": 686.689
+    },
+    {
+      "index": 211,
+      "text": "that our roof is now the one that we did",
+      "start": 680.389,
+      "duration": 9.661,
+      "end": 690.05
+    },
+    {
+      "index": 212,
+      "text": "it has the profile it has the rafter",
+      "start": 686.689,
+      "duration": 5.52,
+      "end": 692.209
+    },
+    {
+      "index": 213,
+      "text": "down here it has the Tsar king and it",
+      "start": 690.05,
+      "duration": 6.199,
+      "end": 696.2489999999999
+    },
+    {
+      "index": 214,
+      "text": "also has the roof covering on top of it",
+      "start": 692.209,
+      "duration": 8.42,
+      "end": 700.6289999999999
+    },
+    {
+      "index": 215,
+      "text": "okay and yeah that's that's what we want",
+      "start": 696.249,
+      "duration": 6.82,
+      "end": 703.0690000000001
+    },
+    {
+      "index": 216,
+      "text": "put it in x-ray so we can see it a",
+      "start": 700.629,
+      "duration": 5.89,
+      "end": 706.519
+    },
+    {
+      "index": 217,
+      "text": "little better so what we're gonna do",
+      "start": 703.069,
+      "duration": 9.901,
+      "end": 712.9699999999999
+    },
+    {
+      "index": 218,
+      "text": "next is to add a fascia board on on the",
+      "start": 706.519,
+      "duration": 9.901,
+      "end": 716.42
+    },
+    {
+      "index": 219,
+      "text": "edge of these roof okay so let's go back",
+      "start": 712.97,
+      "duration": 8.219,
+      "end": 721.1890000000001
+    },
+    {
+      "index": 220,
+      "text": "to top view 2d and our fascia board",
+      "start": 716.42,
+      "duration": 8.82,
+      "end": 725.24
+    },
+    {
+      "index": 221,
+      "text": "should be 1 inch by 10 inch so what",
+      "start": 721.189,
+      "duration": 6.0,
+      "end": 727.189
+    },
+    {
+      "index": 222,
+      "text": "we're gonna do is to draw a box anywhere",
+      "start": 725.24,
+      "duration": 7.56,
+      "end": 732.8
+    },
+    {
+      "index": 223,
+      "text": "somewhere polyline that box should",
+      "start": 727.189,
+      "duration": 11.221,
+      "end": 738.41
+    },
+    {
+      "index": 224,
+      "text": "measure 1 inches by 10 inches of course",
+      "start": 732.8,
+      "duration": 7.62,
+      "end": 740.42
+    },
+    {
+      "index": 225,
+      "text": "you have different size fascia boards so",
+      "start": 738.41,
+      "duration": 4.529,
+      "end": 742.939
+    },
+    {
+      "index": 226,
+      "text": "you'd go ahead and draw the one that you",
+      "start": 740.42,
+      "duration": 7.279,
+      "end": 747.699
+    },
+    {
+      "index": 227,
+      "text": "would prefer gonna click close the box",
+      "start": 742.939,
+      "duration": 6.96,
+      "end": 749.899
+    },
+    {
+      "index": 228,
+      "text": "and we're going to click on the box and",
+      "start": 747.699,
+      "duration": 4.33,
+      "end": 752.029
+    },
+    {
+      "index": 229,
+      "text": "we're going to right click and go down",
+      "start": 749.899,
+      "duration": 7.62,
+      "end": 757.519
+    },
+    {
+      "index": 230,
+      "text": "to convert to profile definition just",
+      "start": 752.029,
+      "duration": 8.131,
+      "end": 760.16
+    },
+    {
+      "index": 231,
+      "text": "like that it says here select your",
+      "start": 757.519,
+      "duration": 5.82,
+      "end": 763.339
+    },
+    {
+      "index": 232,
+      "text": "insertion point so we're gonna select",
+      "start": 760.16,
+      "duration": 6.359,
+      "end": 766.519
+    },
+    {
+      "index": 233,
+      "text": "the top left corner as the insertion",
+      "start": 763.339,
+      "duration": 6.84,
+      "end": 770.1790000000001
+    },
+    {
+      "index": 234,
+      "text": "point then it says do we want to create",
+      "start": 766.519,
+      "duration": 6.091,
+      "end": 772.61
+    },
+    {
+      "index": 235,
+      "text": "a new one or add it to an existing one",
+      "start": 770.179,
+      "duration": 4.22,
+      "end": 774.399
+    },
+    {
+      "index": 236,
+      "text": "we want to create any one",
+      "start": 772.61,
+      "duration": 7.949,
+      "end": 780.559
+    },
+    {
+      "index": 237,
+      "text": "now we're gonna call this standard 1 by",
+      "start": 774.399,
+      "duration": 11.641,
+      "end": 786.04
+    },
+    {
+      "index": 238,
+      "text": "10 fascia profile",
+      "start": 780.559,
+      "duration": 5.481,
+      "end": 786.04
+    },
+    {
+      "index": 239,
+      "text": "okay and just like that we can now add",
+      "start": 786.26,
+      "duration": 8.17,
+      "end": 794.43
+    },
+    {
+      "index": 240,
+      "text": "it to the edge of our roof so how do we",
+      "start": 791.13,
+      "duration": 6.24,
+      "end": 797.37
+    },
+    {
+      "index": 241,
+      "text": "do that we're gonna click on this go to",
+      "start": 794.43,
+      "duration": 6.51,
+      "end": 800.9399999999999
+    },
+    {
+      "index": 242,
+      "text": "edit style we're gonna go down to roof",
+      "start": 797.37,
+      "duration": 7.8,
+      "end": 805.17
+    },
+    {
+      "index": 243,
+      "text": "slab edge style so modifying the edge of",
+      "start": 800.94,
+      "duration": 7.11,
+      "end": 808.0500000000001
+    },
+    {
+      "index": 244,
+      "text": "the roof and we need to get it inside of",
+      "start": 805.17,
+      "duration": 5.82,
+      "end": 810.99
+    },
+    {
+      "index": 245,
+      "text": "here okay so it's pretty simple we're",
+      "start": 808.05,
+      "duration": 8.04,
+      "end": 816.0899999999999
+    },
+    {
+      "index": 246,
+      "text": "gonna copy this one and we're gonna",
+      "start": 810.99,
+      "duration": 11.03,
+      "end": 822.02
+    },
+    {
+      "index": 247,
+      "text": "paste it and we're gonna rename it to",
+      "start": 816.09,
+      "duration": 5.93,
+      "end": 822.02
+    },
+    {
+      "index": 248,
+      "text": "standard one by ten fish proof you can",
+      "start": 824.36,
+      "duration": 11.56,
+      "end": 835.92
+    },
+    {
+      "index": 249,
+      "text": "add a description if you want and then",
+      "start": 833.88,
+      "duration": 4.47,
+      "end": 838.35
+    },
+    {
+      "index": 250,
+      "text": "we go to default and we would turn these",
+      "start": 835.92,
+      "duration": 7.35,
+      "end": 843.27
+    },
+    {
+      "index": 251,
+      "text": "off go over to design rules and then",
+      "start": 838.35,
+      "duration": 7.74,
+      "end": 846.09
+    },
+    {
+      "index": 252,
+      "text": "we're gonna add the fascia okay so we",
+      "start": 843.27,
+      "duration": 5.73,
+      "end": 849.0
+    },
+    {
+      "index": 253,
+      "text": "check it and we go and select the one",
+      "start": 846.09,
+      "duration": 5.61,
+      "end": 851.7
+    },
+    {
+      "index": 254,
+      "text": "that we just create so we're gonna click",
+      "start": 849.0,
+      "duration": 7.59,
+      "end": 856.59
+    },
+    {
+      "index": 255,
+      "text": "on that and we're gonna uncheck this you",
+      "start": 851.7,
+      "duration": 6.11,
+      "end": 857.8100000000001
+    },
+    {
+      "index": 256,
+      "text": "can if you want",
+      "start": 856.59,
+      "duration": 5.01,
+      "end": 861.6
+    },
+    {
+      "index": 257,
+      "text": "I usually just uncheck it cuz I would I",
+      "start": 857.81,
+      "duration": 7.66,
+      "end": 865.4699999999999
+    },
+    {
+      "index": 258,
+      "text": "don't want it to auto adjust and here we",
+      "start": 861.6,
+      "duration": 5.43,
+      "end": 867.03
+    },
+    {
+      "index": 259,
+      "text": "can also add a soffit",
+      "start": 865.47,
+      "duration": 4.35,
+      "end": 869.82
+    },
+    {
+      "index": 260,
+      "text": "which would look something like this we",
+      "start": 867.03,
+      "duration": 4.71,
+      "end": 871.74
+    },
+    {
+      "index": 261,
+      "text": "could actually create our own soffit",
+      "start": 869.82,
+      "duration": 5.04,
+      "end": 874.86
+    },
+    {
+      "index": 262,
+      "text": "profile and add it inside here just like",
+      "start": 871.74,
+      "duration": 6.51,
+      "end": 878.25
+    },
+    {
+      "index": 263,
+      "text": "we did with the fascia profile alright",
+      "start": 874.86,
+      "duration": 5.64,
+      "end": 880.5
+    },
+    {
+      "index": 264,
+      "text": "once that is done guys that's it you hit",
+      "start": 878.25,
+      "duration": 6.9,
+      "end": 885.15
+    },
+    {
+      "index": 265,
+      "text": "OK and now we need to add that fascia",
+      "start": 880.5,
+      "duration": 7.56,
+      "end": 888.06
+    },
+    {
+      "index": 266,
+      "text": "board to the edge of these roof all",
+      "start": 885.15,
+      "duration": 4.38,
+      "end": 889.53
+    },
+    {
+      "index": 267,
+      "text": "right so that's what we're gonna do I'm",
+      "start": 888.06,
+      "duration": 5.22,
+      "end": 893.28
+    },
+    {
+      "index": 268,
+      "text": "gonna do this box so I'm gonna go to 3d",
+      "start": 889.53,
+      "duration": 7.2,
+      "end": 896.73
+    },
+    {
+      "index": 269,
+      "text": "so that you can see see it as it",
+      "start": 893.28,
+      "duration": 6.44,
+      "end": 899.72
+    },
+    {
+      "index": 270,
+      "text": "happened all right",
+      "start": 896.73,
+      "duration": 7.13,
+      "end": 903.86
+    },
+    {
+      "index": 271,
+      "text": "first age I'm gonna do is this one so",
+      "start": 899.72,
+      "duration": 6.059,
+      "end": 905.779
+    },
+    {
+      "index": 272,
+      "text": "this particle this side of the roof has",
+      "start": 903.86,
+      "duration": 5.07,
+      "end": 908.9300000000001
+    },
+    {
+      "index": 273,
+      "text": "three edges and we want to add it to",
+      "start": 905.779,
+      "duration": 5.401,
+      "end": 911.18
+    },
+    {
+      "index": 274,
+      "text": "this edge right here so we're gonna",
+      "start": 908.93,
+      "duration": 4.349,
+      "end": 913.279
+    },
+    {
+      "index": 275,
+      "text": "click on that roof and we're gonna go to",
+      "start": 911.18,
+      "duration": 6.709,
+      "end": 917.8889999999999
+    },
+    {
+      "index": 276,
+      "text": "edges over here and we want to change",
+      "start": 913.279,
+      "duration": 10.201,
+      "end": 923.48
+    },
+    {
+      "index": 277,
+      "text": "the first edge style to the one that we",
+      "start": 917.889,
+      "duration": 7.57,
+      "end": 925.4590000000001
+    },
+    {
+      "index": 278,
+      "text": "create okay",
+      "start": 923.48,
+      "duration": 7.5,
+      "end": 930.98
+    },
+    {
+      "index": 279,
+      "text": "just like that okay now it has a fascia",
+      "start": 925.459,
+      "duration": 8.641,
+      "end": 934.0999999999999
+    },
+    {
+      "index": 280,
+      "text": "board on it can you see that going to do",
+      "start": 930.98,
+      "duration": 5.959,
+      "end": 936.939
+    },
+    {
+      "index": 281,
+      "text": "the same thing for this one",
+      "start": 934.1,
+      "duration": 2.839,
+      "end": 936.9390000000001
+    },
+    {
+      "index": 282,
+      "text": "edge go to the first one add the fascia",
+      "start": 938.1,
+      "duration": 10.89,
+      "end": 948.99
+    },
+    {
+      "index": 283,
+      "text": "board to it we're gonna do the same",
+      "start": 947.459,
+      "duration": 10.38,
+      "end": 957.8389999999999
+    },
+    {
+      "index": 284,
+      "text": "thing around here edge finish the board",
+      "start": 948.99,
+      "duration": 13.789,
+      "end": 962.779
+    },
+    {
+      "index": 285,
+      "text": "just like that",
+      "start": 957.839,
+      "duration": 8.581,
+      "end": 966.4200000000001
+    },
+    {
+      "index": 286,
+      "text": "I'm in for the last one which is this",
+      "start": 962.779,
+      "duration": 6.55,
+      "end": 969.329
+    },
+    {
+      "index": 287,
+      "text": "guy right here I'm gonna do the same",
+      "start": 966.42,
+      "duration": 12.32,
+      "end": 978.74
+    },
+    {
+      "index": 288,
+      "text": "thing yep yep just like that so now all",
+      "start": 969.329,
+      "duration": 15.211,
+      "end": 984.54
+    },
+    {
+      "index": 289,
+      "text": "four edges of our roof has the fascia",
+      "start": 978.74,
+      "duration": 9.75,
+      "end": 988.49
+    },
+    {
+      "index": 290,
+      "text": "board added to it let me go perspective",
+      "start": 984.54,
+      "duration": 7.2,
+      "end": 991.74
+    },
+    {
+      "index": 291,
+      "text": "alright so there we can see that our",
+      "start": 988.49,
+      "duration": 5.38,
+      "end": 993.87
+    },
+    {
+      "index": 292,
+      "text": "roof is now complete",
+      "start": 991.74,
+      "duration": 5.49,
+      "end": 997.23
+    },
+    {
+      "index": 293,
+      "text": "now there's one thing that I also wanted",
+      "start": 993.87,
+      "duration": 8.19,
+      "end": 1002.0600000000001
+    },
+    {
+      "index": 294,
+      "text": "to do which was to make this wall in the",
+      "start": 997.23,
+      "duration": 9.24,
+      "end": 1006.47
+    },
+    {
+      "index": 295,
+      "text": "middle let me show you this wall I want",
+      "start": 1002.06,
+      "duration": 9.24,
+      "end": 1011.3
+    },
+    {
+      "index": 296,
+      "text": "to make this wall so that it goes all",
+      "start": 1006.47,
+      "duration": 7.289,
+      "end": 1013.759
+    },
+    {
+      "index": 297,
+      "text": "the way up underneath this roof to",
+      "start": 1011.3,
+      "duration": 4.769,
+      "end": 1016.069
+    },
+    {
+      "index": 298,
+      "text": "support the roof we don't have to do it",
+      "start": 1013.759,
+      "duration": 4.471,
+      "end": 1018.23
+    },
+    {
+      "index": 299,
+      "text": "but I just want to show you how to get",
+      "start": 1016.069,
+      "duration": 5.041,
+      "end": 1021.11
+    },
+    {
+      "index": 300,
+      "text": "that done okay and the same principle",
+      "start": 1018.23,
+      "duration": 5.219,
+      "end": 1023.4490000000001
+    },
+    {
+      "index": 301,
+      "text": "would apply if we're using a gable roof",
+      "start": 1021.11,
+      "duration": 6.41,
+      "end": 1027.52
+    },
+    {
+      "index": 302,
+      "text": "where if the roof goes up in goes up",
+      "start": 1023.449,
+      "duration": 7.89,
+      "end": 1031.339
+    },
+    {
+      "index": 303,
+      "text": "like a gable roof you would need this",
+      "start": 1027.52,
+      "duration": 6.88,
+      "end": 1034.4
+    },
+    {
+      "index": 304,
+      "text": "wall to go up underneath that roof and",
+      "start": 1031.339,
+      "duration": 6.72,
+      "end": 1038.059
+    },
+    {
+      "index": 305,
+      "text": "it's pretty simple alright so what we're",
+      "start": 1034.4,
+      "duration": 5.189,
+      "end": 1039.5890000000002
+    },
+    {
+      "index": 306,
+      "text": "gonna do is to click on the wall like",
+      "start": 1038.059,
+      "duration": 3.6,
+      "end": 1041.6589999999999
+    },
+    {
+      "index": 307,
+      "text": "just like that now we're gonna go up",
+      "start": 1039.589,
+      "duration": 6.33,
+      "end": 1045.9189999999999
+    },
+    {
+      "index": 308,
+      "text": "here where it says where is it roof line",
+      "start": 1041.659,
+      "duration": 8.961,
+      "end": 1050.6200000000001
+    },
+    {
+      "index": 309,
+      "text": "and we're gonna see modify roof no",
+      "start": 1045.919,
+      "duration": 7.62,
+      "end": 1053.539
+    },
+    {
+      "index": 310,
+      "text": "modifier roof line if you're not seeing",
+      "start": 1050.62,
+      "duration": 4.6,
+      "end": 1055.2199999999998
+    },
+    {
+      "index": 311,
+      "text": "it here you could actually just right",
+      "start": 1053.539,
+      "duration": 7.231,
+      "end": 1060.77
+    },
+    {
+      "index": 312,
+      "text": "click and go to roof line modify roof",
+      "start": 1055.22,
+      "duration": 8.16,
+      "end": 1063.38
+    },
+    {
+      "index": 313,
+      "text": "line don't you do that we're gonna say",
+      "start": 1060.77,
+      "duration": 6.36,
+      "end": 1067.1299999999999
+    },
+    {
+      "index": 314,
+      "text": "Auto project so I wanted to auto project",
+      "start": 1063.38,
+      "duration": 6.0,
+      "end": 1069.38
+    },
+    {
+      "index": 315,
+      "text": "and we need to select the objects that",
+      "start": 1067.13,
+      "duration": 3.08,
+      "end": 1070.21
+    },
+    {
+      "index": 316,
+      "text": "we want",
+      "start": 1069.38,
+      "duration": 4.13,
+      "end": 1073.5100000000002
+    },
+    {
+      "index": 317,
+      "text": "- project - I wanted to project this",
+      "start": 1070.21,
+      "duration": 9.03,
+      "end": 1079.24
+    },
+    {
+      "index": 318,
+      "text": "wall to this roof rather as well as this",
+      "start": 1073.51,
+      "duration": 8.19,
+      "end": 1081.7
+    },
+    {
+      "index": 319,
+      "text": "one around here so you need to select",
+      "start": 1079.24,
+      "duration": 9.419,
+      "end": 1088.659
+    },
+    {
+      "index": 320,
+      "text": "these two hoops to reflect this one just",
+      "start": 1081.7,
+      "duration": 10.4,
+      "end": 1092.1000000000001
+    },
+    {
+      "index": 321,
+      "text": "like that and then we're gonna hit enter",
+      "start": 1088.659,
+      "duration": 8.37,
+      "end": 1097.029
+    },
+    {
+      "index": 322,
+      "text": "and it's done it's done you can't see it",
+      "start": 1092.1,
+      "duration": 8.949,
+      "end": 1101.049
+    },
+    {
+      "index": 323,
+      "text": "but it's there let me put it in my frame",
+      "start": 1097.029,
+      "duration": 7.53,
+      "end": 1104.559
+    },
+    {
+      "index": 324,
+      "text": "so you can see so now you can see that",
+      "start": 1101.049,
+      "duration": 6.691,
+      "end": 1107.74
+    },
+    {
+      "index": 325,
+      "text": "that wall goes all the way up underneath",
+      "start": 1104.559,
+      "duration": 7.021,
+      "end": 1111.58
+    },
+    {
+      "index": 326,
+      "text": "the roof to support the roof right there",
+      "start": 1107.74,
+      "duration": 6.45,
+      "end": 1114.19
+    },
+    {
+      "index": 327,
+      "text": "in the center okay",
+      "start": 1111.58,
+      "duration": 5.01,
+      "end": 1116.59
+    },
+    {
+      "index": 328,
+      "text": "and we could do the same thing for all",
+      "start": 1114.19,
+      "duration": 4.229,
+      "end": 1118.419
+    },
+    {
+      "index": 329,
+      "text": "the other walls but I just want that",
+      "start": 1116.59,
+      "duration": 5.309,
+      "end": 1121.899
+    },
+    {
+      "index": 330,
+      "text": "particular wall to pop and support",
+      "start": 1118.419,
+      "duration": 7.38,
+      "end": 1125.7990000000002
+    },
+    {
+      "index": 331,
+      "text": "though okay guys so that's it for this",
+      "start": 1121.899,
+      "duration": 7.02,
+      "end": 1128.9189999999999
+    },
+    {
+      "index": 332,
+      "text": "video really I won't be going any",
+      "start": 1125.799,
+      "duration": 5.85,
+      "end": 1131.649
+    },
+    {
+      "index": 333,
+      "text": "further here believing it right there",
+      "start": 1128.919,
+      "duration": 5.101,
+      "end": 1134.0200000000002
+    },
+    {
+      "index": 334,
+      "text": "but for now this is what we're going to",
+      "start": 1131.649,
+      "duration": 7.081,
+      "end": 1138.7299999999998
+    },
+    {
+      "index": 335,
+      "text": "do for the 3d aspect of things okay so",
+      "start": 1134.02,
+      "duration": 7.7,
+      "end": 1141.72
+    },
+    {
+      "index": 336,
+      "text": "that's it",
+      "start": 1138.73,
+      "duration": 2.99,
+      "end": 1141.72
+    },
+    {
+      "index": 337,
+      "text": "[Music]",
+      "start": 1143.27,
+      "duration": 5.1,
+      "end": 1148.37
+    },
+    {
+      "index": 338,
+      "text": "if I turn the roof off you can actually",
+      "start": 1145.6,
+      "duration": 6.19,
+      "end": 1151.79
+    },
+    {
+      "index": 339,
+      "text": "see what it looks like without the roof",
+      "start": 1148.37,
+      "duration": 10.11,
+      "end": 1158.4799999999998
+    },
+    {
+      "index": 340,
+      "text": "so this wall would go all the way how",
+      "start": 1151.79,
+      "duration": 9.29,
+      "end": 1161.08
+    },
+    {
+      "index": 341,
+      "text": "beautiful",
+      "start": 1158.48,
+      "duration": 2.6,
+      "end": 1161.08
+    },
+    {
+      "index": 342,
+      "text": "[Music]",
+      "start": 1169.36,
+      "duration": 3.77,
+      "end": 1173.1299999999999
+    },
+    {
+      "index": 343,
+      "text": "[Music]",
+      "start": 1175.8,
+      "duration": 6.23,
+      "end": 1182.03
+    },
+    {
+      "index": 344,
+      "text": "all right and don't forget to hit the",
+      "start": 1183.19,
+      "duration": 7.96,
+      "end": 1191.15
+    },
+    {
+      "index": 345,
+      "text": "Save button and also don't forget to eat",
+      "start": 1185.6,
+      "duration": 9.0,
+      "end": 1194.6
+    },
+    {
+      "index": 346,
+      "text": "like but alright guys so thank you for",
+      "start": 1191.15,
+      "duration": 4.8,
+      "end": 1195.95
+    },
+    {
+      "index": 347,
+      "text": "joining me today if you have any",
+      "start": 1194.6,
+      "duration": 3.42,
+      "end": 1198.02
+    },
+    {
+      "index": 348,
+      "text": "questions that are as usual drop them in",
+      "start": 1195.95,
+      "duration": 3.12,
+      "end": 1199.07
+    },
+    {
+      "index": 349,
+      "text": "the comments we'll have a discussion",
+      "start": 1198.02,
+      "duration": 4.38,
+      "end": 1202.4
+    },
+    {
+      "index": 350,
+      "text": "about it and feel free to share like",
+      "start": 1199.07,
+      "duration": 6.84,
+      "end": 1205.9099999999999
+    },
+    {
+      "index": 351,
+      "text": "subscribe and see you guys in the next",
+      "start": 1202.4,
+      "duration": 5.75,
+      "end": 1208.15
+    },
+    {
+      "index": 352,
+      "text": "video",
+      "start": 1205.91,
+      "duration": 2.24,
+      "end": 1208.15
+    },
+    {
+      "index": 353,
+      "text": "[Music]",
+      "start": 1209.44,
+      "duration": 10.049,
+      "end": 1219.489
+    }
+  ],
+  "full_text": "hi so this is episode 9 of our one-bedroom house series and today we're gonna start working on our roof plan design so if you notice in each episode as we progress on this project things start to get a little bit more technical and guess what this video is not an exception so you're gonna get into some deeper stuff but don't worry it's not that if you go when you break it down simply enough all right so without further ado let's get into it all right so we're going to be modeling a hip roof for this house and of course there are many types of roof as you can see in this picture right here but we're sticking with probably the most popular and second most basic roof of our design which is the hip roof following right behind the gable roof design it is important to note those that AutoCAD does not have the ability to auto generate a timber roof framing structure something that looks like this which would include like each rafter each truss and each roof member like the ridge board and the hip rafters and all of that now there are other software's like archicad our chief architect that has the ability to do this AutoCAD is just not one of those software however what AutoCAD is capable of doing is to model a profile of the roof that looks something like this now this is a lot to model this is very detail so I would rather to simplify it to something that looks more like this which is what we're going to be modeling in this drawing today the reason for doing this is so that when we create our sectional views we would be able to see the profile and all the materials that are present in the roof all right so with that said let's get into the video so the first thing we're going to be doing here is to go back to our plan view top 2d wireframe now we need to find the roof tool which is actually right here under the Home tab so you could go down and click on a roof or we could go to the tool pallet and simply select it down here as well we're gonna go ahead and click on the tool and the first thing we're gonna do is to draw a random roof outside here it doesn't matter the shape or the size just draw something so no good time to practice so just click 1 2 3 4 something that looks like that good enough and what we're gonna do is to convert this roof so this is considered a layout of the roof it's actually not the roof as yet so what we're going to do to convert this by clicking on this button and we're converting it from what it is to a standard slab and we're gonna erase this geometry so we're gonna hit OK and this is what the standard roof slab looks like what we're doing really is to create the profile first before we actually put it on the house so that's why we're doing this random one outside here so we're gonna click on one of these roof slab and we're gonna copy style this is how we create our own profile by copying one and modifying it so we're copying that style we're gonna change the name to no standard roof profile you could be more detailed of course but I'm just gonna do that for this demonstration I'm gonna drag this up so we can see what we're looking at all right so we're gonna make our profile look like what we have on the left side of the screen so we should have a rafter at the bottom we should have this arcing in the middle and a roof covering at the top okay so that's what we want to see here so far we only have one material which is this down here we need to have some more so we're gonna add them up here so this one we're gonna change the name to rafters or rafter and the thickness of the rafter should be what six inches make that zero click and we're gonna make the offset to be zero as well and so now as we make changes we can see the difference down here so far we have the rafter on top of the the this zero line I actually want a rafter to be in a negative side so we're gonna just turn this six into a minus six and boom just like that the rafter is now inside of the negative portion okay and it says zero here that's because it is also resting on the zero line so we're gonna add our second material by clicking on the add component button here the second one we're gonna call it the psyching and the psyching is how thick three and a quarter inch this time it's going to be on the positive side so we don't need a negative before it so now you can see it popping up on top of there after just like that I'm gonna add our third one which would be the roof covering and we're giving the roof covering a thickness of three inches three inches it can be two inches as well or depending on the roof covering that you're using so the typical zinc or galvanized sheet would be more than like two inches and we wanted to start on top of the circle which is already three three quarters so we need to write the 3/4 here as well so we have oops let's go back to the front view so we have the rafters below six inches thick to the zero mark then we have the sacking from zero to three quarters and we have the roof covering starting at the 3/4 up to the three inches and that's it we're gonna hit OK and we're good to go so now we can go ahead and draw our roof on top of this so we're gonna go ahead and click here and we're gonna go and go to roof and just go ahead and draw your alright so we're gonna click the first corner here and we always draw the roof on the exterior of the wall and the roof should always be on a load-bearing wall so all of these walls on this house are load-bearing so we're good click here back down to the third corner and as we draw you can see the roof coming together I'm gonna click over here and that's about it we can hit enter so now you can see that we have a nice hip roof on top of the house we can make this a gable roof if we want we could just click on it like that and drag these points outwards like so all right so now this side becomes gable and of course we could make this side gable as well by pulling it out like that all right what we're gonna be using the hip style roof so I undo that back to the hip roof I'm gonna go to the front view like so by the way let's delete this we don't need this anymore all right so we go back to the front view and I want to just show you a couple of things here let me put this in right so we can change a couple of things about this roof after the fact we can actually change the thickness of the roof which would be how thick the roof is we could change the edge cut which is the cut of the edge from square to plum and plum is what looks like this I mean you know the regular stuff but I'm gonna leave it on square the Metallica stand the overhang is 1 foot which is usually what we use in Jamaica so the overhang is from the edge of the wall to where the roof ends okay and we have the plate height and in order for me to show you the plate height I'm gonna have to go back into the 2d the plate ad is right where the wall meets the roof okay so right here is the plate height so the plate right as you can see is 10 feet which is the same height of the wall so the wall is also 10 feet tall we need the roof to sit exactly on top of the wall just like that so the plate height also need to be 10 feet and then finally we can change the slope of the roof if we want we can make it 45 degrees and of course the more degrees you add the higher the roof will get so we don't want to do that but they're not trying to bring it down to 30 degrees and it should look something like that so once you're satisfied with how the roof is laid out then we're gonna go back to our top view to D and we're satisfied with how the roof is laid out now is the time to convert the roof okay you do not convert if you're not satisfied so we're satisfied we're gonna convert and you know this is where we would select the one that we had created earlier so we're gonna sneak that we're gonna hear hit the erase button to erase this one I'm gonna say okay and just like that if I should go to 3d we can see that our roof is now the one that we did it has the profile it has the rafter down here it has the Tsar king and it also has the roof covering on top of it okay and yeah that's that's what we want put it in x-ray so we can see it a little better so what we're gonna do next is to add a fascia board on on the edge of these roof okay so let's go back to top view 2d and our fascia board should be 1 inch by 10 inch so what we're gonna do is to draw a box anywhere somewhere polyline that box should measure 1 inches by 10 inches of course you have different size fascia boards so you'd go ahead and draw the one that you would prefer gonna click close the box and we're going to click on the box and we're going to right click and go down to convert to profile definition just like that it says here select your insertion point so we're gonna select the top left corner as the insertion point then it says do we want to create a new one or add it to an existing one we want to create any one now we're gonna call this standard 1 by 10 fascia profile okay and just like that we can now add it to the edge of our roof so how do we do that we're gonna click on this go to edit style we're gonna go down to roof slab edge style so modifying the edge of the roof and we need to get it inside of here okay so it's pretty simple we're gonna copy this one and we're gonna paste it and we're gonna rename it to standard one by ten fish proof you can add a description if you want and then we go to default and we would turn these off go over to design rules and then we're gonna add the fascia okay so we check it and we go and select the one that we just create so we're gonna click on that and we're gonna uncheck this you can if you want I usually just uncheck it cuz I would I don't want it to auto adjust and here we can also add a soffit which would look something like this we could actually create our own soffit profile and add it inside here just like we did with the fascia profile alright once that is done guys that's it you hit OK and now we need to add that fascia board to the edge of these roof all right so that's what we're gonna do I'm gonna do this box so I'm gonna go to 3d so that you can see see it as it happened all right first age I'm gonna do is this one so this particle this side of the roof has three edges and we want to add it to this edge right here so we're gonna click on that roof and we're gonna go to edges over here and we want to change the first edge style to the one that we create okay just like that okay now it has a fascia board on it can you see that going to do the same thing for this one edge go to the first one add the fascia board to it we're gonna do the same thing around here edge finish the board just like that I'm in for the last one which is this guy right here I'm gonna do the same thing yep yep just like that so now all four edges of our roof has the fascia board added to it let me go perspective alright so there we can see that our roof is now complete now there's one thing that I also wanted to do which was to make this wall in the middle let me show you this wall I want to make this wall so that it goes all the way up underneath this roof to support the roof we don't have to do it but I just want to show you how to get that done okay and the same principle would apply if we're using a gable roof where if the roof goes up in goes up like a gable roof you would need this wall to go up underneath that roof and it's pretty simple alright so what we're gonna do is to click on the wall like just like that now we're gonna go up here where it says where is it roof line and we're gonna see modify roof no modifier roof line if you're not seeing it here you could actually just right click and go to roof line modify roof line don't you do that we're gonna say Auto project so I wanted to auto project and we need to select the objects that we want - project - I wanted to project this wall to this roof rather as well as this one around here so you need to select these two hoops to reflect this one just like that and then we're gonna hit enter and it's done it's done you can't see it but it's there let me put it in my frame so you can see so now you can see that that wall goes all the way up underneath the roof to support the roof right there in the center okay and we could do the same thing for all the other walls but I just want that particular wall to pop and support though okay guys so that's it for this video really I won't be going any further here believing it right there but for now this is what we're going to do for the 3d aspect of things okay so that's it [Music] if I turn the roof off you can actually see what it looks like without the roof so this wall would go all the way how beautiful [Music] [Music] all right and don't forget to hit the Save button and also don't forget to eat like but alright guys so thank you for joining me today if you have any questions that are as usual drop them in the comments we'll have a discussion about it and feel free to share like subscribe and see you guys in the next video [Music]",
+  "total_segments": 354,
+  "total_duration": 1219.489,
+  "extraction_timestamp": "2025-07-11T13:16:33.846463",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct",
+  "reused_from": "storage\\AutoCAD Architecture 2023 Tutorial_v3\\ROOF PLAN in AutoCAD Architect\\youtube_extracted_data\\transcripts\\b_x77UL4gRo_20250711_131633_transcript.json",
+  "reused_timestamp": "2025-07-11T16:12:25.919660"
+}

@@ -1,0 +1,2301 @@
+{
+  "video_id": "dW01WAGco-Y",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "[Music]",
+      "start": 0.78,
+      "duration": 3.809,
+      "end": 4.589
+    },
+    {
+      "index": 1,
+      "text": "[Music]",
+      "start": 6.98,
+      "duration": 21.58,
+      "end": 28.56
+    },
+    {
+      "index": 2,
+      "text": "hi everyone thank you for joining me on",
+      "start": 25.73,
+      "duration": 5.799,
+      "end": 31.529
+    },
+    {
+      "index": 3,
+      "text": "episode number three for one bedroom",
+      "start": 28.56,
+      "duration": 6.24,
+      "end": 34.8
+    },
+    {
+      "index": 4,
+      "text": "series in the previous video we learned",
+      "start": 31.529,
+      "duration": 6.081,
+      "end": 37.61
+    },
+    {
+      "index": 5,
+      "text": "how to set up our project in ArchiCAD",
+      "start": 34.8,
+      "duration": 5.88,
+      "end": 40.68
+    },
+    {
+      "index": 6,
+      "text": "using the project browser and project",
+      "start": 37.61,
+      "duration": 6.46,
+      "end": 44.07
+    },
+    {
+      "index": 7,
+      "text": "navigator alright so if you missed that",
+      "start": 40.68,
+      "duration": 5.85,
+      "end": 46.53
+    },
+    {
+      "index": 8,
+      "text": "episode you need to watch it click the",
+      "start": 44.07,
+      "duration": 4.35,
+      "end": 48.42
+    },
+    {
+      "index": 9,
+      "text": "link up there or click the link down",
+      "start": 46.53,
+      "duration": 4.14,
+      "end": 50.67
+    },
+    {
+      "index": 10,
+      "text": "there because it's important that you",
+      "start": 48.42,
+      "duration": 3.99,
+      "end": 52.410000000000004
+    },
+    {
+      "index": 11,
+      "text": "understand how to set up your project",
+      "start": 50.67,
+      "duration": 5.67,
+      "end": 56.34
+    },
+    {
+      "index": 12,
+      "text": "before we move into the more exciting",
+      "start": 52.41,
+      "duration": 9.51,
+      "end": 61.919999999999995
+    },
+    {
+      "index": 13,
+      "text": "stuff you're I'm saying yeah so in the",
+      "start": 56.34,
+      "duration": 7.95,
+      "end": 64.29
+    },
+    {
+      "index": 14,
+      "text": "previous video we learned how to set up",
+      "start": 61.92,
+      "duration": 5.58,
+      "end": 67.5
+    },
+    {
+      "index": 15,
+      "text": "our projects using the project browser",
+      "start": 64.29,
+      "duration": 6.66,
+      "end": 70.95
+    },
+    {
+      "index": 16,
+      "text": "which is it's little about right here",
+      "start": 67.5,
+      "duration": 7.53,
+      "end": 75.03
+    },
+    {
+      "index": 17,
+      "text": "and also the project navigator alright",
+      "start": 70.95,
+      "duration": 6.39,
+      "end": 77.34
+    },
+    {
+      "index": 18,
+      "text": "because if you look over here this is",
+      "start": 75.03,
+      "duration": 5.19,
+      "end": 80.22
+    },
+    {
+      "index": 19,
+      "text": "what we did we went through we set our",
+      "start": 77.34,
+      "duration": 5.849,
+      "end": 83.18900000000001
+    },
+    {
+      "index": 20,
+      "text": "project settings we did our levels and",
+      "start": 80.22,
+      "duration": 7.079,
+      "end": 87.29899999999999
+    },
+    {
+      "index": 21,
+      "text": "we also did our divisions alright so you",
+      "start": 83.189,
+      "duration": 6.741,
+      "end": 89.92999999999999
+    },
+    {
+      "index": 22,
+      "text": "can't afford to miss that alright so",
+      "start": 87.299,
+      "duration": 4.741,
+      "end": 92.04
+    },
+    {
+      "index": 23,
+      "text": "today is gonna be a little bit more",
+      "start": 89.93,
+      "duration": 3.82,
+      "end": 93.75
+    },
+    {
+      "index": 24,
+      "text": "interesting because now we're going to",
+      "start": 92.04,
+      "duration": 5.399,
+      "end": 97.43900000000001
+    },
+    {
+      "index": 25,
+      "text": "move to our constructs and this is where",
+      "start": 93.75,
+      "duration": 7.14,
+      "end": 100.89
+    },
+    {
+      "index": 26,
+      "text": "we're gonna start to do actual drawing",
+      "start": 97.439,
+      "duration": 6.841,
+      "end": 104.27999999999999
+    },
+    {
+      "index": 27,
+      "text": "all right now as you can see I have two",
+      "start": 100.89,
+      "duration": 6.78,
+      "end": 107.67
+    },
+    {
+      "index": 28,
+      "text": "of the constructs open up here we have",
+      "start": 104.28,
+      "duration": 6.69,
+      "end": 110.97
+    },
+    {
+      "index": 29,
+      "text": "the foundation and we also have the",
+      "start": 107.67,
+      "duration": 6.72,
+      "end": 114.39
+    },
+    {
+      "index": 30,
+      "text": "ground floor which you can actually see",
+      "start": 110.97,
+      "duration": 7.23,
+      "end": 118.2
+    },
+    {
+      "index": 31,
+      "text": "them over here alright so we would draw",
+      "start": 114.39,
+      "duration": 7.32,
+      "end": 121.71000000000001
+    },
+    {
+      "index": 32,
+      "text": "our ground floor in this drawing and we",
+      "start": 118.2,
+      "duration": 6.36,
+      "end": 124.56
+    },
+    {
+      "index": 33,
+      "text": "will draw our foundation in this drawing",
+      "start": 121.71,
+      "duration": 6.9,
+      "end": 128.60999999999999
+    },
+    {
+      "index": 34,
+      "text": "but before we do any of these drawings",
+      "start": 124.56,
+      "duration": 8.95,
+      "end": 133.51
+    },
+    {
+      "index": 35,
+      "text": "what we want to draw first is our grid",
+      "start": 128.61,
+      "duration": 7.18,
+      "end": 135.79000000000002
+    },
+    {
+      "index": 36,
+      "text": "all right so today's video is about",
+      "start": 133.51,
+      "duration": 5.25,
+      "end": 138.76
+    },
+    {
+      "index": 37,
+      "text": "gridlines how do we draw or unset up our",
+      "start": 135.79,
+      "duration": 6.54,
+      "end": 142.32999999999998
+    },
+    {
+      "index": 38,
+      "text": "grid lines now for those of you who",
+      "start": 138.76,
+      "duration": 5.85,
+      "end": 144.60999999999999
+    },
+    {
+      "index": 39,
+      "text": "don't know what grid lines are grid",
+      "start": 142.33,
+      "duration": 4.59,
+      "end": 146.92000000000002
+    },
+    {
+      "index": 40,
+      "text": "lines are also commonly referred as",
+      "start": 144.61,
+      "duration": 6.93,
+      "end": 151.54000000000002
+    },
+    {
+      "index": 41,
+      "text": "column grids okay now most times column",
+      "start": 146.92,
+      "duration": 7.71,
+      "end": 154.63
+    },
+    {
+      "index": 42,
+      "text": "grids are used on large buildings where",
+      "start": 151.54,
+      "duration": 5.49,
+      "end": 157.03
+    },
+    {
+      "index": 43,
+      "text": "there's a lot of columns throughout the",
+      "start": 154.63,
+      "duration": 4.439,
+      "end": 159.069
+    },
+    {
+      "index": 44,
+      "text": "building so take for instance this",
+      "start": 157.03,
+      "duration": 3.959,
+      "end": 160.989
+    },
+    {
+      "index": 45,
+      "text": "building right all right",
+      "start": 159.069,
+      "duration": 5.371,
+      "end": 164.44
+    },
+    {
+      "index": 46,
+      "text": "this building has quite a few columns",
+      "start": 160.989,
+      "duration": 6.661,
+      "end": 167.65
+    },
+    {
+      "index": 47,
+      "text": "throughout it all right now can you",
+      "start": 164.44,
+      "duration": 6.09,
+      "end": 170.53
+    },
+    {
+      "index": 48,
+      "text": "identify any of the columns in this",
+      "start": 167.65,
+      "duration": 6.839,
+      "end": 174.489
+    },
+    {
+      "index": 49,
+      "text": "building of course you can all right you",
+      "start": 170.53,
+      "duration": 6.63,
+      "end": 177.16
+    },
+    {
+      "index": 50,
+      "text": "can see one here and there but what if I",
+      "start": 174.489,
+      "duration": 5.731,
+      "end": 180.22
+    },
+    {
+      "index": 51,
+      "text": "were to add some column grids to it like",
+      "start": 177.16,
+      "duration": 7.29,
+      "end": 184.45
+    },
+    {
+      "index": 52,
+      "text": "that now you're able to identify each",
+      "start": 180.22,
+      "duration": 7.68,
+      "end": 187.9
+    },
+    {
+      "index": 53,
+      "text": "column by name so for instance if I say",
+      "start": 184.45,
+      "duration": 7.44,
+      "end": 191.89
+    },
+    {
+      "index": 54,
+      "text": "to you where is column f1 you'll be able",
+      "start": 187.9,
+      "duration": 7.44,
+      "end": 195.34
+    },
+    {
+      "index": 55,
+      "text": "to locate column f1 if I say where is",
+      "start": 191.89,
+      "duration": 7.469,
+      "end": 199.35899999999998
+    },
+    {
+      "index": 56,
+      "text": "column a tube we'll be able to locate",
+      "start": 195.34,
+      "duration": 8.519,
+      "end": 203.859
+    },
+    {
+      "index": 57,
+      "text": "column a2 and so now you can start to",
+      "start": 199.359,
+      "duration": 8.401,
+      "end": 207.76000000000002
+    },
+    {
+      "index": 58,
+      "text": "appreciate significance of column grids",
+      "start": 203.859,
+      "duration": 6.331,
+      "end": 210.19
+    },
+    {
+      "index": 59,
+      "text": "throughout a building all right",
+      "start": 207.76,
+      "duration": 5.52,
+      "end": 213.28
+    },
+    {
+      "index": 60,
+      "text": "it helps to layout your columns and it",
+      "start": 210.19,
+      "duration": 7.5,
+      "end": 217.69
+    },
+    {
+      "index": 61,
+      "text": "also help you to locate columns all",
+      "start": 213.28,
+      "duration": 6.78,
+      "end": 220.06
+    },
+    {
+      "index": 62,
+      "text": "right now there are many more advantages",
+      "start": 217.69,
+      "duration": 5.22,
+      "end": 222.91
+    },
+    {
+      "index": 63,
+      "text": "of column grids but we're gonna stick to",
+      "start": 220.06,
+      "duration": 5.61,
+      "end": 225.67000000000002
+    },
+    {
+      "index": 64,
+      "text": "those two for today all right",
+      "start": 222.91,
+      "duration": 6.449,
+      "end": 229.359
+    },
+    {
+      "index": 65,
+      "text": "so what would a column grid look like",
+      "start": 225.67,
+      "duration": 6.42,
+      "end": 232.08999999999997
+    },
+    {
+      "index": 66,
+      "text": "for a one bedroom house like the one",
+      "start": 229.359,
+      "duration": 5.19,
+      "end": 234.549
+    },
+    {
+      "index": 67,
+      "text": "that we're about to do now it would look",
+      "start": 232.09,
+      "duration": 3.54,
+      "end": 235.63
+    },
+    {
+      "index": 68,
+      "text": "something like this",
+      "start": 234.549,
+      "duration": 4.711,
+      "end": 239.26000000000002
+    },
+    {
+      "index": 69,
+      "text": "all right of course a tiny bedroom house",
+      "start": 235.63,
+      "duration": 8.57,
+      "end": 244.2
+    },
+    {
+      "index": 70,
+      "text": "like this doesn't need column grids but",
+      "start": 239.26,
+      "duration": 8.64,
+      "end": 247.89999999999998
+    },
+    {
+      "index": 71,
+      "text": "this way you will be able to apply these",
+      "start": 244.2,
+      "duration": 7.18,
+      "end": 251.38
+    },
+    {
+      "index": 72,
+      "text": "principles to your larger projects okay",
+      "start": 247.9,
+      "duration": 6.33,
+      "end": 254.23000000000002
+    },
+    {
+      "index": 73,
+      "text": "guys so what we're gonna do is to open",
+      "start": 251.38,
+      "duration": 7.02,
+      "end": 258.4
+    },
+    {
+      "index": 74,
+      "text": "up our grid line drawing so what we're",
+      "start": 254.23,
+      "duration": 5.58,
+      "end": 259.81
+    },
+    {
+      "index": 75,
+      "text": "going to do so just open it like that",
+      "start": 258.4,
+      "duration": 4.31,
+      "end": 262.71
+    },
+    {
+      "index": 76,
+      "text": "and it is in this project or this",
+      "start": 259.81,
+      "duration": 5.15,
+      "end": 264.96
+    },
+    {
+      "index": 77,
+      "text": "drawing that we're gonna do",
+      "start": 262.71,
+      "duration": 5.82,
+      "end": 268.53
+    },
+    {
+      "index": 78,
+      "text": "gridlines of course we could go ahead",
+      "start": 264.96,
+      "duration": 6.29,
+      "end": 271.25
+    },
+    {
+      "index": 79,
+      "text": "and start to just draw our grid lines",
+      "start": 268.53,
+      "duration": 7.259,
+      "end": 275.789
+    },
+    {
+      "index": 80,
+      "text": "starting at the zero zero point here but",
+      "start": 271.25,
+      "duration": 8.47,
+      "end": 279.72
+    },
+    {
+      "index": 81,
+      "text": "I want to start mine somewhere up here",
+      "start": 275.789,
+      "duration": 6.511,
+      "end": 282.3
+    },
+    {
+      "index": 82,
+      "text": "so our grid line will take up this space",
+      "start": 279.72,
+      "duration": 6.63,
+      "end": 286.35
+    },
+    {
+      "index": 83,
+      "text": "here so what I'm gonna do is to draw a",
+      "start": 282.3,
+      "duration": 8.88,
+      "end": 291.18
+    },
+    {
+      "index": 84,
+      "text": "line from 0 0 up at a 45 degree angle so",
+      "start": 286.35,
+      "duration": 7.439,
+      "end": 293.78900000000004
+    },
+    {
+      "index": 85,
+      "text": "let's click on our line tool and I'm",
+      "start": 291.18,
+      "duration": 6.329,
+      "end": 297.509
+    },
+    {
+      "index": 86,
+      "text": "gonna type it says here specify your",
+      "start": 293.789,
+      "duration": 6.321,
+      "end": 300.11
+    },
+    {
+      "index": 87,
+      "text": "first point I want my first point to be",
+      "start": 297.509,
+      "duration": 7.891,
+      "end": 305.40000000000003
+    },
+    {
+      "index": 88,
+      "text": "0 0 now you can see that man I'm",
+      "start": 300.11,
+      "duration": 9.07,
+      "end": 309.18
+    },
+    {
+      "index": 89,
+      "text": "starting at 0 0 and then I'm gonna draw",
+      "start": 305.4,
+      "duration": 8.01,
+      "end": 313.40999999999997
+    },
+    {
+      "index": 90,
+      "text": "a line at 45 degrees so I'm gonna put",
+      "start": 309.18,
+      "duration": 9.419,
+      "end": 318.599
+    },
+    {
+      "index": 91,
+      "text": "the less than sign 45 enter now my line",
+      "start": 313.41,
+      "duration": 7.939,
+      "end": 321.34900000000005
+    },
+    {
+      "index": 92,
+      "text": "is running on the 45-degree angle",
+      "start": 318.599,
+      "duration": 6.091,
+      "end": 324.69
+    },
+    {
+      "index": 93,
+      "text": "alright so I can't draw another a line",
+      "start": 321.349,
+      "duration": 6.521,
+      "end": 327.87
+    },
+    {
+      "index": 94,
+      "text": "at any other angle because I set it at a",
+      "start": 324.69,
+      "duration": 5.64,
+      "end": 330.33
+    },
+    {
+      "index": 95,
+      "text": "45 degree and then I'm gonna type how",
+      "start": 327.87,
+      "duration": 5.82,
+      "end": 333.69
+    },
+    {
+      "index": 96,
+      "text": "far away do I want it to go so I'm gonna",
+      "start": 330.33,
+      "duration": 11.85,
+      "end": 342.18
+    },
+    {
+      "index": 97,
+      "text": "put 25 feet enter alright so that is",
+      "start": 333.69,
+      "duration": 11.159,
+      "end": 344.849
+    },
+    {
+      "index": 98,
+      "text": "where we're gonna start to draw our grid",
+      "start": 342.18,
+      "duration": 5.43,
+      "end": 347.61
+    },
+    {
+      "index": 99,
+      "text": "lines so our grid lines should take up",
+      "start": 344.849,
+      "duration": 5.31,
+      "end": 350.159
+    },
+    {
+      "index": 100,
+      "text": "this space right there let me minimize",
+      "start": 347.61,
+      "duration": 7.339,
+      "end": 354.949
+    },
+    {
+      "index": 101,
+      "text": "that so we can see a little bit clearer",
+      "start": 350.159,
+      "duration": 7.98,
+      "end": 358.139
+    },
+    {
+      "index": 102,
+      "text": "alright so let's go ahead and draw our",
+      "start": 354.949,
+      "duration": 7.241,
+      "end": 362.19
+    },
+    {
+      "index": 103,
+      "text": "first grid line now we need 4 vertical",
+      "start": 358.139,
+      "duration": 8.25,
+      "end": 366.389
+    },
+    {
+      "index": 104,
+      "text": "lines and two horizontal lines",
+      "start": 362.19,
+      "duration": 6.84,
+      "end": 369.03
+    },
+    {
+      "index": 105,
+      "text": "so our first vertical line is going to",
+      "start": 366.389,
+      "duration": 7.891,
+      "end": 374.28000000000003
+    },
+    {
+      "index": 106,
+      "text": "be drawn upwards now if you notice I",
+      "start": 369.03,
+      "duration": 9.06,
+      "end": 378.09
+    },
+    {
+      "index": 107,
+      "text": "don't have my 90 degrees turned on this",
+      "start": 374.28,
+      "duration": 7.139,
+      "end": 381.419
+    },
+    {
+      "index": 108,
+      "text": "is important because grid lines must be",
+      "start": 378.09,
+      "duration": 5.85,
+      "end": 383.94
+    },
+    {
+      "index": 109,
+      "text": "perfectly straight so you want to turn",
+      "start": 381.419,
+      "duration": 7.861,
+      "end": 389.28
+    },
+    {
+      "index": 110,
+      "text": "this on that way your your your lines",
+      "start": 383.94,
+      "duration": 7.44,
+      "end": 391.38
+    },
+    {
+      "index": 111,
+      "text": "will be perfectly straight all right",
+      "start": 389.28,
+      "duration": 5.49,
+      "end": 394.77
+    },
+    {
+      "index": 112,
+      "text": "line up 90 degrees so let's go ahead and",
+      "start": 391.38,
+      "duration": 5.009,
+      "end": 396.389
+    },
+    {
+      "index": 113,
+      "text": "we're going to draw our first grid line",
+      "start": 394.77,
+      "duration": 2.17,
+      "end": 396.94
+    },
+    {
+      "index": 114,
+      "text": "which",
+      "start": 396.389,
+      "duration": 7.991,
+      "end": 404.38
+    },
+    {
+      "index": 115,
+      "text": "be 16 feet enta now this is what 16 feet",
+      "start": 396.94,
+      "duration": 12.15,
+      "end": 409.09
+    },
+    {
+      "index": 116,
+      "text": "looks like looks let's check it perfect",
+      "start": 404.38,
+      "duration": 9.33,
+      "end": 413.71
+    },
+    {
+      "index": 117,
+      "text": "16 foot and then our next line vertical",
+      "start": 409.09,
+      "duration": 9.96,
+      "end": 419.04999999999995
+    },
+    {
+      "index": 118,
+      "text": "line is 9 feet 6 inches away from this",
+      "start": 413.71,
+      "duration": 5.79,
+      "end": 419.5
+    },
+    {
+      "index": 119,
+      "text": "one",
+      "start": 419.05,
+      "duration": 2.22,
+      "end": 421.27000000000004
+    },
+    {
+      "index": 120,
+      "text": "so what we're going to use is the offset",
+      "start": 419.5,
+      "duration": 5.4,
+      "end": 424.9
+    },
+    {
+      "index": 121,
+      "text": "tool offset how far you want it off of",
+      "start": 421.27,
+      "duration": 9.74,
+      "end": 431.01
+    },
+    {
+      "index": 122,
+      "text": "that would be 9 feet 6 inches enter and",
+      "start": 424.9,
+      "duration": 9.57,
+      "end": 434.46999999999997
+    },
+    {
+      "index": 123,
+      "text": "then we're gonna click on the side that",
+      "start": 431.01,
+      "duration": 5.05,
+      "end": 436.06
+    },
+    {
+      "index": 124,
+      "text": "you want it on so of course we don't",
+      "start": 434.47,
+      "duration": 3.57,
+      "end": 438.04
+    },
+    {
+      "index": 125,
+      "text": "want it on the side we want it on this",
+      "start": 436.06,
+      "duration": 4.49,
+      "end": 440.55
+    },
+    {
+      "index": 126,
+      "text": "side so we're gonna click over there",
+      "start": 438.04,
+      "duration": 6.96,
+      "end": 445.0
+    },
+    {
+      "index": 127,
+      "text": "then though the other line would be 5",
+      "start": 440.55,
+      "duration": 7.09,
+      "end": 447.64
+    },
+    {
+      "index": 128,
+      "text": "foot 6 inches away from this one so",
+      "start": 445.0,
+      "duration": 6.21,
+      "end": 451.21
+    },
+    {
+      "index": 129,
+      "text": "we're going to offset again offset type",
+      "start": 447.64,
+      "duration": 6.48,
+      "end": 454.12
+    },
+    {
+      "index": 130,
+      "text": "in your distance which would be 5 feet 6",
+      "start": 451.21,
+      "duration": 5.67,
+      "end": 456.88
+    },
+    {
+      "index": 131,
+      "text": "inches and then we're gonna just do like",
+      "start": 454.12,
+      "duration": 5.61,
+      "end": 459.73
+    },
+    {
+      "index": 132,
+      "text": "that click over there and then of course",
+      "start": 456.88,
+      "duration": 8.9,
+      "end": 465.78
+    },
+    {
+      "index": 133,
+      "text": "our fourth grid would be offset again 12",
+      "start": 459.73,
+      "duration": 12.3,
+      "end": 472.03000000000003
+    },
+    {
+      "index": 134,
+      "text": "foot are feet 6 inches oh dear we have",
+      "start": 465.78,
+      "duration": 11.23,
+      "end": 477.01
+    },
+    {
+      "index": 135,
+      "text": "it so now we have all 4 vertical lines",
+      "start": 472.03,
+      "duration": 8.49,
+      "end": 480.52
+    },
+    {
+      "index": 136,
+      "text": "no our horizontal lines actually they",
+      "start": 477.01,
+      "duration": 5.85,
+      "end": 482.86
+    },
+    {
+      "index": 137,
+      "text": "are just two and there they would be",
+      "start": 480.52,
+      "duration": 8.22,
+      "end": 488.74
+    },
+    {
+      "index": 138,
+      "text": "exactly at the top and at the bottom of",
+      "start": 482.86,
+      "duration": 8.61,
+      "end": 491.47
+    },
+    {
+      "index": 139,
+      "text": "these lines now of course if you had",
+      "start": 488.74,
+      "duration": 4.74,
+      "end": 493.48
+    },
+    {
+      "index": 140,
+      "text": "some in the middle we would go ahead and",
+      "start": 491.47,
+      "duration": 5.52,
+      "end": 496.99
+    },
+    {
+      "index": 141,
+      "text": "use the offset tool to offset those but",
+      "start": 493.48,
+      "duration": 5.79,
+      "end": 499.27000000000004
+    },
+    {
+      "index": 142,
+      "text": "being that we only have two here we just",
+      "start": 496.99,
+      "duration": 5.31,
+      "end": 502.3
+    },
+    {
+      "index": 143,
+      "text": "need to complete the box there all right",
+      "start": 499.27,
+      "duration": 4.38,
+      "end": 503.65
+    },
+    {
+      "index": 144,
+      "text": "of course we're gonna go ahead and",
+      "start": 502.3,
+      "duration": 3.119,
+      "end": 505.41900000000004
+    },
+    {
+      "index": 145,
+      "text": "delete this because we don't need that",
+      "start": 503.65,
+      "duration": 6.45,
+      "end": 510.09999999999997
+    },
+    {
+      "index": 146,
+      "text": "again this is what we need so what we're",
+      "start": 505.419,
+      "duration": 10.55,
+      "end": 515.9689999999999
+    },
+    {
+      "index": 147,
+      "text": "gonna do next is to extend each line",
+      "start": 510.1,
+      "duration": 5.869,
+      "end": 515.969
+    },
+    {
+      "index": 148,
+      "text": "outwards out of the box about 12 inches",
+      "start": 516.45,
+      "duration": 6.19,
+      "end": 522.6400000000001
+    },
+    {
+      "index": 149,
+      "text": "all right now there are many ways you",
+      "start": 520.27,
+      "duration": 4.2,
+      "end": 524.47
+    },
+    {
+      "index": 150,
+      "text": "can do this but I'm gonna just use a",
+      "start": 522.64,
+      "duration": 3.93,
+      "end": 526.5699999999999
+    },
+    {
+      "index": 151,
+      "text": "very simple way that everybody can",
+      "start": 524.47,
+      "duration": 3.66,
+      "end": 528.13
+    },
+    {
+      "index": 152,
+      "text": "understand so what we're going to do is",
+      "start": 526.57,
+      "duration": 4.34,
+      "end": 530.9100000000001
+    },
+    {
+      "index": 153,
+      "text": "just click on the box here",
+      "start": 528.13,
+      "duration": 6.57,
+      "end": 534.7
+    },
+    {
+      "index": 154,
+      "text": "again ensure that your artha is turned",
+      "start": 530.91,
+      "duration": 7.78,
+      "end": 538.6899999999999
+    },
+    {
+      "index": 155,
+      "text": "on all right click on this box drag it",
+      "start": 534.7,
+      "duration": 9.12,
+      "end": 543.82
+    },
+    {
+      "index": 156,
+      "text": "out and type 12 inches enter okay so",
+      "start": 538.69,
+      "duration": 6.45,
+      "end": 545.1400000000001
+    },
+    {
+      "index": 157,
+      "text": "we're going to do that for all of these",
+      "start": 543.82,
+      "duration": 5.55,
+      "end": 549.37
+    },
+    {
+      "index": 158,
+      "text": "lines drag it out twelve launches all",
+      "start": 545.14,
+      "duration": 6.51,
+      "end": 551.65
+    },
+    {
+      "index": 159,
+      "text": "right so I'm gonna just move a little",
+      "start": 549.37,
+      "duration": 6.93,
+      "end": 556.3
+    },
+    {
+      "index": 160,
+      "text": "quick quickly here so we can speed",
+      "start": 551.65,
+      "duration": 7.32,
+      "end": 558.97
+    },
+    {
+      "index": 161,
+      "text": "through this part I'm gonna do all of",
+      "start": 556.3,
+      "duration": 6.92,
+      "end": 563.2199999999999
+    },
+    {
+      "index": 162,
+      "text": "them like that",
+      "start": 558.97,
+      "duration": 4.25,
+      "end": 563.22
+    },
+    {
+      "index": 163,
+      "text": "but those of you who know easier way to",
+      "start": 577.68,
+      "duration": 7.14,
+      "end": 584.8199999999999
+    },
+    {
+      "index": 164,
+      "text": "do it please feel free to go ahead and",
+      "start": 582.089,
+      "duration": 12.511,
+      "end": 594.6
+    },
+    {
+      "index": 165,
+      "text": "use it easier method there we go so now",
+      "start": 584.82,
+      "duration": 13.17,
+      "end": 597.99
+    },
+    {
+      "index": 166,
+      "text": "we have something that is looking pretty",
+      "start": 594.6,
+      "duration": 7.05,
+      "end": 601.65
+    },
+    {
+      "index": 167,
+      "text": "close to what we need all we need now is",
+      "start": 597.99,
+      "duration": 5.43,
+      "end": 603.42
+    },
+    {
+      "index": 168,
+      "text": "our bubble all right",
+      "start": 601.65,
+      "duration": 4.29,
+      "end": 605.9399999999999
+    },
+    {
+      "index": 169,
+      "text": "now that is the part that AutoCAD will",
+      "start": 603.42,
+      "duration": 5.49,
+      "end": 608.91
+    },
+    {
+      "index": 170,
+      "text": "actually generate for us all right so",
+      "start": 605.94,
+      "duration": 5.04,
+      "end": 610.98
+    },
+    {
+      "index": 171,
+      "text": "what we're gonna do is to open up what",
+      "start": 608.91,
+      "duration": 8.7,
+      "end": 617.61
+    },
+    {
+      "index": 172,
+      "text": "is called our tool palette or design",
+      "start": 610.98,
+      "duration": 8.22,
+      "end": 619.2
+    },
+    {
+      "index": 173,
+      "text": "tool palette now if you're not seeing",
+      "start": 617.61,
+      "duration": 4.44,
+      "end": 622.0500000000001
+    },
+    {
+      "index": 174,
+      "text": "this guy right here you can actually",
+      "start": 619.2,
+      "duration": 4.829,
+      "end": 624.029
+    },
+    {
+      "index": 175,
+      "text": "find it up here so click on this thing",
+      "start": 622.05,
+      "duration": 4.789,
+      "end": 626.8389999999999
+    },
+    {
+      "index": 176,
+      "text": "and click on this little guy right here",
+      "start": 624.029,
+      "duration": 7.411,
+      "end": 631.4399999999999
+    },
+    {
+      "index": 177,
+      "text": "there you'll find this tool palette all",
+      "start": 626.839,
+      "duration": 6.461,
+      "end": 633.3000000000001
+    },
+    {
+      "index": 178,
+      "text": "right now when you open it up you'll",
+      "start": 631.44,
+      "duration": 4.41,
+      "end": 635.85
+    },
+    {
+      "index": 179,
+      "text": "have a lot of stuff you have design wall",
+      "start": 633.3,
+      "duration": 5.039,
+      "end": 638.3389999999999
+    },
+    {
+      "index": 180,
+      "text": "doors windows everything is right here",
+      "start": 635.85,
+      "duration": 5.4,
+      "end": 641.25
+    },
+    {
+      "index": 181,
+      "text": "what we want to go to design and under",
+      "start": 638.339,
+      "duration": 7.231,
+      "end": 645.57
+    },
+    {
+      "index": 182,
+      "text": "design you will find column grid okay so",
+      "start": 641.25,
+      "duration": 6.62,
+      "end": 647.87
+    },
+    {
+      "index": 183,
+      "text": "of course if we click on it like that",
+      "start": 645.57,
+      "duration": 5.97,
+      "end": 651.5400000000001
+    },
+    {
+      "index": 184,
+      "text": "AutoCAD is giving us a grid but we don't",
+      "start": 647.87,
+      "duration": 6.01,
+      "end": 653.88
+    },
+    {
+      "index": 185,
+      "text": "want that great because we already have",
+      "start": 651.54,
+      "duration": 5.54,
+      "end": 657.0799999999999
+    },
+    {
+      "index": 186,
+      "text": "our layout here so what we're gonna do",
+      "start": 653.88,
+      "duration": 9.03,
+      "end": 662.91
+    },
+    {
+      "index": 187,
+      "text": "is to right click and say apply to line",
+      "start": 657.08,
+      "duration": 7.33,
+      "end": 664.4100000000001
+    },
+    {
+      "index": 188,
+      "text": "work good",
+      "start": 662.91,
+      "duration": 6.09,
+      "end": 669.0
+    },
+    {
+      "index": 189,
+      "text": "so because we had already create some",
+      "start": 664.41,
+      "duration": 7.38,
+      "end": 671.79
+    },
+    {
+      "index": 190,
+      "text": "lines here we want AutoCAD to use our",
+      "start": 669.0,
+      "duration": 5.87,
+      "end": 674.87
+    },
+    {
+      "index": 191,
+      "text": "lines so we're gonna highlight them all",
+      "start": 671.79,
+      "duration": 6.81,
+      "end": 678.5999999999999
+    },
+    {
+      "index": 192,
+      "text": "right and it says here select your line",
+      "start": 674.87,
+      "duration": 6.94,
+      "end": 681.8100000000001
+    },
+    {
+      "index": 193,
+      "text": "work we already selected it or selected",
+      "start": 678.6,
+      "duration": 6.32,
+      "end": 684.9200000000001
+    },
+    {
+      "index": 194,
+      "text": "them now we're gonna hit enter",
+      "start": 681.81,
+      "duration": 7.05,
+      "end": 688.8599999999999
+    },
+    {
+      "index": 195,
+      "text": "it says here enter your how far away",
+      "start": 684.92,
+      "duration": 5.77,
+      "end": 690.6899999999999
+    },
+    {
+      "index": 196,
+      "text": "from these lines do you want your",
+      "start": 688.86,
+      "duration": 7.22,
+      "end": 696.08
+    },
+    {
+      "index": 197,
+      "text": "bubbles 4 feet that's the standard enter",
+      "start": 690.69,
+      "duration": 10.35,
+      "end": 701.0400000000001
+    },
+    {
+      "index": 198,
+      "text": "do you want to erase these line work the",
+      "start": 696.08,
+      "duration": 9.22,
+      "end": 705.3000000000001
+    },
+    {
+      "index": 199,
+      "text": "answer is yes so click on yes and what",
+      "start": 701.04,
+      "duration": 6.6,
+      "end": 707.64
+    },
+    {
+      "index": 200,
+      "text": "it does here is to erase your line work",
+      "start": 705.3,
+      "duration": 4.95,
+      "end": 710.25
+    },
+    {
+      "index": 201,
+      "text": "and replace them with",
+      "start": 707.64,
+      "duration": 5.759,
+      "end": 713.399
+    },
+    {
+      "index": 202,
+      "text": "the proper gridlines all right so of",
+      "start": 710.25,
+      "duration": 5.519,
+      "end": 715.769
+    },
+    {
+      "index": 203,
+      "text": "course this is what AutoCAD generates",
+      "start": 713.399,
+      "duration": 7.5,
+      "end": 720.899
+    },
+    {
+      "index": 204,
+      "text": "for us all right so we have a wonderful",
+      "start": 715.769,
+      "duration": 7.8,
+      "end": 723.569
+    },
+    {
+      "index": 205,
+      "text": "grid line set up here now if you'll",
+      "start": 720.899,
+      "duration": 4.92,
+      "end": 725.819
+    },
+    {
+      "index": 206,
+      "text": "notice the bubbles are a little bit too",
+      "start": 723.569,
+      "duration": 4.95,
+      "end": 728.519
+    },
+    {
+      "index": 207,
+      "text": "big and that's because of the scale that",
+      "start": 725.819,
+      "duration": 5.87,
+      "end": 731.689
+    },
+    {
+      "index": 208,
+      "text": "we are using the correct scale would be",
+      "start": 728.519,
+      "duration": 8.961,
+      "end": 737.48
+    },
+    {
+      "index": 209,
+      "text": "one in 50 which which is equivalent to",
+      "start": 731.689,
+      "duration": 9.13,
+      "end": 740.819
+    },
+    {
+      "index": 210,
+      "text": "quarter inch to one foot so they're",
+      "start": 737.48,
+      "duration": 6.39,
+      "end": 743.87
+    },
+    {
+      "index": 211,
+      "text": "gonna click on that and now our bubbles",
+      "start": 740.819,
+      "duration": 6.781,
+      "end": 747.5999999999999
+    },
+    {
+      "index": 212,
+      "text": "are now at the correct size all right",
+      "start": 743.87,
+      "duration": 6.31,
+      "end": 750.18
+    },
+    {
+      "index": 213,
+      "text": "now it's important that you adjust that",
+      "start": 747.6,
+      "duration": 4.71,
+      "end": 752.3100000000001
+    },
+    {
+      "index": 214,
+      "text": "because when you're gonna print your",
+      "start": 750.18,
+      "duration": 3.659,
+      "end": 753.8389999999999
+    },
+    {
+      "index": 215,
+      "text": "drawing you're going to be printing it",
+      "start": 752.31,
+      "duration": 3.75,
+      "end": 756.06
+    },
+    {
+      "index": 216,
+      "text": "on that scale so you need to ensure that",
+      "start": 753.839,
+      "duration": 5.281,
+      "end": 759.12
+    },
+    {
+      "index": 217,
+      "text": "your bubbles are at the correct scale",
+      "start": 756.06,
+      "duration": 6.509,
+      "end": 762.569
+    },
+    {
+      "index": 218,
+      "text": "and size all right guys so we're gonna",
+      "start": 759.12,
+      "duration": 7.259,
+      "end": 766.379
+    },
+    {
+      "index": 219,
+      "text": "move on from here what you can do from",
+      "start": 762.569,
+      "duration": 6.81,
+      "end": 769.3789999999999
+    },
+    {
+      "index": 220,
+      "text": "this point is to just check to ensure",
+      "start": 766.379,
+      "duration": 5.851,
+      "end": 772.23
+    },
+    {
+      "index": 221,
+      "text": "that your grid lines are where there",
+      "start": 769.379,
+      "duration": 6.541,
+      "end": 775.9200000000001
+    },
+    {
+      "index": 222,
+      "text": "should be so that's nine foot six this",
+      "start": 772.23,
+      "duration": 8.969,
+      "end": 781.1990000000001
+    },
+    {
+      "index": 223,
+      "text": "one is five foot six in fact let's let's",
+      "start": 775.92,
+      "duration": 8.479,
+      "end": 784.399
+    },
+    {
+      "index": 224,
+      "text": "add these dimensions",
+      "start": 781.199,
+      "duration": 3.2,
+      "end": 784.399
+    },
+    {
+      "index": 225,
+      "text": "now for those of you who do know where",
+      "start": 794.6,
+      "duration": 3.7,
+      "end": 798.3000000000001
+    },
+    {
+      "index": 226,
+      "text": "to find the dimension is right here so",
+      "start": 796.71,
+      "duration": 3.89,
+      "end": 800.6
+    },
+    {
+      "index": 227,
+      "text": "it could click on it click on linear and",
+      "start": 798.3,
+      "duration": 5.67,
+      "end": 803.9699999999999
+    },
+    {
+      "index": 228,
+      "text": "this one would be what 16-foot right",
+      "start": 800.6,
+      "duration": 4.59,
+      "end": 805.19
+    },
+    {
+      "index": 229,
+      "text": "perfect",
+      "start": 803.97,
+      "duration": 6.18,
+      "end": 810.15
+    },
+    {
+      "index": 230,
+      "text": "alright now I'm gonna put these on a",
+      "start": 805.19,
+      "duration": 8.77,
+      "end": 813.96
+    },
+    {
+      "index": 231,
+      "text": "separate layer dimensions so let's do",
+      "start": 810.15,
+      "duration": 4.29,
+      "end": 814.4399999999999
+    },
+    {
+      "index": 232,
+      "text": "that",
+      "start": 813.96,
+      "duration": 5.1,
+      "end": 819.0600000000001
+    },
+    {
+      "index": 233,
+      "text": "oh if you don't know how layers work I",
+      "start": 814.44,
+      "duration": 7.92,
+      "end": 822.36
+    },
+    {
+      "index": 234,
+      "text": "have a video on this so I'm gonna link",
+      "start": 819.06,
+      "duration": 5.91,
+      "end": 824.9699999999999
+    },
+    {
+      "index": 235,
+      "text": "it up there go and watch the video as",
+      "start": 822.36,
+      "duration": 4.38,
+      "end": 826.74
+    },
+    {
+      "index": 236,
+      "text": "well alright so we're gonna create a",
+      "start": 824.97,
+      "duration": 6.9,
+      "end": 831.87
+    },
+    {
+      "index": 237,
+      "text": "layer for this and call it the dimension",
+      "start": 826.74,
+      "duration": 9.29,
+      "end": 836.03
+    },
+    {
+      "index": 238,
+      "text": "layer and when I give it another color",
+      "start": 831.87,
+      "duration": 14.34,
+      "end": 846.21
+    },
+    {
+      "index": 239,
+      "text": "switch this to its whatever yellow line",
+      "start": 836.03,
+      "duration": 15.46,
+      "end": 851.49
+    },
+    {
+      "index": 240,
+      "text": "weight so I'm going to select all of",
+      "start": 846.21,
+      "duration": 8.67,
+      "end": 854.88
+    },
+    {
+      "index": 241,
+      "text": "these select similar and I'm gonna move",
+      "start": 851.49,
+      "duration": 6.78,
+      "end": 858.27
+    },
+    {
+      "index": 242,
+      "text": "them to the dimension layer all right so",
+      "start": 854.88,
+      "duration": 9.59,
+      "end": 864.47
+    },
+    {
+      "index": 243,
+      "text": "now we verify that our dimensions are",
+      "start": 858.27,
+      "duration": 9.15,
+      "end": 867.42
+    },
+    {
+      "index": 244,
+      "text": "perfect where they're at now we need to",
+      "start": 864.47,
+      "duration": 5.29,
+      "end": 869.76
+    },
+    {
+      "index": 245,
+      "text": "put in some labels into these bubbles",
+      "start": 867.42,
+      "duration": 4.17,
+      "end": 871.5899999999999
+    },
+    {
+      "index": 246,
+      "text": "alright so what we're gonna do is to",
+      "start": 869.76,
+      "duration": 4.44,
+      "end": 874.2
+    },
+    {
+      "index": 247,
+      "text": "click on the grid line itself and say",
+      "start": 871.59,
+      "duration": 6.81,
+      "end": 878.4
+    },
+    {
+      "index": 248,
+      "text": "edit label once we say edit label it",
+      "start": 874.2,
+      "duration": 7.71,
+      "end": 881.9100000000001
+    },
+    {
+      "index": 249,
+      "text": "says here pick the first custom column",
+      "start": 878.4,
+      "duration": 6.06,
+      "end": 884.4599999999999
+    },
+    {
+      "index": 250,
+      "text": "grid line so I wanna do we're gonna do",
+      "start": 881.91,
+      "duration": 4.26,
+      "end": 886.17
+    },
+    {
+      "index": 251,
+      "text": "these ones first and we're gonna label",
+      "start": 884.46,
+      "duration": 6.06,
+      "end": 890.52
+    },
+    {
+      "index": 252,
+      "text": "these numerically okay so we're gonna",
+      "start": 886.17,
+      "duration": 8.43,
+      "end": 894.5999999999999
+    },
+    {
+      "index": 253,
+      "text": "start at 1 2 3 4 so what you want to do",
+      "start": 890.52,
+      "duration": 6.36,
+      "end": 896.88
+    },
+    {
+      "index": 254,
+      "text": "is to pick them in the order in which",
+      "start": 894.6,
+      "duration": 7.11,
+      "end": 901.71
+    },
+    {
+      "index": 255,
+      "text": "you want the numbers to to follow so",
+      "start": 896.88,
+      "duration": 7.53,
+      "end": 904.41
+    },
+    {
+      "index": 256,
+      "text": "let's say that would be 1 this would be",
+      "start": 901.71,
+      "duration": 6.24,
+      "end": 907.95
+    },
+    {
+      "index": 257,
+      "text": "2 this would be 3 and this would be 4",
+      "start": 904.41,
+      "duration": 5.4,
+      "end": 909.81
+    },
+    {
+      "index": 258,
+      "text": "and then what you're gonna do is to hit",
+      "start": 907.95,
+      "duration": 6.96,
+      "end": 914.9100000000001
+    },
+    {
+      "index": 259,
+      "text": "enter and then it asked you know what do",
+      "start": 909.81,
+      "duration": 6.78,
+      "end": 916.5899999999999
+    },
+    {
+      "index": 260,
+      "text": "you what do you want a pallet to be this",
+      "start": 914.91,
+      "duration": 3.48,
+      "end": 918.39
+    },
+    {
+      "index": 261,
+      "text": "is where you say ok you want it to be",
+      "start": 916.59,
+      "duration": 4.61,
+      "end": 921.2
+    },
+    {
+      "index": 262,
+      "text": "numerical so I wanted to start at number",
+      "start": 918.39,
+      "duration": 8.14,
+      "end": 926.53
+    },
+    {
+      "index": 263,
+      "text": "one enter and now you can see AutoCAD",
+      "start": 921.2,
+      "duration": 8.07,
+      "end": 929.2700000000001
+    },
+    {
+      "index": 264,
+      "text": "populates your bubbles with the numbers",
+      "start": 926.53,
+      "duration": 5.62,
+      "end": 932.15
+    },
+    {
+      "index": 265,
+      "text": "that you need one two three four and it",
+      "start": 929.27,
+      "duration": 4.38,
+      "end": 933.65
+    },
+    {
+      "index": 266,
+      "text": "would have done the same at the bottom",
+      "start": 932.15,
+      "duration": 3.96,
+      "end": 936.11
+    },
+    {
+      "index": 267,
+      "text": "field so I'm gonna do the same thing at",
+      "start": 933.65,
+      "duration": 4.85,
+      "end": 938.5
+    },
+    {
+      "index": 268,
+      "text": "the side this time we're gonna use",
+      "start": 936.11,
+      "duration": 7.64,
+      "end": 943.75
+    },
+    {
+      "index": 269,
+      "text": "alphabet alright so click on the grid",
+      "start": 938.5,
+      "duration": 8.23,
+      "end": 946.73
+    },
+    {
+      "index": 270,
+      "text": "edit label and we're going to select",
+      "start": 943.75,
+      "duration": 8.01,
+      "end": 951.76
+    },
+    {
+      "index": 271,
+      "text": "this to be a and then this would be B",
+      "start": 946.73,
+      "duration": 9.56,
+      "end": 956.29
+    },
+    {
+      "index": 272,
+      "text": "enter now we're gonna enter the first",
+      "start": 951.76,
+      "duration": 8.07,
+      "end": 959.83
+    },
+    {
+      "index": 273,
+      "text": "letter in our sequence which would be a",
+      "start": 956.29,
+      "duration": 7.39,
+      "end": 963.68
+    },
+    {
+      "index": 274,
+      "text": "now make sure you use capital e because",
+      "start": 959.83,
+      "duration": 6.13,
+      "end": 965.96
+    },
+    {
+      "index": 275,
+      "text": "if you use common a it's gonna populate",
+      "start": 963.68,
+      "duration": 4.26,
+      "end": 967.9399999999999
+    },
+    {
+      "index": 276,
+      "text": "the entire thing with common letters all",
+      "start": 965.96,
+      "duration": 8.07,
+      "end": 974.0300000000001
+    },
+    {
+      "index": 277,
+      "text": "right so a B now guess what we're done",
+      "start": 967.94,
+      "duration": 11.01,
+      "end": 978.95
+    },
+    {
+      "index": 278,
+      "text": "our grid line is done there's nothing",
+      "start": 974.03,
+      "duration": 8.7,
+      "end": 982.73
+    },
+    {
+      "index": 279,
+      "text": "else left to do here more than to save",
+      "start": 978.95,
+      "duration": 5.85,
+      "end": 984.8000000000001
+    },
+    {
+      "index": 280,
+      "text": "so we're gonna go ahead and we're gonna",
+      "start": 982.73,
+      "duration": 6.78,
+      "end": 989.51
+    },
+    {
+      "index": 281,
+      "text": "hit save and that would be our grid line",
+      "start": 984.8,
+      "duration": 8.22,
+      "end": 993.02
+    },
+    {
+      "index": 282,
+      "text": "no let's say if you wanted to add more",
+      "start": 989.51,
+      "duration": 6.36,
+      "end": 995.87
+    },
+    {
+      "index": 283,
+      "text": "grid lines of course you just click on",
+      "start": 993.02,
+      "duration": 7.55,
+      "end": 1000.5699999999999
+    },
+    {
+      "index": 284,
+      "text": "the grid and say add a grid line and",
+      "start": 995.87,
+      "duration": 7.2,
+      "end": 1003.07
+    },
+    {
+      "index": 285,
+      "text": "then of course you click on that line",
+      "start": 1000.57,
+      "duration": 5.41,
+      "end": 1005.98
+    },
+    {
+      "index": 286,
+      "text": "that you drew and follow through the",
+      "start": 1003.07,
+      "duration": 5.82,
+      "end": 1008.8900000000001
+    },
+    {
+      "index": 287,
+      "text": "commands down here but for this project",
+      "start": 1005.98,
+      "duration": 4.5,
+      "end": 1010.48
+    },
+    {
+      "index": 288,
+      "text": "this is where we're going to stop it",
+      "start": 1008.89,
+      "duration": 3.03,
+      "end": 1011.92
+    },
+    {
+      "index": 289,
+      "text": "that's all we need",
+      "start": 1010.48,
+      "duration": 2.94,
+      "end": 1013.4200000000001
+    },
+    {
+      "index": 290,
+      "text": "we're gonna hit the same button again",
+      "start": 1011.92,
+      "duration": 4.11,
+      "end": 1016.03
+    },
+    {
+      "index": 291,
+      "text": "just to be sure",
+      "start": 1013.42,
+      "duration": 5.01,
+      "end": 1018.43
+    },
+    {
+      "index": 292,
+      "text": "so what we're gonna do in our next video",
+      "start": 1016.03,
+      "duration": 6.36,
+      "end": 1022.39
+    },
+    {
+      "index": 293,
+      "text": "is to move to our ground floor which is",
+      "start": 1018.43,
+      "duration": 6.39,
+      "end": 1024.82
+    },
+    {
+      "index": 294,
+      "text": "where we're gonna now draw our ground",
+      "start": 1022.39,
+      "duration": 5.37,
+      "end": 1027.76
+    },
+    {
+      "index": 295,
+      "text": "floor here no this is the beautiful",
+      "start": 1024.82,
+      "duration": 7.83,
+      "end": 1032.6499999999999
+    },
+    {
+      "index": 296,
+      "text": "thing we can actually bring in our grid",
+      "start": 1027.76,
+      "duration": 9.27,
+      "end": 1037.03
+    },
+    {
+      "index": 297,
+      "text": "lines into this project all we would",
+      "start": 1032.65,
+      "duration": 7.23,
+      "end": 1039.88
+    },
+    {
+      "index": 298,
+      "text": "need to do is to right-click on the grid",
+      "start": 1037.03,
+      "duration": 6.99,
+      "end": 1044.02
+    },
+    {
+      "index": 299,
+      "text": "and say xref overlay",
+      "start": 1039.88,
+      "duration": 9.15,
+      "end": 1049.0300000000002
+    },
+    {
+      "index": 300,
+      "text": "alright xref means external reference so",
+      "start": 1044.02,
+      "duration": 8.19,
+      "end": 1052.21
+    },
+    {
+      "index": 301,
+      "text": "what this is doing is to pull the the",
+      "start": 1049.03,
+      "duration": 4.92,
+      "end": 1053.95
+    },
+    {
+      "index": 302,
+      "text": "excel file from out",
+      "start": 1052.21,
+      "duration": 4.77,
+      "end": 1056.98
+    },
+    {
+      "index": 303,
+      "text": "side into your current drunk so we're",
+      "start": 1053.95,
+      "duration": 5.97,
+      "end": 1059.92
+    },
+    {
+      "index": 304,
+      "text": "pulling the gridlines into this drawing",
+      "start": 1056.98,
+      "duration": 7.41,
+      "end": 1064.39
+    },
+    {
+      "index": 305,
+      "text": "so now we're in or groan for what or",
+      "start": 1059.92,
+      "duration": 7.89,
+      "end": 1067.8100000000002
+    },
+    {
+      "index": 306,
+      "text": "glory or gridlines are now showing up",
+      "start": 1064.39,
+      "duration": 7.29,
+      "end": 1071.68
+    },
+    {
+      "index": 307,
+      "text": "within our ground floor now if you",
+      "start": 1067.81,
+      "duration": 6.9,
+      "end": 1074.71
+    },
+    {
+      "index": 308,
+      "text": "notice it comes in as a block all right",
+      "start": 1071.68,
+      "duration": 6.06,
+      "end": 1077.74
+    },
+    {
+      "index": 309,
+      "text": "so we can edit the grid line from here",
+      "start": 1074.71,
+      "duration": 4.86,
+      "end": 1079.57
+    },
+    {
+      "index": 310,
+      "text": "we would have to go back to our grid",
+      "start": 1077.74,
+      "duration": 6.78,
+      "end": 1084.52
+    },
+    {
+      "index": 311,
+      "text": "lines to edit our grid line all right",
+      "start": 1079.57,
+      "duration": 7.41,
+      "end": 1086.98
+    },
+    {
+      "index": 312,
+      "text": "now we know that grid line is good so",
+      "start": 1084.52,
+      "duration": 3.72,
+      "end": 1088.24
+    },
+    {
+      "index": 313,
+      "text": "we're not gonna change anything over",
+      "start": 1086.98,
+      "duration": 5.19,
+      "end": 1092.17
+    },
+    {
+      "index": 314,
+      "text": "there so this is where we're at with our",
+      "start": 1088.24,
+      "duration": 6.15,
+      "end": 1094.39
+    },
+    {
+      "index": 315,
+      "text": "ground floor all right so we're gonna",
+      "start": 1092.17,
+      "duration": 4.02,
+      "end": 1096.19
+    },
+    {
+      "index": 316,
+      "text": "stop it right here in the next video",
+      "start": 1094.39,
+      "duration": 4.44,
+      "end": 1098.8300000000002
+    },
+    {
+      "index": 317,
+      "text": "we're gonna be drawing our walls gonna",
+      "start": 1096.19,
+      "duration": 5.16,
+      "end": 1101.3500000000001
+    },
+    {
+      "index": 318,
+      "text": "put in some doors and windows now we're",
+      "start": 1098.83,
+      "duration": 5.7,
+      "end": 1104.53
+    },
+    {
+      "index": 319,
+      "text": "gonna kick it off real good alright guys",
+      "start": 1101.35,
+      "duration": 6.3,
+      "end": 1107.6499999999999
+    },
+    {
+      "index": 320,
+      "text": "so pick up on yourself I'm gonna for",
+      "start": 1104.53,
+      "duration": 5.28,
+      "end": 1109.81
+    },
+    {
+      "index": 321,
+      "text": "watching this episode again trust me for",
+      "start": 1107.65,
+      "duration": 3.57,
+      "end": 1111.22
+    },
+    {
+      "index": 322,
+      "text": "the like the video just hit the like",
+      "start": 1109.81,
+      "duration": 4.86,
+      "end": 1114.6699999999998
+    },
+    {
+      "index": 323,
+      "text": "button and let me know owner enjoy the",
+      "start": 1111.22,
+      "duration": 4.15,
+      "end": 1115.3700000000001
+    },
+    {
+      "index": 324,
+      "text": "team",
+      "start": 1114.67,
+      "duration": 15.48,
+      "end": 1130.15
+    },
+    {
+      "index": 325,
+      "text": "[Music]",
+      "start": 1115.37,
+      "duration": 14.78,
+      "end": 1130.1499999999999
+    }
+  ],
+  "full_text": "[Music] [Music] hi everyone thank you for joining me on episode number three for one bedroom series in the previous video we learned how to set up our project in ArchiCAD using the project browser and project navigator alright so if you missed that episode you need to watch it click the link up there or click the link down there because it's important that you understand how to set up your project before we move into the more exciting stuff you're I'm saying yeah so in the previous video we learned how to set up our projects using the project browser which is it's little about right here and also the project navigator alright because if you look over here this is what we did we went through we set our project settings we did our levels and we also did our divisions alright so you can't afford to miss that alright so today is gonna be a little bit more interesting because now we're going to move to our constructs and this is where we're gonna start to do actual drawing all right now as you can see I have two of the constructs open up here we have the foundation and we also have the ground floor which you can actually see them over here alright so we would draw our ground floor in this drawing and we will draw our foundation in this drawing but before we do any of these drawings what we want to draw first is our grid all right so today's video is about gridlines how do we draw or unset up our grid lines now for those of you who don't know what grid lines are grid lines are also commonly referred as column grids okay now most times column grids are used on large buildings where there's a lot of columns throughout the building so take for instance this building right all right this building has quite a few columns throughout it all right now can you identify any of the columns in this building of course you can all right you can see one here and there but what if I were to add some column grids to it like that now you're able to identify each column by name so for instance if I say to you where is column f1 you'll be able to locate column f1 if I say where is column a tube we'll be able to locate column a2 and so now you can start to appreciate significance of column grids throughout a building all right it helps to layout your columns and it also help you to locate columns all right now there are many more advantages of column grids but we're gonna stick to those two for today all right so what would a column grid look like for a one bedroom house like the one that we're about to do now it would look something like this all right of course a tiny bedroom house like this doesn't need column grids but this way you will be able to apply these principles to your larger projects okay guys so what we're gonna do is to open up our grid line drawing so what we're going to do so just open it like that and it is in this project or this drawing that we're gonna do gridlines of course we could go ahead and start to just draw our grid lines starting at the zero zero point here but I want to start mine somewhere up here so our grid line will take up this space here so what I'm gonna do is to draw a line from 0 0 up at a 45 degree angle so let's click on our line tool and I'm gonna type it says here specify your first point I want my first point to be 0 0 now you can see that man I'm starting at 0 0 and then I'm gonna draw a line at 45 degrees so I'm gonna put the less than sign 45 enter now my line is running on the 45-degree angle alright so I can't draw another a line at any other angle because I set it at a 45 degree and then I'm gonna type how far away do I want it to go so I'm gonna put 25 feet enter alright so that is where we're gonna start to draw our grid lines so our grid lines should take up this space right there let me minimize that so we can see a little bit clearer alright so let's go ahead and draw our first grid line now we need 4 vertical lines and two horizontal lines so our first vertical line is going to be drawn upwards now if you notice I don't have my 90 degrees turned on this is important because grid lines must be perfectly straight so you want to turn this on that way your your your lines will be perfectly straight all right line up 90 degrees so let's go ahead and we're going to draw our first grid line which be 16 feet enta now this is what 16 feet looks like looks let's check it perfect 16 foot and then our next line vertical line is 9 feet 6 inches away from this one so what we're going to use is the offset tool offset how far you want it off of that would be 9 feet 6 inches enter and then we're gonna click on the side that you want it on so of course we don't want it on the side we want it on this side so we're gonna click over there then though the other line would be 5 foot 6 inches away from this one so we're going to offset again offset type in your distance which would be 5 feet 6 inches and then we're gonna just do like that click over there and then of course our fourth grid would be offset again 12 foot are feet 6 inches oh dear we have it so now we have all 4 vertical lines no our horizontal lines actually they are just two and there they would be exactly at the top and at the bottom of these lines now of course if you had some in the middle we would go ahead and use the offset tool to offset those but being that we only have two here we just need to complete the box there all right of course we're gonna go ahead and delete this because we don't need that again this is what we need so what we're gonna do next is to extend each line outwards out of the box about 12 inches all right now there are many ways you can do this but I'm gonna just use a very simple way that everybody can understand so what we're going to do is just click on the box here again ensure that your artha is turned on all right click on this box drag it out and type 12 inches enter okay so we're going to do that for all of these lines drag it out twelve launches all right so I'm gonna just move a little quick quickly here so we can speed through this part I'm gonna do all of them like that but those of you who know easier way to do it please feel free to go ahead and use it easier method there we go so now we have something that is looking pretty close to what we need all we need now is our bubble all right now that is the part that AutoCAD will actually generate for us all right so what we're gonna do is to open up what is called our tool palette or design tool palette now if you're not seeing this guy right here you can actually find it up here so click on this thing and click on this little guy right here there you'll find this tool palette all right now when you open it up you'll have a lot of stuff you have design wall doors windows everything is right here what we want to go to design and under design you will find column grid okay so of course if we click on it like that AutoCAD is giving us a grid but we don't want that great because we already have our layout here so what we're gonna do is to right click and say apply to line work good so because we had already create some lines here we want AutoCAD to use our lines so we're gonna highlight them all right and it says here select your line work we already selected it or selected them now we're gonna hit enter it says here enter your how far away from these lines do you want your bubbles 4 feet that's the standard enter do you want to erase these line work the answer is yes so click on yes and what it does here is to erase your line work and replace them with the proper gridlines all right so of course this is what AutoCAD generates for us all right so we have a wonderful grid line set up here now if you'll notice the bubbles are a little bit too big and that's because of the scale that we are using the correct scale would be one in 50 which which is equivalent to quarter inch to one foot so they're gonna click on that and now our bubbles are now at the correct size all right now it's important that you adjust that because when you're gonna print your drawing you're going to be printing it on that scale so you need to ensure that your bubbles are at the correct scale and size all right guys so we're gonna move on from here what you can do from this point is to just check to ensure that your grid lines are where there should be so that's nine foot six this one is five foot six in fact let's let's add these dimensions now for those of you who do know where to find the dimension is right here so it could click on it click on linear and this one would be what 16-foot right perfect alright now I'm gonna put these on a separate layer dimensions so let's do that oh if you don't know how layers work I have a video on this so I'm gonna link it up there go and watch the video as well alright so we're gonna create a layer for this and call it the dimension layer and when I give it another color switch this to its whatever yellow line weight so I'm going to select all of these select similar and I'm gonna move them to the dimension layer all right so now we verify that our dimensions are perfect where they're at now we need to put in some labels into these bubbles alright so what we're gonna do is to click on the grid line itself and say edit label once we say edit label it says here pick the first custom column grid line so I wanna do we're gonna do these ones first and we're gonna label these numerically okay so we're gonna start at 1 2 3 4 so what you want to do is to pick them in the order in which you want the numbers to to follow so let's say that would be 1 this would be 2 this would be 3 and this would be 4 and then what you're gonna do is to hit enter and then it asked you know what do you what do you want a pallet to be this is where you say ok you want it to be numerical so I wanted to start at number one enter and now you can see AutoCAD populates your bubbles with the numbers that you need one two three four and it would have done the same at the bottom field so I'm gonna do the same thing at the side this time we're gonna use alphabet alright so click on the grid edit label and we're going to select this to be a and then this would be B enter now we're gonna enter the first letter in our sequence which would be a now make sure you use capital e because if you use common a it's gonna populate the entire thing with common letters all right so a B now guess what we're done our grid line is done there's nothing else left to do here more than to save so we're gonna go ahead and we're gonna hit save and that would be our grid line no let's say if you wanted to add more grid lines of course you just click on the grid and say add a grid line and then of course you click on that line that you drew and follow through the commands down here but for this project this is where we're going to stop it that's all we need we're gonna hit the same button again just to be sure so what we're gonna do in our next video is to move to our ground floor which is where we're gonna now draw our ground floor here no this is the beautiful thing we can actually bring in our grid lines into this project all we would need to do is to right-click on the grid and say xref overlay alright xref means external reference so what this is doing is to pull the the excel file from out side into your current drunk so we're pulling the gridlines into this drawing so now we're in or groan for what or glory or gridlines are now showing up within our ground floor now if you notice it comes in as a block all right so we can edit the grid line from here we would have to go back to our grid lines to edit our grid line all right now we know that grid line is good so we're not gonna change anything over there so this is where we're at with our ground floor all right so we're gonna stop it right here in the next video we're gonna be drawing our walls gonna put in some doors and windows now we're gonna kick it off real good alright guys so pick up on yourself I'm gonna for watching this episode again trust me for the like the video just hit the like button and let me know owner enjoy the team [Music]",
+  "total_segments": 326,
+  "total_duration": 1130.15,
+  "extraction_timestamp": "2025-07-11T13:15:33.822039",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct",
+  "reused_from": "storage\\AutoCAD Architecture 2023 Tutorial_v3\\GRIDLINES (Column Grids) in Au\\youtube_extracted_data\\transcripts\\dW01WAGco-Y_20250711_131533_transcript.json",
+  "reused_timestamp": "2025-07-11T16:11:45.953733"
+}

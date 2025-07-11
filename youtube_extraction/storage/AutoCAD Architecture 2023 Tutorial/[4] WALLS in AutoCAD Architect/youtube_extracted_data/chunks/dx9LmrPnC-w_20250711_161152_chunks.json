@@ -1,0 +1,171 @@
+[
+  {
+    "index": 0,
+    "text": "[Music]\nhey what's up everybody welcome to\nepisode number four for one bedroom\nseries now in today's video we are gonna\nbe drawing walls yes\nand it's about time it's about time to\nstart getting to the fun stuff now there\nare many types of was of course we're\nnot going to get into all of them but\nwe're gonna talk about the one that\nwe're gonna use on this building and\nthat one is called CMU six huh now CMU\nstands for concrete masonry unit okay so\nthis is a concrete masonry unit and\nthere are many others such as this this\none that what is that that that that yep\nbut the one we're gonna be using is this\none yes no you all know what I'm talking\nabout\nit's the same one that we call a regular\nconcrete block the proper name for it is\nCMU 6 and the 6 at the end stands for\nhow deep of the block is and when you\nhear deep you're thinking about up and\ndown right but now when I talk about\ndepth we're actually talking about how\nwide of a wall it creates or how thick\nof a wall it creates okay so dril",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 1000,
+    "word_count": 205,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "actually talking about how\nwide of a wall it creates or how thick\nof a wall it creates okay so drill that\nin your head somewhere of course there\nare many different sizes we're gonna\nstick with this one which is the 6 by 8\nby 16 all right and so yeah this is the\none that we're most familiar with in\nJamaica and other parts of the Caribbean\nyeah so let's go over to AutoCAD and\nfind out where we can find this wall and\nhow to get it in\nor join alright guys so let's get into\nit alright guys so here we are back in\nthe drawing and the last place we left\noff was here where we import the grids\ninto our ground floor now if you miss\nthat people please go back and watch it\nalright because what we did was to\nlayout our grid lines over here and then\nno we imported it into our ground floor\nas a external reference file alright now\nif you have this tab over here called\nexternal references okay this is where\nyou can actually see all the external\nreferences that are in your project\nalright so I have the",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 998,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "ere\nyou can actually see all the external\nreferences that are in your project\nalright so I have the grid lines loaded\nas you can see when I click on it it\nbecomes highlighted over there it's now\nloaded into my ground floor ok I can\nactually unload it\nI can reload it I can detach it I can do\na lot of things from this manager here\nso if you're not seeing this tab like so\nyou would find it down here this little\npaperclip looking icon that says manage\nxrefs now if you're not seeing it down\nhere you could actually type the command\nX ref all right and it should bring it\nup so this is where you'd manage all of\nyour external references later on when\nwe're gonna do a property boundary we\ncan also load it into this project as an\nexternal reference all right one other\nthing I want to point out is you want to\nmake sure that your grid lines is loaded\nin as an overlay ok we can switch\nbetween overlay and\ntouch what we wanted to be overly that\nway it's it's not heavy on your computer\nthe file doesn't",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "and\ntouch what we wanted to be overly that\nway it's it's not heavy on your computer\nthe file doesn't become very heavy\nbecause if we should attach it what is\ngonna do is to copy all of your greens\ninto this drawing and make this drawing\nheavy we don't want that okay the other\nthing I want to point out is let me\nminimize that let me minimize this the\ngrid line is located in the same\nposition in this drawing as its original\ndrawing that's a beautiful thing\nalright so when we draw our walls on top\nof this it's located in the same\nposition from the zero zero point okay\nI just wanted to pawn it or that well no\nif I mix if I mean if I'm a printer if\nI'm explaining it properly what I hope\nyou get the point\nno what we need to do is to just draw\nsome walls okay so we need to find a was\nso we you find was over here so in this\npalette the same palette where we found\nour column stuff if you go down you'll\nsee walls now if you're not seeing walls\nyou would click on these little Settings\nicon and yo",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "you'll\nsee walls now if you're not seeing walls\nyou would click on these little Settings\nicon and you'd say all palettes\noriginally it was on this design what\nthis would do is to bring all your\npalettes out alright and then find one\nfor this drawing we want to use CMU 6 ok\nso let's look if we see that here mmm\ndoesn't look like it's there so we need\nto go and find it all right now they're\nprobably a couple of ways you can do it\nwe could click on this more wall tools\nand it would bring you to the wall the\nwalls catalog alright where we'd find\nbricks in you stud all the different\ntypes of walls but if you're not seeing\nthe wall tab what you could actually do\nis go to your tools and go to content\nbrowser\nand here we would search for our walls\nso we would go into imperial since this\nis the one that we're doing if you're\ndoing metric you'll go to metric all\nright so we're doing imperial and then\nwe'd go down and search for walls oops\nand we're looking at CMU good just let's\nfollow the lead",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 999,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "hen\nwe'd go down and search for walls oops\nand we're looking at CMU good just let's\nfollow the lead and we need to see a new\nsix so far we see ten we don't need that\ntherefore we don't need that look at\nthat here we go we have six so I\nactually want this to appear in my tool\npalette all right so what I'm gonna do\nis to say add to tool palette okay cuz\nthis is the one that we want there we go\nit's down here okay and I'm gonna just\ndrag him to the top cuz I'm I'm pretty\nmuch gonna use this all the time I'm not\nsure about these other ones but this is\nwhat we use in Jamaica most of the time\nso we're gonna work with that okay so\nlet's begin to draw with this tool so if\nclick on it of course we could go ahead\nand just start to draw what we need to\nfix up a couple of things over here\nfirst we need to ensure the height of\nthe wall that we want we're gonna change\nour justify settings to Center\nI'm gonna explain why we do that in a\nlittle bit and if there's any other\nlittle thing you wanted adju",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 216,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "m gonna explain why we do that in a\nlittle bit and if there's any other\nlittle thing you wanted adjust but those\nare the two main things you want to\ncheck all right the height of the wall\nwe're gonna work with 10 feet I think\nthat's what we sit in our levels I could\nactually check it back let's check it 10\ngood so we're gonna leave it at 10 all\nright so remember we set our justifier\nto center because when we go to draw the\nwall we want\nwe want a gridline to fall in the center\nof the wall okay in the center of the\nwall so if you notice if I should start\nto draw here the grid line is now in the\ncenter of the wall so we're going to go\nahead and draw a wall all the way around\nso let's turn on our Arthur mode so that\nwe can get very straight walls so click\non a one and then we're going to move\nover to a four click all the way down to\nbe four quick back over to be one click\nand then we could go back up to a 1 and\nclick or we could just click the close\nbutton down here okay let's do the guy\nr",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 1000,
+    "word_count": 220,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "o back up to a 1 and\nclick or we could just click the close\nbutton down here okay let's do the guy\nright here is close and what that does\nis to just close the box for you so\nright now we have our external walls so\nwe just need to get the internal walls\nlet's do it so we're not gonna use this\nagain what we're gonna do is to click on\none of the walls and we're gonna say it\nadd selected because what this does is\nto add this all the settings that you've\nalready set for the external walls we're\ngonna use it for the internal walls all\nright so we're gonna click on what's\nthis a 3 connect it to be 3 so that's\nall first wall there and then we're\ngonna do the same thing for this one\nfrom right here all the way down to yeah\nnow if you look on the drawing by the\nway guys if you're following with the\nsame exact drawing you can download it\nfrom the link in the description all\nright so go ahead and download it and\nfollow them now this wall wouldn't be I\nwouldn't\ncome all the way down to here so what",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 1000,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "wnload it and\nfollow them now this wall wouldn't be I\nwouldn't\ncome all the way down to here so what\nwe're going to do is we're going to draw\nour kitchen we're gonna complete the\nkitchen the bathroom and the bedroom so\nlet's do that so the first thing I'm\ngonna do is to draw a line because we\nknow that the kitchen should be nine\nfeet coming down so we're gonna draw a\nwall that measures nine feet enter we're\ngonna draw a line that measures five\nfeet from here and we're gonna draw a\nline again that measures the bedroom is\nwhat a level feet so we need a wall\nright here we need a wall right here and\nwe need a wall right there so what I'm\ngonna do is to draw some random was so\nlet's do that click on this C and\nselected and then we're gonna just draw\nsome walls so just draw a wallet right\nhere I'm gonna do the same thing\ndraw one right here and we're gonna do\nthe same thing down here and the next\nthing we're gonna do is to move the\nwalls so we're gonna click on that and\nwe're gonna say move",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 999,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "ext\nthing we're gonna do is to move the\nwalls so we're gonna click on that and\nwe're gonna say move here we go I want\nto move it from this point the center\nwhere you see the triangle click on it\nand move it all the way down to the box\nnow if you're not seeing the triangle\nguys it's because your snap settings\nneeds to be adjusted all right so you\ncan go down to this little icon here\nclick on it and make sure you turn on\nall of these okay you need to turn all\nof these on okay except this one I don't\ntry this one on but you can if you want\nall right so we're gonna do the same\nthing for this wall gonna move it\nfrom the center here down to that point\nI'm gonna move this one as well yeah so\ndo you so I guess what all we need to do\nis trim off those little so we're going\nto do is the type use a trim tool right\nhere and we're gonna press enter once\nenter and as chop off the edge chop\nenough\nall right so back and guess what we\ndon't need this piece of wall either so\noops oops oh my goodness so",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 999,
+    "word_count": 217,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "right so back and guess what we\ndon't need this piece of wall either so\noops oops oh my goodness so guess what\nguys we're done let's delete these lines\ncuz we don't need the money now of\ncourse we could check to make sure that\nthese guys are measuring up to what we\nwant them to be our bathroom should be\nwhat five you know like this bathroom\nshould be 6 mm so we need to move this\nwall down one foot so let's move in\nclick click on the wall drag it down and\nthen type 12 which is you know that 12\ninches is the same as one foot right\nyeah enter and then let's check in again\nso it's good to check all right that's\ngood and then we check this one and\nthat's looking lovely so guess what guys\nthat's it for this video we are through\ndrawing our walls so what I'm gonna do\nis to view it in 3d let's see what it\nlooks like actually I'm going to turn\nthese dimensions off I don't like these\nright now so it could go up there switch\ntools so if you look actually all of\nthese are on their grid line layers",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "it could go up there switch\ntools so if you look actually all of\nthese are on their grid line layers it's\nso beautiful I like how our talk I just\norganized my layers for me all right so\nI could just shut that thing off all\nright so let's look at it in 3d and\nwe're gonna go look at it in hidden\ndetails and I'm gonna turn it into\nperspective\nI like seeing things in perspective you\nknow wow look at that it's almost like a\nreal all-star general Park a really\nblocky even real\nting matter Fred\n[Music]\nyou know what come to me quarantine you\nknow isolate yourself into one of these\nbuildings so that's it guys for this\nvideo we did our walls and in the next\nvideo we're going to be drawing or\nwindows and doors\nalright so that's gonna be another\nexciting episode so I hope you learned\nsomething from this and if you have any\nquestions drop them in the comments you\nknow what to do already so thanks again\nfor joining and I hope to see you in the\nnext video\nmeet up to several of us\n[Music]\nyou",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 992,
+    "word_count": 198,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "ain\nfor joining and I hope to see you in the\nnext video\nmeet up to several of us\n[Music]\nyou",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 92,
+    "word_count": 21,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

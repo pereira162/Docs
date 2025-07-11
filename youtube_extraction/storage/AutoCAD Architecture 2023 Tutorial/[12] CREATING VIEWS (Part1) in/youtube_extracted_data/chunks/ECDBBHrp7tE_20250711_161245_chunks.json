@@ -1,0 +1,314 @@
+[
+  {
+    "index": 0,
+    "text": "okay so welcome to episode 12 of our one\nbedroom house and uh you know we have\ncome a far away\nand uh today we're gonna just move a\nlittle bit further\ninto this project all right so stick\naround\n[Music]\nso i want to say thanks to those of you\nwho have been following all my videos\nthanks to all my subscribers i really\nappreciate the support\nand if it's your first time on the\nchannel thank you for joining and i hope\nthat you\nlike what you're seeing you know and if\nyou do just you know consider\nsubscribing as well consider hitting\nthat like button turn on the\nnotification and guess what\nthat's it just drop a comment below and\nask your questions\nyou know just answer christine when i\nsay a word make up yourself\nthat's it alright so let's talk about\nviews\nall right now views are very important\nas they are needed to create\nworking drawings and if you don't know\nwhat working drawings are is the same\nthing as blueprint so you know the\nblueprinting\nit's same one and we all know that the\nblueprin",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 1000,
+    "word_count": 192,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "same\nthing as blueprint so you know the\nblueprinting\nit's same one and we all know that the\nblueprint is what\nwe use to construct the building without\nthe blueprint you cannot\nconstruct the building so it is it is in\nthe same way without the views\nwe cannot have the blueprint so we need\nto create our\nviews and views are easy to understand\nit's really\nlooking at the object from uh different\nangles\nso we want to look at the side we want\nto look at the\ntop the front the back we want to look\nat\nthe inside we want to have various views\nto represent\nas much uh detail as possible so that\nwhen they are ready to\nbuild the structure they would have\nenough information\nall right so in this video today we're\ngoing to be creating uh these views\nlet's see where it goes from there you\nknow what i mean let's get it\nso we have completed our drawing we did\nour fixtures foundation we should have a\ndrainage construct\nand uh columns uh our stiffness we would\nwant to create those two\nas well which i will be",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 999,
+    "word_count": 196,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "construct\nand uh columns uh our stiffness we would\nwant to create those two\nas well which i will be doing in the\nnear future but i want to go ahead and\nshow you how to create views\nso you can start working on those all\nright so under your views tab you want\nto make sure\nthat you organize your views properly\nbecause you don't want to get them all\nmixed up and become confused over time\nall right so in here we have the ability\nto create\nmore folders and to structure everything\nso i'm going to be putting all our views\nin\nthree different categories our folders\nwhich would be architecture details\nand sections and elevations all right\nso as you can see on the left side of\nthe screen that's how we're gonna lay\nout\num our views and also when we go to\nsheets we're gonna kind of do the same\nthing so let's go ahead and we're gonna\ncreate some folders all right so by\nclicking on new category that's how we\ndo it so\ni'm going to call this one architect\nhere right click on views again and say\ncategory",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 197,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "ow we\ndo it so\ni'm going to call this one architect\nhere right click on views again and say\ncategory call this one uh\nsection and elevation\ni'm putting all sections and elevations\nwithin this folder and then i'm going to\ncreate another one and call this\ndetails i'm going to drop all the\ndetails in this\nfolder and of course you can create as\nmany you can break them out\nfor some persons they would want to put\ndifferent\ntrades in different folders so you would\nhave an electrical\nfolder you would have a plumbing hvac\nso on and so forth for a larger project\nbut for this tiny little building i'm\ngoing to just drop\nall the electrical and plum drainage and\neverything inside of that\ni'm going to drop our sections here and\nour details\nhere so now that we have all three\ncategories what i'm going to do is to\ncreate some views within our\narchitectural folder so let's go ahead\nand right click on\nthis and we're gonna say new drawing now\nwe could break architectural down into\nmore categories by creati",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 188,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "and we're gonna say new drawing now\nwe could break architectural down into\nmore categories by creating\nmore sub folders but we're not gonna do\nthat we're gonna just go straight into\nthe drawings and we're going to create a\ngeneral drawing and the first one we're\ngoing to do is called the\n3d view that's usually the first view\nyou want to uh\nyou want to create so that you can see\nwhat the building looks like in 3d so we\nclick\non the next and of course we want to\ninclude both levels\nwe want to see everything and we hit\nnext and\nwe also want to see all of these\nconstructs\nand then we're going to hit finish\nso as you can see that drawing our view\nhas been created\ninside of our architectural folder so\nlet's go ahead and open that\nup and right down here we can see that\nwe have\num this dr this view and if we should\nrotate it in\nthree dimensional you can see that it\nnow has\neverything inside of it all right\nso what is happening here is that we\npulled all\nof our constructs into one\ndrawing into",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 999,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "t all right\nso what is happening here is that we\npulled all\nof our constructs into one\ndrawing into a view so that we can\nsee them all together so\nlet's go over to our external reference\npanel now if you're not seeing this just\ntype the command\nx ref and that should bring it up and\nnow you can see all\nthree uh constructs being displayed here\nso if i should click on fixtures you can\nsee the fixtures being highlighted\nthere if i click on foundation you can\nsee that the foundation is being\nhighlighted there\nand also the ground floor and we could\nadd more\nand more all right later on we will be\nadding\nthe property boundary or the site plan\nto this view as well all right so go\naround\nand play with it let's take a a nicer\nlook at it and see what we have\nso you can see that the foundation has\nbeen added the fixtures are inside\neverything is where it is supposed to be\nall right so i'm going to leave that\nright there and i'm going to hit the\nsave button\nso we have our 3d view and\nnow we're going",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "ave that\nright there and i'm going to hit the\nsave button\nso we have our 3d view and\nnow we're going to go ahead and create\nour other views\nso the next view that we're going to\ncreate underneath the architectural\num folder is another general one\nand we're gonna call this one uh site\nplan i'm gonna hit next and of course we\nonly want to see the ground\nfloor inside of this one and we do not\nwant to see\nfixtures so i'm gonna uncheck that and\ni'm gonna say finish\nso i'm gonna just go ahead and create\nall the views and then in\nin the next video we will start to\ndetail each view\none by one so again we're gonna go ahead\nand create a new drawing general\nwe're gonna call this one floor\nplan next we only want to see the ground\nfloor\nnext we want to see both fixtures and\nthe ground floor\nso finish we have that view being\ncreated and you just keep going\ncreate all the views that you want to\nsee so let's do foundation\nfoundation plan now of course this time\nwe do not want to see the ground floor\nwe",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 1000,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "et's do foundation\nfoundation plan now of course this time\nwe do not want to see the ground floor\nwe only want to see\nthe foundation all right so we go ahead\nnow we select that we hit next\nthis is the only construct for\nfoundation we'll go ahead and we select\nand we'll say next\nthat has been created and of course\nwe're going to\nkeep going um this time\nwe need a roof framing\nplan and we're going to hit next of\ncourse guys you can add a description if\nyou want i'm\ngoing to hit next we only want to see\nthe ground floor\nnext do we want to see fixtures no\nfinish\nthat's a real framing plan we're going\nto create a new drawing\nand we're going to call this drainage\nand\nelectrical all right so usually we do\ndrainage and electrical on one drawing\nin jamaica except if it is a very big\nhouse\nor a large building we just throw it all\non one drawing because especially for\nsomething this small it's\nit's not going to be significant so\nwe're going to hit next\nand of course we want to see the ground\nfloor",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 1000,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "not going to be significant so\nwe're going to hit next\nand of course we want to see the ground\nfloor here we're going to hit\nnext we want to see both fixtures and\nground floor\nand so that's about all the plans and uh\nviews that we want underneath our\narchitectural folder\nso that's that i'm gonna now create some\nsectional views\nin order to create a section of views\ni'm going to actually open up my floor\nplan\nall right so the floor plan is where i\nwant to see\nthe arrows and everything so in the\nfloor plan here i want to have the\nelevation\narrows pointing in towards the building\nand i also want to have the sectional\ncutting planes showing on this drawing\nso that is why we open up this drawing\nhere to create\nour sectional views so i'm gonna\nminimize that and the first thing you\nwant to do\nis to change your scale to quarter inch\nand quarter inch is the same as 1 in 50\nif you're doing\nmillimeters so you want to make sure\nthat you change the scale\nbecause now we are going to be adding\nannotat",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 198,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "ers so you want to make sure\nthat you change the scale\nbecause now we are going to be adding\nannotative\nobjects if you don't know what i'm\ntalking about i have\na video that explains this very well so\ngo ahead and\nwatch that video so when you're adding\nannotation objects you want to make sure\nthat you set your scale\nso that they will appear at the correct\nsize all right you don't want it to be\ntoo big and you don't want it to be too\nsmall\nwe want it to be perfect all right after\nwe've done that what we're going to do\nis to go ahead and go over to our\nannotate\ntab and we're going to go across to\ncallouts\nall right so underneath here we see\nsomething called elevations\nall right so we're going to select our\nelevation drop down and you can see that\nwe have\nvarious types of elevation here\nall right you have the interior ones and\nwe also have the\nexterior one and we also have the single\nelevation ones all right most times are\nfor some persons if you're not seeing\nthe\nfour arrow one you would",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 999,
+    "word_count": 199,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "on ones all right most times are\nfor some persons if you're not seeing\nthe\nfour arrow one you would have to use the\nsingle\none but with the four arrow one it makes\nlife very easy so what you do is you\nclick on it like that\nand then we would know just draw a box\naround\nthis building and you want to kind of\nmake it look a lit at least a little bit\nequal on all sides\nso that all the arrows can be somewhat\nthe same distance away from the building\nso\nsomeone look like that and we're gonna\nclick and so we have this little box\npopping up now and we need to do\nsomething here\nso we can rename our elevations instead\nof calling them\nnorth south east and west for north it\nwould be the back\nbecause that would be on this side for\nthe east\nwould be the right south would be\nfront elevation and west would be the\nleft\nelevation all right the next thing we\nwant to do is to change the scale to\none in quarter because we want these\nelevations to be on\nthis scale the same thing as one in 50.\nthe same thing t",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "r because we want these\nelevations to be on\nthis scale the same thing as one in 50.\nthe same thing that we chose for this\ndrawing\nall right so then now we have the option\nto say\ndo we want to add these to a new drawing\nor in an existing drawing or\nin this current drawing that we are now\nin\nwe're going to be placing these\nelevations in a new\ndrawing so go ahead and click on new\ndrawing\nand we're going to name this drawing\nelevations\nand then we're going to change the\ncategory which is a folder and we want\nthis to fall\nin the in this folder here that we\ncreated earlier\nall right so just like that we're going\nto hit next and we want to include\nboth levels next and we want to see\neverything all right all our constructs\nfinish after you hit finish we need to\nplace\nthe drawing somewhere do you want to\nplace it\non this side of the building below the\nbuilding over on that side i'm going to\nbe\nplacing it somewhere here so let's click\nour first point\nand then we need to decide how far apart\nwe w",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 1000,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "acing it somewhere here so let's click\nour first point\nand then we need to decide how far apart\nwe want each elevation to be\nfrom each other because you know you\nhave to space the mode so that you have\nenough space to add your dimensions your\nlabels and all of that\nso you need to draw a space it's not you\ndon't need to\nspecify just you know determine or\njudge or guess as a space\nso i'm gonna just probably use that\namount of space\nand as you can see it is being generated\nnow you're not going to see it in this\ndrawing\nbecause it was created in a new drawing\nunderneath our\nsections folder so if i click this drop\ndown\nwe see our new drawing and if i click\nthis drop down\nwe see our elevation views before i get\ninto these\ni want to show you know that we now have\nour arrows\nhere and this will appear on our floor\nplan\nview when we drop it on the sheet that\nis why we\ndo it in this drawing all right so what\ni'm going to do now is to open up the\nelevation drawing so you can see\nwhat the elevation",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 1000,
+    "word_count": 209,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "ht so what\ni'm going to do now is to open up the\nelevation drawing so you can see\nwhat the elevation looks like so here we\nare we have the back\nwe have the right the left and\nwhere's the front oh this will be\ndifferent\nand it looks um crowdy we did with the\nblocks and all of that but\nno worry we're gonna fix that and also\nwe are seeing the foundation\nwhich we should not be seeing but don't\nworry we're gonna fix it\nthat's that i'm gonna x this off and i'm\nyou don't have to say yes it's gonna\nalways be there\nwhat we're gonna do now is to create\nsome sectional views and we\nwant to do it on the floor plan view\nas well all right so remember now we are\ninside of our floor plan\nview i don't want you to confuse this\nfloor plan\nwith our construct okay construct is\ncalled a ground floor so\ngood two different names so our floor\nplan\nis where we're adding these uh markers\nhere\nso let's go up back to call outs and\nwe're going to go to sections\nand as you can see we have various\noptions this one is",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 999,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 14,
+    "text": "call outs and\nwe're going to go to sections\nand as you can see we have various\noptions this one is the one that we're\ngoing to use\nso we're going to select it with the two\narrows\nand when we're doing section guys it is\nimportant that you cut\nthrough the kitchen and the bathroom you\nhave to cut\nthrough the kitchen and the bathroom it\nis a requirement\nby the municipal cooperation cooperation\nso um you have to cut\nthrough both areas and you must have\nat least two sectional views\nokay so one is not gonna do it you need\nto cut this way and you need to cut this\nway\nfor larger buildings they will request\nmore\nokay so but the minimum is two so we're\ngoing to\ncreate one running across this building\ncutting right through here\nboth kitchen and the bathroom looking\ntowards the back\nand then the second one will be cutting\nthrough the kitchen\nlooking towards the left so let's do the\nfirst one\nso we're going to start somewhere about\nhere and as you can see my line\nis not a guaranteed a straight line",
+    "start_char": 12600,
+    "end_char": 13600,
+    "char_count": 999,
+    "word_count": 194,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 15,
+    "text": "e going to start somewhere about\nhere and as you can see my line\nis not a guaranteed a straight line if i\ndo it like this\nso i need to turn on the author mode so\nthat\ni can get a perfectly straight line so\ni'm going to draw it all the way out\nclose to the elevation arrow click we\nhit\nenter and then now we have the option to\nchoose\nwhich direction do you want the arrows\nto point\nup or down in this case we want it to\npoint up\nand we want to pull this box here\nall the way out like that because if we\nonly pull it halfway like this\nonly what is inside of the box will show\nin the elevation view\nso we need to pull it all the way back\nso that we can see\neverything uh in this direction so let's\nclick\nand of course this box comes back up we\nneed to name the section\ni'm going to call it section a and i'm\ngoing to create a new drawing\nof course set your scale and we're going\nto say\nnew drawing i'm going to call this\nsectional\nelevations\nand we're gonna drop it inside of the\nsections folder\njust li",
+    "start_char": 13500,
+    "end_char": 14500,
+    "char_count": 1000,
+    "word_count": 213,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 16,
+    "text": "oing to call this\nsectional\nelevations\nand we're gonna drop it inside of the\nsections folder\njust like we did with elevations all\nright\nhit next and we want to see\nboth levels next and we want to see\neverything again we want to see all of\nthese\nand we're going to hit finish again\nafter you hit finish you need to place\nthe drawing somewhere\nso i'm going to be placing this one\nright here\nso if i go to the navigator and we click\nour drop down\nwe can see that we have sectional\nelevations\nand if we drop this down we have our\nfirst section\nso we're going to create our second one\nwhich should be running\npretty close to the stove right here\nso let's click on that again and we're\ngoing to draw one\nfrom let's say here\nthat's too close to the wall\ni mean it can be close to the wall but\nwhat's gonna happen it's gonna cut\nthrough the foundation below and i don't\nwant that\nso i want to cut it like here\nmaybe here yeah it's not\ntoo bad all right bring it down click\nhit enter and now we decide which\nd",
+    "start_char": 14400,
+    "end_char": 15400,
+    "char_count": 1000,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 17,
+    "text": "e\nmaybe here yeah it's not\ntoo bad all right bring it down click\nhit enter and now we decide which\ndirection i want to see\neverything in this direction so i'm\ngoing to click\nthere and then of course this would be\nsection\nb set my scale and now\nwe're going to be placing it in an\nexisting drawing we want to put it in\nthe same drawing that we put our first\nsection so we're going to say existing\nand we would go ahead and select our\nprevious drawing we hit ok\nand this was section a i'm going to\nplace section b\nright beside it right there so now you\ncan see that we have\nall our elevations and both our sections\nso let's open up this drawing and see\nwhat it looks like\ngood so here we can see that we have\nboth\nsections all right from here and here we\ncan see inside the building\nand this that's good this is exactly\nwhat we want to see\nall right so i'm going to x this off as\na matter of fact i'm going to remain in\nthis drawing\nbecause the other views that i'm going\nto be creating will be coming f",
+    "start_char": 15300,
+    "end_char": 16300,
+    "char_count": 1000,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 18,
+    "text": "ing to remain in\nthis drawing\nbecause the other views that i'm going\nto be creating will be coming from\nthis particular drawing so\ni want to do a detail of the foundation\nall right so we're moving on to details\nand the first details i'm going to do\nis the foundation footing so i want to\ncreate a\ncall out bubble right here for this\ndetail so what we're going to do is to\ngo back to call out\nand we're going to go down to this\ndrop down here where it says detail all\nright we can select\ncircle rectangle or we can draw our own\nshape\nbut for this one i'm going to use\nrectangle and i'm going to just draw a\nrectangle\nright around this foundation footing\nright like that\nso you can see that it creates this uh\ncall out\nbubble right here and i'm going to drop\nthe the head\nright here hit enter and we're going to\ncall this\nfoundation footing detail\nwe're going to say all right we want it\nat a half inch scale\nhalf inch scale is a regular scale for\ndetailed views\nso of course we're gonna leave it there",
+    "start_char": 16200,
+    "end_char": 17200,
+    "char_count": 1000,
+    "word_count": 201,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 19,
+    "text": "scale\nhalf inch scale is a regular scale for\ndetailed views\nso of course we're gonna leave it there\nif you want it to be\nmuch bigger than half inch you would go\nahead and select\nmaybe three quarters or one inch or one\nand a half inch\nbut half inch is good enough for this uh\nwe want to create a new drawing\nall right so create a new\nright and we're going to call this\ndetails and we're going to of course\ndrop it in the details folder we're\ngoing to hit next\nwe want to see both ground floor and\nfoundation\nwe're gonna hit next and what i do not\nwant to see here\nare the fixtures so remove that\nand we're gonna hit finish\nand then of course the last thing we\nneed to do is to place\nthe details where we want it so i'm\ngoing to place it just below this\nview click it right there all right\nso that's our first uh detail\ni'm gonna do one for the eve and i'm\ngonna bring it all the way down so i can\ncapture\nthis air where the lintel is and\nalso the ring beam so all of that will\nbe captured within this",
+    "start_char": 17100,
+    "end_char": 18100,
+    "char_count": 999,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 20,
+    "text": "ture\nthis air where the lintel is and\nalso the ring beam so all of that will\nbe captured within this one\ndetail so i'm gonna do another one\ncall it that rectangle and i'm gonna\ncapture everything from here\nall the way up to about here so all\nright i'm going to put\nthe other bubble right here\nand hit enter i'm going to call this\neve ring or belt\nbeam and lintel i'm going to just add it\nall in one\nyou could actually break them apart if\nyou want that's fine\ni'm going to say half inch and this time\ni'm going to place it in an existing\ndrawing so we're going to say existing\nit's not valid\nall right let's remove the commas\n[Music]\nexisting drawing and we want to place it\nin the detail\nview all right so we're gonna say okay\nand of course our first view was right\nhere but i'm gonna place this one\njust beside it maybe maybe right there\nand so we have two views so far the last\nview i'm going to create\nis for the ridge detail so let's go\nahead and do one more of that\ni'm going to draw it right he",
+    "start_char": 18000,
+    "end_char": 19000,
+    "char_count": 1000,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 21,
+    "text": "eate\nis for the ridge detail so let's go\nahead and do one more of that\ni'm going to draw it right here and i'm\ngoing to put the bubble\nright there and hit enter i'm going to\ncall this\nridge detail and i'm gonna say half inch\nis good i'm gonna place it in an\nexisting drawing\nthe details drawing okay and then i'm\ngonna be placing it right beside these\ntwo\nprobably like right there and you can go\nahead and create\nas much detail as you want so if you\nneed to show\nthese in some more details if you had\nsome\nlike staircase or stairwell or whatever\nthe case might be you can add as\nmany details as you would like\nif there is a detail on here that you're\nnot seeing\nand you want to represent it um\nfrom the floor plan what you would do is\nto use a\na a sectional detail line\nall right so if i wanted to show let's\nsay i wanted to cut\nthrough this drain hole to show what's\nhappening\nin that hole right there i would use\num one of these cutting lines to show\nwhat's happening there all right so\nthat's wha",
+    "start_char": 18900,
+    "end_char": 19900,
+    "char_count": 1000,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 22,
+    "text": "ere i would use\num one of these cutting lines to show\nwhat's happening there all right so\nthat's what you would do\nfor views that you're not seeing from\nthese\nsectional views but i'm going to leave\nthat right there what i'm going to do\nnow is to open up\nour details view so here are the three\ndetails that we\njust created so i'm going to just open\nup this drawing\nand from here you can see that we have\nall of these three\nuh drawings showing up right here so all\nthat's left for us to do now is to go\nthrough and\nannotate everything all right\nso all our views have been created\nincluding our elevations or\nsections or details and all of our\nfloor plans have been\ncreated alright guys this is where i'm\ngoing to end the video guys\nso we have created our 3d view\nwhich i actually will be dropping the\nsite plan\ninside of this\nwe have our plan view which has our car\nloads\nwell our sectional planes and our\nelevation arrows we have\nour sectional views\nwith detailed callouts and we also have\nour details",
+    "start_char": 19800,
+    "end_char": 20800,
+    "char_count": 1000,
+    "word_count": 196,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 23,
+    "text": "our\nelevation arrows we have\nour sectional views\nwith detailed callouts and we also have\nour details over here\nall right guys so thank you for joining\nme i hope that you learned something if\nyou have\nany questions at all just feel free to\ndrop them in the comments\nand i'll be sure to answer them all\nright so see you in the next video\npromise\nall right big of yourself respect",
+    "start_char": 20700,
+    "end_char": 21700,
+    "char_count": 377,
+    "word_count": 73,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

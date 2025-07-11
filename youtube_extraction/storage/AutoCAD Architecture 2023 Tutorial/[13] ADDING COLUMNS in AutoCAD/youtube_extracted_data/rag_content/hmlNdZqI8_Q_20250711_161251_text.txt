@@ -1,0 +1,493 @@
+hello everyone this is episode 13 of our
+one bedroom house
+and uh today what we're gonna do is to
+add some columns
+to our building all right but before we
+get into that i want to say thank you to
+all my
+visionaries who have been supporting the
+channel so far
+um you know big open self respect and if
+it's your first time on the channel
+thank you for joining if you like what
+you see here
+or if you learned something you know
+what hit the like button and also don't
+forget to subscribe
+and comment and everything also follow
+me on my other social media platforms
+instagram twitter those are the only two
+i have right now
+and uh yeah let's jump on the other side
+let's go
+[Music]
+all right so you know how it goes over
+here classroom style
+the first question the teacher is going
+to ask you is what
+is a column anybody here know what is a
+column raise your hand for me
+you know what let's turn to google i ask
+google what
+is a column an upright pillar
+typically cylindrical and made of stone
+or concrete
+supporting an entablature arch or other
+structure or standing alone as a
+monument
+what google is basically telling us is
+that a column is not
+only here for pretty looks if you know
+what i'm saying columns are often
+load bearing which simply mean that they
+are holding up
+something whether it be the roof a beam
+an
+arch something most times or sometimes
+them have it by itself standing up in
+the middle of nowhere
+just for pretty looks so columns also
+come in various shape
+size and are made from concrete stone
+steel and even wood most of the columns
+that are made from
+wood we typically call those a post
+but the their function is similar to a
+column because they are
+holding up something as well so we just
+put them in another class there and
+we'll say yeah what hold on a column so
+i want to see it right listen somebody
+said all right okay so before we get
+into the specific columns that we're
+going to use
+on this building it is important to note
+that the shape
+size and the material that is used to
+make these columns are usually
+determined by
+an engineer all right someone who
+understands
+how load works um how to do calculations
+and make sure that you're using the
+right steel the right
+mix of concrete you know to determine if
+the size of the column
+is big enough or wide enough to hold up
+a certain amount of
+load or weight so these can be very uh
+tricky if you don't understand what
+you're doing but for this building
+and most buildings that we do in jamaica
+um we have a standard column
+type that we use which i'm going to get
+into in a moment
+and this is just a typical example all
+right so if you're going to do a much
+larger building and so on
+then you would need to do some more
+research and find out
+exactly the type of column and beam
+also that would be needed for your
+particular project
+all right so of course the columns that
+we're using will be made
+from concrete they will be reinforced
+with
+steel or rebar and so they
+look like these these are special shaped
+columns
+um that we in jamaica call stiffeners
+right so as you can see we have various
+shapes and
+of course they are not limited to these
+only depends on how
+the walls connect all right so of course
+in our drawing we will only need to use
+these three top ones that you're seeing
+here so the standard
+t stiffener we have the eye stiffener
+and we also have the l
+stiffener and by just looking at it you
+can basically determine where
+on the building you would place these
+based on the shape
+of the column so of course the t would
+go somewhere where the wall
+meets another wall like that at a
+junction
+and then the eye would go on a straight
+wall so if you have a wall that is very
+long
+or if you have a wall that stops in the
+middle of a room
+or something you want to use the eye
+stiffener and also if you have the
+corner of the building we want to use
+the
+l stiffness and in other cases we would
+use
+a cross shaped stiffener or a y shape or
+a 45 degree
+angle stiffener all right so you can go
+ahead and download this pdf
+in the description below because you're
+going to need it all right as you can
+see we have the dimensions on here
+for this particular project and as you
+can see each leg of
+the stiffener has the width of the wall
+so this one is six inches this one is
+also six and this one over here would be
+the same
+as well likewise we have one that is six
+by twelve
+and we also have another one so if your
+wall is going to be
+eight inches you gonna make sure that uh
+the thickness of your stiffener is also
+eight
+inches all right so that is that let's
+move
+over into autocad and we get the thing
+rolling
+so the first thing you want to do if you
+notice here kind of go ahead with
+things so that i can move a little
+faster so go ahead and create
+a construct and call it structural
+because really actually columns and
+beams would be placed
+in this drawing we're not going to model
+the beams
+here we could do everything here in 3d
+but we're going to do them in
+2d just to make things easier and also
+really and truly we don't need 3d for
+this drawing especially due to the fact
+that
+these columns are basically hidden
+within the walls you won't be seeing
+them popping out of the wall so
+we don't necessarily need to put them in
+3d all right even for this
+one in the corner here we already have a
+column looking
+thing there if i should put the drawing
+in 3d you can see that we have
+something that looks like a column
+already so we don't need to
+model anything at all here in 3d
+so go ahead create a construct and we're
+going to call it
+structural as you can see i have it open
+up already
+and then you're going to minimize that
+no before you minimize go ahead and
+x-ref overlay the ground floor
+into your structural model arm
+structural drawing
+so that's what i have done here so far
+and then you're going to go ahead
+and draw the shape of
+your stiffeners so if you notice i have
+one that i didn't do
+which is the t-shape one so i'm going to
+show you how to go about doing that
+but i already have uh three
+already made and these are actually
+smart
+as you can see they have a pull point
+and they also have a rotation
+uh ability so the one that i'm gonna
+create i'm gonna show you how i go about
+doing that so let's go ahead
+and you would want to look on the pdf to
+make sure that you're following
+uh the dimension and the sizing
+accurately
+all right so we're going to turn on our
+author mode and we're going to go ahead
+and just draw
+the t stiffness so six six
+six it's all six all the way
+almost like the mark of the beast circle
+and sees
+trample the beast all right so there we
+go
+so this is our thing and then we're
+going to just type the command the join
+we're going to join everything together
+hit enter and we're going to then hatch
+using the concrete uh
+hatch which is this make sure that it is
+saying
+one do that
+hit enter so now we have a hatching and
+we also have
+the shape of the thing all right at this
+point we're gonna
+turn all of this into a block so we're
+gonna type
+the command well let's select everything
+first
+and then type the command block
+so what we're doing here is to as you
+can see that little display there is to
+turn
+this object into a block now if you look
+down here you can see that i have
+those three made and they are named
+inside of here so we're going to name
+this one the
+standard t
+stiffener and we're going to hit
+oh okay we're going to say open in block
+editor because we want to
+make it smart so we're gonna say okay
+all right so now that we're in the
+editor this is where we can make it
+into something that we can rotate and
+and those kind of thing so the first
+thing we're gonna do is to go up to
+parameter and we're gonna add
+a point all right we're going to add two
+points we want to be able to grab the
+object from this corner and this corner
+so let's do that
+grab i'm going to put one point here i'm
+going to put another point here
+let's drag these out these are just
+labels to identify where
+your stuff is as you can see the blue
+marker here
+is where the actual thing is at and we
+also want to be able to rotate
+this block so we're gonna click on
+rotate we want to rotate it from these
+two points as well
+so we're going to place the first one
+right here we're going to drag this out
+like so
+and type it and the angle that we want
+would be 180 degrees
+and then we're going to also type 8 once
+more
+so as you can see we have our rotation
+handle
+right there we want to place another one
+over here so we're going to click on
+rotation again and we're going to click
+in this corner
+drag this out and type it
+and our angle would be zero
+enter and just like that we now have
+our two rotational uh handles so
+now guess what we need to make them into
+actions because even though we place the
+parameters
+they are not active so what we're going
+to do is to do the
+the move handles first so let's click on
+move it says here select the parameter
+so we want to do this one first
+so we're going to select that and then
+it is now asking you what do you want to
+rotate
+we want to rotate everything
+hit enter actually it's not rotate it's
+move
+let's do this the second one select the
+parameter
+what do you want to move everything
+enter we're going to do the same thing
+for rotate
+so click on rotate we're going to do
+this rotation parameter
+first so we click on the parameter now
+we need to select
+everything that we want to rotate which
+would be
+everything hold on let me
+let me let me zoom out
+everything enter i'm going to do the
+next one
+rotate we're going to select this one
+what do you want to rotate everything
+enter
+and that's it we hit close we hit
+save and just like that
+we have a block that can be moved around
+with these handles let me turn this off
+so we can move it around and we can also
+rotate it
+using any of these handles all right so
+just like that you want to make sure
+that you save
+because that's a lot of work and also go
+ahead and create
+a layer for these columns so i've
+already created one here
+called s calls and i made it green
+and also at a line weight of 0.5
+mm so go ahead and create that layer and
+what we're going to do is to place all
+of these
+on that layer so everything looks
+the way it ought all right so usually
+what i would do now is to start copying
+these
+over so we're going to hit the copy tool
+i usually do this one first because this
+one kind of fit in all of the corners of
+the hose
+all right so i'm going to place that one
+there i'm going to place one here
+i'm going to place one here and i'm
+going to place one here
+and then i'm going to place one here and
+of course you're going to go ahead and
+rotate them now
+into the orientation if you notice this
+is not good
+so we need to turn on author so that we
+can make them
+uh perfectly straight
+you don't want to rotate it and it
+should be what 90 90 degree rotation and
+when you check it
+89.7 and that kind of thing that's
+that's miss that's that that wouldn't be
+good
+all right you want your thing to be as
+accurate as possible
+so go ahead and click on those rotation
+handle and
+just rotate your thing
+so far we have all four or five corners
+taken care of
+i'm gonna add a t maybe right there and
+another t
+over here so let's go ahead and do that
+and you could actually rotate it from
+here before you
+copy it so that that so that way you can
+just you know
+move it over let me turn this off for
+now
+i'm gonna drop that one right there
+i'm gonna need this one right here as
+well turn
+my author mode on before
+i rotate okay obviously that was placed
+in the wrong spot
+so let's just drag it up like so
+all right so we have two t stiffeners i
+don't think we need any more than that
+i'm gonna be placing a couple of um
+eye stiffeners so this one i'm gonna
+copy
+and i'm gonna drop this one
+right here and so i can
+rotate this one like so
+right in that spot so i would have a
+beam running over this
+into that and then i would have a beam
+running from this
+into that beam over here
+i feel like i needed to have another t
+stiffener right here
+i don't think you need it but i'm just
+gonna put it there right
+so we have this beam running into that
+and then this beam
+running to this wall down here so what
+i'll do is to put another
+l right there
+i'll put a l right here and
+rotate this all right one other thing
+you don't want to have
+too many columns on the building because
+you'll make the building too
+rigid and that's not good you want the
+building to have a some amount of wiggle
+to it so that it can hold up to the
+earthquakes and all of that
+all right so too many columns can
+actually be a problem
+like if you have like tiny closets and
+those things you don't need to be
+putting columns in all of those areas
+i think we have enough columns here and
+then we might need
+one extra one the square one not to be
+placed right there so i'm gonna copy
+this
+i'm gonna drop it actually i think i've
+copied it from the wrong
+spot let me move it from this corner to
+that corner so now we have all of our
+columns in place i can go ahead and
+delete these
+i don't want to see them if i go to
+3d you can see them on the floor and
+remember that these are in
+2d so and so that is how you go about
+getting in your columns guys
+and we're going to hit the save button
+all right one of the other things that
+we could actually do
+is go to our views and now we need to
+add these columns to our floor plan and
+our
+foundation plan as well so we go ahead
+and right click and we say
+properties i'll go down to content and
+we make sure that structural is
+is selected and we say okay now we're
+going to do the same thing
+for foundation i'm going to go to
+properties content
+okay it's not in our foundation and i
+think i know why
+the construct is on the ground floor so
+i'm gonna go properties here
+and i'm gonna also select foundation
+okay good so that way when we go to
+views and we go to foundation and we say
+properties and we go to that then we
+have structural as well
+so that way now when we open up these
+views
+we now see that they're located inside
+if i should open up my foundation let me
+keep this
+up open up foundation
+we also see them inside of here and this
+is very important because
+these columns will be constructed from
+the foundation
+up and so we need to be able to see them
+from this view as well all right guys so
+that is where we're gonna wrap this up
+today
+um thank you for watching thank you for
+tuning in i hope that you learned
+something
+and of course you're not gonna forget
+i'm gonna remind you to
+hit the like button hit the subscribe
+button
+and also hit the bell and don't forget
+to
+comment and share and everything else
+follow me on
+instagram follow me on twitter that's it
+alright so
+see you in the next video if you have
+any questions you know what to do
+already
+and uh yeah yeah let's let let's get the
+baller rolling man
+[Music]
+you

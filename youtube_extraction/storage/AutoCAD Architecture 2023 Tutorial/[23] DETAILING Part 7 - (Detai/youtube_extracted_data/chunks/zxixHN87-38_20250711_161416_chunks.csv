@@ -1,0 +1,91 @@
+chunk_id,content
+0,"Alright, so here we are back in AutoCard architecture and in this video I'm going to
+be showing you how to complete your detailed views.
+Alright, now as you can see I would have already completed most of them and that's because
+I don't want this video to be very long so I'm going to show you how I do these two and that
+should I would hope help you to complete all your other views.
+Alright, now if you were here in the last episode when we did our sectional elevation views,
+you would have seen how I actually got these ring beam in as well as the lintel in by using the
+AutoCard built in library of component details."
+1,"ring beam in as well as the lintel in by using the
+AutoCard built in library of component details. Alright, so this little tab up here if you click on it,
+it has a number of things in there depending on if you're using the standard or metric,
+you can go ahead and select the library that you want to use, where using the US library right
+and all of the material and components available here will be in standard measurements.
+Alright, so of course we can go and drill down into different types of components and we can choose
+different sizes or types based on what we are looking for. We can even type in things that we may
+need. Let's say we want hurricane anchors. So we have hurricane straps. If you want,
+let's say you want something else, you can just search for it in here. Alright, but you don't have to
+always come inside of here because we do have a tool palette that has some items inside of it. So if
+you click on this little setting and you go down to detailing, you would find that we have a lot of
+those same components located here for just quick access."
+2,"ing, you would find that we have a lot of
+those same components located here for just quick access. Alright, so we're going to be using this
+as well as that whenever we can't find what we need. Now obviously not everything is going to be
+inside of here. You know, so there are times when you're going to have to literally draw your own
+detail and that's perfectly fine. That's all. I do a lot of my details currently just the same.
+What I'm going to be using mainly what is in the library for this project. So I hope that you
+enjoy it and you'll learn something. And if you do hit the subscribe hit the like drop a comment
+ask the questions and share the video. Alright, let's begin. So we're going to start with the
+2x4 that is located at the top of the window. So let's click on the wood and right away we get
+wood looking block there but that's not the right size. It says 2x4 but that's not the
+cot I want. I actually want a rough cot and I'm going to change the size to 2x4."
+3,"but that's not the
+cot I want. I actually want a rough cot and I'm going to change the size to 2x4. That is what I need.
+And then I'm going to change the rotation to 90 degrees and then I'm going to drop it right in the corner
+Alright, so that gives me my first detail component. No guys, it's important for you to know that
+these blue lines will not be printed. This is just an outline or a shape out of the detail and
+Otica is saying to you, you need to fill in the areas that needs to be filled in. Alright, just
+like these other detail that I did Otica provides the outline and you fill in the gaps.
+Likewise when I provided these details earlier. Some episodes ago we had just had the outline
+and then we would use these components to fill in where we can fill in. And of course,
+some of these I had to use lines to draw like these are just regular lines I used to draw them
+and kind of just create some details. So it's a combination. Alright, so you work it all you can.
+The next thing I'm going to place on here would be the lintel as well as the beam.
+I'm going to show you how I did it."
+4,"going to place on here would be the lintel as well as the beam.
+I'm going to show you how I did it. So go to concrete and go to beams where I already on beams
+and I want it to be customizable and I'm going to make it six inches by one feet. That's good.
+I'm going to change turn off this shumper, shumper thing. No, so it becomes rectangular and then
+do I want to see the reinforcement? No, because I want to make my own reinforcement. So I'm going to
+place this right there and then while I'm in the command I'm going to just change the height to
+eight inches because the lintel will be eight inches deep and then I'm going to flip it on the x-axis
+so that it comes at the top and then I can drop it right on top of there. Good. So now I have my
+two concrete areas there. Then I'm going to drop some blocks inside of here. So let's go to concrete
+to masonry and we're going to change from clay to CMU. And of course we're going to slip the
+size block that we used for this project which would have been six by eight by 16. That's what it
+looks like in a section of view."
+5,"s project which would have been six by eight by 16. That's what it
+looks like in a section of view. Of course we can change the view from section to plan view if that's
+what we want. You have elevation view and you have what else elevation pattern. So you can fill
+it here. We're not going to use that we're going to use sectional and we're going to click our first
+point here. I'm going to draw our line upwards and if you notice as you draw your line up it builds
+on top of each other more and more but we're going to just build it to what we need which would be
+just two rows of blocks and then need to center this in the middle here. Good. So just like that
+we have our block work and our beams looking beautiful. Now I'm going to draw some lines here just to
+fill this area of the wall and the window. All right so let's regular lines."
+6,"ome lines here just to
+fill this area of the wall and the window. All right so let's regular lines. All right good and then
+I'm going to also draw a line here to represent my rendered area of the wall and then we can go ahead
+and place the steel work or the rebars inside so we're going to go to concrete once more.
+And we're going to go over to the category change it from that to reinforcing steel.
+Now guys this is an area where you will need to know how they do beams and steel and whatever in
+your region. I'm just doing it based on what I use in Jamaica. All right so for this beam I'm going to
+be using four inch rebar not four inch rather number four rebar and you need to know your rebar
+sizes so make sure you check that out and I'm going to instead of using single rebar like what you're
+seeing there I'm going to switch it to an assembly which would be rectangle column which actually
+gives me the tie along with you know some other rebars in there so I'm going to just change some
+numbers in here to get their amount of rebar that I need."
+7,"in there so I'm going to just change some
+numbers in here to get their amount of rebar that I need. Now guys this is where you're going to
+have to mess around and try to figure out how the steel works. I need an edge offset of one inch
+make these one inches as well. So essentially I'm using a number four rebar on the inside
+and the number three rebar on the outside to create the ties. All right and if we can actually draw
+one of these and see what it looks like. It should look something like that so the tie it would be
+a number three and one on the inside would be a number four. So let's go ahead and draw our
+steel rebar inside there put one more in here. Looking good all right so that covers a multi-tube of
+sin. All right let's go."
+8,"ut one more in here. Looking good all right so that covers a multi-tube of
+sin. All right let's go."
+9,"ut one more in here. Looking good all right so that covers a multi-tube of
+sin. All right let's go."

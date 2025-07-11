@@ -1,0 +1,353 @@
+[
+  {
+    "index": 0,
+    "text": "hi everyone this is episode 11 for one\nbedroom house\nseries and today what we're gonna do is\nto start working on our site plan so\nwhat that means is that we're gonna lay\nout what I want is site to look like\nwe're gonna do some landscape word plant\nsome trees some grass and a couple look\nat things you know to make it look like\nsomewhere we would actually want to live\n[Music]\nokay so drawing your side plant can be\nanother fun activity so on a side plan\nyou get the opportunity to make the\nlandscape exactly how you want it to\nlook so we get to add a various trees\nshrubs edging gardens driveway pavements\npools etc etc but for today's\ndemonstration I'm gonna make it very\nsimple we're gonna just do the basic\nstuff and I might just add one or two\nlittle thing here and there but nothing\ntoo deep I leave that for you to\nexperiment all right\nnow the question is why do we need a\nsite plan the site plan is actually a\nvery important plan and the Municipal\nCorporation will need this drawing in\norder",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 999,
+    "word_count": 195,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "lan is actually a\nvery important plan and the Municipal\nCorporation will need this drawing in\norder to know where the building is\nlocated on the site they want to know if\nyou are abiding by setbacks and zoning\nregulations they want to see you how the\ndrainage is laid hope they wanna see\nwhat the landscape looks like all of\nthat they want to see also the site plan\nis being used by the contractor because\nwhen the contractor is ready to lay out\nthe building he will need to know where\nto start laying on the billion euros\nthat the site plan is also used by\nlandscapers the guys who are gonna come\nin and plant the trees they need to know\nwhere to plant which tree we're to put\nthe pavement and our\nthat kind of stuff Meza and also later\non the home owner might want to do\nadditions to the building or to sell the\nproperty and this side plan would be\nrequired to do any of these tasks all\nright now with all of that said let's\nget over into AutoCAD and see what we\ncan do over there alright guys so h",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 1000,
+    "word_count": 199,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "ith all of that said let's\nget over into AutoCAD and see what we\ncan do over there alright guys so here\nwe are back in the drawing so if you\nremember when we set up the project from\nday one we had created a property\nboundary construct and it would have\nbeen in this drawing that we would have\ncreated our property boundary all right\nso let's let me open this drawing up and\nas you can see here I already have a\nlayout of the property that we're going\nto be placing the building on I recently\ndid a video on how to do this so if you\ndon't know how to do it\noh and watch that video so the diagram\nwould be found on the surveys report and\nwe would use the the bearings and the\ndistance is provided by the surveyor to\nget this diagram because we need to make\nsure that it is as accurate as possible\nall right no the first part of this\nvideo that I'm gonna be doing should\nhave been done from even before we\nstarted to do the ground floor and the\nfoundation alright this is something\nthat I I overlooked i",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "we\nstarted to do the ground floor and the\nfoundation alright this is something\nthat I I overlooked in the beginning of\nthis project so what I'm gonna be doing\nis to split this video into so what I'm\ngonna do first is to show you what we\nshould have done from the beginning of\nthe project and then in Part 2 or the\nsecond half of this video I'm gonna be\nshowing what we would do after which\nwould be at this point in the in the\nproject alright alright so after we have\nthe the drawing the diagram looking like\nthis what we would do is - first thing I\nwould say set the scale so make sure\nthat your scale is 1/8 and this is\nequivalent to 1 in 100 if you're using\nmillimeters as your units this is like\nthat the regular scale that we use\nbecause the building is really small if\nyou had a very large building then we\nwould probably go for one in 16 which\nwould be the same as 1 in 200 and so on\nand so forth all right so we're gonna\nwork with one it perfect and the second\nthing we're gonna do is to crea",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "rth all right so we're gonna\nwork with one it perfect and the second\nthing we're gonna do is to create some\nlayers alright remember that we're going\nto be placing trees pavement and so on\nso I want to create a layer for all of\nthese elements alright so I have my\nlayers palette right here if you don't\nknow where to find it it is right here\nand this little guy right here layer\nproperties and I actually have a video\non how to create layers so if you don't\nknow how to create layers check that\nvideo out but for this video I'm gonna\njust go right ahead and create some\nlayers I'm gonna put a s before all of\nthem just to say this is a layer that is\non a site plan so the S represents site\nall right put a - and the first one I'm\ngonna create is the property line I'm\ngonna change the color to blue maybe\nthat you can choose the color you want\nwe usually use Phantom for the line type\nand the line Oita I'm gonna just set it\nat probably point 4 then I'll create a\nnew one call this one setback and I'm",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 1000,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "a I'm gonna just set it\nat probably point 4 then I'll create a\nnew one call this one setback and I'm\ngonna make this one red and I'm gonna\nchange it from phantom to - and I'm\ngonna make the line wait a little bit\npromise 13 I think all the others are\ngonna be 0.13 so create another one call\nthis one pavement enter I'm going to\ngive this a gray color\nand I'm gonna make this continuous and\nI'm gonna leave it on the 13 create\nanother one call this one vegetation and\nof course the vegetation would be some\nsorta green color continuous 13 perfect\nand then I'm gonna create one last one\nI'm gonna call this one the road and of\ncourse you can choose whichever color\nyou would like and the line width is\njust about what I have here you can work\nwith the language but that's for the\nhour for the line type and the color I\nwould say try to adopt these ones until\nyou're able to come up with your own\nstyle and technique alright so so far we\ncan see now that we have all of these\nlayers inside of our drop-",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "and technique alright so so far we\ncan see now that we have all of these\nlayers inside of our drop-down here so\nthe first thing we're going to do is to\ndraw the road so let's go to the road\nlayer and of course we want to represent\nas close as possible the width of the\nroad and if there's a sidewalk and that\nkind of thing so for this for this\ndiagram I'm gonna put a sidewalk of five\nfeet all right and the road width would\nbe 18 feet and these would depend on the\narea alright so if it is a city area you\nknow you would have a wider street and\nmaybe a wider sidewalk and if it's a\nmore residential rural here you'd have a\nnarrower street and a narrower sidewalk\nand you might have sidewalks on both\nside or on one side whatever the case\nmay be alright so make sure you go on\nthe side and you try to get an accurate\nmeasurement and so what I'm gonna do now\nis to just offset well draw a line first\nhere now let's turn the artha more on\nlike that\nwell this kind of stretch it out a\nlittle bit furthe",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 999,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "here now let's turn the artha more on\nlike that\nwell this kind of stretch it out a\nlittle bit further off of the back now\nwhat I'm gonna do is to offset the\nsidewalk from this line so I'm gonna\nmake it five feet away from that\nthen I'm gonna offset another 18 feet\nwhich would be the width off the road so\nlet's do a sit again 18 feet enter and\nthen that would be the width of the road\nof course we could add another sidewalk\nhere but I don't care about this side of\nthe road I want to care about this side\nright now so I'm gonna leave it right\nthere what I'm gonna do is to get the\ncenter line in the middle of the road\nthough because that's gonna be an\nimportant line that we will need later\non in this video all right so we're\ngonna do another offset and the middle\nof that road would actually be 9 feet\nall right so there we have our 9 feet\nand I'm gonna actually change the line\ntype here to dashed so that it looks\nlike our road would look of course the\ndashed line would mean you can overtake",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 999,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "hed so that it looks\nlike our road would look of course the\ndashed line would mean you can overtake\nhere which we don't know really all\nright so at this point we can see that\nwe have the road what I'm gonna do here\nnow is to change this property box to\nmove it over to the current layer which\nwill be the property line there and then\nwe're I'm gonna explode it so I can work\non each line individually what I'm gonna\ndo also is to trim out this orange piece\noff the road so I can see the property\nboundary underneath so I go to the trim\ntool\nshrim I think this is it shrimp now I'm\ngonna select this and this enter and\nthen we want to trim this guy out so\njust like that we can now see the\nproperty boundary underneath all right\nso from here what we're gonna do is to\nput our setbacks boundary in all right\nso for this drawing of a dis property\nthe setbacks are 5 feet from the sides\nboth sides 15 feet from the back and 20\nfeet from the center of the road on the\nfront all right now these information",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "t from the back and 20\nfeet from the center of the road on the\nfront all right now these information\nagain you would get from your local\nauthorities these are very critical\ninformation and I will explain some more\nlater on in this video so what I'm gonna\ndo is to do some more offsets again\nnotice we using the offset to very\nregularly here so we're gonna offset 15\nfeet\non the back okay then it's gonna be\nanother offset which would be five feet\non the sides all right just like that\nand then it should be twenty feet from\nthe center of the road so let's do\nanother offset twenty feet from the\ncenter line that is why we needed the\ncenterline\nall right so in Jamaica they use the\ncenterline at the front of the building\nor the front of the property I'm not\nsure if that's how they do it in other\ncountries but the reason for this is so\nthat if in the future the government\ndecides to widen the street everyone on\nthis particular street would have the\nthe amount of space necessary for that\nfuture de",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 1000,
+    "word_count": 195,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "t everyone on\nthis particular street would have the\nthe amount of space necessary for that\nfuture development all right so this is\nvery important as we can see here is\nthat we have a space within the property\nall right I'm gonna actually highlight\nthis space using the setback layer that\nwe created earlier so I'm gonna use a\nsetback layer and I'm gonna go to\npolyline and draw just an outline around\nthis space\nlike so enter and then I'm gonna\nactually delete or erase these guys now\ncuz I don't need them anymore\nalright enter so here we have the red\nbox telling us that we can only build\nwithin these boundaries even though you\nhave your whole property you buy your\nland but guess what you're only allowed\nto build within the sandbox and this is\nvery important and there are many\nreasons all right for this particular\nproperty let's say you have a river\nrunning behind it if you watch the video\non how to draw this you would have seen\nthat there's a river running behind here\nand so they want to e",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 1000,
+    "word_count": 189,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "how to draw this you would have seen\nthat there's a river running behind here\nand so they want to ensure that you\nbuild far away enough because if the\nriver should let's say take away a piece\nof the land then your house would be\nsafe alright we explain the front\nalready and also on the sides they want\nto make sure that you have adequate\nspace away from the boundary so that\nyour neighbor you're building the\nsapphic your neighbor and vice versa so\nit's different in other areas those in\nsome areas you're allowed to build as\nclose to the to the boundary especially\nif it is a condensed area like cities\nand so on so it all varies you just need\nto find out what the setbacks are in\nwhatever are whichever area you're gonna\nbe doing the building for alright so we\nneed to ensure that whatever we're gonna\ndesign can fit within this space here\nand we're talking about the main\nbuilding itself so if you have another\nlike a accessory building that's\ndifferent that can be at least much\ncloser or anywh",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 999,
+    "word_count": 189,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "ou have another\nlike a accessory building that's\ndifferent that can be at least much\ncloser or anywhere else on the property\nfor instance if you have an attached\ngarage or let's say a dog house our pig\npen whatever the case may be those other\nthings can be anywhere else but when it\ncomes to the main building itself it has\nto be placed within\nsix bucks all right so this is where\npart 1 of this video would end this is\nwhat you would do before you start to\ndraw anything alright so let's move over\ninto the second half of this video all\nright so now that we have everything\nhere and we have the set back and what\nI'm gonna do is to place the building\ninside of the setback area all right but\nfirst let me connect these back together\nso I'm gonna use the join command and\nlet's join these guys back together so I\ncan get like a single object like that\ngood alright so we're going to go over\nto our project navigator\nand with an xref the ground floor into\nthis drawing alright so over here we can\nsee",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 999,
+    "word_count": 198,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "oject navigator\nand with an xref the ground floor into\nthis drawing alright so over here we can\nsee that we have the ground floor and\nwhat I'm gonna do is - I don't want to\nmove this drawing because this is an X\nreference file try not to move this all\nright what I'm gonna do is to move all\nof this over to the building so I'm\ngonna say all right use a move tool and\nI'm gonna move it from this edge right\nhere all the way over to to the edge of\nthis building right there I notice that\nthere is a slider\nsomething is off right there I think\nthis should go there right like that all\nright so I'm gonna move this over and\nI'm gonna drag it from this corner all\nthe way over let me turn off my Arthur\nmodel so that it lines up with the edge\nof this building so just like that I\nknow that my walls are within the Sigma\nhere alright if the roof hang over a\nlittle bit that's fine don't worry about\nthe roof what you should worry about are\nthe walls you want to make sure that\nyour walls are within the set",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 1000,
+    "word_count": 209,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 14,
+    "text": "f what you should worry about are\nthe walls you want to make sure that\nyour walls are within the set back here\nif you have a pavement going over that's\nfine but the main building itself has to\nbe within\nset back here now let's take a closer\nlook and to make sure that everything is\nwithin the set but now if i zoom in here\nyou can see that we have a breach right\nin this corner here and that's because\nthis side of the property is actually\nrunning at a slight angle so as it goes\nup we can see that it gets closer and\ncloser so I don't think this amount of\nbreach would put in much of a trouble\nall right so what I'm gonna do is to\nmove the property over some more so you\nwant to make sure that you don't move\nthe building so make sure you're on high\nlike that if that's a word so I'm gonna\nmove understand I'm gonna move it using\nthe our thumb order as well so I'm gonna\nmove it over a little bit like so so\nthat this side is no within setbacks and\nnow also if you notice this part of the\nwall is al",
+    "start_char": 12600,
+    "end_char": 13600,
+    "char_count": 1000,
+    "word_count": 211,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 15,
+    "text": "ke so so\nthat this side is no within setbacks and\nnow also if you notice this part of the\nwall is also within it by the way guys\nyou are allowed to use the entire space\nalright so if you want to make the\nbuilding as big as the space itself it's\nup to you but of course I want to have a\ndriveway here and plant a couple trees\nand so on and so forth so we're gonna\nleave it right there we know that we're\nin the safe zone and from here we are\ngoing to hide this layer because now I'm\ndoing with the setbacks so numbers hide\nit escape let me make this 0 layer\nactive I'm gonna hide this layer I think\nthis is also on the setback layer which\nis not what I want I want to put this\nunder zero later so let's get that out\nof the way alright so now that we have\neverything let's look at it in 3d and\nsee what we have\nalright so so far you can see that we\nhave something that looks not too shabby\nalright so now what I'm gonna do is to\nadd the driveway and\nand let's see where we get from there so\nwe're going",
+    "start_char": 13500,
+    "end_char": 14500,
+    "char_count": 1000,
+    "word_count": 215,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 16,
+    "text": "ow what I'm gonna do is to\nadd the driveway and\nand let's see where we get from there so\nwe're going to shift over to pavement\nlayer and we're gonna do some drawing so\nI'm gonna draw from the edge here this\nis where I want my driveway to stop I\nmean you can make it your own\n11 feet wide maybe could go a little\nwider pull this all the way down to the\nside of the road like that and then I'm\ngonna give another line you wanna draw a\nnice front step out pavement here maybe\nsix feet out and come across like this\nand then I'm gonna just line that up\nwith that column and bring it down to\nthe curb here alright so this is gonna\nbe the driveway so I'll Drive up park\nhere step out go inside do what I gotta\ndo and so on alright and I have a\nlassika step on here here what we're\ngonna do is to kind of give it a little\ncurve so let's use the filete tool and\nlet's say we want the radius to be\ntwelve inches and we're gonna do\nmultiple because we're gonna have\nmultiple of these so let's give these\nedges",
+    "start_char": 14400,
+    "end_char": 15400,
+    "char_count": 999,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 17,
+    "text": "es and we're gonna do\nmultiple because we're gonna have\nmultiple of these so let's give these\nedges some fill it just you know make it\nlook somewhat give it a lick of flair\nalright we're gonna do the same thing\nhere I'm gonna use a three feet radius\nfor this portion three feet and I don't\nknow the standard if you know the\nstandard drop it down below what the\nstandard curve should be what I'm gonna\nuse three feet nothing the car our vicar\ncan make that turn if you notice it took\naway the line on this side so I'm gonna\nhave to draw another\nand do the same thing again and then of\ncourse I'm gonna have to close this back\nright here this line and this line\nshould be on the road there all right so\nwe have the road we have the pavement\ncoming in park here and we have an\nicicle front step out here what I'm\ngonna do is to give this curb a\nthickness and I'm gonna give it four\ninches I think that's the typical with\noff a curb so let's do the offset come\non and we're gonna say four inches now I\nth",
+    "start_char": 15300,
+    "end_char": 16300,
+    "char_count": 1000,
+    "word_count": 205,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 18,
+    "text": "the typical with\noff a curb so let's do the offset come\non and we're gonna say four inches now I\nthink I did four feet there let's go\nagain four and just give this a lesson\nof thickness to now just to make it look\nsomething like you know like a curb or\nlike that edge you don't have to do this\nagain so go on Google look on there are\nmany ways to make a site plan look look\nnice alright so I'm going to leave it\nthere and then what I'm gonna also do is\nto draw a box around this using the Box\ntool of course if you had an irregular\nshape building you would want to use the\npolyline tool but since this is a\nrectangular I'm gonna just use a\nrectangle tool and the reason I'm doing\nthis is because I can no detach the\nholes are unloaded rather and I would\nhave this air telling me where exactly\nthe house is located alright at this\npoint we can go ahead and place our\ntrees or cars and so on what before I do\nthat what I'm gonna do is to hatch these\nareas so we're understand the pavement\nso good so w",
+    "start_char": 16200,
+    "end_char": 17200,
+    "char_count": 999,
+    "word_count": 209,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 19,
+    "text": "re I do\nthat what I'm gonna do is to hatch these\nareas so we're understand the pavement\nso good so what I'm gonna do is to go to\nthe hatch tool this is just to add some\nadditional texture and patterns to your\ndrawing to make it look you know good we\ndon't have to do this so let's go down\nand click on the drop down here and from\nhere you can decide all right\nit's it gonna be a concrete pavement or\nis it gonna be some sort of brick layout\nit's up to you to decide so we have an\nicicle brick layout here or we could use\nthis herringbone pattern style all right\nso let's try this one and I'm gonna make\nthe pavement of that style so I'm gonna\ndo here and here as you can see we have\nan icicle pavement right there\nand then we could do the grass as well\nso let's say we go down to the\nvegetation layer and we're gonna hatch\nagain and this time we're gonna select\nsomething that says or something that\nlook more like a grass like this and\nwe're gonna say all right in now this is\nvery very fine so we c",
+    "start_char": 17100,
+    "end_char": 18100,
+    "char_count": 1000,
+    "word_count": 209,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 20,
+    "text": "look more like a grass like this and\nwe're gonna say all right in now this is\nvery very fine so we could actually make\nit a little bit bigger by changing the\nnumber here so let's say we made this\nten all right go ahead and click that\nlooks a little but so we're gonna work\nwith that for now and so far we have\nsomething that looks like that and at\nthis point we can go ahead and drop on\nsome additional things like trees cars\ntables whatever you feel like you want\nto add of course I'm just gonna be doing\nthe bare basic on here and also you\nwould want to show your drainage layout\nand your septic tank your manholes all\nof those will be shown on this drawing\nthat's what we do it in Jamaica in other\nplaces what they would do is to have a a\ndifferent site plan for different\nservices but for this we're gonna drop\neverything on here alright so what we're\ngonna do is to add some trees and of\ncourse if there were trees on the site\nalready and you want to keep that tree\nthen you would want to repres",
+    "start_char": 18000,
+    "end_char": 19000,
+    "char_count": 1000,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 21,
+    "text": "if there were trees on the site\nalready and you want to keep that tree\nthen you would want to represent it on\nthe side plan in the similar location\nall right but for this one we're gonna\nplan some brand new trees so let's go\nand find some trees all right now I'm\ngonna actually use some 3d trees we can\nuse 2d I would actually recommend you\nuse the 2d ones as well just so that it\ndoesn't take up too much power off of\nyour computer\nall right so we go into the content\nbrowser as usual and we go down to site\nand we're going to planting and from\nhere you see all the different types of\ntrees these ones that look 3d are\nactually in 3d so I'm gonna choose\nprobably like this one I'm gonna say\ninsert and I'm gonna drop probably one\nhere all right you don't want to plant\nit on the edge cuz guess what its gonna\ngo all the way over to people property\nand that kind of thing so you don't want\nto have your trees growing all over and\npeople please love to do that kind of\nstuff alright so let us drop in",
+    "start_char": 18900,
+    "end_char": 19900,
+    "char_count": 999,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 22,
+    "text": "ur trees growing all over and\npeople please love to do that kind of\nstuff alright so let us drop in some\ntrees all over the place and I'm gonna\ntry and drop another type maybe this one\ndrop this one probably like right here\non the front then let me see if I can\nfind another type a drop one more tree\nin the back probably alright so these\nare all the trees I'm gonna plant and\nguess what we can take a look at it in\n3d then this is what they would actually\nlook like alright so I'm not gonna do\nanything else here\nto be actually what I'm gonna do is add\na car so I'm gonna go back to site and\nthen I'm gonna go to basic vehicle and\nyou have to DV codes as well as 3d let's\ngo over even have trucks for those of\nyou who truck people so I'm gonna drop\nthis car here or maybe the station wagon\nno compact car\nit's a one-man hose a one-man I drive so\nI'm going to insert I'm gonna just\nrotate this 90 degrees and I'm gonna\ndrop it right in the spot here and just\nlike that we have the car beautiful and\nn",
+    "start_char": 19800,
+    "end_char": 20800,
+    "char_count": 1000,
+    "word_count": 212,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 23,
+    "text": "rees and I'm gonna\ndrop it right in the spot here and just\nlike that we have the car beautiful and\nnow we have everything in 3d just like\nthat alright and if I go to concept well\nyou can have a better look at what this\nwould look like all right and of course\nthese these are the only things I'm\ngonna be doing in 3d you could actually\nmodel it the pavement and curb and try\nto get everything all 3d alright but I'm\ngonna leave it right here cuz this is\nenough for a drawing to be submitted to\nParrish console what I'm gonna do is to\nreload it the house so I'm gonna go to\nmy X references and reload so you can\nsee what it actually looks like with the\nhouse I'm gonna see perspective so we\ncan have an idea what everything would\nlook like when it's all done alright so\nas I turn this around so you can see\nwhat we have\nin the next video I will be combining\nall the views so the foundation plus the\nground floor and site I'm going to put\neverything together and then we can\nstart to create our elevatio",
+    "start_char": 20700,
+    "end_char": 21700,
+    "char_count": 1000,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 24,
+    "text": "und floor and site I'm going to put\neverything together and then we can\nstart to create our elevation views\nsectional views and plan views and all\nof those alright and of course I know\nthat\nreally and truly if you look the ground\nis on the same level as the finished\nfloor level inside which is not supposed\nto be the case all right\nthis should be six inches down which we\nare going to be addressing also in that\nvideo all right so don't worry about\nthat for this I just want to see how it\nwould look and looks just about what we\nwant it and of course I expect you to\ncustomize yours the way you want alright\nso if you want a pool in the front of\nyour house or if you want I don't know a\nwater fountain whatever just make it\nyour own do it how you want to do it\nalright now for the plan view this is\nwhat I should have shown you if you\nnotice we're still seeing inside of the\nbuilding if it is that you want to not\nsee inside of the building or you just\nwant to look at the roof itself of\ncourse what",
+    "start_char": 21600,
+    "end_char": 22600,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 25,
+    "text": "ou want to not\nsee inside of the building or you just\nwant to look at the roof itself of\ncourse what we would do is to raise the\nglobal cut plane from three feet six to\nanything above the roof so let's say 20\nfeet that would be above the roof\nalright now what I would do is to raise\nthe cut plane from below to above the\nroof so now this is something more like\nwhat you would want to see on a side\nplan if you don't want to see inside the\nbuilding we can always move it to\nconceptual or hidden so let's do that\njust like that we can see that we're\nhaving a bird's-eye view looking\nstraight down on the building or on the\nproperty\nalright so later on when we start to add\nannotations and dimensions and so on and\nso to this drawing we will be adding the\ndrainage layout and also a lot of other\ninformation will be\nto this drawing all right so that's the\nend of this video what was done today\nwas just enough to get us through the\ngate and I really didn't want to make\nthis video any longer so I hope t",
+    "start_char": 22500,
+    "end_char": 23500,
+    "char_count": 1000,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 26,
+    "text": "enough to get us through the\ngate and I really didn't want to make\nthis video any longer so I hope that you\nlearned something just explore all right\nand make your site plan look as unique\nand especially how you'd like and you\nknow go on Google and loop on some other\nsite plans and get some ideas and\ninspirations so I hope that you learned\nsomething if you have any questions you\nknow the drill I really drop them in the\ncomments and also don't forget to\nsubscribe don't forget to hit the like\none and yeah you have a good week\n[Music]",
+    "start_char": 23400,
+    "end_char": 24400,
+    "char_count": 536,
+    "word_count": 105,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

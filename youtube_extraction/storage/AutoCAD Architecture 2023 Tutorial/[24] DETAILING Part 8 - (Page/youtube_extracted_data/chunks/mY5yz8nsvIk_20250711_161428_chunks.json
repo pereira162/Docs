@@ -1,0 +1,132 @@
+[
+  {
+    "index": 0,
+    "text": "Music\nHello everyone, welcome to the 24th and final episode on the one-bedroom house series\nthat we have been doing on the channel. In today's video I'll be showing you how to get your\nsheets all set up in AutoCAD and how to print them in PDF format. So you might hear terminologies like\nsheet template, field text, sheet set, subsets or sheet properties, stuff like that but don't worry,\nI'm sure by the end of this episode you'll understand what all of that means.\nNow this video is going to be a long one so buckle up. What I'll do is to break this video in the\nparts so that you can skip to the part that you want to watch. So if that's something you want to\ndo check the description below for the timestamps. You all said, I got you. I'll also be dropping the\nplaylist for all the other episodes just in case you missed one or two aren't. You haven't seen it at\nall. Check the description.",
+    "start_char": 0,
+    "end_char": 895,
+    "char_count": 894,
+    "word_count": 172,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "sodes just in case you missed one or two aren't. You haven't seen it at\nall. Check the description. Yes, so I did enjoy making these videos and I hope that you enjoyed watching\nthem as well and if you did comment below which ones were your favorite and if you're first I'm\non a channel or if you haven't subscribed as yet, I'll sub this solid. All right, so let me stop talking\nand jump right into AutoCAD and show you how to do this thing. All right everybody, so here we are\nback in AutoCAD architecture and let's jump right into it. So as you already know we're going to be\ncreating all of our sheets today but before I get into that I want to show you three additional\nviews that I have created ahead of time for this video today. So I did do a location map as you can see\nright here. I also did some additional site information. You know just type of a little thing here and I\nalso did some concrete notes here. Typical stuff, you know, just to make it into something we can\nplace on the sheet.",
+    "start_char": 795,
+    "end_char": 1795,
+    "char_count": 999,
+    "word_count": 197,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "rete notes here. Typical stuff, you know, just to make it into something we can\nplace on the sheet. All right, now the location map actually I went on Google and I just find a spot\nand just take a snippet of it and as you can see I drew a box on the area and also kind of put a little\ntext there to kind of identify the property. Also when you're doing a location map you want to make sure\nyou have other, you know, table buildings or properties around so that persons who would like to\nlocate the property can use those buildings as a landmark or as a references. So bear that in mind\nwhen you're going on Google to snip a photo or a snippet of that on here. Now this location map is not\nto scale so I'm going to actually change this from one eight to NTS because it's not done to\nscales so I don't want to have a scale there. Now if you notice this text up here is a little bit\ndifferent from the others and that's because this is what we call a field text meaning this information\nis being pulled from somewhere else. All right and I'm going to show you exactly where it is being\npulled from.",
+    "start_char": 1695,
+    "end_char": 2791,
+    "char_count": 1095,
+    "word_count": 220,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "led from somewhere else. All right and I'm going to show you exactly where it is being\npulled from. If we go back to our project Navigator where we see the project let me come out of that\nproject tab here and we go to the little pencil. You remember when we started this project now we did\ntypes of information in this box here to describe the project or what we say project description.\nAnd so this is exactly what is being seen out here and so by using field text we can pull various\ninformation from out of the project Navigator and other areas as well into our details or notes\nand also our title block which is going to be very important as we get further into this video.\nAll right so how do you add fields when you create a text box like this one here? All you have to\ndo in fact let me create a brand new one so let's just do our random one out here.\nOne two are inside of the text box you are able to add a field in and so once you click on that\nyou just need to locate the one that you want.",
+    "start_char": 2691,
+    "end_char": 3693,
+    "char_count": 1001,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "able to add a field in and so once you click on that\nyou just need to locate the one that you want. So that particular one would fall on AEC projects\nand it would be the project description and then of course you can choose whether or not you\nwant it to be uppercase or lowercase whatever. I'm not going to select any I'm going to just hit\nokay and there it is it included it in that text box. All right now that is important because\nwhen we go back into this settings here and we go down a little bit further where it says\ndetail information when I click on this you will notice that I have a lot of other information in\nhere and we're going to need to be able to pull these out into our title block. So this is something\nyou can set up at the beginning of your project as well as at the end or wherever in the middle\nbut wherever you choose to do it you need to have it in so that you can pull these out in your\ntitle block.",
+    "start_char": 3593,
+    "end_char": 4520,
+    "char_count": 926,
+    "word_count": 192,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "ever you choose to do it you need to have it in so that you can pull these out in your\ntitle block. So as you can see I have the address for the project the volume and volume number.\nThis is a number that is unique to every property on the island so if we need to locate a property\nin the database they would just type that number in likewise with the coordinates.",
+    "start_char": 4420,
+    "end_char": 4785,
+    "char_count": 364,
+    "word_count": 75,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "ocate a property\nin the database they would just type that number in likewise with the coordinates. Every property\nhas a coordinate client information you can go ahead and add in stuff like that and it's very simple\nall you have to do is to click on the plus button here to add a line and you just type what you need\nand if you need to delete that line which I'm actually going to do here you just click on the X\nand as you can see I actually added an extra folder here for architectural firm and that\ncan be done using the folder icon here and so as you can see I added some additional information\nwithin this folder you know so I added the firm's name address telephone number and email and also\nfor some fun we added the YouTube and Instagram and Twitter as well as some architect notes.\nGuys go ahead and add all the information that you're going to need in this box here so that we can\nuse them later when we need them. Alright so I'm going to access off now and we're going to stay\nin this property setting here we're going to scroll down to where we see sheet template.",
+    "start_char": 4685,
+    "end_char": 5762,
+    "char_count": 1076,
+    "word_count": 211,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "ng to stay\nin this property setting here we're going to scroll down to where we see sheet template. Now if\nyou remember when we had created this project back in episode I think it was episode two\nwe did select this template here as our sheet template okay and we also selected this size as the\nsize that we're going to be using for this project of course if you're doing a larger project you\nwould want to select a larger page.",
+    "start_char": 5662,
+    "end_char": 6090,
+    "char_count": 427,
+    "word_count": 83,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "for this project of course if you're doing a larger project you\nwould want to select a larger page.",
+    "start_char": 5990,
+    "end_char": 6090,
+    "char_count": 99,
+    "word_count": 19,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "for this project of course if you're doing a larger project you\nwould want to select a larger page.",
+    "start_char": 5990,
+    "end_char": 6090,
+    "char_count": 99,
+    "word_count": 19,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

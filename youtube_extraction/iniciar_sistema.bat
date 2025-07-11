@@ -1,39 +1,50 @@
 @echo off
-echo 🎬 SISTEMA RAG YOUTUBE - VERSAO FINAL COM MELHORIAS
-echo ====================================================
+echo 🎬 YOUTUBE RAG EXTRACTOR v5.0 - SISTEMA COMPLETO
+echo ===================================================
 echo.
 echo 🔧 Configurando FFmpeg...
 set PATH=%PATH%;C:\ffmpeg
 echo ✅ FFmpeg configurado!
 echo.
-echo 💡 COMANDOS DISPONÍVEIS:
+echo ✨ FUNCIONALIDADES v5.0:
 echo.
-echo   📹 Vídeo único:
-echo   python youtube_rag_extractor_final.py --url "URL_DO_VIDEO"
-echo.
-echo   📺 Playlist completa:
+echo   � NUMERAÇÃO AUTOMÁTICA DE PLAYLISTS:
 echo   python youtube_rag_extractor_final.py --playlist "URL_DA_PLAYLIST"
+echo   Resultado: Pastas [1], [2], [3]... organizadas automaticamente
 echo.
-echo   🎯 Playlist com range (ex: vídeos 3 até 15):
-echo   python youtube_rag_extractor_final.py --playlist "URL" --start 3 --end 15
+echo   🔧 MODO AVANÇADO (CHUNKS ALTA QUALIDADE):
+echo   python youtube_rag_extractor_final.py --url "URL" --advanced-mode
+echo   Configuração: 1000 chars, máximo 100 chunks (vs 500/30 básico)
 echo.
-echo   📁 Vídeo com pasta personalizada:
-echo   python youtube_rag_extractor_final.py --url "URL" --folder "MinhaPasta"
+echo   🔄 REUTILIZAÇÃO DE DADOS (3X MAIS RÁPIDO):
+echo   python youtube_rag_extractor_final.py --playlist "URL" --reuse-data
+echo   Reutiliza: transcrições, metadados e áudio de versões anteriores
 echo.
-echo   🌐 Com proxy:
-echo   python youtube_rag_extractor_final.py --url "URL" --proxy "http://proxy:port"
+echo   � ÁUDIO CONFIGURÁVEL:
+echo   python youtube_rag_extractor_final.py --url "URL" --save-audio
+echo   Padrão: temporário | Opção: permanente
 echo.
-echo   🔍 Listar extrações:
-echo   python youtube_rag_extractor_final.py --list
+echo   📁 ORGANIZAR PLAYLISTS EXISTENTES:
+echo   python youtube_rag_extractor_final.py --organize-playlist "nome_pasta"
 echo.
-echo 🆕 MELHORIAS IMPLEMENTADAS:
-echo   ✅ Nomes reais das playlists
-echo   ✅ Versionamento automático (v1, v2, etc)
-echo   ✅ Pastas individuais para cada vídeo da playlist
-echo   ✅ Range de vídeos para playlists grandes
-echo   ✅ Controle de memória (evita desligamentos)
-echo   ✅ Opção de pasta personalizada via input
+echo 🎯 COMANDOS COMBINADOS:
 echo.
-echo 🚀 Sistema pronto para uso!
+echo   � Máxima qualidade com reutilização:
+echo   python youtube_rag_extractor_final.py --playlist "URL" --advanced-mode --reuse-data
+echo.
+echo   ⚡ Processamento rápido:
+echo   python youtube_rag_extractor_final.py --playlist "URL" --reuse-data
+echo.
+echo   � Arquivo completo com áudio:
+echo   python youtube_rag_extractor_final.py --playlist "URL" --save-audio
+echo.
+echo ✅ NOVIDADES v5.0:
+echo   🔢 Numeração automática [1], [2], [3] em playlists
+echo   🔧 Modo avançado configurável para melhor qualidade RAG
+echo   🔄 Reutilização acelera processamento 3x
+echo   💾 Áudio temporário por padrão (economia espaço)
+echo   📁 Reorganização de playlists existentes
+echo.
+echo 🚀 Sistema v5.0 pronto para produção!
 echo.
 cmd /k
