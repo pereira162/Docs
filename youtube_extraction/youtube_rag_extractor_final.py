@@ -112,14 +112,21 @@ class YouTubeRAGExtractor:
     🎬 Extrator RAG completo de vídeos do YouTube
     """
     
-    def __init__(self, storage_dir: str = "storage", proxy: Optional[str] = None, use_tor: bool = False):
+    def __init__(self, storage_dir: str = "storage", proxy: Optional[str] = None, use_tor: bool = False,
+                 advanced_mode: bool = False, save_audio: bool = False, reuse_data: bool = False,
+                 chunk_size: int = 500, max_chunks: int = 30):
         """
-        Inicializa o extrator RAG de vídeos do YouTube
+        Inicializa o extrator RAG de vídeos do YouTube v5.0
         
         Args:
             storage_dir: Diretório principal de armazenamento
             proxy: Proxy no formato 'http://host:port' ou 'socks5://host:port'
             use_tor: Se True, tenta usar Tor (porta 9050)
+            advanced_mode: Modo avançado com mais chunks para melhor qualidade
+            save_audio: Salvar arquivos de áudio permanentemente
+            reuse_data: Reutilizar dados de versões anteriores
+            chunk_size: Tamanho dos chunks (padrão 500, avançado 1000)
+            max_chunks: Número máximo de chunks (padrão 30, avançado 100)
         """
         self.storage_dir = Path(storage_dir)
         self.storage_dir.mkdir(exist_ok=True)
@@ -130,11 +137,30 @@ class YouTubeRAGExtractor:
         if use_tor and not proxy:
             self.proxy = "socks5://127.0.0.1:9050"  # Tor padrão
         
+        # NOVAS CONFIGURAÇÕES v5.0
+        self.advanced_mode = advanced_mode
+        self.save_audio = save_audio
+        self.reuse_data = reuse_data
+        
+        # Configurações de chunks baseadas no modo
+        if advanced_mode:
+            self.chunk_size = max(chunk_size, 1000)  # Modo avançado: mínimo 1000
+            self.max_chunks = max(max_chunks, 100)   # Modo avançado: mínimo 100
+            print("🔧 MODO AVANÇADO ativado: Chunks maiores para melhor qualidade RAG")
+        else:
+            self.chunk_size = min(chunk_size, 500)   # Modo básico: máximo 500
+            self.max_chunks = min(max_chunks, 30)    # Modo básico: máximo 30
+            print("⚡ MODO BÁSICO ativado: Chunks menores para processamento rápido")
+        
         # Configurar estrutura de diretórios baseada no sistema antigo
         self.setup_directory_structure()
         
-        print(f"🎬 YouTubeRAGExtractor inicializado")
+        print(f"🎬 YouTubeRAGExtractor v5.0 inicializado")
         print(f"📁 Diretório de armazenamento: {self.storage_dir}")
+        print(f"📏 Tamanho dos chunks: {self.chunk_size}")
+        print(f"📊 Máximo de chunks: {self.max_chunks}")
+        print(f"💾 Salvar áudio: {'SIM' if self.save_audio else 'NÃO (temporário)'}")
+        print(f"🔄 Reutilizar dados: {'SIM' if self.reuse_data else 'NÃO'}")
         if self.proxy:
             print(f"🌐 Usando proxy: {self.proxy}")
         elif self.use_tor:
@@ -453,6 +479,237 @@ class YouTubeRAGExtractor:
             logger.error(f"Erro ao obter transcrição: {e}")
             return None
     
+    def create_video_folder_name(self, title: str, video_id: str) -> str:
+        """
+        Cria nome da pasta do vídeo (30 caracteres) - método original
+        """
+        try:
+            clean_title = re.sub(r'[<>:"/\\|?*]', '', title)
+            clean_title = clean_title.strip()
+            
+            if len(clean_title) > 30:
+                folder_name = clean_title[:30].strip()
+            else:
+                folder_name = clean_title
+            
+            if not folder_name:
+                folder_name = video_id[:11]
+            
+            return folder_name
+            
+        except:
+            return video_id[:11]
+
+    def find_existing_video_data(self, video_id: str) -> Optional[Dict[str, Any]]:
+        """
+        Busca dados existentes de um vídeo em versões anteriores (NOVA FUNCIONALIDADE v5.0)
+        """
+        if not self.reuse_data:
+            return None
+        
+        try:
+            print(f"🔍 Buscando dados existentes para {video_id}...")
+            
+            # Buscar em todas as pastas do storage
+            for folder in self.storage_dir.rglob("*"):
+                if not folder.is_dir():
+                    continue
+                
+                # Buscar arquivos de transcrição
+                transcript_files = list(folder.rglob(f"*{video_id}*transcript*.json"))
+                metadata_files = list(folder.rglob(f"*{video_id}*metadata*.json"))
+                audio_files = list(folder.rglob(f"*{video_id}*audio*"))
+                
+                if transcript_files or metadata_files:
+                    existing_data = {
+                        'folder': str(folder),
+                        'transcript_files': [str(f) for f in transcript_files],
+                        'metadata_files': [str(f) for f in metadata_files],
+                        'audio_files': [str(f) for f in audio_files],
+                        'has_transcript': len(transcript_files) > 0,
+                        'has_metadata': len(metadata_files) > 0,
+                        'has_audio': len(audio_files) > 0
+                    }
+                    
+                    print(f"✅ Dados encontrados em: {folder.name}")
+                    if existing_data['has_transcript']:
+                        print(f"   📝 Transcrições: {len(transcript_files)}")
+                    if existing_data['has_metadata']:
+                        print(f"   📊 Metadados: {len(metadata_files)}")
+                    if existing_data['has_audio']:
+                        print(f"   🎵 Áudios: {len(audio_files)}")
+                    
+                    return existing_data
+            
+            print(f"ℹ️ Nenhum dado existente encontrado para {video_id}")
+            return None
+            
+        except Exception as e:
+            print(f"⚠️ Erro ao buscar dados existentes: {e}")
+            return None
+
+    def load_existing_transcript(self, video_id: str, existing_data: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+        """
+        Carrega transcrição existente de versões anteriores
+        """
+        try:
+            if not existing_data.get('has_transcript'):
+                return None
+            
+            transcript_files = existing_data.get('transcript_files', [])
+            if not transcript_files:
+                return None
+            
+            # Usar o arquivo mais recente
+            latest_file = max(transcript_files, key=lambda x: Path(x).stat().st_mtime)
+            
+            with open(latest_file, 'r', encoding='utf-8') as f:
+                transcript = json.load(f)
+            
+            # Adicionar informação de reutilização
+            transcript['reused_from'] = latest_file
+            transcript['reused_timestamp'] = datetime.now().isoformat()
+            
+            print(f"🔄 Transcrição reutilizada de: {Path(latest_file).parent.name}")
+            return transcript
+            
+        except Exception as e:
+            print(f"⚠️ Erro ao carregar transcrição existente: {e}")
+            return None
+
+    def load_existing_metadata(self, video_id: str, existing_data: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+        """
+        Carrega metadados existentes de versões anteriores
+        """
+        try:
+            if not existing_data.get('has_metadata'):
+                return None
+            
+            metadata_files = existing_data.get('metadata_files', [])
+            if not metadata_files:
+                return None
+            
+            # Usar o arquivo mais recente
+            latest_file = max(metadata_files, key=lambda x: Path(x).stat().st_mtime)
+            
+            with open(latest_file, 'r', encoding='utf-8') as f:
+                metadata = json.load(f)
+            
+            # Adicionar informação de reutilização
+            metadata['reused_from'] = latest_file
+            metadata['reused_timestamp'] = datetime.now().isoformat()
+            
+            print(f"🔄 Metadados reutilizados de: {Path(latest_file).parent.name}")
+            return metadata
+            
+        except Exception as e:
+            print(f"⚠️ Erro ao carregar metadados existentes: {e}")
+            return None
+
+    def copy_existing_audio(self, video_id: str, existing_data: Dict[str, Any], target_folder: Path) -> bool:
+        """
+        Copia áudio existente de versões anteriores
+        """
+        try:
+            if not existing_data.get('has_audio') or not self.save_audio:
+                return False
+            
+            audio_files = existing_data.get('audio_files', [])
+            if not audio_files:
+                return False
+            
+            # Usar o arquivo mais recente
+            latest_audio = max(audio_files, key=lambda x: Path(x).stat().st_mtime)
+            audio_path = Path(latest_audio)
+            
+            if not audio_path.exists():
+                return False
+            
+            # Copiar para pasta atual
+            target_audio = target_folder / f"audio_{video_id}{audio_path.suffix}"
+            import shutil
+            shutil.copy2(audio_path, target_audio)
+            
+            print(f"🔄 Áudio reutilizado de: {audio_path.parent.name}")
+            return True
+            
+        except Exception as e:
+            print(f"⚠️ Erro ao copiar áudio existente: {e}")
+            return False
+
+    def organize_existing_playlist(self, playlist_folder_name: str) -> Dict[str, Any]:
+        """
+        Organiza playlist existente reorganizando arquivos (NOVA FUNCIONALIDADE v5.0)
+        """
+        try:
+            playlist_folder = self.storage_dir / playlist_folder_name
+            
+            if not playlist_folder.exists():
+                return {'error': f'Pasta não encontrada: {playlist_folder_name}'}
+            
+            print(f"📁 Organizando playlist existente: {playlist_folder_name}")
+            
+            # Buscar todas as pastas de vídeos
+            video_folders = [f for f in playlist_folder.iterdir() if f.is_dir()]
+            
+            if not video_folders:
+                return {'error': 'Nenhuma pasta de vídeo encontrada'}
+            
+            # Tentar carregar metadata da playlist
+            playlist_metadata_file = playlist_folder / 'playlist_metadata.json'
+            if playlist_metadata_file.exists():
+                with open(playlist_metadata_file, 'r', encoding='utf-8') as f:
+                    playlist_info = json.load(f)
+                
+                video_ids = playlist_info.get('playlist_info', {}).get('video_ids', [])
+                
+                print(f"📋 Reorganizando {len(video_folders)} pastas com base em {len(video_ids)} vídeos da playlist")
+                
+                # Reorganizar pastas com numeração
+                reorganized = 0
+                for i, video_id in enumerate(video_ids, 1):
+                    # Buscar pasta correspondente
+                    matching_folder = None
+                    for folder in video_folders:
+                        if video_id in folder.name:
+                            matching_folder = folder
+                            break
+                    
+                    if matching_folder:
+                        # Buscar metadados para obter título
+                        metadata_files = list(matching_folder.rglob(f"*{video_id}*metadata*.json"))
+                        if metadata_files:
+                            try:
+                                with open(metadata_files[0], 'r', encoding='utf-8') as f:
+                                    metadata = json.load(f)
+                                video_title = metadata.get('title', f'Video_{video_id}')
+                                
+                                # Criar novo nome numerado
+                                new_name = self.create_numbered_video_folder_name(video_title, video_id, i)
+                                new_path = playlist_folder / new_name
+                                
+                                if matching_folder.name != new_name and not new_path.exists():
+                                    matching_folder.rename(new_path)
+                                    print(f"📁 Renomeado: {matching_folder.name} → {new_name}")
+                                    reorganized += 1
+                                
+                            except Exception as e:
+                                print(f"⚠️ Erro ao renomear {matching_folder.name}: {e}")
+                
+                return {
+                    'success': True,
+                    'playlist_folder': playlist_folder_name,
+                    'total_folders': len(video_folders),
+                    'reorganized': reorganized,
+                    'message': f'Reorganização concluída: {reorganized} pastas renomeadas'
+                }
+            
+            else:
+                return {'error': 'Arquivo playlist_metadata.json não encontrado'}
+                
+        except Exception as e:
+            return {'error': f'Erro ao organizar playlist: {e}'}
+
     def download_audio_and_transcribe(self, video_id: str, video_folder: Optional[Path] = None) -> Optional[Dict[str, Any]]:
         """
         Baixa áudio do vídeo e faz transcrição local - SOLUÇÃO DEFINITIVA PARA BLOQUEIO IP
@@ -505,16 +762,18 @@ class YouTubeRAGExtractor:
                             print(f"❌ Arquivo não existe: {audio_path}")
                             return None
                         
-                        # Salvar cópia do áudio na pasta do vídeo para verificação
-                        if video_folder:
+                        # Salvar cópia do áudio na pasta do vídeo para verificação (FUNCIONALIDADE v5.0)
+                        if video_folder and self.save_audio:
                             try:
                                 import shutil
                                 video_folder.mkdir(exist_ok=True)
                                 saved_audio_path = video_folder / f"audio_{video_id}{os.path.splitext(audio_files[0])[1]}"
                                 shutil.copy2(audio_path, saved_audio_path)
-                                print(f"💾 Áudio salvo em: {saved_audio_path}")
+                                print(f"💾 Áudio salvo permanentemente em: {saved_audio_path}")
                             except Exception as e:
                                 print(f"⚠️ Erro ao salvar áudio: {e}")
+                        elif video_folder:
+                            print(f"ℹ️ Áudio não será salvo permanentemente (use --save-audio para salvar)")
                         
                         # Converter para WAV se necessário (opcional, Whisper suporta webm)
                         if PYDUB_AVAILABLE and not audio_files[0].endswith('.wav'):
@@ -525,12 +784,12 @@ class YouTubeRAGExtractor:
                                 audio_path = wav_path
                                 print("🔄 Convertido para WAV")
                                 
-                                # Salvar versão WAV também se o video_folder estiver disponível
-                                if video_folder:
+                                # Salvar versão WAV também se o video_folder estiver disponível (FUNCIONALIDADE v5.0)
+                                if video_folder and self.save_audio:
                                     try:
                                         wav_saved_path = video_folder / f"audio_{video_id}.wav"
                                         shutil.copy2(wav_path, wav_saved_path)
-                                        print(f"💾 Áudio WAV salvo em: {wav_saved_path}")
+                                        print(f"💾 Áudio WAV salvo permanentemente em: {wav_saved_path}")
                                     except Exception as e:
                                         print(f"⚠️ Erro ao salvar áudio WAV: {e}")
                             except Exception as e:
@@ -1174,21 +1433,29 @@ class YouTubeRAGExtractor:
         
         return "\n".join(text_parts)
     
-    def create_chunks(self, text: str, chunk_size: int = 500, overlap: int = 100) -> List[Dict[str, Any]]:
+    def create_chunks(self, text: str, chunk_size: int = None, overlap: int = None) -> List[Dict[str, Any]]:
         """
-        Cria chunks do texto para RAG com controle de memória otimizado
+        Cria chunks do texto para RAG com configurações personalizáveis
         """
         import gc
-        import psutil
+        
+        # Usar configurações da instância se não especificadas
+        if chunk_size is None:
+            chunk_size = self.chunk_size
+        if overlap is None:
+            overlap = min(100, chunk_size // 5)  # 20% do tamanho do chunk
+        
+        max_chunks = self.max_chunks
         
         # Verificar memória disponível
         try:
             import psutil
             memory = psutil.virtual_memory()
-            if memory.percent > 85:
+            if memory.percent > 85 and not self.advanced_mode:
                 print("⚠️ Memória alta detectada, reduzindo tamanho dos chunks")
-                chunk_size = 300
+                chunk_size = min(chunk_size, 300)
                 overlap = 50
+                max_chunks = min(max_chunks, 20)
         except ImportError:
             pass  # Se psutil não estiver disponível, usar valores padrão
         except:
@@ -1197,12 +1464,17 @@ class YouTubeRAGExtractor:
         chunks = []
         start = 0
         chunk_index = 0
-        max_chunks = 30  # Limitar número de chunks para evitar sobrecarga
         
-        # Limitar texto se muito grande
-        if len(text) > 30000:  # 30KB limite
-            print("⚠️ Texto muito grande, truncando para evitar sobrecarga de memória")
-            text = text[:30000]
+        # Limitar texto se muito grande (exceto no modo avançado)
+        text_limit = 50000 if self.advanced_mode else 30000
+        if len(text) > text_limit:
+            if not self.advanced_mode:
+                print(f"⚠️ Texto muito grande ({len(text)} chars), truncando para {text_limit} chars")
+                text = text[:text_limit]
+            else:
+                print(f"🔧 Modo avançado: processando texto completo ({len(text)} chars)")
+        
+        print(f"🔗 Criando chunks: tamanho={chunk_size}, sobreposição={overlap}, máximo={max_chunks}")
         
         try:
             while start < len(text) and chunk_index < max_chunks:
@@ -1232,7 +1504,8 @@ class YouTubeRAGExtractor:
                         'word_count': len(chunk_text.split()),
                         'metadata': {
                             'chunk_size': chunk_size,
-                            'overlap': overlap
+                            'overlap': overlap,
+                            'mode': 'advanced' if self.advanced_mode else 'basic'
                         }
                     }
                     chunks.append(chunk)
@@ -1242,8 +1515,9 @@ class YouTubeRAGExtractor:
                 if start >= len(text):
                     break
                 
-                # Limpeza de memória a cada 5 chunks
-                if chunk_index % 5 == 0:
+                # Limpeza de memória a cada 10 chunks (5 no modo básico)
+                cleanup_interval = 10 if self.advanced_mode else 5
+                if chunk_index % cleanup_interval == 0:
                     gc.collect()
                     try:
                         import psutil
@@ -1256,7 +1530,8 @@ class YouTubeRAGExtractor:
                     except:
                         pass
             
-            print(f"📊 Chunks criados: {len(chunks)} (máximo permitido: {max_chunks})")
+            mode_str = "avançado" if self.advanced_mode else "básico"
+            print(f"📊 Chunks criados: {len(chunks)} (modo {mode_str}, máximo permitido: {max_chunks})")
             return chunks
             
         except Exception as e:
@@ -1548,26 +1823,31 @@ class YouTubeRAGExtractor:
             logger.error(f"Erro ao salvar no banco: {e}")
             return False
     
-    def create_video_folder_name(self, title: str, video_id: str) -> str:
+    def create_numbered_video_folder_name(self, title: str, video_id: str, video_index: int) -> str:
         """
-        Cria nome da pasta do vídeo (30 caracteres)
+        Cria nome da pasta do vídeo com numeração para playlists (NOVA FUNCIONALIDADE v5.0)
+        Formato: [1] Nome_do_Video (30 caracteres)
         """
         try:
             clean_title = re.sub(r'[<>:"/\\|?*]', '', title)
             clean_title = clean_title.strip()
             
-            if len(clean_title) > 30:
-                folder_name = clean_title[:30].strip()
-            else:
-                folder_name = clean_title
+            # Formato: [N] Título
+            prefix = f"[{video_index}] "
+            available_chars = 30 - len(prefix)
             
-            if not folder_name:
-                folder_name = video_id[:11]
+            if len(clean_title) > available_chars:
+                folder_name = prefix + clean_title[:available_chars].strip()
+            else:
+                folder_name = prefix + clean_title
+            
+            if len(folder_name.replace(prefix, "").strip()) == 0:
+                folder_name = f"[{video_index}] {video_id[:11]}"
             
             return folder_name
             
         except:
-            return video_id[:11]
+            return f"[{video_index}] {video_id[:11]}"
     
     def get_next_version_folder(self, base_folder_name: str, parent_dir: Path) -> str:
         """
@@ -1653,10 +1933,9 @@ class YouTubeRAGExtractor:
         except Exception as e:
             logger.warning(f"Não foi possível baixar thumbnail: {e}")
             return None
-    
-    def extract_single_video(self, url_or_id: str, custom_folder: Optional[str] = None) -> Dict[str, Any]:
+      def extract_single_video(self, url_or_id: str, custom_folder: Optional[str] = None) -> Dict[str, Any]:
         """
-        Extrai dados RAG completos de um único vídeo baseado no sistema antigo
+        Extrai dados RAG completos de um único vídeo v5.0 com reutilização de dados
         """
         try:
             print(f"\n🎬 Processando vídeo: {url_or_id}")
@@ -1668,12 +1947,26 @@ class YouTubeRAGExtractor:
             
             print(f"📹 ID do vídeo: {video_id}")
             
+            # NOVA FUNCIONALIDADE v5.0: Buscar dados existentes
+            existing_data = self.find_existing_video_data(video_id) if self.reuse_data else None
+            reused_transcript = False
+            reused_metadata = False
+            reused_audio = False
+            
             # Timestamp para arquivos
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             
-            # Obter metadados
+            # Obter metadados (reutilizar se disponível)
             print("📊 Obtendo metadados...")
-            metadata = self.get_video_metadata(video_id)
+            if existing_data:
+                metadata = self.load_existing_metadata(video_id, existing_data)
+                if metadata:
+                    reused_metadata = True
+                    print("🔄 Metadados reutilizados de versão anterior")
+                else:
+                    metadata = self.get_video_metadata(video_id)
+            else:
+                metadata = self.get_video_metadata(video_id)
             
             if 'error' in metadata:
                 return {'error': f"Erro ao obter metadados: {metadata['error']}", 'video_id': video_id}
@@ -1689,6 +1982,10 @@ class YouTubeRAGExtractor:
                 work_dir = self.storage_dir / folder_name
             
             work_dir.mkdir(parents=True, exist_ok=True)
+            
+            # Tentar copiar áudio existente se necessário
+            if existing_data and self.save_audio:
+                reused_audio = self.copy_existing_audio(video_id, existing_data, work_dir)
             
             # Criar estrutura de dados dentro da pasta do vídeo
             data_dir = work_dir / "youtube_extracted_data"
@@ -1706,15 +2003,25 @@ class YouTubeRAGExtractor:
                 directory.mkdir(exist_ok=True)
             
             print(f"📁 Pasta do vídeo: {folder_name}")
+            if self.reuse_data:
+                print(f"🔄 Modo reutilização ativado")
             
             # Salvar metadados
             metadata_file = dirs['metadata'] / f"{video_id}_{timestamp}_metadata.json"
             with open(metadata_file, 'w', encoding='utf-8') as f:
                 json.dump(metadata, f, ensure_ascii=False, indent=2)
             
-            # Obter transcrição
+            # Obter transcrição (reutilizar se disponível)
             print("📝 Extraindo transcrição...")
-            transcript = self.get_transcript_with_fallbacks(video_id)
+            if existing_data:
+                transcript = self.load_existing_transcript(video_id, existing_data)
+                if transcript:
+                    reused_transcript = True
+                    print("🔄 Transcrição reutilizada de versão anterior")
+                else:
+                    transcript = self.get_transcript_with_fallbacks(video_id, work_dir)
+            else:
+                transcript = self.get_transcript_with_fallbacks(video_id, work_dir)
             
             # Inicializar estrutura de arquivos
             files_created = {
@@ -1756,7 +2063,7 @@ class YouTubeRAGExtractor:
                     f.write(full_text)
                 files_created['text'] = str(text_file)
                 
-                # Criar chunks
+                # Criar chunks com configurações personalizadas
                 print("🔗 Criando chunks para RAG...")
                 chunks = self.create_chunks(full_text)
                 
@@ -1790,7 +2097,8 @@ class YouTubeRAGExtractor:
                     'text_length': len(full_text)
                 })
                 
-                print(f"📊 Dados extraídos: {len(transcript['segments'])} segmentos, {len(chunks)} chunks, {len(full_text)} caracteres")
+                mode_info = "avançado" if self.advanced_mode else "básico"
+                print(f"📊 Dados extraídos (modo {mode_info}): {len(transcript['segments'])} segmentos, {len(chunks)} chunks, {len(full_text)} caracteres")
             else:
                 print("⚠️ Transcrição não disponível")
                 # Criar análise mínima mesmo sem transcrição
@@ -1897,7 +2205,7 @@ class YouTubeRAGExtractor:
             if thumbnail_path:
                 files_created['thumbnail'] = thumbnail_path
             
-            # Criar resumo RAG completo
+            # Criar resumo RAG completo com informações de reutilização
             rag_summary = {
                 'video_id': video_id,
                 'video_title': video_title,
@@ -1906,7 +2214,18 @@ class YouTubeRAGExtractor:
                 'files_created': files_created,
                 'statistics': statistics,
                 'metadata': metadata,
-                'analysis_summary': analysis
+                'analysis_summary': analysis,
+                'extractor_version': '5.0',  # NOVA FUNCIONALIDADE v5.0
+                'features_used': {
+                    'advanced_mode': self.advanced_mode,
+                    'save_audio': self.save_audio,
+                    'reuse_data': self.reuse_data
+                },
+                'reused_data': {  # NOVA FUNCIONALIDADE v5.0
+                    'transcript': reused_transcript,
+                    'metadata': reused_metadata,
+                    'audio': reused_audio
+                }
             }
             
             # Salvar resumo
@@ -1922,6 +2241,14 @@ class YouTubeRAGExtractor:
                 print(f"🔗 Chunks: {len(chunks)}")
                 print(f"📄 Caracteres: {len(transcript['full_text'])}")
             
+            # Informar sobre reutilização
+            if reused_transcript or reused_metadata or reused_audio:
+                reuse_info = []
+                if reused_transcript: reuse_info.append("transcrição")
+                if reused_metadata: reuse_info.append("metadados")
+                if reused_audio: reuse_info.append("áudio")
+                print(f"🔄 Dados reutilizados: {', '.join(reuse_info)}")
+            
             return {
                 'success': True,
                 'video_id': video_id,
@@ -1929,7 +2256,12 @@ class YouTubeRAGExtractor:
                 'folder_name': folder_name,
                 'custom_folder': custom_folder,
                 'rag_summary': rag_summary,
-                'files_created': files_created
+                'files_created': files_created,
+                'reused_data': {  # NOVA FUNCIONALIDADE v5.0
+                    'transcript': reused_transcript,
+                    'metadata': reused_metadata,
+                    'audio': reused_audio
+                }
             }
             
         except Exception as e:
@@ -1938,12 +2270,14 @@ class YouTubeRAGExtractor:
     
     def extract_playlist(self, playlist_url: str, start_index: int = 1, end_index: int = None) -> Dict[str, Any]:
         """
-        Extrai playlist com melhorias:
-        - Nome real da playlist
-        - Versionamento de pastas
-        - Range de vídeos (ex: do 3 ao 15)
-        - Pastas individuais para cada vídeo
-        - Controle de memória
+        Extrai playlist com melhorias v5.0:
+        - ✅ Numeração automática [1], [2], etc.
+        - ✅ Reutilização de dados anteriores
+        - ✅ Nome real da playlist
+        - ✅ Versionamento de pastas
+        - ✅ Range de vídeos (ex: do 3 ao 15)
+        - ✅ Pastas individuais para cada vídeo
+        - ✅ Controle de memória
         """
         try:
             print(f"\n📋 Processando playlist: {playlist_url}")
@@ -1976,6 +2310,8 @@ class YouTubeRAGExtractor:
             playlist_folder.mkdir(exist_ok=True)
             
             print(f"📁 Pasta da playlist: {versioned_folder_name}")
+            if self.reuse_data:
+                print(f"🔄 Modo reutilização ativado: buscando dados anteriores")
             
             # Aplicar range de vídeos se especificado
             if end_index is None:
@@ -1992,22 +2328,30 @@ class YouTubeRAGExtractor:
             selected_videos = video_ids[start_index-1:end_index]
             print(f"🎯 Processando vídeos {start_index} até {end_index} ({len(selected_videos)} vídeos)")
             
-            # Salvar informações da playlist
+            # Salvar informações da playlist incluindo ordem para numeração
             playlist_metadata = {
                 'playlist_info': playlist_info,
                 'selected_range': {'start': start_index, 'end': end_index},
                 'total_videos': len(video_ids),
                 'selected_videos': len(selected_videos),
-                'extraction_timestamp': datetime.now().isoformat()
+                'extraction_timestamp': datetime.now().isoformat(),
+                'video_order': [(i, video_id) for i, video_id in enumerate(video_ids, 1)],  # NOVA FUNCIONALIDADE v5.0
+                'extractor_version': '5.0',
+                'features_used': {
+                    'advanced_mode': self.advanced_mode,
+                    'save_audio': self.save_audio,
+                    'reuse_data': self.reuse_data
+                }
             }
             
             with open(playlist_folder / 'playlist_metadata.json', 'w', encoding='utf-8') as f:
                 json.dump(playlist_metadata, f, indent=2, ensure_ascii=False)
             
-            # Processar cada vídeo selecionado
+            # Processar cada vídeo selecionado com numeração
             results = []
             success_count = 0
             error_count = 0
+            reused_count = 0
             
             for i, video_id in enumerate(selected_videos, start_index):
                 print(f"\n[{i}/{end_index}] Processando vídeo: {video_id}")
@@ -2037,10 +2381,26 @@ class YouTubeRAGExtractor:
                     pass  # Se psutil falhar, continuar
                 
                 try:
-                    # Obter metadados primeiro para nome da pasta individual
-                    metadata = self.get_video_metadata(video_id)
+                    # NOVA FUNCIONALIDADE v5.0: Buscar dados existentes
+                    existing_data = self.find_existing_video_data(video_id) if self.reuse_data else None
+                    reused_transcript = False
+                    reused_metadata = False
+                    reused_audio = False
+                    
+                    # Tentar carregar metadados existentes primeiro
+                    if existing_data:
+                        metadata = self.load_existing_metadata(video_id, existing_data)
+                        if metadata:
+                            reused_metadata = True
+                        else:
+                            metadata = self.get_video_metadata(video_id)
+                    else:
+                        metadata = self.get_video_metadata(video_id)
+                    
                     video_title = metadata.get('title', f'Video_{video_id}')
-                    video_folder_name = self.create_video_folder_name(video_title, video_id)
+                    
+                    # NOVA FUNCIONALIDADE v5.0: Nome da pasta com numeração [N]
+                    video_folder_name = self.create_numbered_video_folder_name(video_title, video_id, i)
                     
                     # Criar pasta individual para o vídeo dentro da playlist
                     video_folder = playlist_folder / video_folder_name
@@ -2048,11 +2408,19 @@ class YouTubeRAGExtractor:
                     
                     print(f"📁 Pasta do vídeo: {playlist_folder.name}/{video_folder_name}")
                     
-                    # Extrair o vídeo na pasta individual
-                    video_url = f"https://www.youtube.com/watch?v={video_id}"
+                    # Tentar copiar áudio existente se necessário
+                    if existing_data and self.save_audio:
+                        reused_audio = self.copy_existing_audio(video_id, existing_data, video_folder)
                     
-                    # Processar transcrição com controle de memória
-                    transcript = self.get_transcript_with_fallbacks(video_id, video_folder)
+                    # Tentar carregar transcrição existente
+                    if existing_data:
+                        transcript = self.load_existing_transcript(video_id, existing_data)
+                        if transcript:
+                            reused_transcript = True
+                        else:
+                            transcript = self.get_transcript_with_fallbacks(video_id, video_folder)
+                    else:
+                        transcript = self.get_transcript_with_fallbacks(video_id, video_folder)
                     
                     if transcript:
                         # Análise RAG (combinar metadata com transcript para análise)
@@ -2069,16 +2437,34 @@ class YouTubeRAGExtractor:
                             'title': video_title,
                             'folder': f"{versioned_folder_name}/{video_folder_name}",
                             'segments': len(transcript.get('segments', [])),
-                            'source': transcript.get('source', 'unknown')
+                            'source': transcript.get('source', 'unknown'),
+                            'reused_data': {  # NOVA FUNCIONALIDADE v5.0
+                                'transcript': reused_transcript,
+                                'metadata': reused_metadata,
+                                'audio': reused_audio
+                            }
                         }
                         success_count += 1
-                        print(f"✅ [{i}/{end_index}] Vídeo extraído: {video_folder_name}")
+                        if reused_transcript or reused_metadata or reused_audio:
+                            reused_count += 1
+                            reuse_info = []
+                            if reused_transcript: reuse_info.append("transcrição")
+                            if reused_metadata: reuse_info.append("metadados")
+                            if reused_audio: reuse_info.append("áudio")
+                            print(f"🔄 [{i}/{end_index}] Vídeo extraído (reutilizado: {', '.join(reuse_info)}): {video_folder_name}")
+                        else:
+                            print(f"✅ [{i}/{end_index}] Vídeo extraído: {video_folder_name}")
                     else:
                         result = {
                             'success': False,
                             'video_id': video_id,
                             'title': video_title,
-                            'error': 'Transcrição não disponível'
+                            'error': 'Transcrição não disponível',
+                            'reused_data': {
+                                'transcript': reused_transcript,
+                                'metadata': reused_metadata,
+                                'audio': reused_audio
+                            }
                         }
                         error_count += 1
                         print(f"❌ [{i}/{end_index}] Falha na transcrição: {video_folder_name}")
@@ -2096,6 +2482,7 @@ class YouTubeRAGExtractor:
                     transcript_with_metadata = None
                     analysis = None
                     metadata = None
+                    existing_data = None
                     
                     # Forçar limpeza do garbage collector
                     gc.collect()
@@ -2117,7 +2504,12 @@ class YouTubeRAGExtractor:
                     error_result = {
                         'success': False,
                         'video_id': video_id,
-                        'error': str(e)
+                        'error': str(e),
+                        'reused_data': {
+                            'transcript': False,
+                            'metadata': False,
+                            'audio': False
+                        }
                     }
                     results.append(error_result)
                     error_count += 1
@@ -2135,14 +2527,23 @@ class YouTubeRAGExtractor:
                 'total_videos': len(selected_videos),
                 'successful_extractions': success_count,
                 'failed_extractions': error_count,
+                'reused_videos': reused_count,  # NOVA FUNCIONALIDADE v5.0
                 'zip_file': zip_path,
-                'results': results
+                'results': results,
+                'features_used': {  # NOVA FUNCIONALIDADE v5.0
+                    'numbered_folders': True,
+                    'data_reuse': self.reuse_data,
+                    'advanced_mode': self.advanced_mode,
+                    'audio_saving': self.save_audio
+                }
             }
             
             print(f"\n🎉 Playlist processada!")
             print(f"📁 Pasta: {versioned_folder_name}")
             print(f"✅ Sucessos: {success_count}/{len(selected_videos)}")
             print(f"❌ Falhas: {error_count}/{len(selected_videos)}")
+            if reused_count > 0:
+                print(f"🔄 Reutilizados: {reused_count}/{len(selected_videos)}")
             print(f"📦 ZIP: {zip_path}")
             
             return final_result
@@ -2360,57 +2761,63 @@ class YouTubeRAGExtractor:
 
 def main():
     """
-    SISTEMA RAG YOUTUBE - VERSÃO FINAL COM SOLUÇÃO PARA BLOQUEIO IP
+    🎬 SISTEMA RAG YOUTUBE - VERSÃO FINAL v5.0
+    =============================================
     
-    🎯 INSTALAÇÃO DE BIBLIOTECAS PARA TRANSCRIÇÃO LOCAL:
+    📋 FUNCIONALIDADES IMPLEMENTADAS:
     
-    Para máxima qualidade (Whisper):
-    pip install openai-whisper
+    1. 🔢 NUMERAÇÃO DE PLAYLISTS: Pastas numeradas [1], [2], etc.
+    2. 🔧 MODO AVANÇADO: Escolha entre chunks rápidos ou completos
+    3. 🔄 REUTILIZAÇÃO: Aproveita vídeos e transcrições anteriores
+    4. 💾 DOWNLOAD ÁUDIO: Opção de salvar áudio permanentemente
     
-    Para fallback (SpeechRecognition):
-    pip install SpeechRecognition pydub
+    🎯 INSTALAÇÃO DE BIBLIOTECAS:
+    pip install openai-whisper SpeechRecognition pydub pyaudio
     
-    Para Windows (bibliotecas sistema):
-    pip install pyaudio
-    
-    🔧 RECURSOS IMPLEMENTADOS:
+    🔧 RECURSOS COMPLETOS:
     - ✅ Proxy/Tor para contornar bloqueio IP
-    - ✅ Download de áudio + transcrição local (SOLUÇÃO DEFINITIVA)
+    - ✅ Download de áudio + transcrição local
     - ✅ Múltiplas estratégias de fallback
-    - ✅ Pastas com 30 caracteres
-    - ✅ Subpastas para playlists
-    - ✅ Keywords inteligentes
-    - ✅ Sistema RAG completo
+    - ✅ Sistema RAG completo com controle de chunks
+    - ✅ Reutilização inteligente de dados anteriores
+    - ✅ Numeração automática de playlists
     """
     parser = argparse.ArgumentParser(
-        description='🎬 Extrator RAG Completo de Vídeos do YouTube',
+        description='🎬 Extrator RAG Completo de Vídeos do YouTube v5.0',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Exemplos de uso:
 
-  # Extrair um vídeo
+  # Extrair um vídeo (modo básico)
   python youtube_rag_extractor_final.py --url "https://www.youtube.com/watch?v=VIDEO_ID"
+  
+  # Extrair com modo avançado (mais chunks, melhor qualidade)
+  python youtube_rag_extractor_final.py --url "VIDEO_URL" --advanced-mode
+  
+  # Extrair com download permanente de áudio
+  python youtube_rag_extractor_final.py --url "VIDEO_URL" --save-audio
+  
+  # Extrair reutilizando dados anteriores
+  python youtube_rag_extractor_final.py --url "VIDEO_URL" --reuse-data
   
   # Extrair vídeo em pasta personalizada
   python youtube_rag_extractor_final.py --url "VIDEO_URL" --folder "meus_videos"
   
-  # Extrair com proxy HTTP
+  # Extrair com proxy HTTP/SOCKS5/Tor
   python youtube_rag_extractor_final.py --url "VIDEO_URL" --proxy "http://proxy.com:8080"
-  
-  # Extrair com proxy SOCKS5/Tor
-  python youtube_rag_extractor_final.py --url "VIDEO_URL" --proxy "socks5://127.0.0.1:9050"
-  
-  # Extrair usando Tor (atalho)
   python youtube_rag_extractor_final.py --url "VIDEO_URL" --tor
   
-  # Extrair playlist completa (cria subpasta automaticamente)
-  python youtube_rag_extractor_final.py --playlist "https://www.youtube.com/playlist?list=PLAYLIST_ID"
+  # Extrair playlist com numeração automática
+  python youtube_rag_extractor_final.py --playlist "https://www.youtube.com/playlist?list=ID"
+  
+  # Extrair playlist com reutilização de dados anteriores
+  python youtube_rag_extractor_final.py --playlist "PLAYLIST_URL" --reuse-data
+  
+  # Organizar playlist existente (apenas reorganizar arquivos)
+  python youtube_rag_extractor_final.py --organize-playlist "nome_da_pasta"
   
   # Listar vídeos extraídos
   python youtube_rag_extractor_final.py --list
-  
-  # Criar ZIP de pasta específica
-  python youtube_rag_extractor_final.py --zip-folder "nome_da_pasta"
 """
     )
     
@@ -2419,20 +2826,50 @@ Exemplos de uso:
     group.add_argument('--playlist', '-p', help='URL da playlist do YouTube')
     group.add_argument('--list', '-l', action='store_true', help='Listar vídeos extraídos')
     group.add_argument('--zip-folder', '-z', help='Criar ZIP de uma pasta específica')
+    group.add_argument('--organize-playlist', '-o', help='Organizar playlist existente (reorganizar arquivos)')
     
     parser.add_argument('--storage', '-s', default='storage', help='Diretório de armazenamento (padrão: storage)')
     parser.add_argument('--folder', '-f', help='Pasta personalizada para vídeo individual')
     parser.add_argument('--proxy', help='Proxy: http://host:port ou socks5://host:port')
     parser.add_argument('--tor', action='store_true', help='Usar Tor (equivale a --proxy socks5://127.0.0.1:9050)')
     
-    # Novos argumentos para range de playlist
+    # Novos argumentos para playlist
     parser.add_argument('--start', type=int, default=1, help='Índice inicial da playlist (padrão: 1)')
     parser.add_argument('--end', type=int, help='Índice final da playlist (padrão: todos os vídeos)')
     
+    # NOVAS FUNCIONALIDADES v5.0
+    parser.add_argument('--advanced-mode', action='store_true', 
+                       help='🔧 Modo avançado: mais chunks para melhor qualidade RAG')
+    parser.add_argument('--save-audio', action='store_true',
+                       help='💾 Salvar arquivos de áudio permanentemente (padrão: temporário)')
+    parser.add_argument('--reuse-data', action='store_true',
+                       help='🔄 Reutilizar vídeos/transcrições de versões anteriores')
+    parser.add_argument('--chunk-size', type=int, default=500,
+                       help='📏 Tamanho dos chunks (padrão: 500, avançado: 1000)')
+    parser.add_argument('--max-chunks', type=int, default=30,
+                       help='📊 Número máximo de chunks (padrão: 30, avançado: 100)')
+    
     args = parser.parse_args()
     
-    # Criar extrator
-    extractor = YouTubeRAGExtractor(args.storage, proxy=args.proxy, use_tor=args.tor)
+    # Configurações modo avançado automáticas
+    if args.advanced_mode:
+        if args.chunk_size == 500:  # Se é valor padrão, aumentar
+            args.chunk_size = 1000
+        if args.max_chunks == 30:  # Se é valor padrão, aumentar
+            args.max_chunks = 100
+        print("🔧 MODO AVANÇADO: Configurações otimizadas para melhor qualidade RAG")
+    
+    # Criar extrator com novas configurações v5.0
+    extractor = YouTubeRAGExtractor(
+        args.storage, 
+        proxy=args.proxy, 
+        use_tor=args.tor,
+        advanced_mode=args.advanced_mode,
+        save_audio=args.save_audio,
+        reuse_data=args.reuse_data,
+        chunk_size=args.chunk_size,
+        max_chunks=args.max_chunks
+    )
     
     # Opção de pasta personalizada via input se não foi especificada via argumento
     if args.url and not args.folder:
@@ -2452,6 +2889,27 @@ Exemplos de uso:
             if result.get('success'):
                 print(f"\n🎉 Extração RAG concluída com sucesso!")
                 
+                # Informações sobre reutilização de dados
+                reused_data = result.get('reused_data', {})
+                if any(reused_data.values()):
+                    reuse_info = []
+                    if reused_data.get('transcript'): reuse_info.append("transcrição")
+                    if reused_data.get('metadata'): reuse_info.append("metadados")
+                    if reused_data.get('audio'): reuse_info.append("áudio")
+                    print(f"🔄 Dados reutilizados: {', '.join(reuse_info)}")
+                
+                # Informações sobre modo de processamento
+                extractor_settings = []
+                if extractor.advanced_mode:
+                    extractor_settings.append("modo avançado")
+                if extractor.save_audio:
+                    extractor_settings.append("áudio salvo")
+                if extractor.reuse_data:
+                    extractor_settings.append("reutilização ativa")
+                
+                if extractor_settings:
+                    print(f"⚙️ Configurações: {', '.join(extractor_settings)}")
+                
                 # Criar ZIP da pasta personalizada se especificada
                 if args.folder:
                     folder_path = extractor.storage_dir / args.folder
@@ -2464,7 +2922,7 @@ Exemplos de uso:
                 sys.exit(1)
         
         elif args.playlist:
-            # Extrair playlist com range opcional
+            # Extrair playlist com range opcional e numeração automática
             if args.start > 1 or args.end:
                 print(f"🎯 Processando playlist do vídeo {args.start} até {args.end}")
             
@@ -2473,11 +2931,28 @@ Exemplos de uso:
             if result.get('success'):
                 print(f"\n🎉 Playlist extraída com sucesso!")
                 print(f"📊 {result['successful_extractions']}/{result['total_videos']} vídeos processados")
-                print(f"📁 Pasta da playlist: {result.get('folder_name', result.get('playlist_folder', 'N/A'))}")
+                if result.get('reused_videos', 0) > 0:
+                    print(f"� {result['reused_videos']} vídeos reutilizaram dados anteriores")
+                print(f"�📁 Pasta da playlist: {result.get('folder_name', result.get('playlist_folder', 'N/A'))}")
+                print(f"🔢 Pastas numeradas: [1], [2], [3]... para organização")
                 if result.get('zip_file'):
                     print(f"📦 ZIP da playlist: {result['zip_file']}")
             else:
                 print(f"\n❌ Erro na extração da playlist: {result.get('error')}")
+                sys.exit(1)
+        
+        elif args.organize_playlist:
+            # NOVA FUNCIONALIDADE v5.0: Organizar playlist existente
+            result = extractor.organize_existing_playlist(args.organize_playlist)
+            
+            if result.get('success'):
+                print(f"\n🎉 Playlist organizada com sucesso!")
+                print(f"📁 Pasta: {result['playlist_folder']}")
+                print(f"📊 {result['reorganized']}/{result['total_folders']} pastas reorganizadas")
+                print(f"🔢 Pastas agora numeradas: [1], [2], [3]...")
+                print(f"💡 {result['message']}")
+            else:
+                print(f"\n❌ Erro na organização: {result.get('error')}")
                 sys.exit(1)
         
         elif args.list:
