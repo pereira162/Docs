@@ -1,0 +1,197 @@
+[
+  {
+    "index": 0,
+    "text": "so this is episode 7 of our one-bedroom\nhouse and no it has been a long wait but\nyou know I got a little busy that aside\nI'm here now and I'm ready to rock and\nroll again so in today's video what\nwe're gonna do is foundations all right\nin particular we're gonna do the\nfoundation walls the foundation footing\nand we're gonna do the floor all three\nof these we're gonna actually model them\nin 3d\nwe're gonna get a little deeper into\nsome stuff so prepare your brains all\nright if this is your first time on the\nchannel welcome thank you for joining\nand I hope that you learn something new\nif you have any questions at all or any\nthoughts feel free to drop them below\nand also don't forget to hit the like\nbutton I'd really appreciate that\nlet's go so for those of you who don't\nknow what a foundation is which would be\nfoundation of a building is also\nreferred to as the sub structure so you\nhave a superstructure which is the\nportion above ground level and you have\nsub structure which is below the g",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 1000,
+    "word_count": 195,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "perstructure which is the\nportion above ground level and you have\nsub structure which is below the ground\nlevel which is what we will be focusing\non and there are many types of\nfoundation you have a pile RAF pad\nfoundation but the one we're gonna be\nfocusing on or the one we're gonna be\nusing this is known as strict foundation\nwhich is typical of what we use mostly\nin Jamaica and other parts of the\nCaribbean so a strip foundation is\nbasically a strip of reinforced concrete\nthat runs along the bottom of a wall all\nright and what it does is to support\nthat wall that's basically it just a\nstrip of concrete all right\nso that's what we'll be doing today all\nright so here we are back in AutoCAD in\nthe last couple of videos this was where\nwe cut and so now we're going to add our\nfoundation now if you go back over to\nyour project navigator\nthis is it right here we are now going\nto go into our foundation construct and\nthis is where we'll be drawing our\nfoundation everything foundation related\nw",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 1000,
+    "word_count": 192,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "undation construct and\nthis is where we'll be drawing our\nfoundation everything foundation related\nwill be going into that file all right\nand if you're not seeing project\nnavigator it is right up here so you're\ngonna open it up and it should bring you\nto your project settings go down to\nconstructs foundations so we're going to\nopen it and up here we can see that we\nhave it open and it's almost like a\nbrand-new drawing because there's\nnothing inside of it so the first thing\nwe're gonna do is to bring in our grid\nlines just like we did for the ground\nfloor so right click and we're gonna say\nxref overlay and just like that our grid\nlines are no in the second thing to do\nis to draw our foundation walls\nso there are two ways we can do this we\ncan draw the walls from scratch like we\ndid in episode 4 or since we already\nhave the walls over here we could\nactually copy these walls what do you\nthink why not\nso let's go back to the top view and\nwe're gonna go back to 2d wireframe\nand we're gonna",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 999,
+    "word_count": 198,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "nk why not\nso let's go back to the top view and\nwe're gonna go back to 2d wireframe\nand we're gonna copy these walls\nso we're gonna click on one of the walls\nand we're gonna right click and we're\ngonna say select similar now what that\nwill do is to select all your walls no\npeople we're not gonna copy the doors\nand we're not gonna copy the windows\nbecause we don't have windows and doors\nin a foundation we only need the walls\nok that is why we're copying just was so\nwe go over to back to home and I just\nwant to show you now this copy tool\nwe're not gonna use it\nok cuz we're copying from one file to\nanother file but we need to copy using\nour\nreference point and the reference point\nthat I want to use is one a right at\nthis intersection so how do we do that\nwe're gonna use the command copy base\nand the shortcut for that is ctrl shift\nC as you can see here it is now active\nand we're going to select this\nintersection here as a reference point\nso we're going to click and now we can\ngo over to",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 999,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "elect this\nintersection here as a reference point\nso we're going to click and now we can\ngo over to our foundation and we're\ngonna paste now if you know the shortcut\nfor paste that would be what control V\nso ctrl V and now you can see that we\nhave the same reference point here for\nthe one e on the grid line so we're\ngonna drop it right at that intersection\nand just like that\nour walls are now inside of our\nfoundation drawing all right\nnow if I should go to 3d and observe\nwhat do you observe these walls are too\ntall to be hidden there is no way we'd\nhave our foundation walls this top so\nthe first thing we need to do is to\nreduce the height so we're gonna click\non it let's select all our walls again\nand we're going to go over to our\nproperties and change the height of our\nwalls to 4 feet that's it you have to\nremember that when we set up the project\nwe set the foundation to be 4 feet high\nall right so that's gonna be that so now\nwe have the foundation walls all set and\nall done the secon",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 1000,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "all right so that's gonna be that so now\nwe have the foundation walls all set and\nall done the second thing we're gonna do\nis to add the floor slab all right and\nthe floor slab should be right on top of\nthis area here right on top of it it\nshould flush with the top of the wall so\nlet me show you if I should rotate the\nfloor like this the floor should be\nexactly on top of here all right so\nwe're gonna do that let's go back to the\ntop view to the wireframe and we're\ngonna go to roof slab and change it to\nslab all right we can find it here or we\ncan go over to our tool pallet where it\nis also located in the design tab you'll\ngo down until you see slab right here\nalright either way let's click on it and\nnow we are we can draw our slab so the\nfirst thing we're gonna do is to type in\nhow thick we want this slab to be so we\nwant the slab to be 6 inches thick okay\nfor residential properties it would be 6\ninches and for commercial it would be a\nlittle bit thicker maybe 8 inches so for\nthis buil",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 216,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "ould be 6\ninches and for commercial it would be a\nlittle bit thicker maybe 8 inches so for\nthis building imma leave it at 6 make\nsure that the justify is top everything\nelse is good and then we're gonna go\nahead and draw a box around and this box\nwe're gonna draw it on the inside of\nthis wall so turn this off so I'm gonna\ndraw it from here over to this corner\nlike that don't to this corner like that\nover to this corner and then back up to\nthis corner like that all right\nand so we close the box right there and\nwe're gonna hit enter and that's it hit\nenter one more time let's look at that\nin 3d you know I love my 3d view I'm\ngonna say concept to all this time now\nif you notice now that the floor slab is\nbelow the foundation which is ridiculous\nI don't want it there I want it to be on\ntop of flushing with the top of the wall\nso what I need to do so click on the\nfloor slab and change the elevation from\n0 to 4 4\nfour feet and just like that all right\nso that is how that should look flush\nju",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 1000,
+    "word_count": 215,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "vation from\n0 to 4 4\nfour feet and just like that all right\nso that is how that should look flush\njust like that now if you'll notice I'm\ngonna put this in x-ray view so you can\nsee what I'm saying now if you notice\nthe walls are intersecting with the\nfloor so if I should go like this you\ncan see that the floor actually runs\nthrough the wall and we don't want that\nokay we actually want the floor to to\nstop at each wall all right so what\nwe're gonna do we're gonna create what\nis called interference all right so\nclick on the wall or rather click on the\nslab and then we're gonna go up to\ninterference and we're gonna add some\ninterference so click on it and you\nwanna select it says down here select\nobjects to add so what do we want to add\nwe want to add these walls that are\ninterfering with the floor slab so let's\ngo ahead and select them we could\nactually do it from the 3d view which is\nwhat I'm gonna do here that one then we\nhave this one we have this wall and we\nalso have this one so th",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "t I'm gonna do here that one then we\nhave this one we have this wall and we\nalso have this one so these are the\nwalls that are interfering with the\nfloor slab\nonce you're done selecting you would\npress ENTER and then you have the\ndecision to say do you want it to be\nadditive or do you want it to be\nsubtractive which one do you think\nperfect subtractive something OC a\nbrightener Yemen subtract and just like\nthat boom the floor is now separated for\neach rule so each room now has its own\nfloor slab alright and the last thing we\nneed to do is to add our foundation\nfooting okay\nso you see it's not all that difficult\nin fact this might be the most difficult\npart of the video so pay attention so\nwe're gonna add some footing what we\nneed to do is to go to our tool pallet\nand we're gonna say content browser and\nwe're gonna look for the footing to add\nto this drawing so we'll go to imperial\nlet me go back if you're using metric\nyou would go to match it what were using\nImperial for this project s",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "go back if you're using metric\nyou would go to match it what were using\nImperial for this project so we're gonna\ngo to Imperial and then we're gonna go\ndown to was go to concrete and here we\ncan see that we have a couple of options\nwe have like a concrete wall founded\nwith with a footing beneath it we have\nconcrete walls have a lot of different\nstuff but the one that we're going to be\nusing is this one here okay it says here\nvariable width times 12 inches concrete\nstrip foundation so we can change the\nwidth but the height of it is 12 inches\nwhich is too thick but we're gonna make\nsome adjustment to it still but this is\nthe one that I would recommend that you\nuse so what I'm going to do actually is\nto add it to my walls tool pallet so I'm\ngonna go here and I'm gonna say add to\ntool palette so now it is in my tool\npallet down here and we're gonna go\nahead and draw one of these strip\nfoundation so we're gonna click on it\nand\nwe want the width to be one into six\ninches okay one into six a",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 999,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "ation so we're gonna click on it\nand\nwe want the width to be one into six\ninches okay one into six and we want the\njustifier to be Center and what else\nI'll leave it at that for now\nand I'm gonna click I'm gonna draw the\nfirst footing foundation from here to\nhere click enter so just like that we\nhave our first foundation but the\nproblem with this is that it is too\nthick it is 12 inches which would be\nfine if that's what you wanted but for\nthis project I want a foundation that is\n9 inches thick which is typical for most\nof the houses that we do in Jamaica\nall right so 9 inches so how do we do\nthis we're gonna have to edit this\nfoundation so what we're gonna do is to\ncopy style well first you need to\nhighlight the object and then we're\ngonna say copy style and we're gonna\nchange the name of it because we want\nthis to be our own one that we use so\nwe're going to change it to 9 because\nthis one is gonna be 9 inches tall or\nthick change the description to 9 as\nwell and then we'll go over to",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 1000,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "one is gonna be 9 inches tall or\nthick change the description to 9 as\nwell and then we'll go over to\ncomponents and this is where now things\nget deep technical it looks difficult\nbut it's not alright so this is like a\nView window where we can see what the\nfooting looks like based on what we do\nover here basically all we're gonna do\nis to change this to 9 that's all but\nmake sure that it is negative 9 okay so\nit is gonna be negative 9 9 inches and\nI'm gonna change this to zero and then\nI'm gonna say okay oh okay that's it yep\nthat is it and we can go over to our\nstyle just to check if that's the one we\nare using so now we have a separate\nstyle that we've just created called\nx times 9 which is a variable width\ntimes a 9 inch deep foundation all right\nstrip foundation just to make sure so\nnow we're good to go\nif we look at it in 3d let's do that we\ncan see that we have a strip foundation\nrunning underneath that wall that is 9\ninches thick perfect so we're gonna\nfinish the rest of it top t",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 1000,
+    "word_count": 211,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "nning underneath that wall that is 9\ninches thick perfect so we're gonna\nfinish the rest of it top to be\nwireframe\nso what we're gonna do is to click on\nthis one we're gonna say add selected\nall right so we're gonna be adding the\nrest of it so let's start from this\ncorner go all the way across so almost\nlike a drawing walls going down\nnever better walk across all right so so\nfar we have our external walls being\ndone now we need to do the internal ones\nthe internal ones might be a little bit\nmore challenging because we don't have a\ngrid line running through all of them\nand selected well this one has a grid\nline so let's do this one so we're gonna\nstart right at the green box I'm gonna\nbring it all the way up to this one I\nwould recommend turn on the ortho mode\nthis will help you so that your\nfoundation walls are your foundation\nfooting will be straight no one on lino\nclean up all right so we have that one\nwe're gonna add one across here let's do\nthat click on one of these and we're\ngonn",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 1000,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "we have that one\nwe're gonna add one across here let's do\nthat click on one of these and we're\ngonna say add selected and when what I'm\nlooking for is a green box to pop up in\nthis corner let me see right see that\ngreen box why don't you see the green\nbox click alright good bring it across\nand I see another green box over there\nI'm gonna just click even though it\nlooks like the mouse or the cursor is\nnot there once the green box pop up just\nclick and we're gonna do the same thing\nI'd selected let's do this one I'm gonna\ncome down from that grid point and that\ngreen box right there\nclick I'm gonna go across to that green\nbox then we have this tiny wall left so\nclick on it and selected and here we\nhave that green box right there let me\nsee that one click bring it across\nand quick and guess what guys just like\nthat we have all our foundation complete\nthat's it so let's go back to 3d x-ray\nand I might just add perspective to that\nso you can have a a nicer look at it man\nso just like that",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 998,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 14,
+    "text": "and I might just add perspective to that\nso you can have a a nicer look at it man\nso just like that guys we have our\nfoundation walls or foundation footing\nand our ground floor slab all right so\nwe have the slab look at that how\nbeautiful now when it reaches point guys\nthere is one thing that you don't want\nto forget to do and that is - that is\nthe heat the same one so go ahead hit\nsave and you're good alright guys so\nthat's it that is it let me just kind of\nspin it around and rotate it so calcium\nall right guys so thank you for joining\nme on this one I hope that you learned\nsomething if you have any questions just\ndrop them in the comments and remember\nhit that like one\nalright thank you for watching and I'll\nsee you in the next video\n[Music]",
+    "start_char": 12600,
+    "end_char": 13600,
+    "char_count": 753,
+    "word_count": 156,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

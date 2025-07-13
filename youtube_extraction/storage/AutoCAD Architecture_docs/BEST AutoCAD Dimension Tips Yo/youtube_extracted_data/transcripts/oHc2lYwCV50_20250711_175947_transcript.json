@@ -1,0 +1,3167 @@
+{
+  "video_id": "oHc2lYwCV50",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "hello everybody welcome back to another",
+      "start": 0.32,
+      "duration": 4.16,
+      "end": 4.48
+    },
+    {
+      "index": 1,
+      "text": "video on the channel today i would like",
+      "start": 2.24,
+      "duration": 4.24,
+      "end": 6.48
+    },
+    {
+      "index": 2,
+      "text": "to show you guys five autocad",
+      "start": 4.48,
+      "duration": 4.56,
+      "end": 9.04
+    },
+    {
+      "index": 3,
+      "text": "dimensioning tips that i think will be",
+      "start": 6.48,
+      "duration": 4.88,
+      "end": 11.36
+    },
+    {
+      "index": 4,
+      "text": "helpful for you especially if you are",
+      "start": 9.04,
+      "duration": 5.28,
+      "end": 14.32
+    },
+    {
+      "index": 5,
+      "text": "doing a lot of documentation and you are",
+      "start": 11.36,
+      "duration": 5.839,
+      "end": 17.198999999999998
+    },
+    {
+      "index": 6,
+      "text": "required to use a lot of dimensioning",
+      "start": 14.32,
+      "duration": 5.2,
+      "end": 19.52
+    },
+    {
+      "index": 7,
+      "text": "and stuff like that and so some of the",
+      "start": 17.199,
+      "duration": 3.92,
+      "end": 21.119
+    },
+    {
+      "index": 8,
+      "text": "tips that i will show you today will",
+      "start": 19.52,
+      "duration": 4.24,
+      "end": 23.759999999999998
+    },
+    {
+      "index": 9,
+      "text": "help you to move a little bit faster i'm",
+      "start": 21.119,
+      "duration": 4.48,
+      "end": 25.599
+    },
+    {
+      "index": 10,
+      "text": "pretty sure many of you are familiar",
+      "start": 23.76,
+      "duration": 3.519,
+      "end": 27.279000000000003
+    },
+    {
+      "index": 11,
+      "text": "with some of the tricks that i'm gonna",
+      "start": 25.599,
+      "duration": 3.121,
+      "end": 28.72
+    },
+    {
+      "index": 12,
+      "text": "be showing you here they're not even",
+      "start": 27.279,
+      "duration": 3.201,
+      "end": 30.48
+    },
+    {
+      "index": 13,
+      "text": "tricks but",
+      "start": 28.72,
+      "duration": 4.24,
+      "end": 32.96
+    },
+    {
+      "index": 14,
+      "text": "just ways of doing things but there may",
+      "start": 30.48,
+      "duration": 4.72,
+      "end": 35.2
+    },
+    {
+      "index": 15,
+      "text": "be others that you are not yet familiar",
+      "start": 32.96,
+      "duration": 4.32,
+      "end": 37.28
+    },
+    {
+      "index": 16,
+      "text": "with definitely stick around to the end",
+      "start": 35.2,
+      "duration": 3.359,
+      "end": 38.559000000000005
+    },
+    {
+      "index": 17,
+      "text": "of the video because there's one",
+      "start": 37.28,
+      "duration": 4.08,
+      "end": 41.36
+    },
+    {
+      "index": 18,
+      "text": "particular tool that is very unique and",
+      "start": 38.559,
+      "duration": 4.401,
+      "end": 42.959999999999994
+    },
+    {
+      "index": 19,
+      "text": "i would like to show you guys what that",
+      "start": 41.36,
+      "duration": 3.28,
+      "end": 44.64
+    },
+    {
+      "index": 20,
+      "text": "is all about so without further ado",
+      "start": 42.96,
+      "duration": 3.52,
+      "end": 46.480000000000004
+    },
+    {
+      "index": 21,
+      "text": "remember to subscribe like and the",
+      "start": 44.64,
+      "duration": 3.919,
+      "end": 48.559
+    },
+    {
+      "index": 22,
+      "text": "notification and all that instagram",
+      "start": 46.48,
+      "duration": 4.239,
+      "end": 50.718999999999994
+    },
+    {
+      "index": 23,
+      "text": "twitter boom bang patreon",
+      "start": 48.559,
+      "duration": 5.48,
+      "end": 54.039
+    },
+    {
+      "index": 24,
+      "text": "let's go",
+      "start": 50.719,
+      "duration": 3.32,
+      "end": 54.039
+    },
+    {
+      "index": 25,
+      "text": "[Music]",
+      "start": 56.01,
+      "duration": 3.09,
+      "end": 59.099999999999994
+    },
+    {
+      "index": 26,
+      "text": "all right everybody so here we are in",
+      "start": 61.92,
+      "duration": 4.84,
+      "end": 66.76
+    },
+    {
+      "index": 27,
+      "text": "autocad architecture",
+      "start": 64.159,
+      "duration": 5.681,
+      "end": 69.84
+    },
+    {
+      "index": 28,
+      "text": "2023 and of course i know many of you",
+      "start": 66.76,
+      "duration": 5.96,
+      "end": 72.72
+    },
+    {
+      "index": 29,
+      "text": "don't have the 2023 as yet but don't",
+      "start": 69.84,
+      "duration": 5.68,
+      "end": 75.52000000000001
+    },
+    {
+      "index": 30,
+      "text": "worry all the commands and the steps",
+      "start": 72.72,
+      "duration": 4.719,
+      "end": 77.439
+    },
+    {
+      "index": 31,
+      "text": "that i'm gonna show you in this video",
+      "start": 75.52,
+      "duration": 4.4,
+      "end": 79.92
+    },
+    {
+      "index": 32,
+      "text": "can be applied to your version i'm i'm",
+      "start": 77.439,
+      "duration": 4.081,
+      "end": 81.52
+    },
+    {
+      "index": 33,
+      "text": "pretty sure of that",
+      "start": 79.92,
+      "duration": 2.72,
+      "end": 82.64
+    },
+    {
+      "index": 34,
+      "text": "and so",
+      "start": 81.52,
+      "duration": 3.76,
+      "end": 85.28
+    },
+    {
+      "index": 35,
+      "text": "no need to worry no need to fret um of",
+      "start": 82.64,
+      "duration": 4.72,
+      "end": 87.36
+    },
+    {
+      "index": 36,
+      "text": "course the interface that i'm using",
+      "start": 85.28,
+      "duration": 4.479,
+      "end": 89.759
+    },
+    {
+      "index": 37,
+      "text": "might look a little bit different plus",
+      "start": 87.36,
+      "duration": 4.96,
+      "end": 92.32
+    },
+    {
+      "index": 38,
+      "text": "i'm also using windows 11 so things",
+      "start": 89.759,
+      "duration": 4.881,
+      "end": 94.64
+    },
+    {
+      "index": 39,
+      "text": "might look a little different but it",
+      "start": 92.32,
+      "duration": 4.479,
+      "end": 96.79899999999999
+    },
+    {
+      "index": 40,
+      "text": "should be the same thing once you follow",
+      "start": 94.64,
+      "duration": 4.0,
+      "end": 98.64
+    },
+    {
+      "index": 41,
+      "text": "the steps all right",
+      "start": 96.799,
+      "duration": 4.561,
+      "end": 101.36000000000001
+    },
+    {
+      "index": 42,
+      "text": "now before i jump into the first tip",
+      "start": 98.64,
+      "duration": 5.68,
+      "end": 104.32
+    },
+    {
+      "index": 43,
+      "text": "that i have for you i want to mention",
+      "start": 101.36,
+      "duration": 5.92,
+      "end": 107.28
+    },
+    {
+      "index": 44,
+      "text": "that i do have a three-part video on",
+      "start": 104.32,
+      "duration": 6.159,
+      "end": 110.479
+    },
+    {
+      "index": 45,
+      "text": "annotations and dimensions in general",
+      "start": 107.28,
+      "duration": 5.36,
+      "end": 112.64
+    },
+    {
+      "index": 46,
+      "text": "how you should scale them properly how",
+      "start": 110.479,
+      "duration": 4.481,
+      "end": 114.96
+    },
+    {
+      "index": 47,
+      "text": "you get them to look pretty on your",
+      "start": 112.64,
+      "duration": 4.24,
+      "end": 116.88
+    },
+    {
+      "index": 48,
+      "text": "sheets and so if that is something",
+      "start": 114.96,
+      "duration": 4.32,
+      "end": 119.28
+    },
+    {
+      "index": 49,
+      "text": "you're interested in and you haven't",
+      "start": 116.88,
+      "duration": 4.32,
+      "end": 121.19999999999999
+    },
+    {
+      "index": 50,
+      "text": "seen those videos as yet i'm going to be",
+      "start": 119.28,
+      "duration": 5.199,
+      "end": 124.479
+    },
+    {
+      "index": 51,
+      "text": "posting them in the description below so",
+      "start": 121.2,
+      "duration": 5.919,
+      "end": 127.119
+    },
+    {
+      "index": 52,
+      "text": "at the end of this video i encourage you",
+      "start": 124.479,
+      "duration": 4.801,
+      "end": 129.28
+    },
+    {
+      "index": 53,
+      "text": "to go ahead and check those out there",
+      "start": 127.119,
+      "duration": 4.241,
+      "end": 131.36
+    },
+    {
+      "index": 54,
+      "text": "are some pretty good gems over there so",
+      "start": 129.28,
+      "duration": 3.84,
+      "end": 133.12
+    },
+    {
+      "index": 55,
+      "text": "i'm pretty sure you're gonna learn",
+      "start": 131.36,
+      "duration": 4.48,
+      "end": 135.84
+    },
+    {
+      "index": 56,
+      "text": "something also i'll be using this little",
+      "start": 133.12,
+      "duration": 5.92,
+      "end": 139.04
+    },
+    {
+      "index": 57,
+      "text": "model here for today's presentation and",
+      "start": 135.84,
+      "duration": 5.6,
+      "end": 141.44
+    },
+    {
+      "index": 58,
+      "text": "of course if you want to download this",
+      "start": 139.04,
+      "duration": 4.72,
+      "end": 143.76
+    },
+    {
+      "index": 59,
+      "text": "particular project i have dropped it",
+      "start": 141.44,
+      "duration": 4.879,
+      "end": 146.319
+    },
+    {
+      "index": 60,
+      "text": "over on patreon so you can check that",
+      "start": 143.76,
+      "duration": 6.08,
+      "end": 149.84
+    },
+    {
+      "index": 61,
+      "text": "out i have also posted additional models",
+      "start": 146.319,
+      "duration": 5.521,
+      "end": 151.83999999999997
+    },
+    {
+      "index": 62,
+      "text": "like this one over there plus some other",
+      "start": 149.84,
+      "duration": 4.479,
+      "end": 154.31900000000002
+    },
+    {
+      "index": 63,
+      "text": "stuff so if you're interested in that",
+      "start": 151.84,
+      "duration": 5.84,
+      "end": 157.68
+    },
+    {
+      "index": 64,
+      "text": "then check that out all right so with",
+      "start": 154.319,
+      "duration": 5.92,
+      "end": 160.23899999999998
+    },
+    {
+      "index": 65,
+      "text": "that all out of the way let's jump into",
+      "start": 157.68,
+      "duration": 5.36,
+      "end": 163.04000000000002
+    },
+    {
+      "index": 66,
+      "text": "the first tip that i have for you",
+      "start": 160.239,
+      "duration": 5.36,
+      "end": 165.59900000000002
+    },
+    {
+      "index": 67,
+      "text": "so the first tip i'm gonna talk about",
+      "start": 163.04,
+      "duration": 4.32,
+      "end": 167.35999999999999
+    },
+    {
+      "index": 68,
+      "text": "here which is probably the most",
+      "start": 165.599,
+      "duration": 3.601,
+      "end": 169.2
+    },
+    {
+      "index": 69,
+      "text": "important one",
+      "start": 167.36,
+      "duration": 3.92,
+      "end": 171.28
+    },
+    {
+      "index": 70,
+      "text": "when adding dimensions and i'm sure many",
+      "start": 169.2,
+      "duration": 4.08,
+      "end": 173.28
+    },
+    {
+      "index": 71,
+      "text": "of you would have known about this one",
+      "start": 171.28,
+      "duration": 3.28,
+      "end": 174.56
+    },
+    {
+      "index": 72,
+      "text": "already",
+      "start": 173.28,
+      "duration": 5.2,
+      "end": 178.48
+    },
+    {
+      "index": 73,
+      "text": "which is to create a dedicated layer for",
+      "start": 174.56,
+      "duration": 6.8,
+      "end": 181.36
+    },
+    {
+      "index": 74,
+      "text": "your dimensions that's like standard now",
+      "start": 178.48,
+      "duration": 5.759,
+      "end": 184.23899999999998
+    },
+    {
+      "index": 75,
+      "text": "so if i go to home you can see that my",
+      "start": 181.36,
+      "duration": 4.799,
+      "end": 186.15900000000002
+    },
+    {
+      "index": 76,
+      "text": "current layer right now",
+      "start": 184.239,
+      "duration": 3.521,
+      "end": 187.76
+    },
+    {
+      "index": 77,
+      "text": "is the zero layer",
+      "start": 186.159,
+      "duration": 4.401,
+      "end": 190.56
+    },
+    {
+      "index": 78,
+      "text": "you don't ever want to add dimensions to",
+      "start": 187.76,
+      "duration": 5.839,
+      "end": 193.599
+    },
+    {
+      "index": 79,
+      "text": "your zero layer okay what we need to do",
+      "start": 190.56,
+      "duration": 5.2,
+      "end": 195.76
+    },
+    {
+      "index": 80,
+      "text": "is to go to our layer properties and we",
+      "start": 193.599,
+      "duration": 5.28,
+      "end": 198.879
+    },
+    {
+      "index": 81,
+      "text": "need to create a layer for dimensions",
+      "start": 195.76,
+      "duration": 5.119,
+      "end": 200.879
+    },
+    {
+      "index": 82,
+      "text": "okay now there are many ways we can do",
+      "start": 198.879,
+      "duration": 4.0,
+      "end": 202.879
+    },
+    {
+      "index": 83,
+      "text": "this but i'm going to be showing you the",
+      "start": 200.879,
+      "duration": 4.801,
+      "end": 205.67999999999998
+    },
+    {
+      "index": 84,
+      "text": "easiest method so what we're going to do",
+      "start": 202.879,
+      "duration": 5.041,
+      "end": 207.92
+    },
+    {
+      "index": 85,
+      "text": "is type the command dim",
+      "start": 205.68,
+      "duration": 5.119,
+      "end": 210.799
+    },
+    {
+      "index": 86,
+      "text": "layer and as you can see here it",
+      "start": 207.92,
+      "duration": 4.64,
+      "end": 212.55999999999997
+    },
+    {
+      "index": 87,
+      "text": "pops up here i'm gonna click on it as",
+      "start": 210.799,
+      "duration": 4.16,
+      "end": 214.959
+    },
+    {
+      "index": 88,
+      "text": "you can see in the brackets here it says",
+      "start": 212.56,
+      "duration": 4.959,
+      "end": 217.519
+    },
+    {
+      "index": 89,
+      "text": "dimensions are being added to the",
+      "start": 214.959,
+      "duration": 4.961,
+      "end": 219.92000000000002
+    },
+    {
+      "index": 90,
+      "text": "current layer so anything that you have",
+      "start": 217.519,
+      "duration": 4.8,
+      "end": 222.31900000000002
+    },
+    {
+      "index": 91,
+      "text": "current is what your dimensions will be",
+      "start": 219.92,
+      "duration": 5.84,
+      "end": 225.76
+    },
+    {
+      "index": 92,
+      "text": "added to but if we type a new name in",
+      "start": 222.319,
+      "duration": 4.961,
+      "end": 227.28
+    },
+    {
+      "index": 93,
+      "text": "this command line",
+      "start": 225.76,
+      "duration": 4.72,
+      "end": 230.48
+    },
+    {
+      "index": 94,
+      "text": "then a new layer will be created for all",
+      "start": 227.28,
+      "duration": 5.12,
+      "end": 232.4
+    },
+    {
+      "index": 95,
+      "text": "our dimensions so let's go ahead and",
+      "start": 230.48,
+      "duration": 4.08,
+      "end": 234.56
+    },
+    {
+      "index": 96,
+      "text": "type g dash",
+      "start": 232.4,
+      "duration": 4.0,
+      "end": 236.4
+    },
+    {
+      "index": 97,
+      "text": "ano dash",
+      "start": 234.56,
+      "duration": 5.44,
+      "end": 240.0
+    },
+    {
+      "index": 98,
+      "text": "dims now before i press enter if you had",
+      "start": 236.4,
+      "duration": 6.399,
+      "end": 242.799
+    },
+    {
+      "index": 99,
+      "text": "created a layer before and you want to",
+      "start": 240.0,
+      "duration": 5.439,
+      "end": 245.439
+    },
+    {
+      "index": 100,
+      "text": "use that layer then you would type the",
+      "start": 242.799,
+      "duration": 5.44,
+      "end": 248.239
+    },
+    {
+      "index": 101,
+      "text": "name of that layer in here okay",
+      "start": 245.439,
+      "duration": 5.281,
+      "end": 250.72
+    },
+    {
+      "index": 102,
+      "text": "so let's hit enter and what that does is",
+      "start": 248.239,
+      "duration": 5.521,
+      "end": 253.76
+    },
+    {
+      "index": 103,
+      "text": "to create a new layer in here for us",
+      "start": 250.72,
+      "duration": 6.079,
+      "end": 256.799
+    },
+    {
+      "index": 104,
+      "text": "that is called where is it okay so we're",
+      "start": 253.76,
+      "duration": 5.28,
+      "end": 259.03999999999996
+    },
+    {
+      "index": 105,
+      "text": "not seeing it as yet and i know why i",
+      "start": 256.799,
+      "duration": 4.641,
+      "end": 261.44
+    },
+    {
+      "index": 106,
+      "text": "think it's because we have not added a",
+      "start": 259.04,
+      "duration": 4.56,
+      "end": 263.6
+    },
+    {
+      "index": 107,
+      "text": "dimension as yet so let's go ahead and",
+      "start": 261.44,
+      "duration": 3.759,
+      "end": 265.199
+    },
+    {
+      "index": 108,
+      "text": "click on this guy here and i'm going to",
+      "start": 263.6,
+      "duration": 4.64,
+      "end": 268.24
+    },
+    {
+      "index": 109,
+      "text": "add a dimension from here to here and",
+      "start": 265.199,
+      "duration": 5.28,
+      "end": 270.479
+    },
+    {
+      "index": 110,
+      "text": "i'm going to pull it out",
+      "start": 268.24,
+      "duration": 3.28,
+      "end": 271.52
+    },
+    {
+      "index": 111,
+      "text": "click",
+      "start": 270.479,
+      "duration": 3.44,
+      "end": 273.919
+    },
+    {
+      "index": 112,
+      "text": "and if i highlight this dimension you",
+      "start": 271.52,
+      "duration": 5.52,
+      "end": 277.03999999999996
+    },
+    {
+      "index": 113,
+      "text": "can see that it is now using the g and",
+      "start": 273.919,
+      "duration": 5.601,
+      "end": 279.52
+    },
+    {
+      "index": 114,
+      "text": "dimms layer which is the one that we've",
+      "start": 277.04,
+      "duration": 5.2,
+      "end": 282.24
+    },
+    {
+      "index": 115,
+      "text": "just created so let's go back to our",
+      "start": 279.52,
+      "duration": 5.28,
+      "end": 284.79999999999995
+    },
+    {
+      "index": 116,
+      "text": "layer properties and now it should be",
+      "start": 282.24,
+      "duration": 4.48,
+      "end": 286.72
+    },
+    {
+      "index": 117,
+      "text": "available here we go",
+      "start": 284.8,
+      "duration": 3.839,
+      "end": 288.639
+    },
+    {
+      "index": 118,
+      "text": "all right and what i want to do here is",
+      "start": 286.72,
+      "duration": 4.4,
+      "end": 291.12
+    },
+    {
+      "index": 119,
+      "text": "to change the color from white",
+      "start": 288.639,
+      "duration": 3.921,
+      "end": 292.56
+    },
+    {
+      "index": 120,
+      "text": "to",
+      "start": 291.12,
+      "duration": 4.56,
+      "end": 295.68
+    },
+    {
+      "index": 121,
+      "text": "maybe this guy here i'm going to hit ok",
+      "start": 292.56,
+      "duration": 5.52,
+      "end": 298.08
+    },
+    {
+      "index": 122,
+      "text": "and the second thing i'm gonna do is to",
+      "start": 295.68,
+      "duration": 5.04,
+      "end": 300.72
+    },
+    {
+      "index": 123,
+      "text": "change the line weight from",
+      "start": 298.08,
+      "duration": 4.48,
+      "end": 302.56
+    },
+    {
+      "index": 124,
+      "text": "what it is to",
+      "start": 300.72,
+      "duration": 6.56,
+      "end": 307.28000000000003
+    },
+    {
+      "index": 125,
+      "text": "just maybe about 0.18 and that's that so",
+      "start": 302.56,
+      "duration": 7.04,
+      "end": 309.6
+    },
+    {
+      "index": 126,
+      "text": "now i have a layer dedicated for",
+      "start": 307.28,
+      "duration": 4.639,
+      "end": 311.919
+    },
+    {
+      "index": 127,
+      "text": "dimensions and if you notice when i",
+      "start": 309.6,
+      "duration": 4.879,
+      "end": 314.47900000000004
+    },
+    {
+      "index": 128,
+      "text": "deselect off of the dimension it",
+      "start": 311.919,
+      "duration": 4.641,
+      "end": 316.56
+    },
+    {
+      "index": 129,
+      "text": "switches back to the default layer",
+      "start": 314.479,
+      "duration": 4.241,
+      "end": 318.71999999999997
+    },
+    {
+      "index": 130,
+      "text": "however when i need to add a dimension",
+      "start": 316.56,
+      "duration": 5.6,
+      "end": 322.16
+    },
+    {
+      "index": 131,
+      "text": "it will always be added to my new layer",
+      "start": 318.72,
+      "duration": 5.52,
+      "end": 324.24
+    },
+    {
+      "index": 132,
+      "text": "so let's add another one and see if that",
+      "start": 322.16,
+      "duration": 4.479,
+      "end": 326.639
+    },
+    {
+      "index": 133,
+      "text": "actually works and as you can see it",
+      "start": 324.24,
+      "duration": 5.519,
+      "end": 329.759
+    },
+    {
+      "index": 134,
+      "text": "works all right so that's the first",
+      "start": 326.639,
+      "duration": 5.201,
+      "end": 331.84000000000003
+    },
+    {
+      "index": 135,
+      "text": "important step you need to take",
+      "start": 329.759,
+      "duration": 5.041,
+      "end": 334.8
+    },
+    {
+      "index": 136,
+      "text": "now if you're using the regular autocad",
+      "start": 331.84,
+      "duration": 5.44,
+      "end": 337.28
+    },
+    {
+      "index": 137,
+      "text": "the that the one that is not the",
+      "start": 334.8,
+      "duration": 4.959,
+      "end": 339.759
+    },
+    {
+      "index": 138,
+      "text": "architecture version if you go over to",
+      "start": 337.28,
+      "duration": 5.68,
+      "end": 342.96
+    },
+    {
+      "index": 139,
+      "text": "annotate you will see a drop down that",
+      "start": 339.759,
+      "duration": 6.0,
+      "end": 345.759
+    },
+    {
+      "index": 140,
+      "text": "does the same thing okay so if you click",
+      "start": 342.96,
+      "duration": 4.48,
+      "end": 347.44
+    },
+    {
+      "index": 141,
+      "text": "on that drop down i can pretty much",
+      "start": 345.759,
+      "duration": 3.681,
+      "end": 349.44
+    },
+    {
+      "index": 142,
+      "text": "select any of the layers that i would",
+      "start": 347.44,
+      "duration": 5.92,
+      "end": 353.36
+    },
+    {
+      "index": 143,
+      "text": "like to make my default dimension layer",
+      "start": 349.44,
+      "duration": 6.0,
+      "end": 355.44
+    },
+    {
+      "index": 144,
+      "text": "so as you can see there it has already",
+      "start": 353.36,
+      "duration": 4.16,
+      "end": 357.52000000000004
+    },
+    {
+      "index": 145,
+      "text": "been selected now the reason you're",
+      "start": 355.44,
+      "duration": 5.12,
+      "end": 360.56
+    },
+    {
+      "index": 146,
+      "text": "seeing this drop down in my architecture",
+      "start": 357.52,
+      "duration": 6.08,
+      "end": 363.59999999999997
+    },
+    {
+      "index": 147,
+      "text": "version is because i went in and i",
+      "start": 360.56,
+      "duration": 6.16,
+      "end": 366.72
+    },
+    {
+      "index": 148,
+      "text": "finesse around with the user interface",
+      "start": 363.6,
+      "duration": 5.76,
+      "end": 369.36
+    },
+    {
+      "index": 149,
+      "text": "and got it in here because i'm like why",
+      "start": 366.72,
+      "duration": 5.52,
+      "end": 372.24
+    },
+    {
+      "index": 150,
+      "text": "wasn't it in here in the first place but",
+      "start": 369.36,
+      "duration": 5.2,
+      "end": 374.56
+    },
+    {
+      "index": 151,
+      "text": "um for some reason the architectural",
+      "start": 372.24,
+      "duration": 4.48,
+      "end": 376.72
+    },
+    {
+      "index": 152,
+      "text": "version of autocad does not have it",
+      "start": 374.56,
+      "duration": 4.4,
+      "end": 378.96
+    },
+    {
+      "index": 153,
+      "text": "there so i had to",
+      "start": 376.72,
+      "duration": 4.72,
+      "end": 381.44000000000005
+    },
+    {
+      "index": 154,
+      "text": "add it in here all right if you want me",
+      "start": 378.96,
+      "duration": 4.48,
+      "end": 383.44
+    },
+    {
+      "index": 155,
+      "text": "to do a video on that definitely drop",
+      "start": 381.44,
+      "duration": 3.68,
+      "end": 385.12
+    },
+    {
+      "index": 156,
+      "text": "your comments you know drop a like let",
+      "start": 383.44,
+      "duration": 3.84,
+      "end": 387.28
+    },
+    {
+      "index": 157,
+      "text": "me know if you want me to show you guys",
+      "start": 385.12,
+      "duration": 5.519,
+      "end": 390.639
+    },
+    {
+      "index": 158,
+      "text": "how to modify your user interface all",
+      "start": 387.28,
+      "duration": 5.199,
+      "end": 392.479
+    },
+    {
+      "index": 159,
+      "text": "right so let's jump into the second tip",
+      "start": 390.639,
+      "duration": 5.041,
+      "end": 395.68
+    },
+    {
+      "index": 160,
+      "text": "that i have for you and that is",
+      "start": 392.479,
+      "duration": 4.801,
+      "end": 397.28
+    },
+    {
+      "index": 161,
+      "text": "right in front of your face if you",
+      "start": 395.68,
+      "duration": 3.68,
+      "end": 399.36
+    },
+    {
+      "index": 162,
+      "text": "haven't seen it as yet you're going to",
+      "start": 397.28,
+      "duration": 4.08,
+      "end": 401.35999999999996
+    },
+    {
+      "index": 163,
+      "text": "learn about it today all right so when",
+      "start": 399.36,
+      "duration": 5.6,
+      "end": 404.96000000000004
+    },
+    {
+      "index": 164,
+      "text": "you highlight a dimension you hover over",
+      "start": 401.36,
+      "duration": 7.679,
+      "end": 409.039
+    },
+    {
+      "index": 165,
+      "text": "each uh end point here and you get some",
+      "start": 404.96,
+      "duration": 6.079,
+      "end": 411.039
+    },
+    {
+      "index": 166,
+      "text": "options all right and so i'm gonna be",
+      "start": 409.039,
+      "duration": 4.0,
+      "end": 413.039
+    },
+    {
+      "index": 167,
+      "text": "going through what all of these options",
+      "start": 411.039,
+      "duration": 4.241,
+      "end": 415.28
+    },
+    {
+      "index": 168,
+      "text": "do and so let's click on the first one",
+      "start": 413.039,
+      "duration": 5.361,
+      "end": 418.4
+    },
+    {
+      "index": 169,
+      "text": "which is a stretch command and what that",
+      "start": 415.28,
+      "duration": 6.16,
+      "end": 421.44
+    },
+    {
+      "index": 170,
+      "text": "does is pretty straightforward you can",
+      "start": 418.4,
+      "duration": 6.32,
+      "end": 424.71999999999997
+    },
+    {
+      "index": 171,
+      "text": "use it to move your uh dimension",
+      "start": 421.44,
+      "duration": 5.52,
+      "end": 426.96
+    },
+    {
+      "index": 172,
+      "text": "in either direction and that is pretty",
+      "start": 424.72,
+      "duration": 4.8,
+      "end": 429.52000000000004
+    },
+    {
+      "index": 173,
+      "text": "similar to uh just as clicking on the",
+      "start": 426.96,
+      "duration": 4.4,
+      "end": 431.35999999999996
+    },
+    {
+      "index": 174,
+      "text": "end point there and move it so that's",
+      "start": 429.52,
+      "duration": 4.16,
+      "end": 433.68
+    },
+    {
+      "index": 175,
+      "text": "nothing new but one other one that is",
+      "start": 431.36,
+      "duration": 5.04,
+      "end": 436.40000000000003
+    },
+    {
+      "index": 176,
+      "text": "very useful would be the second option",
+      "start": 433.68,
+      "duration": 5.359,
+      "end": 439.039
+    },
+    {
+      "index": 177,
+      "text": "so in a case like this where we have a",
+      "start": 436.4,
+      "duration": 6.56,
+      "end": 442.96
+    },
+    {
+      "index": 178,
+      "text": "lot of dimensions already added and we",
+      "start": 439.039,
+      "duration": 7.6,
+      "end": 446.639
+    },
+    {
+      "index": 179,
+      "text": "want to move them all at the same time",
+      "start": 442.96,
+      "duration": 7.04,
+      "end": 450.0
+    },
+    {
+      "index": 180,
+      "text": "we can use the stretch dimension group",
+      "start": 446.639,
+      "duration": 4.241,
+      "end": 450.88
+    },
+    {
+      "index": 181,
+      "text": "okay",
+      "start": 450.0,
+      "duration": 3.28,
+      "end": 453.28
+    },
+    {
+      "index": 182,
+      "text": "and what that does is allow us to move",
+      "start": 450.88,
+      "duration": 5.52,
+      "end": 456.4
+    },
+    {
+      "index": 183,
+      "text": "all of our strings of dimensions",
+      "start": 453.28,
+      "duration": 7.039,
+      "end": 460.31899999999996
+    },
+    {
+      "index": 184,
+      "text": "together okay and this is very helpful",
+      "start": 456.4,
+      "duration": 5.76,
+      "end": 462.15999999999997
+    },
+    {
+      "index": 185,
+      "text": "because i remember when",
+      "start": 460.319,
+      "duration": 5.28,
+      "end": 465.599
+    },
+    {
+      "index": 186,
+      "text": "i had to move all of these one by one or",
+      "start": 462.16,
+      "duration": 4.719,
+      "end": 466.879
+    },
+    {
+      "index": 187,
+      "text": "two by two",
+      "start": 465.599,
+      "duration": 3.521,
+      "end": 469.12
+    },
+    {
+      "index": 188,
+      "text": "and it was a pain okay",
+      "start": 466.879,
+      "duration": 5.841,
+      "end": 472.72
+    },
+    {
+      "index": 189,
+      "text": "so this is really helpful to stretch all",
+      "start": 469.12,
+      "duration": 5.04,
+      "end": 474.16
+    },
+    {
+      "index": 190,
+      "text": "of your dimensions",
+      "start": 472.72,
+      "duration": 3.919,
+      "end": 476.639
+    },
+    {
+      "index": 191,
+      "text": "at once and then we have the third one",
+      "start": 474.16,
+      "duration": 5.439,
+      "end": 479.59900000000005
+    },
+    {
+      "index": 192,
+      "text": "which is the continue dimension which is",
+      "start": 476.639,
+      "duration": 6.481,
+      "end": 483.12
+    },
+    {
+      "index": 193,
+      "text": "very similar to this button right here",
+      "start": 479.599,
+      "duration": 5.841,
+      "end": 485.44
+    },
+    {
+      "index": 194,
+      "text": "it's actually the same thing",
+      "start": 483.12,
+      "duration": 4.56,
+      "end": 487.68
+    },
+    {
+      "index": 195,
+      "text": "and also if you right click you normally",
+      "start": 485.44,
+      "duration": 5.599,
+      "end": 491.039
+    },
+    {
+      "index": 196,
+      "text": "would have the continue option here but",
+      "start": 487.68,
+      "duration": 5.68,
+      "end": 493.36
+    },
+    {
+      "index": 197,
+      "text": "i don't use those option anymore because",
+      "start": 491.039,
+      "duration": 5.44,
+      "end": 496.479
+    },
+    {
+      "index": 198,
+      "text": "i have it right here and so if i wanted",
+      "start": 493.36,
+      "duration": 5.679,
+      "end": 499.039
+    },
+    {
+      "index": 199,
+      "text": "to add some extra dimensions to capture",
+      "start": 496.479,
+      "duration": 3.361,
+      "end": 499.84
+    },
+    {
+      "index": 200,
+      "text": "this",
+      "start": 499.039,
+      "duration": 3.521,
+      "end": 502.56
+    },
+    {
+      "index": 201,
+      "text": "column right here what i would do is to",
+      "start": 499.84,
+      "duration": 5.039,
+      "end": 504.87899999999996
+    },
+    {
+      "index": 202,
+      "text": "hover over that end point in the",
+      "start": 502.56,
+      "duration": 4.72,
+      "end": 507.28000000000003
+    },
+    {
+      "index": 203,
+      "text": "direction that i want to go and i would",
+      "start": 504.879,
+      "duration": 5.681,
+      "end": 510.56
+    },
+    {
+      "index": 204,
+      "text": "say continue and now i can add some",
+      "start": 507.28,
+      "duration": 6.08,
+      "end": 513.36
+    },
+    {
+      "index": 205,
+      "text": "extra dimensions here and here",
+      "start": 510.56,
+      "duration": 4.959,
+      "end": 515.519
+    },
+    {
+      "index": 206,
+      "text": "just like that i can do the same thing",
+      "start": 513.36,
+      "duration": 5.2,
+      "end": 518.5600000000001
+    },
+    {
+      "index": 207,
+      "text": "with this one here continue and i'll add",
+      "start": 515.519,
+      "duration": 5.52,
+      "end": 521.039
+    },
+    {
+      "index": 208,
+      "text": "another one here okay and just to top",
+      "start": 518.56,
+      "duration": 4.399,
+      "end": 522.959
+    },
+    {
+      "index": 209,
+      "text": "things off i'm gonna just grab this one",
+      "start": 521.039,
+      "duration": 4.561,
+      "end": 525.6
+    },
+    {
+      "index": 210,
+      "text": "here and i'm gonna just drag it up",
+      "start": 522.959,
+      "duration": 4.721,
+      "end": 527.68
+    },
+    {
+      "index": 211,
+      "text": "and move it up just to make the overall",
+      "start": 525.6,
+      "duration": 5.2,
+      "end": 530.8000000000001
+    },
+    {
+      "index": 212,
+      "text": "distance um make more sense all right so",
+      "start": 527.68,
+      "duration": 6.0,
+      "end": 533.68
+    },
+    {
+      "index": 213,
+      "text": "that's another neat trick right there",
+      "start": 530.8,
+      "duration": 4.96,
+      "end": 535.76
+    },
+    {
+      "index": 214,
+      "text": "that we can use to just continue",
+      "start": 533.68,
+      "duration": 4.08,
+      "end": 537.76
+    },
+    {
+      "index": 215,
+      "text": "dimensions all right now we have the",
+      "start": 535.76,
+      "duration": 4.24,
+      "end": 540.0
+    },
+    {
+      "index": 216,
+      "text": "baseline dimension which i think would",
+      "start": 537.76,
+      "duration": 3.04,
+      "end": 540.8
+    },
+    {
+      "index": 217,
+      "text": "be",
+      "start": 540.0,
+      "duration": 3.76,
+      "end": 543.76
+    },
+    {
+      "index": 218,
+      "text": "helpful if we were to do this on an",
+      "start": 540.8,
+      "duration": 6.599,
+      "end": 547.399
+    },
+    {
+      "index": 219,
+      "text": "elevation view",
+      "start": 543.76,
+      "duration": 3.639,
+      "end": 547.399
+    },
+    {
+      "index": 220,
+      "text": "okay so here is an elevation view of the",
+      "start": 548.399,
+      "duration": 6.401,
+      "end": 554.8
+    },
+    {
+      "index": 221,
+      "text": "same building that we are looking at and",
+      "start": 552.0,
+      "duration": 5.36,
+      "end": 557.36
+    },
+    {
+      "index": 222,
+      "text": "so the baseline dimension comes in",
+      "start": 554.8,
+      "duration": 3.92,
+      "end": 558.7199999999999
+    },
+    {
+      "index": 223,
+      "text": "really helpful",
+      "start": 557.36,
+      "duration": 4.56,
+      "end": 561.92
+    },
+    {
+      "index": 224,
+      "text": "uh if you were to have a dimension that",
+      "start": 558.72,
+      "duration": 6.4,
+      "end": 565.12
+    },
+    {
+      "index": 225,
+      "text": "is coming off of a baseline so let me",
+      "start": 561.92,
+      "duration": 5.12,
+      "end": 567.04
+    },
+    {
+      "index": 226,
+      "text": "show you what that looks like all right",
+      "start": 565.12,
+      "duration": 3.52,
+      "end": 568.64
+    },
+    {
+      "index": 227,
+      "text": "so i'm going to be adding the first",
+      "start": 567.04,
+      "duration": 4.32,
+      "end": 571.36
+    },
+    {
+      "index": 228,
+      "text": "dimension here",
+      "start": 568.64,
+      "duration": 4.639,
+      "end": 573.279
+    },
+    {
+      "index": 229,
+      "text": "which would be you know the first",
+      "start": 571.36,
+      "duration": 5.76,
+      "end": 577.12
+    },
+    {
+      "index": 230,
+      "text": "dimension and so if i want to continue",
+      "start": 573.279,
+      "duration": 6.24,
+      "end": 579.519
+    },
+    {
+      "index": 231,
+      "text": "off of this baseline here",
+      "start": 577.12,
+      "duration": 4.719,
+      "end": 581.839
+    },
+    {
+      "index": 232,
+      "text": "i would hover over this point and i",
+      "start": 579.519,
+      "duration": 3.281,
+      "end": 582.8
+    },
+    {
+      "index": 233,
+      "text": "would say",
+      "start": 581.839,
+      "duration": 2.641,
+      "end": 584.48
+    },
+    {
+      "index": 234,
+      "text": "baseline dimension",
+      "start": 582.8,
+      "duration": 4.0,
+      "end": 586.8
+    },
+    {
+      "index": 235,
+      "text": "and what it does is to pull all of my",
+      "start": 584.48,
+      "duration": 5.68,
+      "end": 590.16
+    },
+    {
+      "index": 236,
+      "text": "other dimensions off of one baseline so",
+      "start": 586.8,
+      "duration": 5.12,
+      "end": 591.92
+    },
+    {
+      "index": 237,
+      "text": "i can use this to capture the height of",
+      "start": 590.16,
+      "duration": 4.88,
+      "end": 595.04
+    },
+    {
+      "index": 238,
+      "text": "my window the height of this roof here",
+      "start": 591.92,
+      "duration": 4.8,
+      "end": 596.7199999999999
+    },
+    {
+      "index": 239,
+      "text": "maybe the height of that",
+      "start": 595.04,
+      "duration": 4.16,
+      "end": 599.1999999999999
+    },
+    {
+      "index": 240,
+      "text": "the height of that and the height of",
+      "start": 596.72,
+      "duration": 4.559,
+      "end": 601.279
+    },
+    {
+      "index": 241,
+      "text": "that and the height of that and so if",
+      "start": 599.2,
+      "duration": 4.0,
+      "end": 603.2
+    },
+    {
+      "index": 242,
+      "text": "you notice all of these dimensions are",
+      "start": 601.279,
+      "duration": 4.161,
+      "end": 605.4399999999999
+    },
+    {
+      "index": 243,
+      "text": "being pulled from a single",
+      "start": 603.2,
+      "duration": 4.879,
+      "end": 608.0790000000001
+    },
+    {
+      "index": 244,
+      "text": "base line all right so i'm pretty sure",
+      "start": 605.44,
+      "duration": 3.839,
+      "end": 609.2790000000001
+    },
+    {
+      "index": 245,
+      "text": "there are some",
+      "start": 608.079,
+      "duration": 3.841,
+      "end": 611.92
+    },
+    {
+      "index": 246,
+      "text": "instances where you might want to do",
+      "start": 609.279,
+      "duration": 6.161,
+      "end": 615.4399999999999
+    },
+    {
+      "index": 247,
+      "text": "something like this and so that's what",
+      "start": 611.92,
+      "duration": 6.56,
+      "end": 618.4799999999999
+    },
+    {
+      "index": 248,
+      "text": "that does let's move to the next one now",
+      "start": 615.44,
+      "duration": 6.079,
+      "end": 621.519
+    },
+    {
+      "index": 249,
+      "text": "the flip arrow is pretty simple what it",
+      "start": 618.48,
+      "duration": 7.039,
+      "end": 625.519
+    },
+    {
+      "index": 250,
+      "text": "does is to flip your arrows if you are",
+      "start": 621.519,
+      "duration": 6.32,
+      "end": 627.839
+    },
+    {
+      "index": 251,
+      "text": "not comfortable or if you don't like the",
+      "start": 625.519,
+      "duration": 4.641,
+      "end": 630.16
+    },
+    {
+      "index": 252,
+      "text": "way your arrows are looking you can just",
+      "start": 627.839,
+      "duration": 5.601,
+      "end": 633.44
+    },
+    {
+      "index": 253,
+      "text": "flip it like that and you can flip it",
+      "start": 630.16,
+      "duration": 6.48,
+      "end": 636.64
+    },
+    {
+      "index": 254,
+      "text": "back this works better if your arrows",
+      "start": 633.44,
+      "duration": 4.24,
+      "end": 637.6800000000001
+    },
+    {
+      "index": 255,
+      "text": "were",
+      "start": 636.64,
+      "duration": 3.759,
+      "end": 640.399
+    },
+    {
+      "index": 256,
+      "text": "like the literal arrows all right so in",
+      "start": 637.68,
+      "duration": 5.52,
+      "end": 643.1999999999999
+    },
+    {
+      "index": 257,
+      "text": "this case it makes more sense um so in",
+      "start": 640.399,
+      "duration": 4.481,
+      "end": 644.88
+    },
+    {
+      "index": 258,
+      "text": "there are going to be times when you",
+      "start": 643.2,
+      "duration": 3.68,
+      "end": 646.88
+    },
+    {
+      "index": 259,
+      "text": "need to flip your arrow head to look",
+      "start": 644.88,
+      "duration": 3.76,
+      "end": 648.64
+    },
+    {
+      "index": 260,
+      "text": "like that",
+      "start": 646.88,
+      "duration": 4.639,
+      "end": 651.519
+    },
+    {
+      "index": 261,
+      "text": "and so that's what the purpose of that",
+      "start": 648.64,
+      "duration": 6.4,
+      "end": 655.04
+    },
+    {
+      "index": 262,
+      "text": "is for cool so that concludes our second",
+      "start": 651.519,
+      "duration": 5.841,
+      "end": 657.36
+    },
+    {
+      "index": 263,
+      "text": "tip which is all of these function",
+      "start": 655.04,
+      "duration": 5.52,
+      "end": 660.56
+    },
+    {
+      "index": 264,
+      "text": "within the drop down here so the third",
+      "start": 657.36,
+      "duration": 5.599,
+      "end": 662.9590000000001
+    },
+    {
+      "index": 265,
+      "text": "trick that i have for you is related to",
+      "start": 660.56,
+      "duration": 5.44,
+      "end": 666.0
+    },
+    {
+      "index": 266,
+      "text": "spacing now as you can see here uh my",
+      "start": 662.959,
+      "duration": 6.0,
+      "end": 668.959
+    },
+    {
+      "index": 267,
+      "text": "dimensions are not equally spaced out",
+      "start": 666.0,
+      "duration": 5.68,
+      "end": 671.68
+    },
+    {
+      "index": 268,
+      "text": "and so what we want to do usually to",
+      "start": 668.959,
+      "duration": 5.44,
+      "end": 674.399
+    },
+    {
+      "index": 269,
+      "text": "make our drawings neat and nice and",
+      "start": 671.68,
+      "duration": 4.08,
+      "end": 675.76
+    },
+    {
+      "index": 270,
+      "text": "professional",
+      "start": 674.399,
+      "duration": 3.041,
+      "end": 677.44
+    },
+    {
+      "index": 271,
+      "text": "is to make sure that all of our",
+      "start": 675.76,
+      "duration": 4.72,
+      "end": 680.48
+    },
+    {
+      "index": 272,
+      "text": "dimensions are equally spaced how do we",
+      "start": 677.44,
+      "duration": 6.16,
+      "end": 683.6
+    },
+    {
+      "index": 273,
+      "text": "get that done without doing a lot of",
+      "start": 680.48,
+      "duration": 4.88,
+      "end": 685.36
+    },
+    {
+      "index": 274,
+      "text": "work what we can do is to go back to our",
+      "start": 683.6,
+      "duration": 3.76,
+      "end": 687.36
+    },
+    {
+      "index": 275,
+      "text": "annotate tab and underneath your",
+      "start": 685.36,
+      "duration": 4.24,
+      "end": 689.6
+    },
+    {
+      "index": 276,
+      "text": "dimensions drop down you will see",
+      "start": 687.36,
+      "duration": 4.88,
+      "end": 692.24
+    },
+    {
+      "index": 277,
+      "text": "something called dimension spacing and",
+      "start": 689.6,
+      "duration": 4.96,
+      "end": 694.5600000000001
+    },
+    {
+      "index": 278,
+      "text": "so if you click on that and follow the",
+      "start": 692.24,
+      "duration": 5.279,
+      "end": 697.519
+    },
+    {
+      "index": 279,
+      "text": "command prompts here it says here select",
+      "start": 694.56,
+      "duration": 5.279,
+      "end": 699.8389999999999
+    },
+    {
+      "index": 280,
+      "text": "your base dimension and so you want to",
+      "start": 697.519,
+      "duration": 5.601,
+      "end": 703.12
+    },
+    {
+      "index": 281,
+      "text": "select the one that is the base okay and",
+      "start": 699.839,
+      "duration": 6.881,
+      "end": 706.72
+    },
+    {
+      "index": 282,
+      "text": "so of course your inner most dimension",
+      "start": 703.12,
+      "duration": 5.2,
+      "end": 708.32
+    },
+    {
+      "index": 283,
+      "text": "would be the base and so you click on",
+      "start": 706.72,
+      "duration": 4.559,
+      "end": 711.279
+    },
+    {
+      "index": 284,
+      "text": "one of those and um it says here select",
+      "start": 708.32,
+      "duration": 4.959,
+      "end": 713.279
+    },
+    {
+      "index": 285,
+      "text": "the dimensions that you want to be",
+      "start": 711.279,
+      "duration": 4.8,
+      "end": 716.079
+    },
+    {
+      "index": 286,
+      "text": "spaced out and so of course it would be",
+      "start": 713.279,
+      "duration": 5.12,
+      "end": 718.399
+    },
+    {
+      "index": 287,
+      "text": "all of these other ones here",
+      "start": 716.079,
+      "duration": 4.88,
+      "end": 720.959
+    },
+    {
+      "index": 288,
+      "text": "and if you notice i did not select these",
+      "start": 718.399,
+      "duration": 5.601,
+      "end": 724.0
+    },
+    {
+      "index": 289,
+      "text": "ones here because those are already good",
+      "start": 720.959,
+      "duration": 5.68,
+      "end": 726.6389999999999
+    },
+    {
+      "index": 290,
+      "text": "and then we would hit enter",
+      "start": 724.0,
+      "duration": 6.16,
+      "end": 730.16
+    },
+    {
+      "index": 291,
+      "text": "and we just need to give it a distance",
+      "start": 726.639,
+      "duration": 6.401,
+      "end": 733.04
+    },
+    {
+      "index": 292,
+      "text": "and if you want to use the auto you can",
+      "start": 730.16,
+      "duration": 5.52,
+      "end": 735.68
+    },
+    {
+      "index": 293,
+      "text": "but i would prefer to type something in",
+      "start": 733.04,
+      "duration": 5.919,
+      "end": 738.959
+    },
+    {
+      "index": 294,
+      "text": "here so i am going to type maybe 12",
+      "start": 735.68,
+      "duration": 5.92,
+      "end": 741.5999999999999
+    },
+    {
+      "index": 295,
+      "text": "inches i don't know",
+      "start": 738.959,
+      "duration": 3.521,
+      "end": 742.4799999999999
+    },
+    {
+      "index": 296,
+      "text": "boom",
+      "start": 741.6,
+      "duration": 4.08,
+      "end": 745.6800000000001
+    },
+    {
+      "index": 297,
+      "text": "and just like that it equals out the",
+      "start": 742.48,
+      "duration": 5.12,
+      "end": 747.6
+    },
+    {
+      "index": 298,
+      "text": "distances between",
+      "start": 745.68,
+      "duration": 4.64,
+      "end": 750.3199999999999
+    },
+    {
+      "index": 299,
+      "text": "all of my dimensions and so i can see",
+      "start": 747.6,
+      "duration": 5.28,
+      "end": 752.88
+    },
+    {
+      "index": 300,
+      "text": "this being very helpful if you",
+      "start": 750.32,
+      "duration": 6.48,
+      "end": 756.8000000000001
+    },
+    {
+      "index": 301,
+      "text": "had a lot of other dimensions to add",
+      "start": 752.88,
+      "duration": 6.0,
+      "end": 758.88
+    },
+    {
+      "index": 302,
+      "text": "to your drawing so you don't necessarily",
+      "start": 756.8,
+      "duration": 4.479,
+      "end": 761.279
+    },
+    {
+      "index": 303,
+      "text": "have to focus on neatness",
+      "start": 758.88,
+      "duration": 4.72,
+      "end": 763.6
+    },
+    {
+      "index": 304,
+      "text": "because you can just use a command to",
+      "start": 761.279,
+      "duration": 4.481,
+      "end": 765.76
+    },
+    {
+      "index": 305,
+      "text": "get it in the end",
+      "start": 763.6,
+      "duration": 4.88,
+      "end": 768.48
+    },
+    {
+      "index": 306,
+      "text": "so there you have it the next command",
+      "start": 765.76,
+      "duration": 5.6,
+      "end": 771.36
+    },
+    {
+      "index": 307,
+      "text": "that i'll be moving on to is what we",
+      "start": 768.48,
+      "duration": 6.32,
+      "end": 774.8000000000001
+    },
+    {
+      "index": 308,
+      "text": "call dim break okay and so on my",
+      "start": 771.36,
+      "duration": 6.96,
+      "end": 778.32
+    },
+    {
+      "index": 309,
+      "text": "dimensions panel here i do have the icon",
+      "start": 774.8,
+      "duration": 5.52,
+      "end": 780.3199999999999
+    },
+    {
+      "index": 310,
+      "text": "now this is one of those other icons",
+      "start": 778.32,
+      "duration": 4.48,
+      "end": 782.8000000000001
+    },
+    {
+      "index": 311,
+      "text": "that i had to add",
+      "start": 780.32,
+      "duration": 4.959,
+      "end": 785.279
+    },
+    {
+      "index": 312,
+      "text": "into my architectural autocad because it",
+      "start": 782.8,
+      "duration": 5.039,
+      "end": 787.8389999999999
+    },
+    {
+      "index": 313,
+      "text": "wasn't there before um again you can",
+      "start": 785.279,
+      "duration": 4.8,
+      "end": 790.079
+    },
+    {
+      "index": 314,
+      "text": "just type the command that you see there",
+      "start": 787.839,
+      "duration": 4.961,
+      "end": 792.8000000000001
+    },
+    {
+      "index": 315,
+      "text": "dim break and it would work just as you",
+      "start": 790.079,
+      "duration": 4.481,
+      "end": 794.56
+    },
+    {
+      "index": 316,
+      "text": "know just as good",
+      "start": 792.8,
+      "duration": 3.92,
+      "end": 796.7199999999999
+    },
+    {
+      "index": 317,
+      "text": "but i like to have the icon so i can",
+      "start": 794.56,
+      "duration": 4.64,
+      "end": 799.1999999999999
+    },
+    {
+      "index": 318,
+      "text": "actually click on it so how does this",
+      "start": 796.72,
+      "duration": 6.4,
+      "end": 803.12
+    },
+    {
+      "index": 319,
+      "text": "work so this works well where you have",
+      "start": 799.2,
+      "duration": 6.96,
+      "end": 806.1600000000001
+    },
+    {
+      "index": 320,
+      "text": "internal dimensions that are crossing",
+      "start": 803.12,
+      "duration": 6.0,
+      "end": 809.12
+    },
+    {
+      "index": 321,
+      "text": "each other and you would like to have a",
+      "start": 806.16,
+      "duration": 6.0,
+      "end": 812.16
+    },
+    {
+      "index": 322,
+      "text": "little break in the dimension line so",
+      "start": 809.12,
+      "duration": 5.519,
+      "end": 814.639
+    },
+    {
+      "index": 323,
+      "text": "that it doesn't obstruct each other and",
+      "start": 812.16,
+      "duration": 4.56,
+      "end": 816.7199999999999
+    },
+    {
+      "index": 324,
+      "text": "so how do we do that",
+      "start": 814.639,
+      "duration": 4.081,
+      "end": 818.72
+    },
+    {
+      "index": 325,
+      "text": "what we do is to click on the command or",
+      "start": 816.72,
+      "duration": 4.479,
+      "end": 821.1990000000001
+    },
+    {
+      "index": 326,
+      "text": "type the command in the command line and",
+      "start": 818.72,
+      "duration": 5.2,
+      "end": 823.9200000000001
+    },
+    {
+      "index": 327,
+      "text": "it would says select dimension to add or",
+      "start": 821.199,
+      "duration": 4.801,
+      "end": 826.0
+    },
+    {
+      "index": 328,
+      "text": "remove break and so we can select",
+      "start": 823.92,
+      "duration": 4.719,
+      "end": 828.639
+    },
+    {
+      "index": 329,
+      "text": "multiple or in this case i just have one",
+      "start": 826.0,
+      "duration": 4.72,
+      "end": 830.72
+    },
+    {
+      "index": 330,
+      "text": "so i'm gonna select this one here",
+      "start": 828.639,
+      "duration": 5.281,
+      "end": 833.92
+    },
+    {
+      "index": 331,
+      "text": "and then i'm gonna select the object to",
+      "start": 830.72,
+      "duration": 4.96,
+      "end": 835.6800000000001
+    },
+    {
+      "index": 332,
+      "text": "break and so i'm gonna select this guy",
+      "start": 833.92,
+      "duration": 3.919,
+      "end": 837.8389999999999
+    },
+    {
+      "index": 333,
+      "text": "here and i'm gonna hit enter and just",
+      "start": 835.68,
+      "duration": 4.24,
+      "end": 839.92
+    },
+    {
+      "index": 334,
+      "text": "like that you can see that a break has",
+      "start": 837.839,
+      "duration": 4.961,
+      "end": 842.8000000000001
+    },
+    {
+      "index": 335,
+      "text": "been made in the dimension and the cool",
+      "start": 839.92,
+      "duration": 6.479,
+      "end": 846.399
+    },
+    {
+      "index": 336,
+      "text": "thing is that this is smart okay smart",
+      "start": 842.8,
+      "duration": 6.8,
+      "end": 849.5999999999999
+    },
+    {
+      "index": 337,
+      "text": "in the fact that if i should move",
+      "start": 846.399,
+      "duration": 4.56,
+      "end": 850.959
+    },
+    {
+      "index": 338,
+      "text": "this up",
+      "start": 849.6,
+      "duration": 3.919,
+      "end": 853.519
+    },
+    {
+      "index": 339,
+      "text": "or down anywhere along this dimension it",
+      "start": 850.959,
+      "duration": 4.32,
+      "end": 855.279
+    },
+    {
+      "index": 340,
+      "text": "would actually create",
+      "start": 853.519,
+      "duration": 5.601,
+      "end": 859.12
+    },
+    {
+      "index": 341,
+      "text": "that break in that line and so that's",
+      "start": 855.279,
+      "duration": 6.961,
+      "end": 862.24
+    },
+    {
+      "index": 342,
+      "text": "how this works all right pretty cool the",
+      "start": 859.12,
+      "duration": 5.839,
+      "end": 864.9590000000001
+    },
+    {
+      "index": 343,
+      "text": "next one i want to show you guys which",
+      "start": 862.24,
+      "duration": 5.599,
+      "end": 867.839
+    },
+    {
+      "index": 344,
+      "text": "is pretty cool as well is how to get a",
+      "start": 864.959,
+      "duration": 6.0,
+      "end": 870.959
+    },
+    {
+      "index": 345,
+      "text": "fixed extension lines so",
+      "start": 867.839,
+      "duration": 5.36,
+      "end": 873.1990000000001
+    },
+    {
+      "index": 346,
+      "text": "these lines that are running towards the",
+      "start": 870.959,
+      "duration": 5.041,
+      "end": 876.0
+    },
+    {
+      "index": 347,
+      "text": "building or towards the object we call",
+      "start": 873.199,
+      "duration": 4.721,
+      "end": 877.92
+    },
+    {
+      "index": 348,
+      "text": "these extension lines",
+      "start": 876.0,
+      "duration": 4.88,
+      "end": 880.88
+    },
+    {
+      "index": 349,
+      "text": "but what if we want them all to be short",
+      "start": 877.92,
+      "duration": 6.08,
+      "end": 884.0
+    },
+    {
+      "index": 350,
+      "text": "we want them to be at a fixed distance",
+      "start": 880.88,
+      "duration": 5.199,
+      "end": 886.079
+    },
+    {
+      "index": 351,
+      "text": "unlike we're seeing here where this one",
+      "start": 884.0,
+      "duration": 4.079,
+      "end": 888.079
+    },
+    {
+      "index": 352,
+      "text": "is long and then this one is short and",
+      "start": 886.079,
+      "duration": 4.241,
+      "end": 890.3199999999999
+    },
+    {
+      "index": 353,
+      "text": "then you have a little bit longer and",
+      "start": 888.079,
+      "duration": 4.721,
+      "end": 892.8
+    },
+    {
+      "index": 354,
+      "text": "you know you have some shorter ones here",
+      "start": 890.32,
+      "duration": 4.4,
+      "end": 894.72
+    },
+    {
+      "index": 355,
+      "text": "and so what we can do here is to modify",
+      "start": 892.8,
+      "duration": 4.64,
+      "end": 897.4399999999999
+    },
+    {
+      "index": 356,
+      "text": "the dimension properties so let's go",
+      "start": 894.72,
+      "duration": 5.6,
+      "end": 900.32
+    },
+    {
+      "index": 357,
+      "text": "over to home let's go to annotate and",
+      "start": 897.44,
+      "duration": 4.8,
+      "end": 902.24
+    },
+    {
+      "index": 358,
+      "text": "let's click on this icon right here",
+      "start": 900.32,
+      "duration": 3.44,
+      "end": 903.7600000000001
+    },
+    {
+      "index": 359,
+      "text": "dimension style",
+      "start": 902.24,
+      "duration": 3.279,
+      "end": 905.519
+    },
+    {
+      "index": 360,
+      "text": "and this particular dimension we're",
+      "start": 903.76,
+      "duration": 4.639,
+      "end": 908.399
+    },
+    {
+      "index": 361,
+      "text": "going to modify and then we are going to",
+      "start": 905.519,
+      "duration": 5.041,
+      "end": 910.5600000000001
+    },
+    {
+      "index": 362,
+      "text": "go over to lines",
+      "start": 908.399,
+      "duration": 5.12,
+      "end": 913.519
+    },
+    {
+      "index": 363,
+      "text": "right down here we can see where it says",
+      "start": 910.56,
+      "duration": 4.56,
+      "end": 915.1199999999999
+    },
+    {
+      "index": 364,
+      "text": "fixed length",
+      "start": 913.519,
+      "duration": 3.601,
+      "end": 917.12
+    },
+    {
+      "index": 365,
+      "text": "extension lines and so if we click on",
+      "start": 915.12,
+      "duration": 4.32,
+      "end": 919.44
+    },
+    {
+      "index": 366,
+      "text": "this guy here and we put",
+      "start": 917.12,
+      "duration": 4.88,
+      "end": 922.0
+    },
+    {
+      "index": 367,
+      "text": "something in here i don't know what one",
+      "start": 919.44,
+      "duration": 5.6,
+      "end": 925.0400000000001
+    },
+    {
+      "index": 368,
+      "text": "looks like but i'm going to put point",
+      "start": 922.0,
+      "duration": 5.44,
+      "end": 927.44
+    },
+    {
+      "index": 369,
+      "text": "two five okay",
+      "start": 925.04,
+      "duration": 3.84,
+      "end": 928.88
+    },
+    {
+      "index": 370,
+      "text": "close",
+      "start": 927.44,
+      "duration": 3.12,
+      "end": 930.5600000000001
+    },
+    {
+      "index": 371,
+      "text": "all right so there we have it i think",
+      "start": 928.88,
+      "duration": 4.56,
+      "end": 933.4399999999999
+    },
+    {
+      "index": 372,
+      "text": "that looks nicer and so a lot of folks",
+      "start": 930.56,
+      "duration": 5.04,
+      "end": 935.5999999999999
+    },
+    {
+      "index": 373,
+      "text": "like to have their dimensions looking",
+      "start": 933.44,
+      "duration": 3.36,
+      "end": 936.8000000000001
+    },
+    {
+      "index": 374,
+      "text": "like this",
+      "start": 935.6,
+      "duration": 2.56,
+      "end": 938.16
+    },
+    {
+      "index": 375,
+      "text": "which is fine",
+      "start": 936.8,
+      "duration": 4.08,
+      "end": 940.88
+    },
+    {
+      "index": 376,
+      "text": "and then we can stretch them out some",
+      "start": 938.16,
+      "duration": 5.28,
+      "end": 943.4399999999999
+    },
+    {
+      "index": 377,
+      "text": "more and it would look just the same as",
+      "start": 940.88,
+      "duration": 5.12,
+      "end": 946.0
+    },
+    {
+      "index": 378,
+      "text": "they were because all your extension",
+      "start": 943.44,
+      "duration": 5.04,
+      "end": 948.48
+    },
+    {
+      "index": 379,
+      "text": "lines are the same length and the final",
+      "start": 946.0,
+      "duration": 5.6,
+      "end": 951.6
+    },
+    {
+      "index": 380,
+      "text": "tip i have for you is related to",
+      "start": 948.48,
+      "duration": 6.0,
+      "end": 954.48
+    },
+    {
+      "index": 381,
+      "text": "uh this command right here and again",
+      "start": 951.6,
+      "duration": 5.599,
+      "end": 957.1990000000001
+    },
+    {
+      "index": 382,
+      "text": "this is one of those dimension tools",
+      "start": 954.48,
+      "duration": 5.359,
+      "end": 959.839
+    },
+    {
+      "index": 383,
+      "text": "that i added to my panel here because it",
+      "start": 957.199,
+      "duration": 4.801,
+      "end": 962.0
+    },
+    {
+      "index": 384,
+      "text": "wasn't there before",
+      "start": 959.839,
+      "duration": 3.201,
+      "end": 963.0400000000001
+    },
+    {
+      "index": 385,
+      "text": "so",
+      "start": 962.0,
+      "duration": 3.279,
+      "end": 965.279
+    },
+    {
+      "index": 386,
+      "text": "if you don't see it you can just type",
+      "start": 963.04,
+      "duration": 4.799,
+      "end": 967.8389999999999
+    },
+    {
+      "index": 387,
+      "text": "the three letter dim as you can see",
+      "start": 965.279,
+      "duration": 4.881,
+      "end": 970.16
+    },
+    {
+      "index": 388,
+      "text": "right there and it would work just the",
+      "start": 967.839,
+      "duration": 4.8,
+      "end": 972.639
+    },
+    {
+      "index": 389,
+      "text": "same so what this tool does is it is",
+      "start": 970.16,
+      "duration": 5.28,
+      "end": 975.4399999999999
+    },
+    {
+      "index": 390,
+      "text": "like a hybrid of all the other tools",
+      "start": 972.639,
+      "duration": 5.681,
+      "end": 978.32
+    },
+    {
+      "index": 391,
+      "text": "combined and so if you learn to use it",
+      "start": 975.44,
+      "duration": 4.24,
+      "end": 979.6800000000001
+    },
+    {
+      "index": 392,
+      "text": "really well",
+      "start": 978.32,
+      "duration": 3.68,
+      "end": 982.0
+    },
+    {
+      "index": 393,
+      "text": "it can be your one stop shop for",
+      "start": 979.68,
+      "duration": 4.24,
+      "end": 983.92
+    },
+    {
+      "index": 394,
+      "text": "everything so when you click on it here",
+      "start": 982.0,
+      "duration": 4.0,
+      "end": 986.0
+    },
+    {
+      "index": 395,
+      "text": "you you pretty much have angular",
+      "start": 983.92,
+      "duration": 5.359,
+      "end": 989.279
+    },
+    {
+      "index": 396,
+      "text": "dimensions you you have also",
+      "start": 986.0,
+      "duration": 6.24,
+      "end": 992.24
+    },
+    {
+      "index": 397,
+      "text": "linear dimensions if you want linear",
+      "start": 989.279,
+      "duration": 4.961,
+      "end": 994.24
+    },
+    {
+      "index": 398,
+      "text": "um you have",
+      "start": 992.24,
+      "duration": 4.159,
+      "end": 996.399
+    },
+    {
+      "index": 399,
+      "text": "i mean if i escape out of this and i go",
+      "start": 994.24,
+      "duration": 3.2,
+      "end": 997.44
+    },
+    {
+      "index": 400,
+      "text": "again",
+      "start": 996.399,
+      "duration": 4.0,
+      "end": 1000.399
+    },
+    {
+      "index": 401,
+      "text": "i can go angular right from the get go i",
+      "start": 997.44,
+      "duration": 5.44,
+      "end": 1002.8800000000001
+    },
+    {
+      "index": 402,
+      "text": "can you know do baseline right from the",
+      "start": 1000.399,
+      "duration": 6.481,
+      "end": 1006.88
+    },
+    {
+      "index": 403,
+      "text": "get go and so you do have a lot of uh",
+      "start": 1002.88,
+      "duration": 7.28,
+      "end": 1010.16
+    },
+    {
+      "index": 404,
+      "text": "options when using this tool so i'm",
+      "start": 1006.88,
+      "duration": 5.199,
+      "end": 1012.079
+    },
+    {
+      "index": 405,
+      "text": "going to go through a couple of the",
+      "start": 1010.16,
+      "duration": 4.239,
+      "end": 1014.399
+    },
+    {
+      "index": 406,
+      "text": "cool tricks that this one has let's just",
+      "start": 1012.079,
+      "duration": 4.401,
+      "end": 1016.4799999999999
+    },
+    {
+      "index": 407,
+      "text": "say i would like to add the width of",
+      "start": 1014.399,
+      "duration": 4.481,
+      "end": 1018.88
+    },
+    {
+      "index": 408,
+      "text": "this window in this",
+      "start": 1016.48,
+      "duration": 4.88,
+      "end": 1021.36
+    },
+    {
+      "index": 409,
+      "text": "six foot measurement here and i go ahead",
+      "start": 1018.88,
+      "duration": 5.12,
+      "end": 1024.0
+    },
+    {
+      "index": 410,
+      "text": "and i add this guy right in and i move",
+      "start": 1021.36,
+      "duration": 5.599,
+      "end": 1026.959
+    },
+    {
+      "index": 411,
+      "text": "it up and i stop it right on top of that",
+      "start": 1024.0,
+      "duration": 5.039,
+      "end": 1029.039
+    },
+    {
+      "index": 412,
+      "text": "one right away it tells me that",
+      "start": 1026.959,
+      "duration": 5.36,
+      "end": 1032.319
+    },
+    {
+      "index": 413,
+      "text": "something is overlapping and i can break",
+      "start": 1029.039,
+      "duration": 6.64,
+      "end": 1035.679
+    },
+    {
+      "index": 414,
+      "text": "the existing dimension to make it fit",
+      "start": 1032.319,
+      "duration": 4.961,
+      "end": 1037.28
+    },
+    {
+      "index": 415,
+      "text": "perfectly and so that's what i'm gonna",
+      "start": 1035.679,
+      "duration": 4.801,
+      "end": 1040.48
+    },
+    {
+      "index": 416,
+      "text": "do so if i say break as a matter of fact",
+      "start": 1037.28,
+      "duration": 5.279,
+      "end": 1042.559
+    },
+    {
+      "index": 417,
+      "text": "we have another option that says move",
+      "start": 1040.48,
+      "duration": 5.599,
+      "end": 1046.079
+    },
+    {
+      "index": 418,
+      "text": "away so we can move our second dimension",
+      "start": 1042.559,
+      "duration": 6.24,
+      "end": 1048.799
+    },
+    {
+      "index": 419,
+      "text": "away or we can break it so i'm gonna",
+      "start": 1046.079,
+      "duration": 4.561,
+      "end": 1050.6399999999999
+    },
+    {
+      "index": 420,
+      "text": "choose the break option and what that",
+      "start": 1048.799,
+      "duration": 4.641,
+      "end": 1053.44
+    },
+    {
+      "index": 421,
+      "text": "does is to break the six foot dimension",
+      "start": 1050.64,
+      "duration": 5.279,
+      "end": 1055.919
+    },
+    {
+      "index": 422,
+      "text": "into other dimensions and so now you can",
+      "start": 1053.44,
+      "duration": 4.96,
+      "end": 1058.4
+    },
+    {
+      "index": 423,
+      "text": "see that works perfectly",
+      "start": 1055.919,
+      "duration": 5.76,
+      "end": 1061.679
+    },
+    {
+      "index": 424,
+      "text": "um and that only works with this tool",
+      "start": 1058.4,
+      "duration": 4.08,
+      "end": 1062.48
+    },
+    {
+      "index": 425,
+      "text": "okay",
+      "start": 1061.679,
+      "duration": 3.12,
+      "end": 1064.799
+    },
+    {
+      "index": 426,
+      "text": "so there are some really cool features",
+      "start": 1062.48,
+      "duration": 4.559,
+      "end": 1067.039
+    },
+    {
+      "index": 427,
+      "text": "when using that so i would encourage you",
+      "start": 1064.799,
+      "duration": 4.641,
+      "end": 1069.44
+    },
+    {
+      "index": 428,
+      "text": "to go ahead and test these out",
+      "start": 1067.039,
+      "duration": 5.121,
+      "end": 1072.16
+    },
+    {
+      "index": 429,
+      "text": "and see if they work within your",
+      "start": 1069.44,
+      "duration": 5.44,
+      "end": 1074.88
+    },
+    {
+      "index": 430,
+      "text": "workflow and you know make use of them",
+      "start": 1072.16,
+      "duration": 5.04,
+      "end": 1077.2
+    },
+    {
+      "index": 431,
+      "text": "yeah definitely okay so that's where",
+      "start": 1074.88,
+      "duration": 4.72,
+      "end": 1079.6000000000001
+    },
+    {
+      "index": 432,
+      "text": "we're gonna stop this video for today",
+      "start": 1077.2,
+      "duration": 4.719,
+      "end": 1081.919
+    },
+    {
+      "index": 433,
+      "text": "and guess what if you are even looking",
+      "start": 1079.6,
+      "duration": 5.04,
+      "end": 1084.6399999999999
+    },
+    {
+      "index": 434,
+      "text": "for a faster way to add the dimensions",
+      "start": 1081.919,
+      "duration": 5.681,
+      "end": 1087.6000000000001
+    },
+    {
+      "index": 435,
+      "text": "to your drawing i have a video that",
+      "start": 1084.64,
+      "duration": 5.2,
+      "end": 1089.8400000000001
+    },
+    {
+      "index": 436,
+      "text": "shows you how to do that with one or",
+      "start": 1087.6,
+      "duration": 4.72,
+      "end": 1092.32
+    },
+    {
+      "index": 437,
+      "text": "maybe two clicks adding a lot of",
+      "start": 1089.84,
+      "duration": 3.76,
+      "end": 1093.6
+    },
+    {
+      "index": 438,
+      "text": "dimensions",
+      "start": 1092.32,
+      "duration": 3.44,
+      "end": 1095.76
+    },
+    {
+      "index": 439,
+      "text": "really fast and so i'm gonna be dropping",
+      "start": 1093.6,
+      "duration": 5.52,
+      "end": 1099.12
+    },
+    {
+      "index": 440,
+      "text": "that video right up there so definitely",
+      "start": 1095.76,
+      "duration": 5.76,
+      "end": 1101.52
+    },
+    {
+      "index": 441,
+      "text": "check that out when you get the chance",
+      "start": 1099.12,
+      "duration": 4.24,
+      "end": 1103.36
+    },
+    {
+      "index": 442,
+      "text": "and uh yeah thank you for watching and",
+      "start": 1101.52,
+      "duration": 3.2,
+      "end": 1104.72
+    },
+    {
+      "index": 443,
+      "text": "if you learned something hit that",
+      "start": 1103.36,
+      "duration": 3.199,
+      "end": 1106.559
+    },
+    {
+      "index": 444,
+      "text": "subscribe button if you haven't done so",
+      "start": 1104.72,
+      "duration": 4.24,
+      "end": 1108.96
+    },
+    {
+      "index": 445,
+      "text": "already uh hit the like button and drop",
+      "start": 1106.559,
+      "duration": 4.081,
+      "end": 1110.6399999999999
+    },
+    {
+      "index": 446,
+      "text": "your comments and your thoughts in the",
+      "start": 1108.96,
+      "duration": 4.0,
+      "end": 1112.96
+    },
+    {
+      "index": 447,
+      "text": "comments section below make up to the",
+      "start": 1110.64,
+      "duration": 5.039,
+      "end": 1115.679
+    },
+    {
+      "index": 448,
+      "text": "patrons on my patreon page appreciate",
+      "start": 1112.96,
+      "duration": 7.44,
+      "end": 1120.4
+    },
+    {
+      "index": 449,
+      "text": "you all see you guys in the next video",
+      "start": 1115.679,
+      "duration": 4.721,
+      "end": 1120.4
+    }
+  ],
+  "full_text": "hello everybody welcome back to another video on the channel today i would like to show you guys five autocad dimensioning tips that i think will be helpful for you especially if you are doing a lot of documentation and you are required to use a lot of dimensioning and stuff like that and so some of the tips that i will show you today will help you to move a little bit faster i'm pretty sure many of you are familiar with some of the tricks that i'm gonna be showing you here they're not even tricks but just ways of doing things but there may be others that you are not yet familiar with definitely stick around to the end of the video because there's one particular tool that is very unique and i would like to show you guys what that is all about so without further ado remember to subscribe like and the notification and all that instagram twitter boom bang patreon let's go [Music] all right everybody so here we are in autocad architecture 2023 and of course i know many of you don't have the 2023 as yet but don't worry all the commands and the steps that i'm gonna show you in this video can be applied to your version i'm i'm pretty sure of that and so no need to worry no need to fret um of course the interface that i'm using might look a little bit different plus i'm also using windows 11 so things might look a little different but it should be the same thing once you follow the steps all right now before i jump into the first tip that i have for you i want to mention that i do have a three-part video on annotations and dimensions in general how you should scale them properly how you get them to look pretty on your sheets and so if that is something you're interested in and you haven't seen those videos as yet i'm going to be posting them in the description below so at the end of this video i encourage you to go ahead and check those out there are some pretty good gems over there so i'm pretty sure you're gonna learn something also i'll be using this little model here for today's presentation and of course if you want to download this particular project i have dropped it over on patreon so you can check that out i have also posted additional models like this one over there plus some other stuff so if you're interested in that then check that out all right so with that all out of the way let's jump into the first tip that i have for you so the first tip i'm gonna talk about here which is probably the most important one when adding dimensions and i'm sure many of you would have known about this one already which is to create a dedicated layer for your dimensions that's like standard now so if i go to home you can see that my current layer right now is the zero layer you don't ever want to add dimensions to your zero layer okay what we need to do is to go to our layer properties and we need to create a layer for dimensions okay now there are many ways we can do this but i'm going to be showing you the easiest method so what we're going to do is type the command dim layer and as you can see here it pops up here i'm gonna click on it as you can see in the brackets here it says dimensions are being added to the current layer so anything that you have current is what your dimensions will be added to but if we type a new name in this command line then a new layer will be created for all our dimensions so let's go ahead and type g dash ano dash dims now before i press enter if you had created a layer before and you want to use that layer then you would type the name of that layer in here okay so let's hit enter and what that does is to create a new layer in here for us that is called where is it okay so we're not seeing it as yet and i know why i think it's because we have not added a dimension as yet so let's go ahead and click on this guy here and i'm going to add a dimension from here to here and i'm going to pull it out click and if i highlight this dimension you can see that it is now using the g and dimms layer which is the one that we've just created so let's go back to our layer properties and now it should be available here we go all right and what i want to do here is to change the color from white to maybe this guy here i'm going to hit ok and the second thing i'm gonna do is to change the line weight from what it is to just maybe about 0.18 and that's that so now i have a layer dedicated for dimensions and if you notice when i deselect off of the dimension it switches back to the default layer however when i need to add a dimension it will always be added to my new layer so let's add another one and see if that actually works and as you can see it works all right so that's the first important step you need to take now if you're using the regular autocad the that the one that is not the architecture version if you go over to annotate you will see a drop down that does the same thing okay so if you click on that drop down i can pretty much select any of the layers that i would like to make my default dimension layer so as you can see there it has already been selected now the reason you're seeing this drop down in my architecture version is because i went in and i finesse around with the user interface and got it in here because i'm like why wasn't it in here in the first place but um for some reason the architectural version of autocad does not have it there so i had to add it in here all right if you want me to do a video on that definitely drop your comments you know drop a like let me know if you want me to show you guys how to modify your user interface all right so let's jump into the second tip that i have for you and that is right in front of your face if you haven't seen it as yet you're going to learn about it today all right so when you highlight a dimension you hover over each uh end point here and you get some options all right and so i'm gonna be going through what all of these options do and so let's click on the first one which is a stretch command and what that does is pretty straightforward you can use it to move your uh dimension in either direction and that is pretty similar to uh just as clicking on the end point there and move it so that's nothing new but one other one that is very useful would be the second option so in a case like this where we have a lot of dimensions already added and we want to move them all at the same time we can use the stretch dimension group okay and what that does is allow us to move all of our strings of dimensions together okay and this is very helpful because i remember when i had to move all of these one by one or two by two and it was a pain okay so this is really helpful to stretch all of your dimensions at once and then we have the third one which is the continue dimension which is very similar to this button right here it's actually the same thing and also if you right click you normally would have the continue option here but i don't use those option anymore because i have it right here and so if i wanted to add some extra dimensions to capture this column right here what i would do is to hover over that end point in the direction that i want to go and i would say continue and now i can add some extra dimensions here and here just like that i can do the same thing with this one here continue and i'll add another one here okay and just to top things off i'm gonna just grab this one here and i'm gonna just drag it up and move it up just to make the overall distance um make more sense all right so that's another neat trick right there that we can use to just continue dimensions all right now we have the baseline dimension which i think would be helpful if we were to do this on an elevation view okay so here is an elevation view of the same building that we are looking at and so the baseline dimension comes in really helpful uh if you were to have a dimension that is coming off of a baseline so let me show you what that looks like all right so i'm going to be adding the first dimension here which would be you know the first dimension and so if i want to continue off of this baseline here i would hover over this point and i would say baseline dimension and what it does is to pull all of my other dimensions off of one baseline so i can use this to capture the height of my window the height of this roof here maybe the height of that the height of that and the height of that and the height of that and so if you notice all of these dimensions are being pulled from a single base line all right so i'm pretty sure there are some instances where you might want to do something like this and so that's what that does let's move to the next one now the flip arrow is pretty simple what it does is to flip your arrows if you are not comfortable or if you don't like the way your arrows are looking you can just flip it like that and you can flip it back this works better if your arrows were like the literal arrows all right so in this case it makes more sense um so in there are going to be times when you need to flip your arrow head to look like that and so that's what the purpose of that is for cool so that concludes our second tip which is all of these function within the drop down here so the third trick that i have for you is related to spacing now as you can see here uh my dimensions are not equally spaced out and so what we want to do usually to make our drawings neat and nice and professional is to make sure that all of our dimensions are equally spaced how do we get that done without doing a lot of work what we can do is to go back to our annotate tab and underneath your dimensions drop down you will see something called dimension spacing and so if you click on that and follow the command prompts here it says here select your base dimension and so you want to select the one that is the base okay and so of course your inner most dimension would be the base and so you click on one of those and um it says here select the dimensions that you want to be spaced out and so of course it would be all of these other ones here and if you notice i did not select these ones here because those are already good and then we would hit enter and we just need to give it a distance and if you want to use the auto you can but i would prefer to type something in here so i am going to type maybe 12 inches i don't know boom and just like that it equals out the distances between all of my dimensions and so i can see this being very helpful if you had a lot of other dimensions to add to your drawing so you don't necessarily have to focus on neatness because you can just use a command to get it in the end so there you have it the next command that i'll be moving on to is what we call dim break okay and so on my dimensions panel here i do have the icon now this is one of those other icons that i had to add into my architectural autocad because it wasn't there before um again you can just type the command that you see there dim break and it would work just as you know just as good but i like to have the icon so i can actually click on it so how does this work so this works well where you have internal dimensions that are crossing each other and you would like to have a little break in the dimension line so that it doesn't obstruct each other and so how do we do that what we do is to click on the command or type the command in the command line and it would says select dimension to add or remove break and so we can select multiple or in this case i just have one so i'm gonna select this one here and then i'm gonna select the object to break and so i'm gonna select this guy here and i'm gonna hit enter and just like that you can see that a break has been made in the dimension and the cool thing is that this is smart okay smart in the fact that if i should move this up or down anywhere along this dimension it would actually create that break in that line and so that's how this works all right pretty cool the next one i want to show you guys which is pretty cool as well is how to get a fixed extension lines so these lines that are running towards the building or towards the object we call these extension lines but what if we want them all to be short we want them to be at a fixed distance unlike we're seeing here where this one is long and then this one is short and then you have a little bit longer and you know you have some shorter ones here and so what we can do here is to modify the dimension properties so let's go over to home let's go to annotate and let's click on this icon right here dimension style and this particular dimension we're going to modify and then we are going to go over to lines right down here we can see where it says fixed length extension lines and so if we click on this guy here and we put something in here i don't know what one looks like but i'm going to put point two five okay close all right so there we have it i think that looks nicer and so a lot of folks like to have their dimensions looking like this which is fine and then we can stretch them out some more and it would look just the same as they were because all your extension lines are the same length and the final tip i have for you is related to uh this command right here and again this is one of those dimension tools that i added to my panel here because it wasn't there before so if you don't see it you can just type the three letter dim as you can see right there and it would work just the same so what this tool does is it is like a hybrid of all the other tools combined and so if you learn to use it really well it can be your one stop shop for everything so when you click on it here you you pretty much have angular dimensions you you have also linear dimensions if you want linear um you have i mean if i escape out of this and i go again i can go angular right from the get go i can you know do baseline right from the get go and so you do have a lot of uh options when using this tool so i'm going to go through a couple of the cool tricks that this one has let's just say i would like to add the width of this window in this six foot measurement here and i go ahead and i add this guy right in and i move it up and i stop it right on top of that one right away it tells me that something is overlapping and i can break the existing dimension to make it fit perfectly and so that's what i'm gonna do so if i say break as a matter of fact we have another option that says move away so we can move our second dimension away or we can break it so i'm gonna choose the break option and what that does is to break the six foot dimension into other dimensions and so now you can see that works perfectly um and that only works with this tool okay so there are some really cool features when using that so i would encourage you to go ahead and test these out and see if they work within your workflow and you know make use of them yeah definitely okay so that's where we're gonna stop this video for today and guess what if you are even looking for a faster way to add the dimensions to your drawing i have a video that shows you how to do that with one or maybe two clicks adding a lot of dimensions really fast and so i'm gonna be dropping that video right up there so definitely check that out when you get the chance and uh yeah thank you for watching and if you learned something hit that subscribe button if you haven't done so already uh hit the like button and drop your comments and your thoughts in the comments section below make up to the patrons on my patreon page appreciate you all see you guys in the next video",
+  "total_segments": 450,
+  "total_duration": 1120.4,
+  "extraction_timestamp": "2025-07-11T17:59:51.984139",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

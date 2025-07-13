@@ -1,0 +1,256 @@
+{
+  "video_id": "nuIJj89C-sA",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Welcome in this exercise we're going to look at how to convert line working to intelligent",
+      "start": 0.0,
+      "end": 7.12,
+      "duration": 7.12
+    },
+    {
+      "index": 1,
+      "text": "walls using the AutoCAD architecture tools.",
+      "start": 7.12,
+      "end": 11.0,
+      "duration": 3.88
+    },
+    {
+      "index": 2,
+      "text": "Looking at this sample floor plan that we have sketched up in AutoCAD, we can take the",
+      "start": 11.0,
+      "end": 19.240000000000002,
+      "duration": 8.240000000000002
+    },
+    {
+      "index": 3,
+      "text": "AutoCAD architecture toolset and the advantages of applying the create a wall object from",
+      "start": 19.240000000000002,
+      "end": 27.44,
+      "duration": 8.2
+    },
+    {
+      "index": 4,
+      "text": "the two pallets.",
+      "start": 27.44,
+      "end": 29.080000000000002,
+      "duration": 1.6400000000000006
+    },
+    {
+      "index": 5,
+      "text": "So if you right click on it and you choose to apply properties to line work, you can then",
+      "start": 29.080000000000002,
+      "end": 36.04,
+      "duration": 6.959999999999997
+    },
+    {
+      "index": 6,
+      "text": "select the line work that is sketched up.",
+      "start": 36.04,
+      "end": 39.44,
+      "duration": 3.3999999999999986
+    },
+    {
+      "index": 7,
+      "text": "This example I'm going to select my AutoParementer walls and all the load bearing walls in this",
+      "start": 39.44,
+      "end": 45.72,
+      "duration": 6.280000000000001
+    },
+    {
+      "index": 8,
+      "text": "floor plan and I'm going to confirm my selection with the ender key.",
+      "start": 45.72,
+      "end": 52.96,
+      "duration": 7.240000000000002
+    },
+    {
+      "index": 9,
+      "text": "And the first prompt that I get is to erase the layout or the tree which means if you",
+      "start": 52.96,
+      "end": 59.4,
+      "duration": 6.439999999999998
+    },
+    {
+      "index": 10,
+      "text": "would like to erase the line work that you just selected.",
+      "start": 59.4,
+      "end": 63.4,
+      "duration": 4.0
+    },
+    {
+      "index": 11,
+      "text": "So the default option is no which means to keep the line work and this is what I'm going",
+      "start": 63.4,
+      "end": 69.96000000000001,
+      "duration": 6.560000000000009
+    },
+    {
+      "index": 12,
+      "text": "to choose in this example.",
+      "start": 69.96000000000001,
+      "end": 72.8,
+      "duration": 2.839999999999989
+    },
+    {
+      "index": 13,
+      "text": "And now I can see that my walls have been created however the justification of the",
+      "start": 72.8,
+      "end": 77.96000000000001,
+      "duration": 5.160000000000011
+    },
+    {
+      "index": 14,
+      "text": "walls is still in the middle.",
+      "start": 77.96,
+      "end": 80.88,
+      "duration": 2.9200000000000017
+    },
+    {
+      "index": 15,
+      "text": "So right in the middle of the line work I have selected and I would like to adjust it",
+      "start": 80.88,
+      "end": 86.8,
+      "duration": 5.920000000000002
+    },
+    {
+      "index": 16,
+      "text": "to the left.",
+      "start": 86.8,
+      "end": 88.11999999999999,
+      "duration": 1.3199999999999932
+    },
+    {
+      "index": 17,
+      "text": "So it goes from the AutoParementer of my walls to the inner wall.",
+      "start": 88.11999999999999,
+      "end": 93.47999999999999,
+      "duration": 5.359999999999999
+    },
+    {
+      "index": 18,
+      "text": "And also I would like to adjust my wall width to 300 units as my floor plan has been designed",
+      "start": 93.47999999999999,
+      "end": 102.6,
+      "duration": 9.120000000000005
+    },
+    {
+      "index": 19,
+      "text": "to be 300 unit tick walls for all the load bearing walls.",
+      "start": 102.6,
+      "end": 110.55999999999999,
+      "duration": 7.959999999999994
+    },
+    {
+      "index": 20,
+      "text": "And then I can switch to the isometric view and apply the realistic view style to see",
+      "start": 110.55999999999999,
+      "end": 120.0,
+      "duration": 9.440000000000012
+    },
+    {
+      "index": 21,
+      "text": "how my line work has been converted.",
+      "start": 120.0,
+      "end": 125.47999999999999,
+      "duration": 5.47999999999999
+    },
+    {
+      "index": 22,
+      "text": "And also the advantages of in the AutoParementer architecture tool set is that it comes with",
+      "start": 125.48,
+      "end": 131.96,
+      "duration": 6.480000000000004
+    },
+    {
+      "index": 23,
+      "text": "a minority of industry standard wall styles that I can choose from my style's browser.",
+      "start": 131.96,
+      "end": 143.72,
+      "duration": 11.759999999999991
+    },
+    {
+      "index": 24,
+      "text": "Once my style's browser is loaded I can then go ahead and apply a particular wall style",
+      "start": 143.72,
+      "end": 151.64000000000001,
+      "duration": 7.920000000000016
+    },
+    {
+      "index": 25,
+      "text": "or I can also search for style.",
+      "start": 151.64,
+      "end": 154.95999999999998,
+      "duration": 3.319999999999993
+    },
+    {
+      "index": 26,
+      "text": "In this example I'm going to search for brick for brick wall.",
+      "start": 154.95999999999998,
+      "end": 167.11999999999998,
+      "duration": 12.159999999999997
+    },
+    {
+      "index": 27,
+      "text": "And as you can see here we have a variety of different brick walls.",
+      "start": 167.11999999999998,
+      "end": 170.95999999999998,
+      "duration": 3.8400000000000034
+    },
+    {
+      "index": 28,
+      "text": "So in my example I'm going to choose this style here and I'm using the QuickSelect option",
+      "start": 170.95999999999998,
+      "end": 179.48,
+      "duration": 8.52000000000001
+    },
+    {
+      "index": 29,
+      "text": "to filter out the entire drawing on the walls that I have just created.",
+      "start": 179.48,
+      "end": 188.04,
+      "duration": 8.560000000000002
+    },
+    {
+      "index": 30,
+      "text": "And I'm going to right click on the wall style that I would like to apply for this selection.",
+      "start": 188.04,
+      "end": 195.28,
+      "duration": 7.240000000000009
+    },
+    {
+      "index": 31,
+      "text": "So once I have applied the desired wall style I can then again go into an isometric view",
+      "start": 195.28,
+      "end": 204.44,
+      "duration": 9.159999999999997
+    },
+    {
+      "index": 32,
+      "text": "and easily verify how my walls with all the materials have been created.",
+      "start": 204.44,
+      "end": 211.8,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 33,
+      "text": "Thank you for watching this demonstration.",
+      "start": 211.8,
+      "end": 213.52,
+      "duration": 1.7199999999999989
+    }
+  ],
+  "full_text": "Welcome in this exercise we're going to look at how to convert line working to intelligent walls using the AutoCAD architecture tools. Looking at this sample floor plan that we have sketched up in AutoCAD, we can take the AutoCAD architecture toolset and the advantages of applying the create a wall object from the two pallets. So if you right click on it and you choose to apply properties to line work, you can then select the line work that is sketched up. This example I'm going to select my AutoParementer walls and all the load bearing walls in this floor plan and I'm going to confirm my selection with the ender key. And the first prompt that I get is to erase the layout or the tree which means if you would like to erase the line work that you just selected. So the default option is no which means to keep the line work and this is what I'm going to choose in this example. And now I can see that my walls have been created however the justification of the walls is still in the middle. So right in the middle of the line work I have selected and I would like to adjust it to the left. So it goes from the AutoParementer of my walls to the inner wall. And also I would like to adjust my wall width to 300 units as my floor plan has been designed to be 300 unit tick walls for all the load bearing walls. And then I can switch to the isometric view and apply the realistic view style to see how my line work has been converted. And also the advantages of in the AutoParementer architecture tool set is that it comes with a minority of industry standard wall styles that I can choose from my style's browser. Once my style's browser is loaded I can then go ahead and apply a particular wall style or I can also search for style. In this example I'm going to search for brick for brick wall. And as you can see here we have a variety of different brick walls. So in my example I'm going to choose this style here and I'm using the QuickSelect option to filter out the entire drawing on the walls that I have just created. And I'm going to right click on the wall style that I would like to apply for this selection. So once I have applied the desired wall style I can then again go into an isometric view and easily verify how my walls with all the materials have been created. Thank you for watching this demonstration.",
+  "total_segments": 34,
+  "total_duration": 213.52,
+  "extraction_timestamp": "2025-07-11T23:02:50.698125",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "base"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high"
+}

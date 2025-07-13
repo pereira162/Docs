@@ -1,0 +1,3287 @@
+{
+  "video_id": "ff89oHwvNsM",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "All right, welcome everyone.",
+      "start": 0.0,
+      "end": 2.16,
+      "duration": 2.16
+    },
+    {
+      "index": 1,
+      "text": "Today is all about tool pallets.",
+      "start": 2.16,
+      "end": 4.64,
+      "duration": 2.4799999999999995
+    },
+    {
+      "index": 2,
+      "text": "Real quick, those of you who are first timers here,",
+      "start": 4.64,
+      "end": 7.44,
+      "duration": 2.8000000000000007
+    },
+    {
+      "index": 3,
+      "text": "or those of you who have not seen or heard me before,",
+      "start": 7.44,
+      "end": 10.4,
+      "duration": 2.96
+    },
+    {
+      "index": 4,
+      "text": "I've got over 36 years of experience in AutoCAD across multiple industry",
+      "start": 10.4,
+      "end": 14.24,
+      "duration": 3.84
+    },
+    {
+      "index": 5,
+      "text": "segments.",
+      "start": 14.24,
+      "end": 15.280000000000001,
+      "duration": 1.040000000000001
+    },
+    {
+      "index": 6,
+      "text": "I'm currently one of our senior support specialists here",
+      "start": 15.280000000000001,
+      "end": 17.76,
+      "duration": 2.4800000000000004
+    },
+    {
+      "index": 7,
+      "text": "in our technical support groups.",
+      "start": 17.76,
+      "end": 19.28,
+      "duration": 1.5199999999999996
+    },
+    {
+      "index": 8,
+      "text": "So if you have a contract with us and you call in for support,",
+      "start": 19.28,
+      "end": 22.400000000000002,
+      "duration": 3.120000000000001
+    },
+    {
+      "index": 9,
+      "text": "there's a good chance you can get me.",
+      "start": 22.400000000000002,
+      "end": 23.68,
+      "duration": 1.2799999999999976
+    },
+    {
+      "index": 10,
+      "text": "I've taught AutoCAD as a certified instructor",
+      "start": 23.68,
+      "end": 26.8,
+      "duration": 3.120000000000001
+    },
+    {
+      "index": 11,
+      "text": "as a matter of fact, I'm teaching civil 3D next week for four days.",
+      "start": 26.8,
+      "end": 29.84,
+      "duration": 3.039999999999999
+    },
+    {
+      "index": 12,
+      "text": "I've got more than 15 years in CAD management, eight years in cruise ship building,",
+      "start": 30.48,
+      "end": 34.32,
+      "duration": 3.84
+    },
+    {
+      "index": 13,
+      "text": "five years supporting civil surveillance gate architecture.",
+      "start": 34.32,
+      "end": 38.72,
+      "duration": 4.399999999999999
+    },
+    {
+      "index": 14,
+      "text": "Pretty much run the gamut, the only thing I haven't really done is aerospace",
+      "start": 38.72,
+      "end": 42.32,
+      "duration": 3.6000000000000014
+    },
+    {
+      "index": 15,
+      "text": "and automotive engineering or drafting.",
+      "start": 42.32,
+      "end": 45.92,
+      "duration": 3.6000000000000014
+    },
+    {
+      "index": 16,
+      "text": "And I have a bachelor's in business management and master's",
+      "start": 45.92,
+      "end": 48.480000000000004,
+      "duration": 2.5600000000000023
+    },
+    {
+      "index": 17,
+      "text": "an organizational management.",
+      "start": 48.480000000000004,
+      "end": 49.84,
+      "duration": 1.3599999999999994
+    },
+    {
+      "index": 18,
+      "text": "So today's agenda, we're going to cover what is a tool pallet?",
+      "start": 51.04,
+      "end": 54.32,
+      "duration": 3.280000000000001
+    },
+    {
+      "index": 19,
+      "text": "What you can put in a tool pallet,",
+      "start": 54.32,
+      "end": 56.0,
+      "duration": 1.6799999999999997
+    },
+    {
+      "index": 20,
+      "text": "customers and creating tool pallets, how you share tool pallets to single users,",
+      "start": 56.0,
+      "end": 61.44,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 21,
+      "text": "multi-users to a common location.",
+      "start": 61.44,
+      "end": 63.36,
+      "duration": 1.9200000000000017
+    },
+    {
+      "index": 22,
+      "text": "This is a common one we run across and I've got some bonus items at the end here",
+      "start": 63.36,
+      "end": 67.04,
+      "duration": 3.680000000000007
+    },
+    {
+      "index": 23,
+      "text": "that we're going to talk about.",
+      "start": 67.04,
+      "end": 68.0,
+      "duration": 0.9599999999999937
+    },
+    {
+      "index": 24,
+      "text": "So let's get right into this.",
+      "start": 69.68,
+      "end": 71.12,
+      "duration": 1.4399999999999977
+    },
+    {
+      "index": 25,
+      "text": "So what is a tool pallet?",
+      "start": 71.12,
+      "end": 72.24000000000001,
+      "duration": 1.1200000000000045
+    },
+    {
+      "index": 26,
+      "text": "Tool pallet is used to organize tools that range from blocks to commands,",
+      "start": 72.24000000000001,
+      "end": 75.92,
+      "duration": 3.6799999999999926
+    },
+    {
+      "index": 27,
+      "text": "hatch patterns, pretty much anything.",
+      "start": 75.92,
+      "end": 77.68,
+      "duration": 1.7600000000000051
+    },
+    {
+      "index": 28,
+      "text": "And are displayed as part of the tool pallets window.",
+      "start": 78.56,
+      "end": 81.03999999999999,
+      "duration": 2.4799999999999898
+    },
+    {
+      "index": 29,
+      "text": "You can customize tool pallets by dragging and dropping files from windows,",
+      "start": 81.03999999999999,
+      "end": 84.24000000000001,
+      "duration": 3.200000000000017
+    },
+    {
+      "index": 30,
+      "text": "explore file explorer, objects from a drawing area,",
+      "start": 84.24,
+      "end": 87.52,
+      "duration": 3.280000000000001
+    },
+    {
+      "index": 31,
+      "text": "contextual menus of a tool pallet window,",
+      "start": 87.52,
+      "end": 90.0,
+      "duration": 2.480000000000004
+    },
+    {
+      "index": 32,
+      "text": "customize your CYU, your customizable user interface editor,",
+      "start": 90.0,
+      "end": 94.8,
+      "duration": 4.799999999999997
+    },
+    {
+      "index": 33,
+      "text": "or the customized dialog box.",
+      "start": 94.8,
+      "end": 96.8,
+      "duration": 2.0
+    },
+    {
+      "index": 34,
+      "text": "Each tool pallet that is created represents a tab on the tool pallets window.",
+      "start": 96.8,
+      "end": 100.63999999999999,
+      "duration": 3.839999999999989
+    },
+    {
+      "index": 35,
+      "text": "The default folder to store tool pallets is percent",
+      "start": 101.36,
+      "end": 104.88,
+      "duration": 3.519999999999996
+    },
+    {
+      "index": 36,
+      "text": "update a percent that takes you to c colon backslash users, backslash your user name,",
+      "start": 104.88,
+      "end": 110.0,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 37,
+      "text": "backslash, update a backslash roaming.",
+      "start": 110.08,
+      "end": 113.12,
+      "duration": 3.0400000000000063
+    },
+    {
+      "index": 38,
+      "text": "So rather than type all that out you could just put percent update a percent,",
+      "start": 113.76,
+      "end": 117.28,
+      "duration": 3.519999999999996
+    },
+    {
+      "index": 39,
+      "text": "they'll take you right to the roaming folder.",
+      "start": 117.28,
+      "end": 119.44,
+      "duration": 2.1599999999999966
+    },
+    {
+      "index": 40,
+      "text": "Under Autodesk, your product name, your release your language,",
+      "start": 119.44,
+      "end": 122.72,
+      "duration": 3.280000000000001
+    },
+    {
+      "index": 41,
+      "text": "and then support tool pallets or pallets.",
+      "start": 122.72,
+      "end": 126.56,
+      "duration": 3.8400000000000034
+    },
+    {
+      "index": 42,
+      "text": "And I'll show you where this location is.",
+      "start": 127.36,
+      "end": 129.2,
+      "duration": 1.8399999999999892
+    },
+    {
+      "index": 43,
+      "text": "Right, so if we drag this over here, I can come here.",
+      "start": 130.8,
+      "end": 133.68,
+      "duration": 2.8799999999999955
+    },
+    {
+      "index": 44,
+      "text": "I can go percent, app, data percent.",
+      "start": 133.68,
+      "end": 137.44,
+      "duration": 3.759999999999991
+    },
+    {
+      "index": 45,
+      "text": "I go to my Autodesk folder and you'll see here's all the stuff I have installed.",
+      "start": 138.4,
+      "end": 143.2,
+      "duration": 4.799999999999983
+    },
+    {
+      "index": 46,
+      "text": "We'll go AutoCAD 2023.",
+      "start": 143.2,
+      "end": 145.68,
+      "duration": 2.480000000000018
+    },
+    {
+      "index": 47,
+      "text": "Here's my R version.",
+      "start": 145.68,
+      "end": 147.44,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 48,
+      "text": "Here's ENU for language.",
+      "start": 147.44,
+      "end": 148.8,
+      "duration": 1.3600000000000136
+    },
+    {
+      "index": 49,
+      "text": "And if we come to support, and here is my tool pallet location.",
+      "start": 149.92,
+      "end": 154.88,
+      "duration": 4.960000000000008
+    },
+    {
+      "index": 50,
+      "text": "So there's my tool pallet and here's where the individual pallets are located.",
+      "start": 156.07999999999998,
+      "end": 159.6,
+      "duration": 3.5200000000000102
+    },
+    {
+      "index": 51,
+      "text": "So I want to make sure you guys knew that.",
+      "start": 159.6,
+      "end": 161.36,
+      "duration": 1.7600000000000193
+    },
+    {
+      "index": 52,
+      "text": "So what can you put into a tool pallet?",
+      "start": 163.52,
+      "end": 166.0,
+      "duration": 2.4799999999999898
+    },
+    {
+      "index": 53,
+      "text": "Well, pretty much anything.",
+      "start": 166.0,
+      "end": 167.68,
+      "duration": 1.6800000000000068
+    },
+    {
+      "index": 54,
+      "text": "You can put AutoCAD commands.",
+      "start": 167.68,
+      "end": 169.44,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 55,
+      "text": "You can put blocks.",
+      "start": 169.44,
+      "end": 170.32,
+      "duration": 0.8799999999999955
+    },
+    {
+      "index": 56,
+      "text": "And you're not actually putting a block in there.",
+      "start": 171.52,
+      "end": 173.28,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 57,
+      "text": "You're putting a pointer to a block.",
+      "start": 173.28,
+      "end": 174.96,
+      "duration": 1.6800000000000068
+    },
+    {
+      "index": 58,
+      "text": "So it's a quick way of holding onto your standards and or common things you use most often.",
+      "start": 174.96,
+      "end": 180.88,
+      "duration": 5.9199999999999875
+    },
+    {
+      "index": 59,
+      "text": "You can put list proteins in there.",
+      "start": 181.92,
+      "end": 183.6,
+      "duration": 1.6800000000000068
+    },
+    {
+      "index": 60,
+      "text": "In other words, if you have customized list proteins,",
+      "start": 183.6,
+      "end": 186.08,
+      "duration": 2.480000000000018
+    },
+    {
+      "index": 61,
+      "text": "you can put those commands in there.",
+      "start": 186.08,
+      "end": 188.08,
+      "duration": 2.0
+    },
+    {
+      "index": 62,
+      "text": "You can put hatch patterns, materials, and just about anything you can use in AutoCAD.",
+      "start": 188.08,
+      "end": 192.16,
+      "duration": 4.079999999999984
+    },
+    {
+      "index": 63,
+      "text": "You can put in there.",
+      "start": 192.16,
+      "end": 192.96,
+      "duration": 0.8000000000000114
+    },
+    {
+      "index": 64,
+      "text": "You can put just about anything.",
+      "start": 193.92000000000002,
+      "end": 196.96,
+      "duration": 3.039999999999992
+    },
+    {
+      "index": 65,
+      "text": "So when we get around to this, now we're going to talk about customizing and creating tool pallets.",
+      "start": 196.96,
+      "end": 201.92000000000002,
+      "duration": 4.960000000000008
+    },
+    {
+      "index": 66,
+      "text": "So to bring up the tool pallet, you type in tool pallets in the command line.",
+      "start": 201.92000000000002,
+      "end": 205.04000000000002,
+      "duration": 3.1200000000000045
+    },
+    {
+      "index": 67,
+      "text": "You navigate to the view tab and select tool pallets from the pallets area.",
+      "start": 205.44,
+      "end": 208.8,
+      "duration": 3.3600000000000136
+    },
+    {
+      "index": 68,
+      "text": "Or you hold down the controlled key and hit the number three.",
+      "start": 208.8,
+      "end": 211.20000000000002,
+      "duration": 2.4000000000000057
+    },
+    {
+      "index": 69,
+      "text": "Then it'll bring up your tool pallets.",
+      "start": 211.20000000000002,
+      "end": 212.8,
+      "duration": 1.5999999999999943
+    },
+    {
+      "index": 70,
+      "text": "It comes pre-populated with some typical information that you may or may not use or need.",
+      "start": 212.8,
+      "end": 218.24,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 71,
+      "text": "You're going to find a lot of stuff in here, generally speaking.",
+      "start": 218.24,
+      "end": 221.04000000000002,
+      "duration": 2.8000000000000114
+    },
+    {
+      "index": 72,
+      "text": "Everything that comes across in here, especially when you're dealing with things like this one,",
+      "start": 221.6,
+      "end": 225.92,
+      "duration": 4.319999999999993
+    },
+    {
+      "index": 73,
+      "text": "which happens to be the annotation tab.",
+      "start": 225.92,
+      "end": 227.84,
+      "duration": 1.920000000000016
+    },
+    {
+      "index": 74,
+      "text": "This one is all National CAD standards sized.",
+      "start": 229.04,
+      "end": 232.16,
+      "duration": 3.1200000000000045
+    },
+    {
+      "index": 75,
+      "text": "So if you guys use National CAD standards, you'll see that these are actually National CAD standards",
+      "start": 232.16,
+      "end": 236.88,
+      "duration": 4.719999999999999
+    },
+    {
+      "index": 76,
+      "text": "sized correctly.",
+      "start": 236.88,
+      "end": 237.76,
+      "duration": 0.8799999999999955
+    },
+    {
+      "index": 77,
+      "text": "And then to create a new tool pallet, you right mouse click on the title bar on the side.",
+      "start": 240.32,
+      "end": 246.72,
+      "duration": 6.400000000000006
+    },
+    {
+      "index": 78,
+      "text": "So you right mouse click over here and you say new new pallet,",
+      "start": 246.72,
+      "end": 250.32,
+      "duration": 3.5999999999999943
+    },
+    {
+      "index": 79,
+      "text": "it'll open up a pallet here and it'll give you a name.",
+      "start": 250.4,
+      "end": 253.12,
+      "duration": 2.719999999999999
+    },
+    {
+      "index": 80,
+      "text": "Given the pallet, something you can come back to easily.",
+      "start": 253.12,
+      "end": 256.15999999999997,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 81,
+      "text": "So name it something you can remember.",
+      "start": 256.15999999999997,
+      "end": 258.15999999999997,
+      "duration": 2.0
+    },
+    {
+      "index": 82,
+      "text": "And then you add the items, commands, content as you see fit.",
+      "start": 258.15999999999997,
+      "end": 261.2,
+      "duration": 3.0400000000000205
+    },
+    {
+      "index": 83,
+      "text": "Now to create custom pallet group.",
+      "start": 263.84,
+      "end": 266.48,
+      "duration": 2.640000000000043
+    },
+    {
+      "index": 84,
+      "text": "So when we're talking about pallet groups,",
+      "start": 266.48,
+      "end": 269.44,
+      "duration": 2.9599999999999795
+    },
+    {
+      "index": 85,
+      "text": "is that you can have individual pallets and then you can group those pallets into a pallet group.",
+      "start": 269.44,
+      "end": 274.32,
+      "duration": 4.8799999999999955
+    },
+    {
+      "index": 86,
+      "text": "So you can only, if you have, depending on which group you have active,",
+      "start": 274.32,
+      "end": 278.64,
+      "duration": 4.319999999999993
+    },
+    {
+      "index": 87,
+      "text": "you will only see the pallets contained in that group and not every pallet.",
+      "start": 278.8,
+      "end": 281.84,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 88,
+      "text": "So you can come over here and create a new pallet group in the customized pallets.",
+      "start": 282.71999999999997,
+      "end": 286.24,
+      "duration": 3.5200000000000387
+    },
+    {
+      "index": 89,
+      "text": "You right mouse click in pallet groups here somewhere and you select new group.",
+      "start": 286.24,
+      "end": 290.24,
+      "duration": 4.0
+    },
+    {
+      "index": 90,
+      "text": "And drag the group. So it will be a separate group.",
+      "start": 291.84,
+      "end": 294.15999999999997,
+      "duration": 2.319999999999993
+    },
+    {
+      "index": 91,
+      "text": "So it's not under an existing group.",
+      "start": 294.15999999999997,
+      "end": 295.68,
+      "duration": 1.5200000000000387
+    },
+    {
+      "index": 92,
+      "text": "And apparently I need to put a, uh, uh, and parentheses at the end of that,",
+      "start": 295.68,
+      "end": 299.91999999999996,
+      "duration": 4.239999999999952
+    },
+    {
+      "index": 93,
+      "text": "I'll make sure I do that before I send this PDF out to Lori if you want copies of the slides.",
+      "start": 299.91999999999996,
+      "end": 305.28,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 94,
+      "text": "And then you drag pallets from the left under the new group you just created.",
+      "start": 306.23999999999995,
+      "end": 310.23999999999995,
+      "duration": 4.0
+    },
+    {
+      "index": 95,
+      "text": "It's all very straightforward and simple.",
+      "start": 310.96,
+      "end": 313.11999999999995,
+      "duration": 2.159999999999968
+    },
+    {
+      "index": 96,
+      "text": "And then once you have the items in here, you can access additional features by right mouse clicking",
+      "start": 314.55999999999995,
+      "end": 319.44,
+      "duration": 4.880000000000052
+    },
+    {
+      "index": 97,
+      "text": "on the items in the tool pallet and selecting properties.",
+      "start": 319.44,
+      "end": 321.91999999999996,
+      "duration": 2.4799999999999613
+    },
+    {
+      "index": 98,
+      "text": "And what I mean by that is you can change your name, your description.",
+      "start": 322.71999999999997,
+      "end": 325.76,
+      "duration": 3.0400000000000205
+    },
+    {
+      "index": 99,
+      "text": "You can change where the source file is.",
+      "start": 325.76,
+      "end": 327.84,
+      "duration": 2.079999999999984
+    },
+    {
+      "index": 100,
+      "text": "You've got scale. So in other words, it's going to insert a scale of one auxiliary scale.",
+      "start": 327.84,
+      "end": 332.71999999999997,
+      "duration": 4.8799999999999955
+    },
+    {
+      "index": 101,
+      "text": "If you are old school and you use dim scale or you use LT scale or some of the other scales,",
+      "start": 333.28000000000003,
+      "end": 339.28000000000003,
+      "duration": 6.0
+    },
+    {
+      "index": 102,
+      "text": "you can use the auxiliary scale to scale this information correctly.",
+      "start": 339.28000000000003,
+      "end": 342.88000000000005,
+      "duration": 3.6000000000000227
+    },
+    {
+      "index": 103,
+      "text": "You can automatically add a rotation value here or you can turn on the prompt for a rotation.",
+      "start": 343.92,
+      "end": 350.16,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 104,
+      "text": "If you want to explode the block on insert, you can change that box here.",
+      "start": 350.16,
+      "end": 353.36,
+      "duration": 3.1999999999999886
+    },
+    {
+      "index": 105,
+      "text": "Color is going to be by layer layers use current blind type is use current pot style.",
+      "start": 354.40000000000003,
+      "end": 359.52000000000004,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 106,
+      "text": "You can actually change this information.",
+      "start": 359.52,
+      "end": 361.52,
+      "duration": 2.0
+    },
+    {
+      "index": 107,
+      "text": "So if you want trees to always come on an A-Tree layer or a C-Tree layer or something like that,",
+      "start": 362.15999999999997,
+      "end": 368.96,
+      "duration": 6.800000000000011
+    },
+    {
+      "index": 108,
+      "text": "you can specify that layer as long as it's in the drawing when you create the tool pallet.",
+      "start": 368.96,
+      "end": 373.76,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 109,
+      "text": "You can set that layer and whatever layer properties this has.",
+      "start": 374.32,
+      "end": 377.91999999999996,
+      "duration": 3.599999999999966
+    },
+    {
+      "index": 110,
+      "text": "If that layer does not exist in your drawing, when you insert this block,",
+      "start": 377.91999999999996,
+      "end": 381.28,
+      "duration": 3.3600000000000136
+    },
+    {
+      "index": 111,
+      "text": "it'll automatically create that layer and put the block on it.",
+      "start": 381.28,
+      "end": 383.91999999999996,
+      "duration": 2.6399999999999864
+    },
+    {
+      "index": 112,
+      "text": "There are some other things. So for example, this tree here is a dynamic block.",
+      "start": 385.12,
+      "end": 389.28,
+      "duration": 4.159999999999968
+    },
+    {
+      "index": 113,
+      "text": "We know that from the little lightning bolt and you'll see that you can actually change which view",
+      "start": 389.28,
+      "end": 393.67999999999995,
+      "duration": 4.399999999999977
+    },
+    {
+      "index": 114,
+      "text": "you have of the dynamic block down here.",
+      "start": 394.0,
+      "end": 397.2,
+      "duration": 3.1999999999999886
+    },
+    {
+      "index": 115,
+      "text": "When you insert it, this is what it's going to insert.",
+      "start": 399.03999999999996,
+      "end": 401.59999999999997,
+      "duration": 2.5600000000000023
+    },
+    {
+      "index": 116,
+      "text": "So it'll insert the view is palm plan if I select this, it'll come in as palm in the plan view.",
+      "start": 401.59999999999997,
+      "end": 408.23999999999995,
+      "duration": 6.639999999999986
+    },
+    {
+      "index": 117,
+      "text": "So now let's do a quick little demonstration.",
+      "start": 411.28,
+      "end": 413.28,
+      "duration": 2.0
+    },
+    {
+      "index": 118,
+      "text": "We're going to go through everything that I just talked about.",
+      "start": 413.28,
+      "end": 415.59999999999997,
+      "duration": 2.319999999999993
+    },
+    {
+      "index": 119,
+      "text": "So here I am an auto-cad. Again, I'm just going to come up here.",
+      "start": 415.6,
+      "end": 419.20000000000005,
+      "duration": 3.6000000000000227
+    },
+    {
+      "index": 120,
+      "text": "Here's my view tab.",
+      "start": 419.52000000000004,
+      "end": 420.56,
+      "duration": 1.0399999999999636
+    },
+    {
+      "index": 121,
+      "text": "And here is where I can turn on my tool pallets right here.",
+      "start": 421.76000000000005,
+      "end": 424.8,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 122,
+      "text": "And you're going to see that I have just common tool pallets here.",
+      "start": 424.8,
+      "end": 427.76000000000005,
+      "duration": 2.9600000000000364
+    },
+    {
+      "index": 123,
+      "text": "So first I'm going to do is I'm going to write mouse click here and I'm going to say",
+      "start": 427.76000000000005,
+      "end": 430.56,
+      "duration": 2.7999999999999545
+    },
+    {
+      "index": 124,
+      "text": "new pallet and I'm going to call this webinar.",
+      "start": 431.76000000000005,
+      "end": 436.32000000000005,
+      "duration": 4.560000000000002
+    },
+    {
+      "index": 125,
+      "text": "So this is going to be our webinar pallet.",
+      "start": 436.32000000000005,
+      "end": 438.08000000000004,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 126,
+      "text": "Now here's some fun things, right? So I can come over here and since I have some information in here,",
+      "start": 439.28000000000003,
+      "end": 445.20000000000005,
+      "duration": 5.920000000000016
+    },
+    {
+      "index": 127,
+      "text": "I can do some very easy things from here.",
+      "start": 445.76000000000005,
+      "end": 448.72,
+      "duration": 2.9599999999999795
+    },
+    {
+      "index": 128,
+      "text": "I can come into webinar. So here's my block pallet standard.",
+      "start": 448.72,
+      "end": 452.56,
+      "duration": 3.839999999999975
+    },
+    {
+      "index": 129,
+      "text": "I can come over here to pipe. And I can just click and drag these pieces in here.",
+      "start": 452.56,
+      "end": 457.68,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 130,
+      "text": "One at a time. I could do some group of items. Drag them all in here.",
+      "start": 457.68,
+      "end": 462.40000000000003,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 131,
+      "text": "Okay?",
+      "start": 464.16,
+      "end": 464.40000000000003,
+      "duration": 0.2400000000000091
+    },
+    {
+      "index": 132,
+      "text": "Piece of cake.",
+      "start": 465.76000000000005,
+      "end": 466.40000000000003,
+      "duration": 0.6399999999999864
+    },
+    {
+      "index": 133,
+      "text": "And I can also do things like I can write mouse click here.",
+      "start": 467.92,
+      "end": 471.92,
+      "duration": 4.0
+    },
+    {
+      "index": 134,
+      "text": "You'll see I can add a separator.",
+      "start": 471.92,
+      "end": 473.44,
+      "duration": 1.5199999999999818
+    },
+    {
+      "index": 135,
+      "text": "So I've got a little separator bar in here.",
+      "start": 474.32,
+      "end": 476.48,
+      "duration": 2.160000000000025
+    },
+    {
+      "index": 136,
+      "text": "I can do things like I can add a piece of text.",
+      "start": 477.28,
+      "end": 480.64,
+      "duration": 3.3600000000000136
+    },
+    {
+      "index": 137,
+      "text": "And I can say let's go.",
+      "start": 481.28,
+      "end": 485.04,
+      "duration": 3.7600000000000477
+    },
+    {
+      "index": 138,
+      "text": "8 inch pipe.",
+      "start": 486.32,
+      "end": 488.16,
+      "duration": 1.8400000000000318
+    },
+    {
+      "index": 139,
+      "text": "So what I'm holding on to here is I can actually come in here.",
+      "start": 489.92,
+      "end": 492.96,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 140,
+      "text": "And I can set this differently. So I can",
+      "start": 492.96,
+      "end": 495.76,
+      "duration": 2.8000000000000114
+    },
+    {
+      "index": 141,
+      "text": "if I have blocks built with Imperial measurement with 8 inch text height, how can I use these blocks",
+      "start": 497.92,
+      "end": 502.72,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 142,
+      "text": "without affecting on the text height?",
+      "start": 503.68,
+      "end": 506.08000000000004,
+      "duration": 2.400000000000034
+    },
+    {
+      "index": 143,
+      "text": "All right. So that's a more convoluted question.",
+      "start": 510.24,
+      "end": 515.6800000000001,
+      "duration": 5.440000000000055
+    },
+    {
+      "index": 144,
+      "text": "And it's more about blocks. So if you have blocks built with Imperial",
+      "start": 515.6800000000001,
+      "end": 518.96,
+      "duration": 3.2799999999999727
+    },
+    {
+      "index": 145,
+      "text": "David, yes, we can load a list through there. I'll show you that in just a minute.",
+      "start": 520.72,
+      "end": 524.32,
+      "duration": 3.6000000000000227
+    },
+    {
+      "index": 146,
+      "text": "So if I have blocks with Imperial measurement of 8 inch text height, how can I use these blocks",
+      "start": 524.32,
+      "end": 529.36,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 147,
+      "text": "with metric drawing without affecting on the text height?",
+      "start": 529.52,
+      "end": 531.92,
+      "duration": 2.3999999999999773
+    },
+    {
+      "index": 148,
+      "text": "That's going to depend on how you are inserting them.",
+      "start": 533.28,
+      "end": 535.76,
+      "duration": 2.480000000000018
+    },
+    {
+      "index": 149,
+      "text": "If you're inserting them from here, they're going to utilize the insertion units.",
+      "start": 535.76,
+      "end": 540.96,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 150,
+      "text": "And it's going to scale it up or down depending on that.",
+      "start": 540.96,
+      "end": 543.76,
+      "duration": 2.7999999999999545
+    },
+    {
+      "index": 151,
+      "text": "I have another webinar where I talked about units and insertion units and things like that.",
+      "start": 543.76,
+      "end": 547.84,
+      "duration": 4.080000000000041
+    },
+    {
+      "index": 152,
+      "text": "If you have your unit set correctly, Italy, they're scale the block.",
+      "start": 548.5600000000001,
+      "end": 552.48,
+      "duration": 3.919999999999959
+    },
+    {
+      "index": 153,
+      "text": "But it will.",
+      "start": 552.48,
+      "end": 553.12,
+      "duration": 0.6399999999999864
+    },
+    {
+      "index": 154,
+      "text": "Right. So if we go to our properties here, right, you can scale them here.",
+      "start": 553.44,
+      "end": 562.88,
+      "duration": 9.43999999999994
+    },
+    {
+      "index": 155,
+      "text": "And I have them scale none and plot scale for auxiliary scale.",
+      "start": 563.92,
+      "end": 568.32,
+      "duration": 4.400000000000091
+    },
+    {
+      "index": 156,
+      "text": "But you can't leave your text height that 8 inches without altering the entire block.",
+      "start": 568.32,
+      "end": 573.12,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 157,
+      "text": "Okay. That's the important thing to note.",
+      "start": 574.32,
+      "end": 576.32,
+      "duration": 2.0
+    },
+    {
+      "index": 158,
+      "text": "SM is that when you insert the block from the block palette, it's no different than using the",
+      "start": 576.32,
+      "end": 581.12,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 159,
+      "text": "or when you're using a tool palette, it's no different than using the block palette or using the classic insert.",
+      "start": 581.76,
+      "end": 587.84,
+      "duration": 6.080000000000041
+    },
+    {
+      "index": 160,
+      "text": "When you bring it across, it is going to scale it up or down based on the drawings and",
+      "start": 588.8,
+      "end": 592.64,
+      "duration": 3.840000000000032
+    },
+    {
+      "index": 161,
+      "text": "search and units. So if you need to leave it at 8 inch text height, that's going to be a different",
+      "start": 592.64,
+      "end": 597.92,
+      "duration": 5.279999999999973
+    },
+    {
+      "index": 162,
+      "text": "conversation we need to have. Okay. So getting back to David is a possible to load a list through",
+      "start": 597.92,
+      "end": 605.6,
+      "duration": 7.680000000000064
+    },
+    {
+      "index": 163,
+      "text": "the list palette. So I'm going to go ahead and make this a little bigger. And I'm going to write",
+      "start": 605.6,
+      "end": 610.4,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 164,
+      "text": "Musk click here and I'm going to say custom commands.",
+      "start": 610.48,
+      "end": 614.0799999999999,
+      "duration": 3.599999999999909
+    },
+    {
+      "index": 165,
+      "text": "This is where it gets a little interesting. So what we need to do is we need to find a command",
+      "start": 615.28,
+      "end": 619.4399999999999,
+      "duration": 4.159999999999968
+    },
+    {
+      "index": 166,
+      "text": "in here that we want to use. And it doesn't matter which one it is.",
+      "start": 619.4399999999999,
+      "end": 622.4,
+      "duration": 2.9600000000000364
+    },
+    {
+      "index": 167,
+      "text": "Right. So here's my AutoCAD commands. These are all the things available through your CUI.",
+      "start": 623.4399999999999,
+      "end": 628.8,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 168,
+      "text": "And I'm just going to drag the arc over here.",
+      "start": 629.68,
+      "end": 631.68,
+      "duration": 2.0
+    },
+    {
+      "index": 169,
+      "text": "And it looks like an AutoCAD arc, but I can come in here and I can go to properties. And now",
+      "start": 632.9599999999999,
+      "end": 637.4399999999999,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 170,
+      "text": "I can change this to load up one of my list routines because I have some in here.",
+      "start": 637.5200000000001,
+      "end": 642.48,
+      "duration": 4.959999999999923
+    },
+    {
+      "index": 171,
+      "text": "And we'll go.",
+      "start": 644.32,
+      "end": 645.0400000000001,
+      "duration": 0.7200000000000273
+    },
+    {
+      "index": 172,
+      "text": "No, I want to go the SQM.",
+      "start": 648.8800000000001,
+      "end": 653.44,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 173,
+      "text": "Right. So this is the command that's going to load. I can actually change the image here.",
+      "start": 654.8800000000001,
+      "end": 660.48,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 174,
+      "text": "It could give me a chance to do that. Right. So I'm going to come in here to properties.",
+      "start": 661.6800000000001,
+      "end": 666.72,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 175,
+      "text": "And I want. I'll change this to design layers.",
+      "start": 667.6,
+      "end": 672.32,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 176,
+      "text": "Right. I'll change this. This and I'll go K here.",
+      "start": 675.5200000000001,
+      "end": 680.08,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 177,
+      "text": "And then now I can specify a different image. So I would go find a different image.",
+      "start": 680.8800000000001,
+      "end": 684.72,
+      "duration": 3.839999999999918
+    },
+    {
+      "index": 178,
+      "text": "And now when I launch this it's going to launch my square meter by design layers.",
+      "start": 686.72,
+      "end": 692.32,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 179,
+      "text": "And it populates this from a list routine.",
+      "start": 692.32,
+      "end": 694.6400000000001,
+      "duration": 2.32000000000005
+    },
+    {
+      "index": 180,
+      "text": "Obviously this is no different than running it from a menu. So if I come in here,",
+      "start": 696.48,
+      "end": 701.2800000000001,
+      "duration": 4.800000000000068
+    },
+    {
+      "index": 181,
+      "text": "I can go to my properties. And this is where I can set control C control C. And then I can run the",
+      "start": 702.5600000000001,
+      "end": 708.24,
+      "duration": 5.67999999999995
+    },
+    {
+      "index": 182,
+      "text": "if statement. I can come in here and say load a specific list routine. And then run the command.",
+      "start": 708.24,
+      "end": 714.5600000000001,
+      "duration": 6.32000000000005
+    },
+    {
+      "index": 183,
+      "text": "I'm hoping that's what you're looking for David.",
+      "start": 715.2800000000001,
+      "end": 717.44,
+      "duration": 2.159999999999968
+    },
+    {
+      "index": 184,
+      "text": "That is how we normally load list routines through this. If you have a",
+      "start": 718.08,
+      "end": 722.08,
+      "duration": 4.0
+    },
+    {
+      "index": 185,
+      "text": "pull down menu or you have a ribbon tab, you can click and drag them from the ribbon right in there.",
+      "start": 722.72,
+      "end": 728.0,
+      "duration": 5.279999999999973
+    },
+    {
+      "index": 186,
+      "text": "How would you load a spec sheet created in word or Excel from the palette?",
+      "start": 729.5200000000001,
+      "end": 733.12,
+      "duration": 3.599999999999909
+    },
+    {
+      "index": 187,
+      "text": "That is a good question, David. Really, that's going to come down to how do you normally do it.",
+      "start": 735.9200000000001,
+      "end": 741.5200000000001,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 188,
+      "text": "If you're inserting word or Excel and you're using an OLA, you would probably need to continue to",
+      "start": 741.52,
+      "end": 748.48,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 189,
+      "text": "use that process. If you're using OLA, if you're using a data extraction or not data extraction,",
+      "start": 748.48,
+      "end": 755.04,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 190,
+      "text": "if you're linking to an Excel spreadsheet, you would still need to go through that process.",
+      "start": 755.04,
+      "end": 759.1999999999999,
+      "duration": 4.159999999999968
+    },
+    {
+      "index": 191,
+      "text": "There's not a way to shortcut it here. This is primarily meant for blocks and",
+      "start": 759.92,
+      "end": 764.64,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 192,
+      "text": "demands in some of the other things. Word and Excel constitutes more advanced functionality where",
+      "start": 765.4399999999999,
+      "end": 773.84,
+      "duration": 8.400000000000091
+    },
+    {
+      "index": 193,
+      "text": "you actually have to go through the picks and clicks.",
+      "start": 773.84,
+      "end": 775.68,
+      "duration": 1.8399999999999181
+    },
+    {
+      "index": 194,
+      "text": "So let's come back here. So if I insert this block, you're going to see that that's right.",
+      "start": 780.08,
+      "end": 784.3199999999999,
+      "duration": 4.239999999999895
+    },
+    {
+      "index": 195,
+      "text": "And I inserted it on this zero P line layer. But what we're going to do now is we're going to",
+      "start": 784.3199999999999,
+      "end": 789.12,
+      "duration": 4.800000000000068
+    },
+    {
+      "index": 196,
+      "text": "come in here to properties. And I'm going to change which layer it comes on.",
+      "start": 789.12,
+      "end": 794.16,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 197,
+      "text": "So if I put this on this layer, now when I inserted it comes on a different layer, the packs",
+      "start": 795.36,
+      "end": 801.2,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 198,
+      "text": "cabins, if I come to a brand new drawing, and you're going to see I have no layers in here.",
+      "start": 801.2,
+      "end": 808.4,
+      "duration": 7.199999999999932
+    },
+    {
+      "index": 199,
+      "text": "When I click on this and bring it in, oops, that one. You're going to see it automatically",
+      "start": 808.4,
+      "end": 818.24,
+      "duration": 9.840000000000032
+    },
+    {
+      "index": 200,
+      "text": "added that packs cabin layer. So this is a great way. And we run an old school bat file",
+      "start": 818.24,
+      "end": 825.04,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 201,
+      "text": "under command to copy large numbers of files or sync large numbers of files.",
+      "start": 825.04,
+      "end": 830.08,
+      "duration": 5.040000000000077
+    },
+    {
+      "index": 202,
+      "text": "John, you probably could do that. That would be a little more complex programming. You could",
+      "start": 836.32,
+      "end": 841.76,
+      "duration": 5.439999999999941
+    },
+    {
+      "index": 203,
+      "text": "if you can run that through a list, you can load the list in here where you open up the shell",
+      "start": 841.76,
+      "end": 846.8,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 204,
+      "text": "from Lisp and then you run your batch file or you run the command there where it'll open up the shell,",
+      "start": 846.88,
+      "end": 852.56,
+      "duration": 5.67999999999995
+    },
+    {
+      "index": 205,
+      "text": "the command shell in order to run something from the command from a command prompt. You could do that.",
+      "start": 853.4399999999999,
+      "end": 859.5999999999999,
+      "duration": 6.159999999999968
+    },
+    {
+      "index": 206,
+      "text": "So that's really all about this. And if we talk about we come back here, right, here's my",
+      "start": 862.16,
+      "end": 867.3599999999999,
+      "duration": 5.199999999999932
+    },
+    {
+      "index": 207,
+      "text": "properties here. Obviously we have door size. So I can specify which door size I want to be my default.",
+      "start": 867.3599999999999,
+      "end": 874.4799999999999,
+      "duration": 7.1200000000000045
+    },
+    {
+      "index": 208,
+      "text": "All right, so if I say this is a closed and you'll see my image updated here to the closed door.",
+      "start": 874.96,
+      "end": 884.5600000000001,
+      "duration": 9.600000000000023
+    },
+    {
+      "index": 209,
+      "text": "And now when I insert it's closed door, how does the new drawing know the layer properties",
+      "start": 885.6,
+      "end": 890.72,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 210,
+      "text": "color line weighted, et cetera? That is an excellent question, Jessica. When you set it up here,",
+      "start": 890.72,
+      "end": 895.84,
+      "duration": 5.1200000000000045
+    },
+    {
+      "index": 211,
+      "text": "this information in here and I look at the properties, it hard codes this information into the",
+      "start": 897.2,
+      "end": 903.12,
+      "duration": 5.919999999999959
+    },
+    {
+      "index": 212,
+      "text": "palette. So inside the palette itself, and actually let's talk about this since we now have this",
+      "start": 903.2,
+      "end": 912.24,
+      "duration": 9.039999999999964
+    },
+    {
+      "index": 213,
+      "text": "percent app. These are excellent questions by the way. Right, our 22 and you support tool palettes",
+      "start": 912.24,
+      "end": 927.12,
+      "duration": 14.879999999999995
+    },
+    {
+      "index": 214,
+      "text": "palette. Right, here's my webinar tool palette. Now I'm going to show you this little later,",
+      "start": 927.12,
+      "end": 932.72,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 215,
+      "text": "but I'm going to get a little more into this so we can actually go in here and open this with just",
+      "start": 932.72,
+      "end": 938.08,
+      "duration": 5.360000000000014
+    },
+    {
+      "index": 216,
+      "text": "generic note pad. It's how we normally open this. So if we come in here and I look for control F and I go",
+      "start": 938.08,
+      "end": 946.16,
+      "duration": 8.079999999999927
+    },
+    {
+      "index": 217,
+      "text": "a X and I find next. As part of that right here, what it's going to do is that when you insert",
+      "start": 947.12,
+      "end": 955.52,
+      "duration": 8.399999999999977
+    },
+    {
+      "index": 218,
+      "text": "that value, it is going to create this zero-packs cabin information and there's a label table",
+      "start": 955.6,
+      "end": 962.0,
+      "duration": 6.399999999999977
+    },
+    {
+      "index": 219,
+      "text": "record is not plotted as false line weight is minus three, symbol table record packs cabins.",
+      "start": 962.0,
+      "end": 967.6,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 220,
+      "text": "Basically what it's doing is it is going to create that layer on the fly from here.",
+      "start": 968.16,
+      "end": 972.16,
+      "duration": 4.0
+    },
+    {
+      "index": 221,
+      "text": "Can the block be brought in from design center? Uh, Baru? Hang on, that's one of my bonus ones",
+      "start": 974.24,
+      "end": 979.68,
+      "duration": 5.439999999999941
+    },
+    {
+      "index": 222,
+      "text": "that we're going to talk about in the it. Timothy, what's the best way to share it tool palettes",
+      "start": 979.76,
+      "end": 985.3599999999999,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 223,
+      "text": "with those of my team? Welcome Timothy. Have a talk to you in a long time. We are going to cover",
+      "start": 985.3599999999999,
+      "end": 991.5999999999999,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 224,
+      "text": "that and toward the end on how to share it. I just wanted to cover the basics here so that everyone",
+      "start": 991.5999999999999,
+      "end": 997.12,
+      "duration": 5.5200000000000955
+    },
+    {
+      "index": 225,
+      "text": "could see exactly how we go through and create our tool palettes. So that's just the brief",
+      "start": 997.12,
+      "end": 1003.1999999999999,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 226,
+      "text": "demonstration right here. So now let's talk about sharing. Good segue, Timothy. Good",
+      "start": 1003.1999999999999,
+      "end": 1009.5999999999999,
+      "duration": 6.399999999999977
+    },
+    {
+      "index": 227,
+      "text": "segue. So to share custom tool palettes to another user, you simply write mouse click on the",
+      "start": 1010.5600000000001,
+      "end": 1014.64,
+      "duration": 4.079999999999927
+    },
+    {
+      "index": 228,
+      "text": "sidebar select customized palettes. Right mouse click on the palette you've created and select",
+      "start": 1014.64,
+      "end": 1020.88,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 229,
+      "text": "export save the file and share that to another user. The import they return to the customized",
+      "start": 1020.88,
+      "end": 1026.64,
+      "duration": 5.760000000000105
+    },
+    {
+      "index": 230,
+      "text": "palettes right mouse click and select import browse to the file and import the new palette.",
+      "start": 1026.64,
+      "end": 1031.1200000000001,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 231,
+      "text": "Okay, this is sharing to a single user. This is the best way to do it.",
+      "start": 1031.84,
+      "end": 1037.1200000000001,
+      "duration": 5.2800000000002
+    },
+    {
+      "index": 232,
+      "text": "Now, if you have palette groups as well, you need to export the palettes and the palette groups",
+      "start": 1039.6,
+      "end": 1045.12,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 233,
+      "text": "both. So this will create an XTP file for the palettes and an XPG for palette groups.",
+      "start": 1045.12,
+      "end": 1050.56,
+      "duration": 5.440000000000055
+    },
+    {
+      "index": 234,
+      "text": "When importing, you always want to import all the palettes first, which are the XTGs",
+      "start": 1051.36,
+      "end": 1056.0,
+      "duration": 4.6400000000001
+    },
+    {
+      "index": 235,
+      "text": "or sorry. Yep, XTGs and then XTP. Okay, I got to fix that. And then once all of these are",
+      "start": 1057.04,
+      "end": 1065.4399999999998,
+      "duration": 8.399999999999864
+    },
+    {
+      "index": 236,
+      "text": "imported, then import the XPG, which is the palette group, and it will correctly find all the",
+      "start": 1065.52,
+      "end": 1070.16,
+      "duration": 4.6400000000001
+    },
+    {
+      "index": 237,
+      "text": "palettes here and create that group. Is there a way to open a PDF from a tool palette? Like if I",
+      "start": 1070.16,
+      "end": 1077.1200000000001,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 238,
+      "text": "wanted to link our CAD stands PDF to the tool palette for an easy reference. Yes, there is a way to do that.",
+      "start": 1077.1200000000001,
+      "end": 1083.04,
+      "duration": 5.919999999999845
+    },
+    {
+      "index": 239,
+      "text": "There is a command. There's a specific shell where you want to do a more or less a file open",
+      "start": 1084.0800000000002,
+      "end": 1091.28,
+      "duration": 7.199999999999818
+    },
+    {
+      "index": 240,
+      "text": "PDF where you're opening shell. That's a little more complicated, but Brett, it can be done.",
+      "start": 1091.36,
+      "end": 1097.52,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 241,
+      "text": "Where it'll basically open up a PDF and open up your default PDF reader.",
+      "start": 1098.8799999999999,
+      "end": 1104.24,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 242,
+      "text": "So let's get back to sharing. Get back to my auto CAD, where I've not had that.",
+      "start": 1107.6,
+      "end": 1113.28,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 243,
+      "text": "So now we have this new webinar one. I'm going to write mouse click and I'm going to go to",
+      "start": 1114.48,
+      "end": 1119.12,
+      "duration": 4.639999999999873
+    },
+    {
+      "index": 244,
+      "text": "customize palettes. I forgot what I didn't show you is that we're going to go ahead and",
+      "start": 1119.12,
+      "end": 1125.76,
+      "duration": 6.6400000000001
+    },
+    {
+      "index": 245,
+      "text": "we're going to create a new group. And I'm going to drag this group up to here. That's a new group,",
+      "start": 1125.76,
+      "end": 1133.1999999999998,
+      "duration": 7.439999999999827
+    },
+    {
+      "index": 246,
+      "text": "and then I'm going to grab my webinar right here. So there's my new group. So the first thing I",
+      "start": 1133.1999999999998,
+      "end": 1142.32,
+      "duration": 9.120000000000118
+    },
+    {
+      "index": 247,
+      "text": "would do is I would go ahead and export this. Right, I will stick the XTP in there.",
+      "start": 1142.32,
+      "end": 1151.36,
+      "duration": 9.039999999999964
+    },
+    {
+      "index": 248,
+      "text": "And then my new group, and I'm going to export that, XPG. Stick that in my webinar.",
+      "start": 1152.6399999999999,
+      "end": 1160.0,
+      "duration": 7.360000000000127
+    },
+    {
+      "index": 249,
+      "text": "Perfect. So then I would close this and in fact, we can",
+      "start": 1165.12,
+      "end": 1171.52,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 250,
+      "text": "turn around and open up a different version of Auto CAD to show you the import process.",
+      "start": 1172.32,
+      "end": 1176.3999999999999,
+      "duration": 4.079999999999927
+    },
+    {
+      "index": 251,
+      "text": "You've had issues trying to import palettes with custom hatches and the hatches don't come with,",
+      "start": 1188.0,
+      "end": 1192.6399999999999,
+      "duration": 4.639999999999873
+    },
+    {
+      "index": 252,
+      "text": "is that normal. It is normal if the user that's trying to import it does not have the",
+      "start": 1192.6399999999999,
+      "end": 1199.2,
+      "duration": 6.560000000000173
+    },
+    {
+      "index": 253,
+      "text": "path files on their machine and locatable. Because what it references when you are bringing",
+      "start": 1199.2,
+      "end": 1207.6000000000001,
+      "duration": 8.400000000000091
+    },
+    {
+      "index": 254,
+      "text": "across hatches is that it references the pattern file or the dot PAT. And if that's not their",
+      "start": 1207.6000000000001,
+      "end": 1213.6000000000001,
+      "duration": 6.0
+    },
+    {
+      "index": 255,
+      "text": "id will not bring across that tool palette. So that would usually be the first thing I would want to",
+      "start": 1213.6000000000001,
+      "end": 1218.56,
+      "duration": 4.959999999999809
+    },
+    {
+      "index": 256,
+      "text": "look at. Right, so we're here and I'm going to go to customize palettes.",
+      "start": 1218.56,
+      "end": 1225.76,
+      "duration": 7.2000000000000455
+    },
+    {
+      "index": 257,
+      "text": "First thing I'm going to do is right mouse click and I'm going to import.",
+      "start": 1225.92,
+      "end": 1230.16,
+      "duration": 4.240000000000009
+    },
+    {
+      "index": 258,
+      "text": "Why did it not create my, there's my webinar XTP.",
+      "start": 1240.96,
+      "end": 1247.04,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 259,
+      "text": "Right, there's my webinar XTP. And then I'm going to import my palette group.",
+      "start": 1247.92,
+      "end": 1257.92,
+      "duration": 10.0
+    },
+    {
+      "index": 260,
+      "text": "And it should have created my new group here.",
+      "start": 1262.08,
+      "end": 1264.48,
+      "duration": 2.400000000000091
+    },
+    {
+      "index": 261,
+      "text": "And it should have brought that over and it did not. And I'm not sure why, but normally it would have",
+      "start": 1265.76,
+      "end": 1270.72,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 262,
+      "text": "brought this new group in and it would have brought my palette with it. The webinar palette here.",
+      "start": 1270.72,
+      "end": 1275.28,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 263,
+      "text": "So if I want to look at just the new group, the only thing it's going to show me is that webinar",
+      "start": 1275.44,
+      "end": 1283.44,
+      "duration": 8.0
+    },
+    {
+      "index": 264,
+      "text": "palette. All right, if the custom tool palettes and groups are saved in the same folder is the",
+      "start": 1283.44,
+      "end": 1289.92,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 265,
+      "text": "default ones where they load automatically. Instead of inserting this box, can the tool palettes",
+      "start": 1289.92,
+      "end": 1295.68,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 266,
+      "text": "be inserted as X-refs instead? All right, insert as block insert as X-refs. That's",
+      "start": 1295.68,
+      "end": 1307.6000000000001,
+      "duration": 11.920000000000073
+    },
+    {
+      "index": 267,
+      "text": "simple as changing the properties here, JB. Jessica, if the custom tool palettes and groups are",
+      "start": 1307.6000000000001,
+      "end": 1313.68,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 268,
+      "text": "saved in the same folder is the default ones where they load automatically. The short answer is",
+      "start": 1313.68,
+      "end": 1318.64,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 269,
+      "text": "maybe long answers probably not. And there's a reason behind that and we're going to cover that.",
+      "start": 1318.64,
+      "end": 1323.2,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 270,
+      "text": "So you can change how you insert this hopefully JB that tells you what you need to know about that.",
+      "start": 1323.8400000000001,
+      "end": 1330.0,
+      "duration": 6.1599999999998545
+    },
+    {
+      "index": 271,
+      "text": "So that's how we do the simple process. Now we're going to go into more of the complex pieces of this.",
+      "start": 1331.6000000000001,
+      "end": 1338.4,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 272,
+      "text": "So sharing tool palettes across multiple users without having to use the important",
+      "start": 1341.44,
+      "end": 1346.48,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 273,
+      "text": "export of XPG or XPP files. So all tool palette groups are saved in the local profile AWS file,",
+      "start": 1346.48,
+      "end": 1354.48,
+      "duration": 8.0
+    },
+    {
+      "index": 274,
+      "text": "which is located here. Okay, the exit auto cat on the target computer, you copy the profile AWS to the",
+      "start": 1354.48,
+      "end": 1363.76,
+      "duration": 9.279999999999973
+    },
+    {
+      "index": 275,
+      "text": "same folder of redding the existing file. And when Auto Cat has started the tool palette groups",
+      "start": 1363.76,
+      "end": 1368.24,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 276,
+      "text": "will be available when running under the default unnamed profile. It is important to note that this",
+      "start": 1368.24,
+      "end": 1373.1200000000001,
+      "duration": 4.880000000000109
+    },
+    {
+      "index": 277,
+      "text": "profile AWS also controls location, size and appearance of other dialogues and palettes. The user",
+      "start": 1373.12,
+      "end": 1378.3999999999999,
+      "duration": 5.279999999999973
+    },
+    {
+      "index": 278,
+      "text": "will need to reset those back to their preferred if you choose this option. Okay, what it means is that",
+      "start": 1378.3999999999999,
+      "end": 1385.84,
+      "duration": 7.440000000000055
+    },
+    {
+      "index": 279,
+      "text": "that profile AWS, right, and I'll show this file to you. Right under your support folder,",
+      "start": 1385.84,
+      "end": 1397.28,
+      "duration": 11.440000000000055
+    },
+    {
+      "index": 280,
+      "text": "under Profiles, you'll see I have a couple in here. This is the one I'm currently running as the",
+      "start": 1397.28,
+      "end": 1401.36,
+      "duration": 4.079999999999927
+    },
+    {
+      "index": 281,
+      "text": "unnamed profile. This profile AWS is where all of the palette groups get stored. Okay, and that means",
+      "start": 1401.6799999999998,
+      "end": 1413.04,
+      "duration": 11.360000000000127
+    },
+    {
+      "index": 282,
+      "text": "that this is localized to each individual user if you're using palette groups.",
+      "start": 1413.04,
+      "end": 1418.56,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 283,
+      "text": "So what I typically do, and there's a process we're going to talk about in this domain. I just want",
+      "start": 1421.76,
+      "end": 1426.8,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 284,
+      "text": "to show you that this profile AWS is going to be the main of your existence for multiple users",
+      "start": 1426.8,
+      "end": 1432.1599999999999,
+      "duration": 5.3599999999999
+    },
+    {
+      "index": 285,
+      "text": "in some cases. And it's important to know what it is. When sharing palettes to the blocks on a",
+      "start": 1433.84,
+      "end": 1438.56,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 286,
+      "text": "palette live in the palette, or is it just a pointer? It's just a pointer, David. So if you're",
+      "start": 1438.56,
+      "end": 1444.08,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 287,
+      "text": "got a standard directory, that's the best place to point it to. So everybody has access.",
+      "start": 1444.08,
+      "end": 1449.76,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 288,
+      "text": "Okay, users with custom profiles rather than unnamed fraudocard only will need to overwrite",
+      "start": 1451.6,
+      "end": 1456.72,
+      "duration": 5.120000000000118
+    },
+    {
+      "index": 289,
+      "text": "the profile AWS file contained in the appropriate folder. As you saw from here,",
+      "start": 1456.72,
+      "end": 1461.44,
+      "duration": 4.720000000000027
+    },
+    {
+      "index": 290,
+      "text": "I have multiple profiles I'm currently working on here. The profile AWS file does not include the",
+      "start": 1462.32,
+      "end": 1469.92,
+      "duration": 7.600000000000136
+    },
+    {
+      "index": 291,
+      "text": "path to where the actual tool palettes and images are found to specify the file path to the",
+      "start": 1469.92,
+      "end": 1474.72,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 292,
+      "text": "tool palette files. That's the ATC in the options. So again, we come back into AutoCAN,",
+      "start": 1474.72,
+      "end": 1480.56,
+      "duration": 5.839999999999918
+    },
+    {
+      "index": 293,
+      "text": "we're going to talk about the options here. So under files, and we come down here to tool palettes.",
+      "start": 1480.6399999999999,
+      "end": 1493.84,
+      "duration": 13.200000000000045
+    },
+    {
+      "index": 294,
+      "text": "This is where I'm currently pointing. And let's see, let's see. So this is where all the tool palettes",
+      "start": 1493.84,
+      "end": 1507.28,
+      "duration": 13.440000000000055
+    },
+    {
+      "index": 295,
+      "text": "this is where you can change to a network location. And you can point everyone there. So if you",
+      "start": 1508.24,
+      "end": 1513.76,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 296,
+      "text": "want to go to that route, which can be done, you want to make sure. So profile AWS does not include",
+      "start": 1513.76,
+      "end": 1525.6,
+      "duration": 11.839999999999918
+    },
+    {
+      "index": 297,
+      "text": "the path to where the actual tool palettes and images are found. Specify the file path to the",
+      "start": 1525.6,
+      "end": 1529.36,
+      "duration": 3.759999999999991
+    },
+    {
+      "index": 298,
+      "text": "tool palette file, the ATC, and options file style log window copy those from the source machine",
+      "start": 1529.36,
+      "end": 1535.28,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 299,
+      "text": "to the target machine here, etc. And here is placing tool palettes on a common drive.",
+      "start": 1535.28,
+      "end": 1543.04,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 300,
+      "text": "This is the most often when we talk about, we can tool palettes be run from off SharePoint for multiple",
+      "start": 1543.04,
+      "end": 1549.12,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 301,
+      "text": "users. John, the short answer is yes, long answer is yes, with some caveat, SharePoint is",
+      "start": 1549.12,
+      "end": 1558.8,
+      "duration": 9.680000000000064
+    },
+    {
+      "index": 302,
+      "text": "not officially supported. By Autodesk, you may have some errand behaviors. And there's another",
+      "start": 1558.8,
+      "end": 1565.76,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 303,
+      "text": "thing that is here right in here, where it's, I typically recommend is to create all the palettes",
+      "start": 1565.76,
+      "end": 1573.68,
+      "duration": 7.920000000000073
+    },
+    {
+      "index": 304,
+      "text": "in groups first. Proper the entire folder and icons to your network location, point the users to the",
+      "start": 1573.68,
+      "end": 1579.68,
+      "duration": 6.0
+    },
+    {
+      "index": 305,
+      "text": "new location and AutoCAD options. And it's best to have this location read only, except for a few",
+      "start": 1579.68,
+      "end": 1585.36,
+      "duration": 5.679999999999836
+    },
+    {
+      "index": 306,
+      "text": "people, otherwise if someone makes a change in their palette, it will affect everyone.",
+      "start": 1585.36,
+      "end": 1589.84,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 307,
+      "text": "Yes, I know David, double stress the read only. I cannot tell you this enough is that you have to",
+      "start": 1591.52,
+      "end": 1597.84,
+      "duration": 6.319999999999936
+    },
+    {
+      "index": 308,
+      "text": "have your tool palettes set read only that location except to one or two people who can make changes.",
+      "start": 1597.84,
+      "end": 1605.9199999999998,
+      "duration": 8.079999999999927
+    },
+    {
+      "index": 309,
+      "text": "Because if somebody makes a change to their tool palette and they have right location, it will",
+      "start": 1606.6399999999999,
+      "end": 1612.24,
+      "duration": 5.600000000000136
+    },
+    {
+      "index": 310,
+      "text": "affect all other users who point to that same location.",
+      "start": 1612.32,
+      "end": 1615.68,
+      "duration": 3.3600000000001273
+    },
+    {
+      "index": 311,
+      "text": "Is there a setup for using a replicated drive across multiple offices? We have been able to get",
+      "start": 1620.56,
+      "end": 1625.52,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 312,
+      "text": "it work know running DFS or replication is going to be very difficult to get to work. Simply because",
+      "start": 1625.52,
+      "end": 1633.28,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 313,
+      "text": "if someone has AutoCAD open and they have the tool palettes open, the replication fails. And then",
+      "start": 1633.28,
+      "end": 1638.96,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 314,
+      "text": "you get those tool palettes or asset was open by so-and-so tool palettes get created.",
+      "start": 1638.96,
+      "end": 1645.3600000000001,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 315,
+      "text": "You're best but if you're going to be doing that to only do that,",
+      "start": 1645.3600000000001,
+      "end": 1648.56,
+      "duration": 3.199999999999818
+    },
+    {
+      "index": 316,
+      "text": "are you able to take custom tool palettes from AutoCAD architecture and copy them to AutoCAD LTE? Yes,",
+      "start": 1650.4,
+      "end": 1655.68,
+      "duration": 5.279999999999973
+    },
+    {
+      "index": 317,
+      "text": "you can do that. However, if you are running anything that is architecture specific in AutoCAD,",
+      "start": 1655.68,
+      "end": 1662.24,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 318,
+      "text": "it will not run an AutoCAD LTE. I know that AutoCAD architecture does have some very specific",
+      "start": 1662.24,
+      "end": 1667.8400000000001,
+      "duration": 5.600000000000136
+    },
+    {
+      "index": 319,
+      "text": "tool catalogs and some other stuff but if it's basic functionality of AutoCAD architecture,",
+      "start": 1667.84,
+      "end": 1673.1999999999998,
+      "duration": 5.3599999999999
+    },
+    {
+      "index": 320,
+      "text": "you should be able to do that. What is an easy way to copy text into the command line box in",
+      "start": 1673.1999999999998,
+      "end": 1680.1599999999999,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 321,
+      "text": "the palette properties box? Really what I normally do is I open up note pad. Can the electrical",
+      "start": 1680.1599999999999,
+      "end": 1687.1999999999998,
+      "duration": 7.039999999999964
+    },
+    {
+      "index": 322,
+      "text": "palette go to AT? It's their LTE. It's the same thing. If the electrical tool palette are the",
+      "start": 1687.1999999999998,
+      "end": 1693.12,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 323,
+      "text": "architecture tool palette is running architecture or electrical specific stuff.",
+      "start": 1693.12,
+      "end": 1697.9199999999998,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 324,
+      "text": "Okay, in other words, there are specific things that run inside electrical and specific things",
+      "start": 1699.6,
+      "end": 1704.56,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 325,
+      "text": "are on the inside of architecture. Those tool palettes will not work. Or those commands will not",
+      "start": 1704.56,
+      "end": 1709.12,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 326,
+      "text": "work on the tool palettes but the other stuff normally should. Can you import more than one",
+      "start": 1709.12,
+      "end": 1714.8799999999999,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 327,
+      "text": "palette at a time? I generally recommend against that John to only do one at a time but I believe",
+      "start": 1714.8799999999999,
+      "end": 1720.9599999999998,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 328,
+      "text": "you can select multiples. Not all network locations work well for larger national companies. What",
+      "start": 1721.04,
+      "end": 1726.64,
+      "duration": 5.600000000000136
+    },
+    {
+      "index": 329,
+      "text": "are your recommendations for this problem? Sean, that's more of a CAD standards question but what",
+      "start": 1726.64,
+      "end": 1733.76,
+      "duration": 7.119999999999891
+    },
+    {
+      "index": 330,
+      "text": "I would normally recommend in that case is that you copy your tool palettes to the local C drive",
+      "start": 1733.76,
+      "end": 1739.92,
+      "duration": 6.160000000000082
+    },
+    {
+      "index": 331,
+      "text": "and you essentially treat them as if they were you have your",
+      "start": 1741.2,
+      "end": 1746.0,
+      "duration": 4.7999999999999545
+    },
+    {
+      "index": 332,
+      "text": "work on the network drive. You copy that locally via sync for the people who need those tool palettes",
+      "start": 1746.0,
+      "end": 1757.28,
+      "duration": 11.279999999999973
+    },
+    {
+      "index": 333,
+      "text": "and then you sync everyone locally to their C drive. I usually recommend in those cases.",
+      "start": 1758.0,
+      "end": 1765.36,
+      "duration": 7.3599999999999
+    },
+    {
+      "index": 334,
+      "text": "Especially a lot of us that have remote users that is going to be the biggest thing you need to",
+      "start": 1766.32,
+      "end": 1770.96,
+      "duration": 4.6400000000001
+    },
+    {
+      "index": 335,
+      "text": "think about is going that route. If you use Dropbox to share your tool palette path and",
+      "start": 1770.96,
+      "end": 1780.4,
+      "duration": 9.440000000000055
+    },
+    {
+      "index": 336,
+      "text": "blocks makes it faster since files are stored on each computer. One drive can't handle",
+      "start": 1780.4,
+      "end": 1784.96,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 337,
+      "text": "sharing tool palette paths. No one drive cannot. Dropbox can do it because Dropbox is essentially",
+      "start": 1785.52,
+      "end": 1791.04,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 338,
+      "text": "creating a local copy of that information Brett so that does work as well.",
+      "start": 1791.04,
+      "end": 1794.8,
+      "duration": 3.759999999999991
+    },
+    {
+      "index": 339,
+      "text": "So, some things to be aware of when you're placing tool palettes on a common drive.",
+      "start": 1795.12,
+      "end": 1802.08,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 340,
+      "text": "If you update the palettes images commands everyone has to be out of auto CAD before you affect",
+      "start": 1802.08,
+      "end": 1808.0,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 341,
+      "text": "the change. If they can write to the tool palette location since auto CAD will update the",
+      "start": 1808.0,
+      "end": 1813.12,
+      "duration": 5.119999999999891
+    },
+    {
+      "index": 342,
+      "text": "palettes on close of auto CAD. So if you have multiple users and you're making changes to the palettes",
+      "start": 1813.12,
+      "end": 1820.6399999999999,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 343,
+      "text": "yes, and leaders can be put on a palette. It's command. That's a big one right there is that what I see",
+      "start": 1820.96,
+      "end": 1828.72,
+      "duration": 7.759999999999991
+    },
+    {
+      "index": 344,
+      "text": "a lot of people doing is that they're making all of their changes to a live network location.",
+      "start": 1828.72,
+      "end": 1834.96,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 345,
+      "text": "Everyone has the option to read right to that location. They make all their changes. They close",
+      "start": 1834.96,
+      "end": 1839.3600000000001,
+      "duration": 4.400000000000091
+    },
+    {
+      "index": 346,
+      "text": "auto CAD. They reopen. Somebody closes auto CAD after they've made changes and all of their stuff is lost.",
+      "start": 1839.3600000000001,
+      "end": 1845.2800000000002,
+      "duration": 5.920000000000073
+    },
+    {
+      "index": 347,
+      "text": "That's a big caveat. I want to make sure everyone understands.",
+      "start": 1845.8400000000001,
+      "end": 1848.88,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 348,
+      "text": "And anything you add typically ends up at the bottom of the palettes for other users again.",
+      "start": 1849.3600000000001,
+      "end": 1854.5600000000002,
+      "duration": 5.2000000000000455
+    },
+    {
+      "index": 349,
+      "text": "This is that profile AWS. And also if you add new groups they will not show up for the users.",
+      "start": 1854.5600000000002,
+      "end": 1860.3200000000002,
+      "duration": 5.759999999999991
+    },
+    {
+      "index": 350,
+      "text": "Again, that's that profile AWS. So those are some of the common things you all need to understand.",
+      "start": 1860.3200000000002,
+      "end": 1866.24,
+      "duration": 5.919999999999845
+    },
+    {
+      "index": 351,
+      "text": "So when I typically want to get into these conversations, I generally recommend to put all",
+      "start": 1866.24,
+      "end": 1874.3200000000002,
+      "duration": 8.080000000000155
+    },
+    {
+      "index": 352,
+      "text": "information either on the network if it's a small team or have it have your network copy be the",
+      "start": 1874.3999999999999,
+      "end": 1880.0,
+      "duration": 5.600000000000136
+    },
+    {
+      "index": 353,
+      "text": "gospel. And then have it right to the local machine on a shared folder that synced every time you log in.",
+      "start": 1880.0,
+      "end": 1888.0,
+      "duration": 8.0
+    },
+    {
+      "index": 354,
+      "text": "What's the best fastest way to store blocks? Individual files are common drawings.",
+      "start": 1889.6799999999998,
+      "end": 1893.36,
+      "duration": 3.6800000000000637
+    },
+    {
+      "index": 355,
+      "text": "Honestly, Sean, I'm a big fan if all of your standard information can live in a single drawing",
+      "start": 1895.76,
+      "end": 1902.56,
+      "duration": 6.7999999999999545
+    },
+    {
+      "index": 356,
+      "text": "where you import all the blocks into a single drawing. I like that because now you only have one drawing to keep track of.",
+      "start": 1902.6399999999999,
+      "end": 1908.32,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 357,
+      "text": "And if you need to make a change, you make a change to that one drawing.",
+      "start": 1909.28,
+      "end": 1911.84,
+      "duration": 2.5599999999999454
+    },
+    {
+      "index": 358,
+      "text": "In other situations, depending on, you know, commonality of blocks things like that,",
+      "start": 1914.0,
+      "end": 1919.6799999999998,
+      "duration": 5.679999999999836
+    },
+    {
+      "index": 359,
+      "text": "I might just keep a block or I might point a block path back to a directory.",
+      "start": 1920.72,
+      "end": 1925.04,
+      "duration": 4.319999999999936
+    },
+    {
+      "index": 360,
+      "text": "And you will see slow performance with everything in one depending on how many blocks you put in that one drawing.",
+      "start": 1925.76,
+      "end": 1933.76,
+      "duration": 8.0
+    },
+    {
+      "index": 361,
+      "text": "If you're going to do it that way, I try to limit it to 10 or 15 blocks per drawing.",
+      "start": 1933.76,
+      "end": 1939.36,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 362,
+      "text": "And see if that helps with your performance. And then we'll changing profiles change path absolutely.",
+      "start": 1940.24,
+      "end": 1945.84,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 363,
+      "text": "You are profile here.",
+      "start": 1947.52,
+      "end": 1950.3999999999999,
+      "duration": 2.8799999999998818
+    },
+    {
+      "index": 364,
+      "text": "Like this is my unnamed profile. You have this tool palette path here. This may be a different location in other",
+      "start": 1951.2,
+      "end": 1960.4,
+      "duration": 9.200000000000045
+    },
+    {
+      "index": 365,
+      "text": "profiles. So as long as all of your profiles have the same tool palette location, it'll be fine.",
+      "start": 1963.52,
+      "end": 1968.5600000000002,
+      "duration": 5.040000000000191
+    },
+    {
+      "index": 366,
+      "text": "Can you show us that list file that you use for your design layers?",
+      "start": 1970.8000000000002,
+      "end": 1974.24,
+      "duration": 3.439999999999827
+    },
+    {
+      "index": 367,
+      "text": "I can show it till you're not going to tell you a whole lot. Basically all it is is just a quick little list code.",
+      "start": 1974.88,
+      "end": 1980.96,
+      "duration": 6.079999999999927
+    },
+    {
+      "index": 368,
+      "text": "Or all I'm doing is creating layers.",
+      "start": 1980.96,
+      "end": 1982.72,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 369,
+      "text": "And working data.",
+      "start": 1985.28,
+      "end": 1986.56,
+      "duration": 1.2799999999999727
+    },
+    {
+      "index": 370,
+      "text": "Ah, list.",
+      "start": 1989.04,
+      "end": 1990.4,
+      "duration": 1.3600000000001273
+    },
+    {
+      "index": 371,
+      "text": "And",
+      "start": 1992.88,
+      "end": 1994.08,
+      "duration": 1.199999999999818
+    },
+    {
+      "index": 372,
+      "text": "that's literally all it's doing right there. DSQM. It's just making sure that it launches the command line layer.",
+      "start": 1995.04,
+      "end": 2006.48,
+      "duration": 11.440000000000055
+    },
+    {
+      "index": 373,
+      "text": "Thos, packs dining. Make sure that it's not that it's thought. Does a make creates it.",
+      "start": 2006.48,
+      "end": 2013.1999999999998,
+      "duration": 6.7199999999998
+    },
+    {
+      "index": 374,
+      "text": "Or if this already exists with different properties, changes all the properties.",
+      "start": 2013.1999999999998,
+      "end": 2017.04,
+      "duration": 3.8400000000001455
+    },
+    {
+      "index": 375,
+      "text": "You can't edit list files from a palette. You have to do that from either a list editor or",
+      "start": 2018.0,
+      "end": 2026.8,
+      "duration": 8.799999999999955
+    },
+    {
+      "index": 376,
+      "text": "no pad depending on your level of experience.",
+      "start": 2026.8,
+      "end": 2029.04,
+      "duration": 2.240000000000009
+    },
+    {
+      "index": 377,
+      "text": "Yeah, DWT file that's absolutely another webinar topic on templates.",
+      "start": 2031.52,
+      "end": 2037.2,
+      "duration": 5.680000000000064
+    },
+    {
+      "index": 378,
+      "text": "You inherited our tool palette. So I don't know how it was originally set up. But I've noticed",
+      "start": 2038.0,
+      "end": 2042.96,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 379,
+      "text": "I have three tool palette file locations. Is this something I need to change any issues with this?",
+      "start": 2042.96,
+      "end": 2049.36,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 380,
+      "text": "I'm a big fan of simple. I would probably try and consolidate all that down to a single location,",
+      "start": 2051.68,
+      "end": 2057.2,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 381,
+      "text": "which means that you need to rebuild everything so that you have a single location.",
+      "start": 2057.2,
+      "end": 2061.84,
+      "duration": 4.640000000000327
+    },
+    {
+      "index": 382,
+      "text": "Multiple locations is perfectly fine. But if there is a palette that exists in a, and again, in your",
+      "start": 2063.68,
+      "end": 2070.8,
+      "duration": 7.120000000000346
+    },
+    {
+      "index": 383,
+      "text": "options, if you have multiple paths in here, it's a hierarchy. So everything that starts at the top gets",
+      "start": 2070.8,
+      "end": 2078.4,
+      "duration": 7.599999999999909
+    },
+    {
+      "index": 384,
+      "text": "loaded first. So this location gets loaded first. The next location, the next location. If you have",
+      "start": 2078.4,
+      "end": 2084.8,
+      "duration": 6.400000000000091
+    },
+    {
+      "index": 385,
+      "text": "palettes of the same name, you may see both or it may only see the first one that it runs across.",
+      "start": 2084.8,
+      "end": 2091.04,
+      "duration": 6.239999999999782
+    },
+    {
+      "index": 386,
+      "text": "So keep that in mind.",
+      "start": 2091.6000000000004,
+      "end": 2092.6400000000003,
+      "duration": 1.0399999999999636
+    },
+    {
+      "index": 387,
+      "text": "Oh, you guys have some great questions.",
+      "start": 2093.3599999999997,
+      "end": 2097.6,
+      "duration": 4.2400000000002365
+    },
+    {
+      "index": 388,
+      "text": "So we're going to talk about some of the bonus items. So if you have a server or a location",
+      "start": 2101.2,
+      "end": 2106.16,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 389,
+      "text": "change to the source data, you do not need to recreate the tool palettes or repass each one",
+      "start": 2106.16,
+      "end": 2110.56,
+      "duration": 4.400000000000091
+    },
+    {
+      "index": 390,
+      "text": "individually. How many of you have done this? Or you've had a change to your drive letter or your",
+      "start": 2110.56,
+      "end": 2117.44,
+      "duration": 6.880000000000109
+    },
+    {
+      "index": 391,
+      "text": "server. And now you have to literally go back through AutoCAD, go to each one of these and go to",
+      "start": 2117.52,
+      "end": 2124.16,
+      "duration": 6.639999999999873
+    },
+    {
+      "index": 392,
+      "text": "properties and change this. Right? You're trying too hard. So again, what we're going to do is we're going to",
+      "start": 2124.16,
+      "end": 2132.16,
+      "duration": 8.0
+    },
+    {
+      "index": 393,
+      "text": "come back to, we're going to come back to that profile. Right. So we come back in here, back to support,",
+      "start": 2132.16,
+      "end": 2145.76,
+      "duration": 13.600000000000364
+    },
+    {
+      "index": 394,
+      "text": "go to your registered or go to our tool palettes. We're going to go find that tool palettes. So again,",
+      "start": 2146.32,
+      "end": 2150.88,
+      "duration": 4.559999999999945
+    },
+    {
+      "index": 395,
+      "text": "I have that webinar tool palette. And again, I'm going to do this open this in no pad.",
+      "start": 2150.88,
+      "end": 2156.2400000000002,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 396,
+      "text": "And I'm going to go find that path. So, right? So you're going to see right here, I have this path.",
+      "start": 2157.44,
+      "end": 2166.7200000000003,
+      "duration": 9.2800000000002
+    },
+    {
+      "index": 397,
+      "text": "So this is the drawing and the path right here. I can now do a control C. I can do control H.",
+      "start": 2166.7200000000003,
+      "end": 2174.2400000000002,
+      "duration": 7.519999999999982
+    },
+    {
+      "index": 398,
+      "text": "And I can replace this with whatever my new path is and hit replace all.",
+      "start": 2174.24,
+      "end": 2178.64,
+      "duration": 4.400000000000091
+    },
+    {
+      "index": 399,
+      "text": "Okay, save and close this. Make sure AutoCAD is closed when you do this. Save and close this.",
+      "start": 2180.56,
+      "end": 2185.3599999999997,
+      "duration": 4.799999999999727
+    },
+    {
+      "index": 400,
+      "text": "Next time you open up AutoCAD, it'll be pointing to all the new places.",
+      "start": 2185.3599999999997,
+      "end": 2188.3199999999997,
+      "duration": 2.9600000000000364
+    },
+    {
+      "index": 401,
+      "text": "That's the easiest way to do that. How do you sync palettes locally from a network drive?",
+      "start": 2191.52,
+      "end": 2197.3599999999997,
+      "duration": 5.839999999999691
+    },
+    {
+      "index": 402,
+      "text": "Well, that's a good question depending on if you are copying local, what I generally recommend",
+      "start": 2197.36,
+      "end": 2210.8,
+      "duration": 13.440000000000055
+    },
+    {
+      "index": 403,
+      "text": "is to work with your IT group so that they can set up either a periodic sync or a login sync,",
+      "start": 2210.8,
+      "end": 2216.6400000000003,
+      "duration": 5.8400000000001455
+    },
+    {
+      "index": 404,
+      "text": "where you just overwrite whatever is on the user's local machine. That's going to be the best way",
+      "start": 2216.6400000000003,
+      "end": 2222.1600000000003,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 405,
+      "text": "to handle that. We have palettes set up on a common driver when I create new tool palette to",
+      "start": 2222.16,
+      "end": 2227.2,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 406,
+      "text": "share it shows up in the same location as the other ATC files. Let's not add to the end of the user's",
+      "start": 2227.2,
+      "end": 2232.72,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 407,
+      "text": "tool palettes any ideas what we may be doing wrong. Okay, when you're setting up a new tool palette.",
+      "start": 2232.72,
+      "end": 2239.44,
+      "duration": 6.720000000000255
+    },
+    {
+      "index": 408,
+      "text": "Okay, a new tool palette here. This catalog ATC here, again, if we open this here in no pad,",
+      "start": 2240.96,
+      "end": 2249.12,
+      "duration": 8.159999999999854
+    },
+    {
+      "index": 409,
+      "text": "this contains all the palettes. Right. Here's my webinar palette.",
+      "start": 2250.08,
+      "end": 2254.88,
+      "duration": 4.800000000000182
+    },
+    {
+      "index": 410,
+      "text": "If the users are pointed to all the same place for this ACTP catalog.ATC is being updated.",
+      "start": 2256.16,
+      "end": 2263.12,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 411,
+      "text": "If you are creating new tool palettes, you have to make sure everyone is out of AutoCAD,",
+      "start": 2263.12,
+      "end": 2268.3199999999997,
+      "duration": 5.199999999999818
+    },
+    {
+      "index": 412,
+      "text": "make your changes and then come back in and that might be where the problem is. Is there either",
+      "start": 2269.52,
+      "end": 2274.96,
+      "duration": 5.440000000000055
+    },
+    {
+      "index": 413,
+      "text": "not pointing to the correct ACTP catalog? If they're pointing locally, it's not going to pick it up.",
+      "start": 2274.96,
+      "end": 2280.16,
+      "duration": 5.199999999999818
+    },
+    {
+      "index": 414,
+      "text": "If they're pointing to the common drive, they should be picking it up there. And those are",
+      "start": 2280.16,
+      "end": 2285.04,
+      "duration": 4.880000000000109
+    },
+    {
+      "index": 415,
+      "text": "typically what I find out and that may be something where we need to look at a little deeper from",
+      "start": 2285.04,
+      "end": 2289.28,
+      "duration": 4.2400000000002365
+    },
+    {
+      "index": 416,
+      "text": "the technical standpoint. Do you think AutoCAD will ever improve the tool palettes feature? So it's",
+      "start": 2289.28,
+      "end": 2298.2400000000002,
+      "duration": 8.960000000000036
+    },
+    {
+      "index": 417,
+      "text": "easier to share tool palettes and palette groups with multi users. I will tell you right now,",
+      "start": 2298.2400000000002,
+      "end": 2303.84,
+      "duration": 5.599999999999909
+    },
+    {
+      "index": 418,
+      "text": "unless we are squeaking about it to AutoCAD, they are probably not going to put a whole lot of",
+      "start": 2304.2400000000002,
+      "end": 2310.4,
+      "duration": 6.1599999999998545
+    },
+    {
+      "index": 419,
+      "text": "thought process into it. There is, and I'm just a second, there is a link I want to share with all of you.",
+      "start": 2310.4,
+      "end": 2318.2400000000002,
+      "duration": 7.8400000000001455
+    },
+    {
+      "index": 420,
+      "text": "And that link is, and let me get to,",
+      "start": 2319.6000000000004,
+      "end": 2323.1200000000003,
+      "duration": 3.519999999999982
+    },
+    {
+      "index": 421,
+      "text": "you,",
+      "start": 2323.2799999999997,
+      "end": 2325.2799999999997,
+      "duration": 2.0
+    },
+    {
+      "index": 422,
+      "text": "here's a product information link, basically where you can ask AutoDesk information. Let me see if I've",
+      "start": 2329.2799999999997,
+      "end": 2338.64,
+      "duration": 9.360000000000127
+    },
+    {
+      "index": 423,
+      "text": "got it here because I use the product feedback, that's what I want. I'm going to put this in here,",
+      "start": 2338.64,
+      "end": 2344.3199999999997,
+      "duration": 5.679999999999836
+    },
+    {
+      "index": 424,
+      "text": "it's in our main chat, the product feedback. If you guys do not, if you guys don't put in product",
+      "start": 2344.3199999999997,
+      "end": 2352.3199999999997,
+      "duration": 8.0
+    },
+    {
+      "index": 425,
+      "text": "feedback to AutoDesk, nothing gets changed. So that's what I tell people is go here, put product",
+      "start": 2352.32,
+      "end": 2360.88,
+      "duration": 8.559999999999945
+    },
+    {
+      "index": 426,
+      "text": "feedback, the more people who complain about something, the more likely it is to end up on the",
+      "start": 2360.88,
+      "end": 2364.56,
+      "duration": 3.6799999999998363
+    },
+    {
+      "index": 427,
+      "text": "radar list to be changed. What is the best way to keep the items in the palettes in the order?",
+      "start": 2364.56,
+      "end": 2369.92,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 428,
+      "text": "I place them, they tend to go to the bottom of the palettes. Yes, that again follows that whole",
+      "start": 2369.92,
+      "end": 2376.8,
+      "duration": 6.880000000000109
+    },
+    {
+      "index": 429,
+      "text": "right, that's that profile AWS, right? Anything you typically add,",
+      "start": 2377.6800000000003,
+      "end": 2384.48,
+      "duration": 6.799999999999727
+    },
+    {
+      "index": 430,
+      "text": "and the bottom of the palettes for other users. This is that profile AWS. So unless you are",
+      "start": 2384.48,
+      "end": 2389.2000000000003,
+      "duration": 4.720000000000255
+    },
+    {
+      "index": 431,
+      "text": "replacing the profile AWS on those machines, the user will have to drag them up to the correct locations.",
+      "start": 2389.2000000000003,
+      "end": 2395.76,
+      "duration": 6.559999999999945
+    },
+    {
+      "index": 432,
+      "text": "One of the things that I tell people when they're implementing tool palettes is try to do",
+      "start": 2397.1200000000003,
+      "end": 2401.84,
+      "duration": 4.7199999999998
+    },
+    {
+      "index": 433,
+      "text": "everything that you can. First, and then if you do need to add things later, either warn your",
+      "start": 2402.2400000000002,
+      "end": 2411.6000000000004,
+      "duration": 9.360000000000127
+    },
+    {
+      "index": 434,
+      "text": "users that it's going to be at the bottom of the palette and they have to drag it up.",
+      "start": 2411.6000000000004,
+      "end": 2414.48,
+      "duration": 2.8799999999996544
+    },
+    {
+      "index": 435,
+      "text": "Yep, you can do a select all, cut and replace, and it does reorder it. That is a good suggestion",
+      "start": 2415.92,
+      "end": 2421.92,
+      "duration": 6.0
+    },
+    {
+      "index": 436,
+      "text": "shown. You go into your palette. What he's talking about is she coming here.",
+      "start": 2421.92,
+      "end": 2427.28,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 437,
+      "text": "Right, and I select, I can come up here, right? Right, and I'm going to hold down the shift key.",
+      "start": 2427.6000000000004,
+      "end": 2437.2000000000003,
+      "duration": 9.599999999999909
+    },
+    {
+      "index": 438,
+      "text": "Grab it all, cut, paste, and then it will know what this order is. That is an excellent one,",
+      "start": 2440.7200000000003,
+      "end": 2450.88,
+      "duration": 10.159999999999854
+    },
+    {
+      "index": 439,
+      "text": "Sean. I haven't done that one in a while. Usually, I go, I'm old school, so I'll actually go back",
+      "start": 2450.88,
+      "end": 2458.32,
+      "duration": 7.440000000000055
+    },
+    {
+      "index": 440,
+      "text": "into the AT, I'll actually go into the ATC code here and reorder it in no pad and do it that way.",
+      "start": 2458.32,
+      "end": 2465.12,
+      "duration": 6.799999999999727
+    },
+    {
+      "index": 441,
+      "text": "But that is a very good suggestion. That's the easy button.",
+      "start": 2465.6800000000003,
+      "end": 2469.12,
+      "duration": 3.4399999999996
+    },
+    {
+      "index": 442,
+      "text": "Can you drop a new block from the drawing onto a palette? Absolutely. I can drop things there.",
+      "start": 2472.48,
+      "end": 2476.88,
+      "duration": 4.400000000000091
+    },
+    {
+      "index": 443,
+      "text": "Hang on, second we're going to get there.",
+      "start": 2477.76,
+      "end": 2479.28,
+      "duration": 1.5199999999999818
+    },
+    {
+      "index": 444,
+      "text": "Right, and if you have a drawing with all of your standard blocks inserted, you can use",
+      "start": 2480.88,
+      "end": 2484.88,
+      "duration": 4.0
+    },
+    {
+      "index": 445,
+      "text": "design center to create a palette from that drawing.",
+      "start": 2484.88,
+      "end": 2487.2000000000003,
+      "duration": 2.3200000000001637
+    },
+    {
+      "index": 446,
+      "text": "My issue is one of my palettes always comes up in the wrong location. I have to move it.",
+      "start": 2491.92,
+      "end": 2496.4,
+      "duration": 4.480000000000018
+    },
+    {
+      "index": 447,
+      "text": "Wrong location on your screen, or wrong location in the sort order on the side, Sean.",
+      "start": 2496.96,
+      "end": 2501.2000000000003,
+      "duration": 4.2400000000002365
+    },
+    {
+      "index": 448,
+      "text": "Sort order.",
+      "start": 2504.7200000000003,
+      "end": 2505.36,
+      "duration": 0.6399999999998727
+    },
+    {
+      "index": 449,
+      "text": "Yeah, that's going to be your tool palette. Group most likely is controlling that. So that may",
+      "start": 2506.08,
+      "end": 2511.92,
+      "duration": 5.8400000000001455
+    },
+    {
+      "index": 450,
+      "text": "need to be changed. So this is where you can use design center to create a palette from that",
+      "start": 2511.92,
+      "end": 2517.76,
+      "duration": 5.8400000000001455
+    },
+    {
+      "index": 451,
+      "text": "drawing. You can also create a new palette from a directory. So you don't have to do it all individually.",
+      "start": 2517.76,
+      "end": 2523.44,
+      "duration": 5.679999999999836
+    },
+    {
+      "index": 452,
+      "text": "Come back in here.",
+      "start": 2524.6400000000003,
+      "end": 2525.6,
+      "duration": 0.9599999999995816
+    },
+    {
+      "index": 453,
+      "text": "I'll open up design center.",
+      "start": 2526.7200000000003,
+      "end": 2528.2400000000002,
+      "duration": 1.5199999999999818
+    },
+    {
+      "index": 454,
+      "text": "I have my webinar. Here's my electrical. It's just a bunch of these. I'll write mouse click and I'll say",
+      "start": 2529.76,
+      "end": 2535.1200000000003,
+      "duration": 5.360000000000127
+    },
+    {
+      "index": 455,
+      "text": "create a tool palette of blocks.",
+      "start": 2535.12,
+      "end": 2536.48,
+      "duration": 1.3600000000001273
+    },
+    {
+      "index": 456,
+      "text": "Can you make a sheet set in a palette? No, you cannot make a sheet set in a palette.",
+      "start": 2540.08,
+      "end": 2543.92,
+      "duration": 3.8400000000001455
+    },
+    {
+      "index": 457,
+      "text": "Sheetsets are their own separate animal and palettes don't support it.",
+      "start": 2544.96,
+      "end": 2551.6,
+      "duration": 6.639999999999873
+    },
+    {
+      "index": 458,
+      "text": "So all I did here was make this electrical directory. And now I have all of those drawings in",
+      "start": 2553.2799999999997,
+      "end": 2558.24,
+      "duration": 4.960000000000036
+    },
+    {
+      "index": 459,
+      "text": "here and now I can make my changes. Now in my lighting directory here, I have one drawing.",
+      "start": 2558.24,
+      "end": 2564.24,
+      "duration": 6.0
+    },
+    {
+      "index": 460,
+      "text": "That's my lighting standard that has a bunch of blocks in it. I can write mouse click on this.",
+      "start": 2564.3199999999997,
+      "end": 2569.4399999999996,
+      "duration": 5.119999999999891
+    },
+    {
+      "index": 461,
+      "text": "And I can write mouse click on this and I can create a tool palette from that drawing.",
+      "start": 2569.4399999999996,
+      "end": 2574.24,
+      "duration": 4.800000000000182
+    },
+    {
+      "index": 462,
+      "text": "And once this is done.",
+      "start": 2576.3199999999997,
+      "end": 2577.3599999999997,
+      "duration": 1.0399999999999636
+    },
+    {
+      "index": 463,
+      "text": "Now I have all of the blocks that are in this drawing here,",
+      "start": 2579.52,
+      "end": 2582.7999999999997,
+      "duration": 3.2799999999997453
+    },
+    {
+      "index": 464,
+      "text": "this lighting drawing are now in their own separate palette here.",
+      "start": 2583.7599999999998,
+      "end": 2587.7599999999998,
+      "duration": 4.0
+    },
+    {
+      "index": 465,
+      "text": "All right. That's all I had to show you.",
+      "start": 2595.12,
+      "end": 2598.9599999999996,
+      "duration": 3.8399999999996908
+    },
+    {
+      "index": 466,
+      "text": "One of the questions you guys have.",
+      "start": 2601.68,
+      "end": 2603.68,
+      "duration": 2.0
+    }
+  ],
+  "full_text": "All right, welcome everyone. Today is all about tool pallets. Real quick, those of you who are first timers here, or those of you who have not seen or heard me before, I've got over 36 years of experience in AutoCAD across multiple industry segments. I'm currently one of our senior support specialists here in our technical support groups. So if you have a contract with us and you call in for support, there's a good chance you can get me. I've taught AutoCAD as a certified instructor as a matter of fact, I'm teaching civil 3D next week for four days. I've got more than 15 years in CAD management, eight years in cruise ship building, five years supporting civil surveillance gate architecture. Pretty much run the gamut, the only thing I haven't really done is aerospace and automotive engineering or drafting. And I have a bachelor's in business management and master's an organizational management. So today's agenda, we're going to cover what is a tool pallet? What you can put in a tool pallet, customers and creating tool pallets, how you share tool pallets to single users, multi-users to a common location. This is a common one we run across and I've got some bonus items at the end here that we're going to talk about. So let's get right into this. So what is a tool pallet? Tool pallet is used to organize tools that range from blocks to commands, hatch patterns, pretty much anything. And are displayed as part of the tool pallets window. You can customize tool pallets by dragging and dropping files from windows, explore file explorer, objects from a drawing area, contextual menus of a tool pallet window, customize your CYU, your customizable user interface editor, or the customized dialog box. Each tool pallet that is created represents a tab on the tool pallets window. The default folder to store tool pallets is percent update a percent that takes you to c colon backslash users, backslash your user name, backslash, update a backslash roaming. So rather than type all that out you could just put percent update a percent, they'll take you right to the roaming folder. Under Autodesk, your product name, your release your language, and then support tool pallets or pallets. And I'll show you where this location is. Right, so if we drag this over here, I can come here. I can go percent, app, data percent. I go to my Autodesk folder and you'll see here's all the stuff I have installed. We'll go AutoCAD 2023. Here's my R version. Here's ENU for language. And if we come to support, and here is my tool pallet location. So there's my tool pallet and here's where the individual pallets are located. So I want to make sure you guys knew that. So what can you put into a tool pallet? Well, pretty much anything. You can put AutoCAD commands. You can put blocks. And you're not actually putting a block in there. You're putting a pointer to a block. So it's a quick way of holding onto your standards and or common things you use most often. You can put list proteins in there. In other words, if you have customized list proteins, you can put those commands in there. You can put hatch patterns, materials, and just about anything you can use in AutoCAD. You can put in there. You can put just about anything. So when we get around to this, now we're going to talk about customizing and creating tool pallets. So to bring up the tool pallet, you type in tool pallets in the command line. You navigate to the view tab and select tool pallets from the pallets area. Or you hold down the controlled key and hit the number three. Then it'll bring up your tool pallets. It comes pre-populated with some typical information that you may or may not use or need. You're going to find a lot of stuff in here, generally speaking. Everything that comes across in here, especially when you're dealing with things like this one, which happens to be the annotation tab. This one is all National CAD standards sized. So if you guys use National CAD standards, you'll see that these are actually National CAD standards sized correctly. And then to create a new tool pallet, you right mouse click on the title bar on the side. So you right mouse click over here and you say new new pallet, it'll open up a pallet here and it'll give you a name. Given the pallet, something you can come back to easily. So name it something you can remember. And then you add the items, commands, content as you see fit. Now to create custom pallet group. So when we're talking about pallet groups, is that you can have individual pallets and then you can group those pallets into a pallet group. So you can only, if you have, depending on which group you have active, you will only see the pallets contained in that group and not every pallet. So you can come over here and create a new pallet group in the customized pallets. You right mouse click in pallet groups here somewhere and you select new group. And drag the group. So it will be a separate group. So it's not under an existing group. And apparently I need to put a, uh, uh, and parentheses at the end of that, I'll make sure I do that before I send this PDF out to Lori if you want copies of the slides. And then you drag pallets from the left under the new group you just created. It's all very straightforward and simple. And then once you have the items in here, you can access additional features by right mouse clicking on the items in the tool pallet and selecting properties. And what I mean by that is you can change your name, your description. You can change where the source file is. You've got scale. So in other words, it's going to insert a scale of one auxiliary scale. If you are old school and you use dim scale or you use LT scale or some of the other scales, you can use the auxiliary scale to scale this information correctly. You can automatically add a rotation value here or you can turn on the prompt for a rotation. If you want to explode the block on insert, you can change that box here. Color is going to be by layer layers use current blind type is use current pot style. You can actually change this information. So if you want trees to always come on an A-Tree layer or a C-Tree layer or something like that, you can specify that layer as long as it's in the drawing when you create the tool pallet. You can set that layer and whatever layer properties this has. If that layer does not exist in your drawing, when you insert this block, it'll automatically create that layer and put the block on it. There are some other things. So for example, this tree here is a dynamic block. We know that from the little lightning bolt and you'll see that you can actually change which view you have of the dynamic block down here. When you insert it, this is what it's going to insert. So it'll insert the view is palm plan if I select this, it'll come in as palm in the plan view. So now let's do a quick little demonstration. We're going to go through everything that I just talked about. So here I am an auto-cad. Again, I'm just going to come up here. Here's my view tab. And here is where I can turn on my tool pallets right here. And you're going to see that I have just common tool pallets here. So first I'm going to do is I'm going to write mouse click here and I'm going to say new pallet and I'm going to call this webinar. So this is going to be our webinar pallet. Now here's some fun things, right? So I can come over here and since I have some information in here, I can do some very easy things from here. I can come into webinar. So here's my block pallet standard. I can come over here to pipe. And I can just click and drag these pieces in here. One at a time. I could do some group of items. Drag them all in here. Okay? Piece of cake. And I can also do things like I can write mouse click here. You'll see I can add a separator. So I've got a little separator bar in here. I can do things like I can add a piece of text. And I can say let's go. 8 inch pipe. So what I'm holding on to here is I can actually come in here. And I can set this differently. So I can if I have blocks built with Imperial measurement with 8 inch text height, how can I use these blocks without affecting on the text height? All right. So that's a more convoluted question. And it's more about blocks. So if you have blocks built with Imperial David, yes, we can load a list through there. I'll show you that in just a minute. So if I have blocks with Imperial measurement of 8 inch text height, how can I use these blocks with metric drawing without affecting on the text height? That's going to depend on how you are inserting them. If you're inserting them from here, they're going to utilize the insertion units. And it's going to scale it up or down depending on that. I have another webinar where I talked about units and insertion units and things like that. If you have your unit set correctly, Italy, they're scale the block. But it will. Right. So if we go to our properties here, right, you can scale them here. And I have them scale none and plot scale for auxiliary scale. But you can't leave your text height that 8 inches without altering the entire block. Okay. That's the important thing to note. SM is that when you insert the block from the block palette, it's no different than using the or when you're using a tool palette, it's no different than using the block palette or using the classic insert. When you bring it across, it is going to scale it up or down based on the drawings and search and units. So if you need to leave it at 8 inch text height, that's going to be a different conversation we need to have. Okay. So getting back to David is a possible to load a list through the list palette. So I'm going to go ahead and make this a little bigger. And I'm going to write Musk click here and I'm going to say custom commands. This is where it gets a little interesting. So what we need to do is we need to find a command in here that we want to use. And it doesn't matter which one it is. Right. So here's my AutoCAD commands. These are all the things available through your CUI. And I'm just going to drag the arc over here. And it looks like an AutoCAD arc, but I can come in here and I can go to properties. And now I can change this to load up one of my list routines because I have some in here. And we'll go. No, I want to go the SQM. Right. So this is the command that's going to load. I can actually change the image here. It could give me a chance to do that. Right. So I'm going to come in here to properties. And I want. I'll change this to design layers. Right. I'll change this. This and I'll go K here. And then now I can specify a different image. So I would go find a different image. And now when I launch this it's going to launch my square meter by design layers. And it populates this from a list routine. Obviously this is no different than running it from a menu. So if I come in here, I can go to my properties. And this is where I can set control C control C. And then I can run the if statement. I can come in here and say load a specific list routine. And then run the command. I'm hoping that's what you're looking for David. That is how we normally load list routines through this. If you have a pull down menu or you have a ribbon tab, you can click and drag them from the ribbon right in there. How would you load a spec sheet created in word or Excel from the palette? That is a good question, David. Really, that's going to come down to how do you normally do it. If you're inserting word or Excel and you're using an OLA, you would probably need to continue to use that process. If you're using OLA, if you're using a data extraction or not data extraction, if you're linking to an Excel spreadsheet, you would still need to go through that process. There's not a way to shortcut it here. This is primarily meant for blocks and demands in some of the other things. Word and Excel constitutes more advanced functionality where you actually have to go through the picks and clicks. So let's come back here. So if I insert this block, you're going to see that that's right. And I inserted it on this zero P line layer. But what we're going to do now is we're going to come in here to properties. And I'm going to change which layer it comes on. So if I put this on this layer, now when I inserted it comes on a different layer, the packs cabins, if I come to a brand new drawing, and you're going to see I have no layers in here. When I click on this and bring it in, oops, that one. You're going to see it automatically added that packs cabin layer. So this is a great way. And we run an old school bat file under command to copy large numbers of files or sync large numbers of files. John, you probably could do that. That would be a little more complex programming. You could if you can run that through a list, you can load the list in here where you open up the shell from Lisp and then you run your batch file or you run the command there where it'll open up the shell, the command shell in order to run something from the command from a command prompt. You could do that. So that's really all about this. And if we talk about we come back here, right, here's my properties here. Obviously we have door size. So I can specify which door size I want to be my default. All right, so if I say this is a closed and you'll see my image updated here to the closed door. And now when I insert it's closed door, how does the new drawing know the layer properties color line weighted, et cetera? That is an excellent question, Jessica. When you set it up here, this information in here and I look at the properties, it hard codes this information into the palette. So inside the palette itself, and actually let's talk about this since we now have this percent app. These are excellent questions by the way. Right, our 22 and you support tool palettes palette. Right, here's my webinar tool palette. Now I'm going to show you this little later, but I'm going to get a little more into this so we can actually go in here and open this with just generic note pad. It's how we normally open this. So if we come in here and I look for control F and I go a X and I find next. As part of that right here, what it's going to do is that when you insert that value, it is going to create this zero-packs cabin information and there's a label table record is not plotted as false line weight is minus three, symbol table record packs cabins. Basically what it's doing is it is going to create that layer on the fly from here. Can the block be brought in from design center? Uh, Baru? Hang on, that's one of my bonus ones that we're going to talk about in the it. Timothy, what's the best way to share it tool palettes with those of my team? Welcome Timothy. Have a talk to you in a long time. We are going to cover that and toward the end on how to share it. I just wanted to cover the basics here so that everyone could see exactly how we go through and create our tool palettes. So that's just the brief demonstration right here. So now let's talk about sharing. Good segue, Timothy. Good segue. So to share custom tool palettes to another user, you simply write mouse click on the sidebar select customized palettes. Right mouse click on the palette you've created and select export save the file and share that to another user. The import they return to the customized palettes right mouse click and select import browse to the file and import the new palette. Okay, this is sharing to a single user. This is the best way to do it. Now, if you have palette groups as well, you need to export the palettes and the palette groups both. So this will create an XTP file for the palettes and an XPG for palette groups. When importing, you always want to import all the palettes first, which are the XTGs or sorry. Yep, XTGs and then XTP. Okay, I got to fix that. And then once all of these are imported, then import the XPG, which is the palette group, and it will correctly find all the palettes here and create that group. Is there a way to open a PDF from a tool palette? Like if I wanted to link our CAD stands PDF to the tool palette for an easy reference. Yes, there is a way to do that. There is a command. There's a specific shell where you want to do a more or less a file open PDF where you're opening shell. That's a little more complicated, but Brett, it can be done. Where it'll basically open up a PDF and open up your default PDF reader. So let's get back to sharing. Get back to my auto CAD, where I've not had that. So now we have this new webinar one. I'm going to write mouse click and I'm going to go to customize palettes. I forgot what I didn't show you is that we're going to go ahead and we're going to create a new group. And I'm going to drag this group up to here. That's a new group, and then I'm going to grab my webinar right here. So there's my new group. So the first thing I would do is I would go ahead and export this. Right, I will stick the XTP in there. And then my new group, and I'm going to export that, XPG. Stick that in my webinar. Perfect. So then I would close this and in fact, we can turn around and open up a different version of Auto CAD to show you the import process. You've had issues trying to import palettes with custom hatches and the hatches don't come with, is that normal. It is normal if the user that's trying to import it does not have the path files on their machine and locatable. Because what it references when you are bringing across hatches is that it references the pattern file or the dot PAT. And if that's not their id will not bring across that tool palette. So that would usually be the first thing I would want to look at. Right, so we're here and I'm going to go to customize palettes. First thing I'm going to do is right mouse click and I'm going to import. Why did it not create my, there's my webinar XTP. Right, there's my webinar XTP. And then I'm going to import my palette group. And it should have created my new group here. And it should have brought that over and it did not. And I'm not sure why, but normally it would have brought this new group in and it would have brought my palette with it. The webinar palette here. So if I want to look at just the new group, the only thing it's going to show me is that webinar palette. All right, if the custom tool palettes and groups are saved in the same folder is the default ones where they load automatically. Instead of inserting this box, can the tool palettes be inserted as X-refs instead? All right, insert as block insert as X-refs. That's simple as changing the properties here, JB. Jessica, if the custom tool palettes and groups are saved in the same folder is the default ones where they load automatically. The short answer is maybe long answers probably not. And there's a reason behind that and we're going to cover that. So you can change how you insert this hopefully JB that tells you what you need to know about that. So that's how we do the simple process. Now we're going to go into more of the complex pieces of this. So sharing tool palettes across multiple users without having to use the important export of XPG or XPP files. So all tool palette groups are saved in the local profile AWS file, which is located here. Okay, the exit auto cat on the target computer, you copy the profile AWS to the same folder of redding the existing file. And when Auto Cat has started the tool palette groups will be available when running under the default unnamed profile. It is important to note that this profile AWS also controls location, size and appearance of other dialogues and palettes. The user will need to reset those back to their preferred if you choose this option. Okay, what it means is that that profile AWS, right, and I'll show this file to you. Right under your support folder, under Profiles, you'll see I have a couple in here. This is the one I'm currently running as the unnamed profile. This profile AWS is where all of the palette groups get stored. Okay, and that means that this is localized to each individual user if you're using palette groups. So what I typically do, and there's a process we're going to talk about in this domain. I just want to show you that this profile AWS is going to be the main of your existence for multiple users in some cases. And it's important to know what it is. When sharing palettes to the blocks on a palette live in the palette, or is it just a pointer? It's just a pointer, David. So if you're got a standard directory, that's the best place to point it to. So everybody has access. Okay, users with custom profiles rather than unnamed fraudocard only will need to overwrite the profile AWS file contained in the appropriate folder. As you saw from here, I have multiple profiles I'm currently working on here. The profile AWS file does not include the path to where the actual tool palettes and images are found to specify the file path to the tool palette files. That's the ATC in the options. So again, we come back into AutoCAN, we're going to talk about the options here. So under files, and we come down here to tool palettes. This is where I'm currently pointing. And let's see, let's see. So this is where all the tool palettes this is where you can change to a network location. And you can point everyone there. So if you want to go to that route, which can be done, you want to make sure. So profile AWS does not include the path to where the actual tool palettes and images are found. Specify the file path to the tool palette file, the ATC, and options file style log window copy those from the source machine to the target machine here, etc. And here is placing tool palettes on a common drive. This is the most often when we talk about, we can tool palettes be run from off SharePoint for multiple users. John, the short answer is yes, long answer is yes, with some caveat, SharePoint is not officially supported. By Autodesk, you may have some errand behaviors. And there's another thing that is here right in here, where it's, I typically recommend is to create all the palettes in groups first. Proper the entire folder and icons to your network location, point the users to the new location and AutoCAD options. And it's best to have this location read only, except for a few people, otherwise if someone makes a change in their palette, it will affect everyone. Yes, I know David, double stress the read only. I cannot tell you this enough is that you have to have your tool palettes set read only that location except to one or two people who can make changes. Because if somebody makes a change to their tool palette and they have right location, it will affect all other users who point to that same location. Is there a setup for using a replicated drive across multiple offices? We have been able to get it work know running DFS or replication is going to be very difficult to get to work. Simply because if someone has AutoCAD open and they have the tool palettes open, the replication fails. And then you get those tool palettes or asset was open by so-and-so tool palettes get created. You're best but if you're going to be doing that to only do that, are you able to take custom tool palettes from AutoCAD architecture and copy them to AutoCAD LTE? Yes, you can do that. However, if you are running anything that is architecture specific in AutoCAD, it will not run an AutoCAD LTE. I know that AutoCAD architecture does have some very specific tool catalogs and some other stuff but if it's basic functionality of AutoCAD architecture, you should be able to do that. What is an easy way to copy text into the command line box in the palette properties box? Really what I normally do is I open up note pad. Can the electrical palette go to AT? It's their LTE. It's the same thing. If the electrical tool palette are the architecture tool palette is running architecture or electrical specific stuff. Okay, in other words, there are specific things that run inside electrical and specific things are on the inside of architecture. Those tool palettes will not work. Or those commands will not work on the tool palettes but the other stuff normally should. Can you import more than one palette at a time? I generally recommend against that John to only do one at a time but I believe you can select multiples. Not all network locations work well for larger national companies. What are your recommendations for this problem? Sean, that's more of a CAD standards question but what I would normally recommend in that case is that you copy your tool palettes to the local C drive and you essentially treat them as if they were you have your work on the network drive. You copy that locally via sync for the people who need those tool palettes and then you sync everyone locally to their C drive. I usually recommend in those cases. Especially a lot of us that have remote users that is going to be the biggest thing you need to think about is going that route. If you use Dropbox to share your tool palette path and blocks makes it faster since files are stored on each computer. One drive can't handle sharing tool palette paths. No one drive cannot. Dropbox can do it because Dropbox is essentially creating a local copy of that information Brett so that does work as well. So, some things to be aware of when you're placing tool palettes on a common drive. If you update the palettes images commands everyone has to be out of auto CAD before you affect the change. If they can write to the tool palette location since auto CAD will update the palettes on close of auto CAD. So if you have multiple users and you're making changes to the palettes yes, and leaders can be put on a palette. It's command. That's a big one right there is that what I see a lot of people doing is that they're making all of their changes to a live network location. Everyone has the option to read right to that location. They make all their changes. They close auto CAD. They reopen. Somebody closes auto CAD after they've made changes and all of their stuff is lost. That's a big caveat. I want to make sure everyone understands. And anything you add typically ends up at the bottom of the palettes for other users again. This is that profile AWS. And also if you add new groups they will not show up for the users. Again, that's that profile AWS. So those are some of the common things you all need to understand. So when I typically want to get into these conversations, I generally recommend to put all information either on the network if it's a small team or have it have your network copy be the gospel. And then have it right to the local machine on a shared folder that synced every time you log in. What's the best fastest way to store blocks? Individual files are common drawings. Honestly, Sean, I'm a big fan if all of your standard information can live in a single drawing where you import all the blocks into a single drawing. I like that because now you only have one drawing to keep track of. And if you need to make a change, you make a change to that one drawing. In other situations, depending on, you know, commonality of blocks things like that, I might just keep a block or I might point a block path back to a directory. And you will see slow performance with everything in one depending on how many blocks you put in that one drawing. If you're going to do it that way, I try to limit it to 10 or 15 blocks per drawing. And see if that helps with your performance. And then we'll changing profiles change path absolutely. You are profile here. Like this is my unnamed profile. You have this tool palette path here. This may be a different location in other profiles. So as long as all of your profiles have the same tool palette location, it'll be fine. Can you show us that list file that you use for your design layers? I can show it till you're not going to tell you a whole lot. Basically all it is is just a quick little list code. Or all I'm doing is creating layers. And working data. Ah, list. And that's literally all it's doing right there. DSQM. It's just making sure that it launches the command line layer. Thos, packs dining. Make sure that it's not that it's thought. Does a make creates it. Or if this already exists with different properties, changes all the properties. You can't edit list files from a palette. You have to do that from either a list editor or no pad depending on your level of experience. Yeah, DWT file that's absolutely another webinar topic on templates. You inherited our tool palette. So I don't know how it was originally set up. But I've noticed I have three tool palette file locations. Is this something I need to change any issues with this? I'm a big fan of simple. I would probably try and consolidate all that down to a single location, which means that you need to rebuild everything so that you have a single location. Multiple locations is perfectly fine. But if there is a palette that exists in a, and again, in your options, if you have multiple paths in here, it's a hierarchy. So everything that starts at the top gets loaded first. So this location gets loaded first. The next location, the next location. If you have palettes of the same name, you may see both or it may only see the first one that it runs across. So keep that in mind. Oh, you guys have some great questions. So we're going to talk about some of the bonus items. So if you have a server or a location change to the source data, you do not need to recreate the tool palettes or repass each one individually. How many of you have done this? Or you've had a change to your drive letter or your server. And now you have to literally go back through AutoCAD, go to each one of these and go to properties and change this. Right? You're trying too hard. So again, what we're going to do is we're going to come back to, we're going to come back to that profile. Right. So we come back in here, back to support, go to your registered or go to our tool palettes. We're going to go find that tool palettes. So again, I have that webinar tool palette. And again, I'm going to do this open this in no pad. And I'm going to go find that path. So, right? So you're going to see right here, I have this path. So this is the drawing and the path right here. I can now do a control C. I can do control H. And I can replace this with whatever my new path is and hit replace all. Okay, save and close this. Make sure AutoCAD is closed when you do this. Save and close this. Next time you open up AutoCAD, it'll be pointing to all the new places. That's the easiest way to do that. How do you sync palettes locally from a network drive? Well, that's a good question depending on if you are copying local, what I generally recommend is to work with your IT group so that they can set up either a periodic sync or a login sync, where you just overwrite whatever is on the user's local machine. That's going to be the best way to handle that. We have palettes set up on a common driver when I create new tool palette to share it shows up in the same location as the other ATC files. Let's not add to the end of the user's tool palettes any ideas what we may be doing wrong. Okay, when you're setting up a new tool palette. Okay, a new tool palette here. This catalog ATC here, again, if we open this here in no pad, this contains all the palettes. Right. Here's my webinar palette. If the users are pointed to all the same place for this ACTP catalog.ATC is being updated. If you are creating new tool palettes, you have to make sure everyone is out of AutoCAD, make your changes and then come back in and that might be where the problem is. Is there either not pointing to the correct ACTP catalog? If they're pointing locally, it's not going to pick it up. If they're pointing to the common drive, they should be picking it up there. And those are typically what I find out and that may be something where we need to look at a little deeper from the technical standpoint. Do you think AutoCAD will ever improve the tool palettes feature? So it's easier to share tool palettes and palette groups with multi users. I will tell you right now, unless we are squeaking about it to AutoCAD, they are probably not going to put a whole lot of thought process into it. There is, and I'm just a second, there is a link I want to share with all of you. And that link is, and let me get to, you, here's a product information link, basically where you can ask AutoDesk information. Let me see if I've got it here because I use the product feedback, that's what I want. I'm going to put this in here, it's in our main chat, the product feedback. If you guys do not, if you guys don't put in product feedback to AutoDesk, nothing gets changed. So that's what I tell people is go here, put product feedback, the more people who complain about something, the more likely it is to end up on the radar list to be changed. What is the best way to keep the items in the palettes in the order? I place them, they tend to go to the bottom of the palettes. Yes, that again follows that whole right, that's that profile AWS, right? Anything you typically add, and the bottom of the palettes for other users. This is that profile AWS. So unless you are replacing the profile AWS on those machines, the user will have to drag them up to the correct locations. One of the things that I tell people when they're implementing tool palettes is try to do everything that you can. First, and then if you do need to add things later, either warn your users that it's going to be at the bottom of the palette and they have to drag it up. Yep, you can do a select all, cut and replace, and it does reorder it. That is a good suggestion shown. You go into your palette. What he's talking about is she coming here. Right, and I select, I can come up here, right? Right, and I'm going to hold down the shift key. Grab it all, cut, paste, and then it will know what this order is. That is an excellent one, Sean. I haven't done that one in a while. Usually, I go, I'm old school, so I'll actually go back into the AT, I'll actually go into the ATC code here and reorder it in no pad and do it that way. But that is a very good suggestion. That's the easy button. Can you drop a new block from the drawing onto a palette? Absolutely. I can drop things there. Hang on, second we're going to get there. Right, and if you have a drawing with all of your standard blocks inserted, you can use design center to create a palette from that drawing. My issue is one of my palettes always comes up in the wrong location. I have to move it. Wrong location on your screen, or wrong location in the sort order on the side, Sean. Sort order. Yeah, that's going to be your tool palette. Group most likely is controlling that. So that may need to be changed. So this is where you can use design center to create a palette from that drawing. You can also create a new palette from a directory. So you don't have to do it all individually. Come back in here. I'll open up design center. I have my webinar. Here's my electrical. It's just a bunch of these. I'll write mouse click and I'll say create a tool palette of blocks. Can you make a sheet set in a palette? No, you cannot make a sheet set in a palette. Sheetsets are their own separate animal and palettes don't support it. So all I did here was make this electrical directory. And now I have all of those drawings in here and now I can make my changes. Now in my lighting directory here, I have one drawing. That's my lighting standard that has a bunch of blocks in it. I can write mouse click on this. And I can write mouse click on this and I can create a tool palette from that drawing. And once this is done. Now I have all of the blocks that are in this drawing here, this lighting drawing are now in their own separate palette here. All right. That's all I had to show you. One of the questions you guys have.",
+  "total_segments": 467,
+  "total_duration": 2603.68,
+  "extraction_timestamp": "2025-07-11T17:54:35.691373",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "tiny"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high"
+}

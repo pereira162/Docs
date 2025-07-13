@@ -1,0 +1,68 @@
+{
+  "video_id": "nuIJj89C-sA",
+  "video_title": "Converting Linework to Intelligent Walls in AutoCAD Architecture",
+  "folder_name": "Converting Linework to Intelli",
+  "extraction_date": "20250711_230207",
+  "files_created": {
+    "transcript_json": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\transcripts\\nuIJj89C-sA_20250711_230207_transcript.json",
+    "metadata": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\metadata\\nuIJj89C-sA_20250711_230207_metadata.json",
+    "chunks": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\chunks\\nuIJj89C-sA_20250711_230207_chunks.json",
+    "analysis": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\rag_content\\nuIJj89C-sA_20250711_230207_analysis.json",
+    "text": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\rag_content\\nuIJj89C-sA_20250711_230207_text.txt",
+    "chunks_csv": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\chunks\\nuIJj89C-sA_20250711_230207_chunks.csv",
+    "database": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\teste_debug\\Converting Linework to Intelli\\youtube_extracted_data\\rag_content\\nuIJj89C-sA_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 34,
+    "total_chunks": 6,
+    "text_length": 2329,
+    "duration_minutes": 3.566666666666667
+  },
+  "metadata": {
+    "video_id": "nuIJj89C-sA",
+    "title": "Converting Linework to Intelligent Walls in AutoCAD Architecture",
+    "description": "This is a short introduction to creating architectural drawings using intelligent linework in the Architecture toolset.\nTo learn more, visit the Autodesk Knowledge Network article:\nhttps://knowledge.autodesk.com/community/article/291271\n \nWhen designing with the Architecture toolset, users can streamline their documentation process by converting static linework into intelligent linework and leveraging global style controls and the industry standard wall style library.",
+    "uploader": "AutoCAD",
+    "upload_date": "20200327",
+    "duration": 214,
+    "view_count": 17842,
+    "like_count": 100,
+    "comment_count": 4,
+    "thumbnail": "https://i.ytimg.com/vi/nuIJj89C-sA/sddefault.jpg",
+    "url": "https://www.youtube.com/watch?v=nuIJj89C-sA",
+    "extraction_date": "2025-07-11T23:02:11.389859",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "summary": {
+      "total_words": 448,
+      "total_sentences": 19,
+      "avg_words_per_sentence": 23.57894736842105,
+      "language": "en"
+    },
+    "keywords": [
+      "walls",
+      "going",
+      "line",
+      "wall"
+    ],
+    "metadata": {
+      "analysis_version": "2.0_light",
+      "timestamp": "2025-07-11T23:02:50.810273",
+      "processing_mode": "memory_optimized"
+    }
+  },
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": false,
+    "save_audio": false,
+    "reuse_data": false
+  },
+  "reused_data": {
+    "transcript": false,
+    "metadata": false,
+    "audio": false
+  }
+}

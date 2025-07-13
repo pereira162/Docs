@@ -1,0 +1,28 @@
+[
+  {
+    "index": 0,
+    "text": "now when you subscribe to AutoCAD you gain access to seven specialized tool sets ready to download including the architecture toolset this toolset was purpose-built to drastically speed up your architectural design and drafting with over 8,000 intelligent objects and styles let's take a look at how the architecture toolset helps you work faster for our first example we'll perform a simple task inserting a window into a wall with the architecture toolset you no longer have to worry about offsetting the polyline or trimming the wall to size instead simply create the wall you'll be inserting the window into then insert the window finally the hole cuts to the correct width just like that you've completed the task in half the time it would normally take now let's look at how the toolset simplifies lengthening a wall once again we could forget about tedious tasks like using this stretch command and selecting a base point all you have to do is create the wall then select the wall element and",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 999,
+    "word_count": 171,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "d and selecting a base point all you have to do is create the wall then select the wall element and finally adjust the wall to length for our final example let's try tagging model elements in basic AutoCAD you have to perform tasks like creating styles adding attributes and extracting data but once again with the architecture toolset the workflow is simple and efficient start by adding an element to the model then tag the model element and finish by scheduling the tagged elements using AutoCAD 2019 with specialized tool sets you're able to simplify tasks that used to be repetitive and time-consuming allowing you to focus on the most important parts of planning and get even more out of the AutoCAD software you already love [Music]",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 739,
+    "word_count": 128,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

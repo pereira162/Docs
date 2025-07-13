@@ -1,0 +1,80 @@
+[
+  {
+    "index": 0,
+    "text": "Welcome in this exercise we're going to look at how to convert line working to intelligent walls using the AutoCAD architecture tools. Looking at this sample floor plan that we have sketched up in AutoCAD, we can take the AutoCAD architecture toolset and the advantages of applying the create a wall object from the two pallets. So if you right click on it and you choose to apply properties to line work, you can then select the line work that is sketched up.",
+    "start_char": 0,
+    "end_char": 461,
+    "char_count": 460,
+    "word_count": 83,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100,
+      "mode": "basic"
+    }
+  },
+  {
+    "index": 1,
+    "text": "you choose to apply properties to line work, you can then select the line work that is sketched up. This example I'm going to select my AutoParementer walls and all the load bearing walls in this floor plan and I'm going to confirm my selection with the ender key. And the first prompt that I get is to erase the layout or the tree which means if you would like to erase the line work that you just selected. So the default option is no which means to keep the line work and this is what I'm going to choose in this example.",
+    "start_char": 361,
+    "end_char": 886,
+    "char_count": 524,
+    "word_count": 103,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100,
+      "mode": "basic"
+    }
+  },
+  {
+    "index": 2,
+    "text": "ption is no which means to keep the line work and this is what I'm going to choose in this example. And now I can see that my walls have been created however the justification of the walls is still in the middle. So right in the middle of the line work I have selected and I would like to adjust it to the left. So it goes from the AutoParementer of my walls to the inner wall. And also I would like to adjust my wall width to 300 units as my floor plan has been designed to be 300 unit tick walls for all the load bearing walls.",
+    "start_char": 786,
+    "end_char": 1316,
+    "char_count": 529,
+    "word_count": 110,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100,
+      "mode": "basic"
+    }
+  },
+  {
+    "index": 3,
+    "text": "units as my floor plan has been designed to be 300 unit tick walls for all the load bearing walls. And then I can switch to the isometric view and apply the realistic view style to see how my line work has been converted. And also the advantages of in the AutoParementer architecture tool set is that it comes with a minority of industry standard wall styles that I can choose from my style's browser. Once my style's browser is loaded I can then go ahead and apply a particular wall style or I can also search for style. In this example I'm going to search for brick for brick wall.",
+    "start_char": 1216,
+    "end_char": 1801,
+    "char_count": 583,
+    "word_count": 111,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100,
+      "mode": "basic"
+    }
+  },
+  {
+    "index": 4,
+    "text": "style or I can also search for style. In this example I'm going to search for brick for brick wall. And as you can see here we have a variety of different brick walls. So in my example I'm going to choose this style here and I'm using the QuickSelect option to filter out the entire drawing on the walls that I have just created. And I'm going to right click on the wall style that I would like to apply for this selection. So once I have applied the desired wall style I can then again go into an isometric view and easily verify how my walls with all the materials have been created.",
+    "start_char": 1701,
+    "end_char": 2287,
+    "char_count": 585,
+    "word_count": 115,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100,
+      "mode": "basic"
+    }
+  },
+  {
+    "index": 5,
+    "text": "go into an isometric view and easily verify how my walls with all the materials have been created. Thank you for watching this demonstration.",
+    "start_char": 2187,
+    "end_char": 2687,
+    "char_count": 141,
+    "word_count": 24,
+    "metadata": {
+      "chunk_size": 500,
+      "overlap": 100,
+      "mode": "basic"
+    }
+  }
+]

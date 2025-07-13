@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "total_words": 1000,
+    "total_sentences": 2,
+    "avg_words_per_sentence": 500.0,
+    "language": "en"
+  },
+  "keywords": [
+    "gonna",
+    "one"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T16:43:09.110211",
+    "processing_mode": "memory_optimized"
+  }
+}

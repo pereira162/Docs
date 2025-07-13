@@ -1,0 +1,67 @@
+{
+  "video_id": "mY5yz8nsvIk",
+  "video_title": "DETAILING Part 8 - (Page Setup and Printing) in AutoCAD Architecture 2023",
+  "folder_name": "DETAILING Part 8 - (Page Setup",
+  "extraction_date": "20250711_163504",
+  "files_created": {
+    "transcript_json": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\transcripts\\mY5yz8nsvIk_20250711_163504_transcript.json",
+    "metadata": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\metadata\\mY5yz8nsvIk_20250711_163504_metadata.json",
+    "chunks": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\chunks\\mY5yz8nsvIk_20250711_163504_chunks.json",
+    "analysis": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\rag_content\\mY5yz8nsvIk_20250711_163504_analysis.json",
+    "text": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\rag_content\\mY5yz8nsvIk_20250711_163504_text.txt",
+    "chunks_csv": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\chunks\\mY5yz8nsvIk_20250711_163504_chunks.csv",
+    "database": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\TESTE_CHUNKS_CORRIGIDO_v24\\DETAILING Part 8 - (Page Setup\\youtube_extracted_data\\rag_content\\mY5yz8nsvIk_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 337,
+    "total_chunks": 100,
+    "text_length": 32875,
+    "duration_minutes": 39.583333333333336
+  },
+  "metadata": {
+    "video_id": "mY5yz8nsvIk",
+    "title": "DETAILING Part 8 - (Page Setup and Printing) in AutoCAD Architecture 2023",
+    "description": "🎓3D Modeling With AutoCAD Architecture course: \nhttps://learn.tdvisionuniversity.com/courses/3d-autocad-architecture-beginners-intermediate-course\n🎓Views, Annotations and Sheets with AutoCAD Architecture course: https://learn.tdvisionuniversity.com/courses/views-annotations-with-autocad-architecture\n\n---\n\nEpisode 24- One Bedroom Series\n\nIn this video, I went through the basic steps on how to set up a sheet to printing in AutoCAD Architecture 2020/2021. At the end of this video, you should become familiar with sheet templates, field texts, sheet set manager, sheet sets, subsets, project navigator, title blocks, etc.\n\nI hope that you learn a thing or 3. Do me a flavour - try one of the below...\n\nSubscribe / Share / Comment / Like\n\nTIMELINE CONTENT\n0:00 - Intro\n1:45 - How to do a basic Location Map\n3:16 - Field Text and Project Details\n6:48 - Sheet Template\n12:46 - Sheet Set Manager, Sheet Sets and Subsets\n14:40 - Creating New Sheets/Modify Sheet Properties\n20:29 - Adding Views to Sheets\n22:45 - Creating a Sheet List/Table of Content\n24:50 - Adding Views to Sheets (con't)\n32:55 - Mapping Callouts and Section Tags\n34:55 - Printing and Reviewing\n38:28 - Outro\n\n---\n\n***RESOURCES***\n\n⭐ See full playlist here (All Episodes)\nhttps://youtube.com/playlist?list=PLyLLcCaRflgCTuP493CZuUOFdMdh-a_jc\n\n⭐Download PDFs: One Bedroom House Complete Drawing Set\nhttps://tdvisionuniversity.com/store/p/all-pdf-from-one-bedroom-house-series\n\n⭐ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4Pjm4B8uD6XQJhvkPu6ETA/join\n\n⭐ Or join my Patreon Page:\nhttps://www.patreon.com/tdvision\n\n---\n\n#Jamaica #OneBedroomHouse #AutoCAD #Architecture \n\n---\n\nGEARS I USE:\nhttps://kit.co/TDVisionU\n\nFOLLOW ME ON SOCIAL MEDIA:\nhttps://linktr.ee/tdvisionu\n\nCREDITS:\nMusic: Youtube Audio Library (free audio)",
+    "uploader": "TD Vision U",
+    "upload_date": "20210418",
+    "duration": 2375,
+    "view_count": 36843,
+    "like_count": 774,
+    "comment_count": 111,
+    "thumbnail": "https://i.ytimg.com/vi/mY5yz8nsvIk/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=mY5yz8nsvIk",
+    "extraction_date": "2025-07-11T14:28:12.187294",
+    "extractor_version": "3.0.0",
+    "proxy_used": null,
+    "reused_from": "storage\\AutoCAD Architecture 2023 Tutorial\\[24] DETAILING Part 8 - (Page\\youtube_extracted_data\\metadata\\mY5yz8nsvIk_20250711_161428_metadata.json",
+    "reused_timestamp": "2025-07-11T16:35:04.966127"
+  },
+  "analysis_summary": {
+    "summary": {
+      "total_words": 1000,
+      "total_sentences": 40,
+      "avg_words_per_sentence": 25.0,
+      "language": "en"
+    },
+    "keywords": [
+      "project"
+    ],
+    "metadata": {
+      "analysis_version": "2.0_light",
+      "timestamp": "2025-07-11T16:35:05.832123",
+      "processing_mode": "memory_optimized"
+    }
+  },
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": true,
+    "save_audio": false,
+    "reuse_data": true
+  },
+  "reused_data": {
+    "transcript": true,
+    "metadata": true,
+    "audio": false
+  }
+}

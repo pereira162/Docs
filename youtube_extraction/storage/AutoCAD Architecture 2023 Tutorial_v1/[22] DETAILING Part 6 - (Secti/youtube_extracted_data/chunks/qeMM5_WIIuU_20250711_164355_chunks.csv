@@ -1,0 +1,310 @@
+chunk_id,content
+0,"Hello everybody!
+Welcome back to the channel and in today's episode we're going to be finishing up our section
+out elevation views.
+Be as a calli so that they can look something more like this.
+You know what I mean?
+So we're going to just add some annotations.
+I'm going to just wrap it up, bling bling bling bling bling bling bling.
+So if that's something you're interested in, you can go ahead and download the PDF for this video
+in the description below.
+And while you're going down there, just hit the like button and guess what?
+If you want to subscribe it, hit the subscribe button.
+And drop a comment.
+When I'll laugh, let's get into the video.
+Alright, so here we are back in AutoCard architecture and today we're going to be finalizing
+all of the drawings.
+If time allows it, that we have left to do.
+So we do have these sectional elevations and we have some detailed views that we need to
+get done.
+As you can see, I have already gone ahead and you know, get some out of the way.
+But I'm go"
+1,"et done.
+As you can see, I have already gone ahead and you know, get some out of the way.
+But I'm going to be showing you these two here, which should give you a pretty good understanding
+of how to achieve all of what you're seeing here.
+Alright, so let's go back over to the elevation views.
+Now before I get to this, if you miss the elevation views in the previous episode, go
+and watch that video.
+Because some of the things I'm going to be doing in today's video, you're going to have
+to watch this video to understand how to do that.
+If you already don't know how to.
+So far, in stance, we brought in the side plan again into this drawing and we dropped it to
+three foot six inches so that it looks properly on here.
+However, one of the things I actually want to do is to turn off the trees because I don't
+want to see them in these elevation views.
+Alright, so I'm going to go to my freeze tool and I'm going to actually freeze and then
+I'm going to refresh these drawings.
+Alright, so I'm just"
+2,"and I'm going to actually freeze and then
+I'm going to refresh these drawings.
+Alright, so I'm just like that we get rid of the trees.
+No, I'm actually going to move these over a little bit more cars.
+Shift this over and then I might shift this one itself over some more.
+So first rule of action here, noise to get rid off of the hatching.
+And as you can see, we have some gray thing inside of the wall, which I absolutely hate
+as well as this red line running around edge off everything basically.
+So we're going to turn those off.
+So what we did in the last video, the same thing we're going to do again, click on the drawing
+with the view and we're going to go to edit style and we're going to go over to display
+properties and then this little button right here.
+From here we can go ahead and turn off surface hatching.
+We can also turn off shrink wrap.
+Everything that says shrink wrap.
+Turn them off.
+We're going to hit OK.
+OK.
+And as you can see, now we have the true vision of what we want t"
+3,"em off.
+We're going to hit OK.
+OK.
+And as you can see, now we have the true vision of what we want to see.
+Yeah, understand.
+The only thing that I am not seeing are some hatching underneath here to represent like the
+earth as well as the backfill and compacted hardcore.
+So let's go ahead and do that.
+So I'm going to be using polyline and I want to add one foot off hardcore on the need
+to floor.
+So I'm going to draw a line from here going up two feet, six inches and then I'm going
+to go across like that.
+And I'm going to repeat that process two more times for the rest of the foundation.
+All right.
+Repeat that again.
+So these areas will become the backfill areas.
+And then I kind of want to also hatch underneath here to show earth.
+So I'm going to use pyline this time and I'm going to just draw some random lines.
+All right.
+So let's go ahead and start to hatch.
+Age for hatch.
+And the first place I'm going to hatch is in the hardcore which I'm going to be using
+a gravel pattern to do this"
+4,"place I'm going to hatch is in the hardcore which I'm going to be using
+a gravel pattern to do this gravel and I'm going to set that at a mere eight scale that
+should give me a good level.
+Looks good.
+That.
+So that's my compacted hardcore and backfill.
+So now we're going to hatch again.
+Now we're going to hatch the earth.
+So we're going to scroll and we're going to look for earth.
+I think it's up some scrolling up earth.
+And I'm going to make this 15.
+And I'm also going to make it 45 degree angle.
+And then we can go ahead and hatch these areas with the earth.
+All right.
+So there we go.
+I'm going to hit OK.
+So now we have earth and then we have compacted hardcore.
+I'm going to delete a spyla in the north as I don't want to.
+Nice.
+Oh.
+You know what I forgot to do?
+I forgot to create a layer for hatching.
+So I'm going to go to my layer properties here.
+I'm going to create a brand new layer.
+I'm going to call it a hatch.
+I'm going to give it a color node that is gray.
+I'm going to use this"
+5,"I'm going to call it a hatch.
+I'm going to give it a color node that is gray.
+I'm going to use this gray and I'm going to make it.
+No, that means a lighter gray and I'm going to make it a true color because if you're
+watching previous video, you know what this does, we hit OK.
+And the line weight, I'm going to make it about 15.
+OK.
+And so I'm going to replace it all at each hatching on that layer.
+So there we go.
+All right.
+So that takes care of that.
+All right.
+So the next thing I'm going to do here is to add our belt beam inside of the walls and also
+lintels over the windows.
+All right.
+Now, there's a tool that we can actually use, which I'm going to be exploring more
+as we get into the details side of things.
+But for now, you'll get a snap-sys of how it works.
+So on your tool palette, when you go down to detailing, and we're going to click on concrete.
+And right away, we have a beams activated, which is actually what I want.
+We're going to use a custom size.
+I'm going to make it si"
+6,"activated, which is actually what I want.
+We're going to use a custom size.
+I'm going to make it six inches wide by a one foot deep.
+And of course, I want to get rid of the shumford edges.
+So I'm going to say no.
+Do I want the steel reinforcement inside of it at this point?
+No.
+So I turned those off and normalize with this.
+So I'm going to be placing this at various points throughout the building mainly where
+the wall ends at the top of the building.
+But one wasn't placed properly.
+This one wasn't placed properly.
+So I'm going to fix it.
+So a little bit lower than where it should be.
+So, a little bit up.
+Yeah.
+So that's the bell beam that is wrapping around the building at the top of the wall.
+Now I want to place lintel and guess what is the same process?
+All I'm going to be doing is to make it eight inches deep instead of one foot.
+Do I need reinforcement?
+No.
+Shumford?
+No.
+Now, if you notice, it's the base point is at the top.
+And I actually want to make the base point at the bottom"
+7,"notice, it's the base point is at the top.
+And I actually want to make the base point at the bottom.
+So I'm going to say flip along the X just like that.
+And then drop it all the top of the window.
+Drop it on top of that window.
+If we had a door, we would do the same thing.
+But not seeing any door from this view.
+So yeah.
+Basically, when you're caught through the building, you should be seeing the bell beam and also
+the lintels are both the windows and doors.
+So that's what that is.
+All right.
+The next thing I'm going to do is to go back to our tool palette and we're going to go
+down to document.
+Because I want to use this tool right here to create some level markers.
+All right.
+So I'm going to drop my first one at the finish for a level.
+Maybe like I'm going to make it zero degrees.
+And then we're going to draw a line from here inwards.
+Maybe to a more this point.
+Turn my awesome mode on.
+I'm going to make that line much that line to the same layer as that.
+I'm going to make this lin"
+8,"on.
+I'm going to make that line much that line to the same layer as that.
+I'm going to make this line.
+Maybe like a phantom or something phantom.
+Yeah.
+So that's going to be my level marker.
+And I'm going to put a text on top of it.
+And I'm going to call it finished.
+Then I'm going to call it that.
+Make this a little bit longer.
+Blank that.
+And then I'm going to copy this from here up to top of my building.
+And I'm going to say call this wall plate.
+That's where the wall plate starts.
+Are you can say top of beam, top of built, something like that.
+You can do it on both sides.
+I'm going to actually just do it on one side of the building.
+And yeah, leave it at that.
+Then we're going to add some dimensions now.
+So let's use a big point.
+I want to add some dimension.
+The first dimension I'm going to add is between my two points here.
+So that's the distance between levels there.
+Actually, I probably should add one at the base of the different thing.
+I could do that.
+Let's add one down here."
+9,"robably should add one at the base of the different thing.
+I could do that.
+Let's add one down here.
+And call this.
+And let's leave it at that.
+I'm going to add extension line to here.
+And good.
+So our foundation is 4 feet deep.
+So we're going to add some more dimensions.
+By the way, guys, before you start to add any of these, please, I'm asking you.
+Remember to set your scale.
+All right, I forgot to mention that.
+So if your dimension or text is coming out at a wrong size, like it too bigger, too small,
+that's because you're on the wrong scale.
+So set your scale before you start to add any of these worded items.
+Now we're going to add some dimension to our windows.
+So pick my picking my points here and turn drag it out.
+And I drop my windows size right there.
+I'm going to put some dimensions for the countertop as well as the case work.
+And if you put it right there, I'm going to pull these back somewhat and move this back.
+I'm going to drop another one for this window.
+Now I'm bearing"
+10,"se back somewhat and move this back.
+I'm going to drop another one for this window.
+Now I'm bearing my own guys that you only want to show height of objects.
+You don't want to be shown without anything because those dimensions, as I said before,
+in previous episodes that those dimensions are found on the floor plan.
+So we just need to represent height on these drawings.
+All right, we do have one more window over here, which again, we need to show.
+So I'm going to actually put it on the outside of the building rather than inside.
+I'm not right there.
+All right, one dimension that is missing and that is one from the ceiling down to the ground.
+I don't know what I'm using that AEC.
+I'm going to place it right there.
+All right, let's add some text now.
+So we're going to label the rooms.
+So this will be the kitchen.
+Copy on the piece one here.
+And then I want there.
+So this would be bathroom.
+And then we go over to the bedroom.
+Now so, and then we can go ahead and start to add some other in"
+11,"And then we go over to the bedroom.
+Now so, and then we can go ahead and start to add some other information in.
+So for instance, I'm going to be adding inside of this area here.
+Come, pocket hard.
+All right, so this is like some gravel and our limestone, whatever it is that you put on
+the floor as a stabilizing agent to keep the floor in check.
+Make sure that it doesn't sink or fall in or anything like that.
+All right, I'm going to copy this over to these other areas.
+I mean, this area is a little bit narrow, so I'm not going to put any in there.
+These two will suffice.
+And of course, we know that underneath here is the earth.
+So all that's left is for me to add this note here, which I written up earlier before,
+because it's so long.
+I couldn't bother to type it in this video, so I typed it ahead of time.
+And this is basically a label for the wall telling us what type of wall it is and what is in the wall.
+And that kind of stuff has a lot of information in there.
+Then I'm going to go"
+12,"what is in the wall.
+And that kind of stuff has a lot of information in there.
+Then I'm going to go over to my elevation view and copy some stuff like the slope.
+And I'm also going to copy this note right here.
+Copy.
+Paste.
+So I kind of want this right there as usual.
+And I'm going to put this one in the black right here.
+But I'm going to write something else in there, timber, roof covering to all our stripes.
+Yeah, all right.
+So that would be it for this.
+I'm not leaving anything out.
+I feel you know, in a feel like you're leaving something out, but it just can't point your finger at it.
+Okay, I think I figured it out.
+All right."
+13,"omething out, but it just can't point your finger at it.
+Okay, I think I figured it out.
+All right. So we do have to put in our FFL for a finished rule level.
+And we do want to put one also in for ground level, which would be GL.
+And I think that should be enough for this view.
+I'm going to go ahead and do the next one.
+So let's kind of fast forward that point.
+All right.
+So there we go.
+As you can see, it's a matter of just copying and pasting stuff and just changing things
+around to get.
+I think this would actually do better over here.
+Let me do this one over.
+All right.
+So that wraps it up for this video.
+That is where we're going to stop if you haven't already.
+Hit the subscribe button and like and share.
+That's what we do our own here.
+And I remember, don't load the PDF if you haven't already for your reference.
+All right. So you have some filling up.
+And guess what guys?
+The next episode will be right here.
+So if you haven't seen it as yet,
+watch the next episode.
+Watch the previous episode.
+Our vice versa.
+Whichever one."
+14,"seen it as yet,
+watch the next episode.
+Watch the previous episode.
+Our vice versa.
+Whichever one. Just click one and watch.
+So now's it."

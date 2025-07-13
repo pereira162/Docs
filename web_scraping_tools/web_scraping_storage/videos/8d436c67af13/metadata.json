@@ -1,0 +1,13 @@
+{
+  "type": "html5",
+  "sources": [
+    "https://help.autodesk.com/videos/58208370-71e5-11ef-8c2b-6d676b55b6fd/video.webm",
+    "https://help.autodesk.com/videos/58208370-71e5-11ef-8c2b-6d676b55b6fd/video.mp4"
+  ],
+  "poster": "https://help.autodesk.com/videos/58208370-71e5-11ef-8c2b-6d676b55b6fd/poster",
+  "controls": false,
+  "autoplay": false,
+  "video_id": "8d436c67af13",
+  "local_folder": "web_scraping_storage\\videos\\8d436c67af13",
+  "local_file": "web_scraping_storage\\videos\\8d436c67af13\\video.mp4"
+}

@@ -1,0 +1,340 @@
+[
+  {
+    "index": 0,
+    "text": "Olá, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 1000,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo be",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "o bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "m?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo be",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "o bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "m?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo be",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "o bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "m?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo be",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 14,
+    "text": "o bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE",
+    "start_char": 12600,
+    "end_char": 13600,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 15,
+    "text": "m?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 13500,
+    "end_char": 14500,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 16,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 14400,
+    "end_char": 15400,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 17,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo be",
+    "start_char": 15300,
+    "end_char": 16300,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 18,
+    "text": "o bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE",
+    "start_char": 16200,
+    "end_char": 17200,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 19,
+    "text": "m?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 17100,
+    "end_char": 18100,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 20,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 18000,
+    "end_char": 19000,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 21,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo be",
+    "start_char": 18900,
+    "end_char": 19900,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 22,
+    "text": "o bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE",
+    "start_char": 19800,
+    "end_char": 20800,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 23,
+    "text": "m?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí,",
+    "start_char": 20700,
+    "end_char": 21700,
+    "char_count": 1000,
+    "word_count": 251,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 24,
+    "text": "aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tud",
+    "start_char": 21600,
+    "end_char": 22600,
+    "char_count": 999,
+    "word_count": 250,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 25,
+    "text": "tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?\nE aí, tudo bem?",
+    "start_char": 22500,
+    "end_char": 23500,
+    "char_count": 201,
+    "word_count": 50,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

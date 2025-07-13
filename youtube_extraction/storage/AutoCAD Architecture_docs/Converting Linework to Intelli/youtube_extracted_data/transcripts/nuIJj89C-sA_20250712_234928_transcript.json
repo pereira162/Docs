@@ -1,0 +1,292 @@
+{
+  "video_id": "nuIJj89C-sA",
+  "language": "en",
+  "is_generated": false,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Welcome. In this exercise we're going to convert Linework to intelligent Walls using the AutoCAD Architecture Toolset",
+      "start": 1.6,
+      "duration": 7.933,
+      "end": 9.533
+    },
+    {
+      "index": 1,
+      "text": "looking up this sample floor plan that was sketched up",
+      "start": 10.666,
+      "duration": 4.9,
+      "end": 15.566
+    },
+    {
+      "index": 2,
+      "text": "in AutoCAD",
+      "start": 15.566,
+      "duration": 1.733,
+      "end": 17.299
+    },
+    {
+      "index": 3,
+      "text": "we can take the",
+      "start": 17.3,
+      "duration": 1.866,
+      "end": 19.166
+    },
+    {
+      "index": 4,
+      "text": "AutoCAD Architecture Toolset and it's advantages by applying",
+      "start": 19.166,
+      "duration": 6.6,
+      "end": 25.766
+    },
+    {
+      "index": 5,
+      "text": "the create a wall object from the Tool Palettes",
+      "start": 25.766,
+      "duration": 4.866,
+      "end": 30.631999999999998
+    },
+    {
+      "index": 6,
+      "text": "right-click on it and choose \"Apply tool Properties to > Linework\"",
+      "start": 30.633,
+      "duration": 5.066,
+      "end": 35.699
+    },
+    {
+      "index": 7,
+      "text": "then select the Linework",
+      "start": 35.7,
+      "duration": 3.533,
+      "end": 39.233000000000004
+    },
+    {
+      "index": 8,
+      "text": "the this example we are selecting the outer perimeter Walls and all the load bearing Walls in this floor plan",
+      "start": 39.233,
+      "duration": 8.5,
+      "end": 47.733
+    },
+    {
+      "index": 9,
+      "text": "and I'm going to confirm my selection with the Enter key",
+      "start": 47.733,
+      "duration": 5.1,
+      "end": 52.833
+    },
+    {
+      "index": 10,
+      "text": "and the first prompt that we get is \"Erase the layout geometry\" which means to either erase ot keep the Linework that was selected",
+      "start": 52.833,
+      "duration": 10.433,
+      "end": 63.266
+    },
+    {
+      "index": 11,
+      "text": "the default option is \"No\" which means to keep the linework which we are choosing in this example",
+      "start": 63.266,
+      "duration": 9.533,
+      "end": 72.79899999999999
+    },
+    {
+      "index": 12,
+      "text": "now we can see that the Walls have been created with the justification of the Walls in the middle",
+      "start": 72.8,
+      "duration": 9.133,
+      "end": 81.93299999999999
+    },
+    {
+      "index": 13,
+      "text": "and we are going to adjust the justification to the left, so the Walls are positioned from the outer perimeter to the inner",
+      "start": 81.933,
+      "duration": 8.5,
+      "end": 90.433
+    },
+    {
+      "index": 14,
+      "text": "and also we are going to adjust",
+      "start": 90.433,
+      "duration": 6.633,
+      "end": 97.066
+    },
+    {
+      "index": 15,
+      "text": "Wall width to 300 units",
+      "start": 97.066,
+      "duration": 3.9,
+      "end": 100.96600000000001
+    },
+    {
+      "index": 16,
+      "text": "as the floor plan was designed to have 300 units",
+      "start": 100.966,
+      "duration": 3.566,
+      "end": 104.532
+    },
+    {
+      "index": 17,
+      "text": "thick Walls, for all the load bearing Walls",
+      "start": 104.533,
+      "duration": 5.833,
+      "end": 110.366
+    },
+    {
+      "index": 18,
+      "text": "and then switch to an isometric view",
+      "start": 110.366,
+      "duration": 3.666,
+      "end": 114.032
+    },
+    {
+      "index": 19,
+      "text": "and",
+      "start": 114.033,
+      "duration": 2.733,
+      "end": 116.766
+    },
+    {
+      "index": 20,
+      "text": "apply the realistic view style to see the results of the converted Linework",
+      "start": 116.766,
+      "duration": 8.5,
+      "end": 125.266
+    },
+    {
+      "index": 21,
+      "text": "and the additional advantages of the AutoCAD Architecture Toolset are that it ships with a variety of industry standard Wall styles",
+      "start": 125.266,
+      "duration": 10.933,
+      "end": 136.199
+    },
+    {
+      "index": 22,
+      "text": "that you can choose from the Styles Browser",
+      "start": 136.2,
+      "duration": 7.333,
+      "end": 143.533
+    },
+    {
+      "index": 23,
+      "text": "when the styles browser was loaded",
+      "start": 143.533,
+      "duration": 4.033,
+      "end": 147.56599999999997
+    },
+    {
+      "index": 24,
+      "text": "go ahead and apply",
+      "start": 147.566,
+      "duration": 2.533,
+      "end": 150.099
+    },
+    {
+      "index": 25,
+      "text": "a particular Wall style or simply search for the desired style",
+      "start": 150.1,
+      "duration": 4.666,
+      "end": 154.766
+    },
+    {
+      "index": 26,
+      "text": "in this example we are are searching for a Brick",
+      "start": 154.766,
+      "duration": 10.166,
+      "end": 164.932
+    },
+    {
+      "index": 27,
+      "text": "Wall style",
+      "start": 164.933,
+      "duration": 2.166,
+      "end": 167.099
+    },
+    {
+      "index": 28,
+      "text": "as can be seen here there is a variety of different Brick Wall styles and I am choosing",
+      "start": 167.1,
+      "duration": 7.366,
+      "end": 174.466
+    },
+    {
+      "index": 29,
+      "text": "the Brick-X style",
+      "start": 174.466,
+      "duration": 2.4,
+      "end": 176.866
+    },
+    {
+      "index": 30,
+      "text": "I'm using the Quick Select option to filter the entire drawing on the Walls, that we just",
+      "start": 176.866,
+      "duration": 7.233,
+      "end": 184.09900000000002
+    },
+    {
+      "index": 31,
+      "text": "created",
+      "start": 184.1,
+      "duration": 3.733,
+      "end": 187.833
+    },
+    {
+      "index": 32,
+      "text": "and by right-clicking on the Wall style to apply it",
+      "start": 187.833,
+      "duration": 4.733,
+      "end": 192.566
+    },
+    {
+      "index": 33,
+      "text": "to the selected Walls",
+      "start": 192.566,
+      "duration": 2.566,
+      "end": 195.132
+    },
+    {
+      "index": 34,
+      "text": "once I applied the",
+      "start": 195.133,
+      "duration": 2.333,
+      "end": 197.466
+    },
+    {
+      "index": 35,
+      "text": "desired Walls style. I can then go again in an isometric view",
+      "start": 197.466,
+      "duration": 6.7,
+      "end": 204.166
+    },
+    {
+      "index": 36,
+      "text": "and",
+      "start": 204.166,
+      "duration": 1.333,
+      "end": 205.499
+    },
+    {
+      "index": 37,
+      "text": "easily verify how the Walls with all the meterials were created.",
+      "start": 205.5,
+      "duration": 5.066,
+      "end": 210.566
+    },
+    {
+      "index": 38,
+      "text": "Thank you for watching this demonstration.",
+      "start": 211.533,
+      "duration": 2.566,
+      "end": 214.099
+    }
+  ],
+  "full_text": "Welcome. In this exercise we're going to convert Linework to intelligent Walls using the AutoCAD Architecture Toolset looking up this sample floor plan that was sketched up in AutoCAD we can take the AutoCAD Architecture Toolset and it's advantages by applying the create a wall object from the Tool Palettes  right-click on it and choose \"Apply tool Properties to > Linework\"  then select the Linework the this example we are selecting the outer perimeter Walls and all the load bearing Walls in this floor plan and I'm going to confirm my selection with the Enter key and the first prompt that we get is \"Erase the layout geometry\" which means to either erase ot keep the Linework that was selected the default option is \"No\" which means to keep the linework which we are choosing in this example  now we can see that the Walls have been created with the justification of the Walls in the middle and we are going to adjust the justification to the left, so the Walls are positioned from the outer perimeter to the inner and also we are going to adjust  Wall width to 300 units as the floor plan was designed to have 300 units  thick Walls, for all the load bearing Walls and then switch to an isometric view and apply the realistic view style to see the results of the converted Linework  and the additional advantages of the AutoCAD Architecture Toolset are that it ships with a variety of industry standard Wall styles  that you can choose from the Styles Browser when the styles browser was loaded go ahead and apply  a particular Wall style or simply search for the desired style in this example we are are searching for a Brick  Wall style as can be seen here there is a variety of different Brick Wall styles and I am choosing  the Brick-X style I'm using the Quick Select option to filter the entire drawing on the Walls, that we just created and by right-clicking on the Wall style to apply it to the selected Walls once I applied the desired Walls style. I can then go again in an isometric view and easily verify how the Walls with all the meterials were created. Thank you for watching this demonstration.",
+  "total_segments": 39,
+  "total_duration": 214.099,
+  "extraction_timestamp": "2025-07-11T22:11:25.308398",
+  "transcript_info": {
+    "language": "en",
+    "type": "manual"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct",
+  "reused_from": "storage\\AutoCAD_Architecture_docs_video_01\\Converting Linework to Intelli\\youtube_extracted_data\\transcripts\\nuIJj89C-sA_20250712_215727_transcript.json",
+  "reused_timestamp": "2025-07-12T23:49:28.214454"
+}

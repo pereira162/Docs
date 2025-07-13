@@ -1,0 +1,68 @@
+{
+  "video_id": "ff89oHwvNsM",
+  "video_title": "All about tool palettes with Ryan Wunderlich",
+  "folder_name": "All about tool palettes with R",
+  "extraction_date": "20250711_175154",
+  "files_created": {
+    "transcript_json": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\transcripts\\ff89oHwvNsM_20250711_175154_transcript.json",
+    "metadata": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\metadata\\ff89oHwvNsM_20250711_175154_metadata.json",
+    "chunks": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\chunks\\ff89oHwvNsM_20250711_175154_chunks.json",
+    "analysis": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\rag_content\\ff89oHwvNsM_20250711_175154_analysis.json",
+    "text": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\rag_content\\ff89oHwvNsM_20250711_175154_text.txt",
+    "chunks_csv": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\chunks\\ff89oHwvNsM_20250711_175154_chunks.csv",
+    "database": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\AutoCAD Architecture_docs\\All about tool palettes with R\\youtube_extracted_data\\rag_content\\ff89oHwvNsM_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 467,
+    "total_chunks": 39,
+    "text_length": 35980,
+    "duration_minutes": 43.483333333333334
+  },
+  "metadata": {
+    "video_id": "ff89oHwvNsM",
+    "title": "All about tool palettes with Ryan Wunderlich",
+    "description": "IMAGINiT expert Ryan Wunderlich shares some of his favorite AutoCAD Tips & Tricks when working with tool palettes. \n• What is a Tool Palette\n•  What can you put into it\n• Customizing & Creating\n• Sharing Tool Palettes",
+    "uploader": "IMAGINiT Technologies",
+    "upload_date": "20220722",
+    "duration": 2609,
+    "view_count": 2982,
+    "like_count": 18,
+    "comment_count": 1,
+    "thumbnail": "https://i.ytimg.com/vi/ff89oHwvNsM/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=ff89oHwvNsM",
+    "extraction_date": "2025-07-11T17:51:58.587126",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "summary": {
+      "total_words": 1000,
+      "total_sentences": 50,
+      "avg_words_per_sentence": 20.0,
+      "language": "en"
+    },
+    "keywords": [
+      "tool",
+      "pallets",
+      "pallet",
+      "put"
+    ],
+    "metadata": {
+      "analysis_version": "2.0_light",
+      "timestamp": "2025-07-11T17:54:35.980720",
+      "processing_mode": "memory_optimized"
+    }
+  },
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": true,
+    "save_audio": false,
+    "reuse_data": true
+  },
+  "reused_data": {
+    "transcript": false,
+    "metadata": false,
+    "audio": false
+  }
+}

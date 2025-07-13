@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "total_words": 448,
+    "total_sentences": 19,
+    "avg_words_per_sentence": 23.57894736842105,
+    "language": "en"
+  },
+  "keywords": [
+    "walls",
+    "going",
+    "line",
+    "wall"
+  ],
+  "metadata": {
+    "analysis_version": "2.0_light",
+    "timestamp": "2025-07-11T23:08:10.909388",
+    "processing_mode": "memory_optimized"
+  }
+}

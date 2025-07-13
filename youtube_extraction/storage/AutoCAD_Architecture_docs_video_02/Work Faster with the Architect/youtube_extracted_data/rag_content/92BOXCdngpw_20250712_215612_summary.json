@@ -1,0 +1,75 @@
+{
+  "video_id": "92BOXCdngpw",
+  "video_title": "Work Faster with the Architecture toolset | AutoCAD",
+  "folder_name": "Work Faster with the Architect",
+  "extraction_date": "20250712_215612",
+  "files_created": {
+    "transcript_json": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\transcripts\\92BOXCdngpw_20250712_215612_transcript.json",
+    "metadata": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\metadata\\92BOXCdngpw_20250712_215612_metadata.json",
+    "chunks": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\chunks\\92BOXCdngpw_20250712_215612_chunks.json",
+    "analysis": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\rag_content\\92BOXCdngpw_20250712_215612_analysis.json",
+    "text": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\rag_content\\92BOXCdngpw_20250712_215612_text.txt",
+    "chunks_csv": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\chunks\\92BOXCdngpw_20250712_215612_chunks.csv",
+    "database": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\AutoCAD_Architecture_docs_video_02\\Work Faster with the Architect\\youtube_extracted_data\\rag_content\\92BOXCdngpw_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 45,
+    "total_chunks": 2,
+    "text_length": 1639,
+    "duration_minutes": 1.9666666666666666
+  },
+  "metadata": {
+    "video_id": "92BOXCdngpw",
+    "title": "Work Faster with the Architecture toolset | AutoCAD",
+    "description": "Learn how the Architecture toolset (included with AutoCAD) can speed up your workflows. \n\nCheck out the Productivity Studies here: https://autocadresources.autodesk.com/autocad-productivity-studies\n\nFor more information visit: http://autodesk.com/autocad\n\nGet the latest and greatest tutorials, tips & tricks and product news on the official AutoCAD YouTube channel: https://www.youtube.com/channel/UCLFaiut3Z6IxD4NvkMt4qHQ\n\nStay connected. Join AutoCAD on: \nFacebook: https://www.facebook.com/autocad\nTwitter: https://twitter.com/autocad\nPinterest: http://pinterest.com/autodesk/autocad/ \nLinkedIn: https://www.linkedin.com/company/autodesk\nXing: https://www.xing.com/companies/autodesk\n\nFind more AutoCAD videos in our playlists:\nAutoCAD Webinars https://www.youtube.com/watch?v=Z7j0hRhJOqc&list=PLXEyem_18syOEpO-jBqnZTvGLIE7K1rxV\nLynn Allen's Tips & Tricks for AutoCAD 2016 https://www.youtube.com/watch?v=4ezUKzP7XUg&list=PLXEyem_18syPyQePI33Jon9KnsLemPJjD\nAbout AutoCAD https://www.youtube.com/watch?v=LRMoziUJSbk&list=PLXEyem_18syO3pvMLSJLrN0jKhgCKZgwZ\n\nSimulate and animate stunning 2D and 3D designs with AutoCAD. Professionals rely on our animation software for the simple reason that AutoCAD offers a solid workflow between desktop, cloud, and mobile apps.\n\nOn the AutoCAD YouTube channel, we keep you up-to-date regarding new trends in animation technology and design. Our intuitive modeling, drawing and drafting software has engineers, architects, and designers convinced from all over the world. Closing the gap between digital and manual design and drafting, AutoCAD helps you bring your ideas to life.",
+    "uploader": "AutoCAD",
+    "upload_date": "20190710",
+    "duration": 118,
+    "view_count": 4297,
+    "like_count": 48,
+    "comment_count": 3,
+    "thumbnail": "https://i.ytimg.com/vi_webp/92BOXCdngpw/maxresdefault.webp",
+    "url": "https://www.youtube.com/watch?v=92BOXCdngpw",
+    "extraction_date": "2025-07-12T21:56:17.748559",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "summary": {
+      "total_words": 278,
+      "total_sentences": 1,
+      "avg_words_per_sentence": 278.0,
+      "language": "en"
+    },
+    "keywords": [
+      "wall",
+      "toolset",
+      "autocad",
+      "architecture",
+      "lets",
+      "window",
+      "like",
+      "tasks",
+      "element",
+      "model",
+      "specialized"
+    ],
+    "metadata": {
+      "analysis_version": "2.0_light",
+      "timestamp": "2025-07-12T21:56:19.402863",
+      "processing_mode": "memory_optimized"
+    }
+  },
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": true,
+    "save_audio": false,
+    "reuse_data": true
+  },
+  "reused_data": {
+    "transcript": false,
+    "metadata": false,
+    "audio": false
+  }
+}

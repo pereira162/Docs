@@ -1,0 +1,35 @@
+# Web Documentation Scraper & RAG Extractor - Requirements
+
+# Core web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# RAG and ML
+sentence-transformers>=2.2.2
+transformers>=4.35.0
+torch>=2.0.0
+
+# Text processing
+nltk>=3.8.1
+textstat>=0.7.3
+
+# Optional: Dynamic content (JavaScript sites)
+seleniumbase>=4.20.0
+
+# Optional: Advanced document processing
+# docling>=1.0.0
+
+# Optional: Video transcription
+openai-whisper>=20231117
+ffmpeg-python>=0.2.0
+
+# Optional: Browser automation
+# playwright>=1.40.0
+
+# System utilities
+psutil>=5.9.0

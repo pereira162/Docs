@@ -1,0 +1,67 @@
+{
+  "video_id": "LYBiz6Qxbmo",
+  "video_title": "Introduction to DISPLAY MANAGER (AutoCAD 2024)",
+  "folder_name": "Introduction to DISPLAY MANAGE",
+  "extraction_date": "20250711_175917",
+  "files_created": {
+    "transcript_json": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\transcripts\\LYBiz6Qxbmo_20250711_175917_transcript.json",
+    "metadata": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\metadata\\LYBiz6Qxbmo_20250711_175917_metadata.json",
+    "chunks": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\chunks\\LYBiz6Qxbmo_20250711_175917_chunks.json",
+    "analysis": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\rag_content\\LYBiz6Qxbmo_20250711_175917_analysis.json",
+    "text": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\rag_content\\LYBiz6Qxbmo_20250711_175917_text.txt",
+    "chunks_csv": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\chunks\\LYBiz6Qxbmo_20250711_175917_chunks.csv",
+    "database": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\AutoCAD Architecture_docs\\Introduction to DISPLAY MANAGE\\youtube_extracted_data\\rag_content\\LYBiz6Qxbmo_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 420,
+    "total_chunks": 16,
+    "text_length": 14322,
+    "duration_minutes": 17.25
+  },
+  "metadata": {
+    "video_id": "LYBiz6Qxbmo",
+    "title": "Introduction to DISPLAY MANAGER (AutoCAD 2024)",
+    "description": "🎓3D Modeling With AutoCAD Architecture course: \nhttps://learn.tdvisionuniversity.com/courses/3d-autocad-architecture-beginners-intermediate-course\n🎓Views, Annotations and Sheets with AutoCAD Architecture course: https://learn.tdvisionuniversity.com/courses/views-annotations-with-autocad-architecture\n\n---\n\nIn this video, I will give a basic introduction and understanding of the Display Manager used in AutoCAD Architecture, MEP, and the likes. This video will also touch on various topics such as View Directions, Display Representations, Sets, Display Configurations, etc. At the end of this video, you should be able to setup a simple display configuration using the display manager.\n\nI do hope that you enjoyed this video.\n\nSubscribe if you did. Or like this video.\n\n---\n\n***RESOURSES***\n\n⭐ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4Pjm4B8uD6XQJhvkPu6ETA/join\n\n⭐ Or join my Patreon Page:\nhttps://www.patreon.com/tdvision\n\n⭐ Best AutoCAD Architecture Playlist on the internet\nhttps://www.youtube.com/playlist?list=PLyLLcCaRflgCTuP493CZuUOFdMdh-a_jc\n\n⭐ Previous videos on Skylight (roof windows)\nhttps://youtu.be/6jsMCK8cPj8\n\n⭐ Custom Window Design\nhttps://youtu.be/F4i06iarGGU\n\n---\n\n#autocad2023  #Architecture #smallhousedesign \n\n---\n\nGEARS I USE:\nhttps://kit.co/TDVisionU\n\nFOLLOW ME ON SOCIAL MEDIA:\nhttps://linktr.ee/tdvisionu\n\nCREDITS:\nMusic: YouTube Audio Library (free audio)",
+    "uploader": "TD Vision U",
+    "upload_date": "20220729",
+    "duration": 1035,
+    "view_count": 5694,
+    "like_count": 154,
+    "comment_count": 22,
+    "thumbnail": "https://i.ytimg.com/vi_webp/LYBiz6Qxbmo/maxresdefault.webp",
+    "url": "https://www.youtube.com/watch?v=LYBiz6Qxbmo",
+    "extraction_date": "2025-07-11T17:59:42.315406",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "summary": {
+      "total_words": 1000,
+      "total_sentences": 1,
+      "avg_words_per_sentence": 1000.0,
+      "language": "en"
+    },
+    "keywords": [
+      "display",
+      "view",
+      "manager"
+    ],
+    "metadata": {
+      "analysis_version": "2.0_light",
+      "timestamp": "2025-07-11T17:59:44.328981",
+      "processing_mode": "memory_optimized"
+    }
+  },
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": true,
+    "save_audio": false,
+    "reuse_data": true
+  },
+  "reused_data": {
+    "transcript": false,
+    "metadata": false,
+    "audio": false
+  }
+}

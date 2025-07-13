@@ -1,0 +1,405 @@
+chunk_id,content
+0,"hi so this is episode 9 of our
+one-bedroom house series and today we're
+gonna start working on our roof plan
+design so if you notice in each episode
+as we progress on this project things
+start to get a little bit more technical
+and guess what this video is not an
+exception so you're gonna get into some
+deeper stuff but don't worry it's not
+that if you go when you break it down
+simply enough all right so without
+further ado let's get into it all right
+so we're going to be modeling a hip roof
+for this house and of course there are
+many types of roof as you can see in
+this picture right here but we're
+sticking with probably the most popular
+and second most basic roof of our design
+which is the hip roof following right
+behind the gable roof design it is
+important to note those that AutoCAD
+does not have the ability to auto
+generate a timber roof framing structure
+something that looks like this which
+would include like each rafter each
+truss and each roof member like the
+ridge board and the"
+1,"is which
+would include like each rafter each
+truss and each roof member like the
+ridge board and the hip rafters and all
+of that now there are other software's
+like
+archicad our chief architect that has
+the ability to do this AutoCAD is just
+not one of those software however what
+AutoCAD is capable of doing is to model
+a profile of the roof that looks
+something like this now this is a lot to
+model this is very detail so I would
+rather to simplify it to something that
+looks more like this which is what we're
+going to be modeling in this drawing
+today the reason for doing this is so
+that when we create our sectional views
+we would be able to see the profile and
+all the materials that are present in
+the roof all right so with that said
+let's get into the video so the first
+thing we're going to be doing here is to
+go back to our plan view top 2d
+wireframe now we need to find the roof
+tool which is actually right here under
+the Home tab so you could go down and
+click on a roof or we could g"
+2,"ich is actually right here under
+the Home tab so you could go down and
+click on a roof or we could go to the
+tool pallet and simply select it down
+here as well we're gonna go ahead and
+click on the tool and the first thing
+we're gonna do is to draw a random roof
+outside here it doesn't matter the shape
+or the size just draw something so no
+good time to practice so just click 1 2
+3 4 something that looks like that good
+enough and what we're gonna do is to
+convert this roof so this is considered
+a layout of the roof it's actually not
+the roof as yet so what we're going to
+do to convert this by clicking on this
+button and we're converting it from what
+it is to a standard slab and we're gonna
+erase this geometry so we're gonna hit
+OK and this is what the standard roof
+slab looks like what we're doing really
+is to create the profile first before we
+actually put it on the house so that's
+why we're doing this random one outside
+here so we're gonna click on one of
+these roof slab and we're gon"
+3,"e're doing this random one outside
+here so we're gonna click on one of
+these roof slab and we're gonna copy
+style this is how we create our own
+profile by copying one and modifying it
+so we're copying that style we're gonna
+change the name to no standard roof
+profile you could be more detailed
+of course but I'm just gonna do that for
+this demonstration I'm gonna drag this
+up so we can see what we're looking at
+all right so we're gonna make our
+profile look like what we have on the
+left side of the screen so we should
+have a rafter at the bottom we should
+have this arcing in the middle and a
+roof covering at the top okay so that's
+what
+we want to see here so far we only have
+one material which is this down here we
+need to have some more so we're gonna
+add them up here so this one we're gonna
+change the name to rafters or rafter and
+the thickness of the rafter should be
+what six inches make that zero click and
+we're gonna make the offset to be zero
+as well and so now as we make changes w"
+4,"e that zero click and
+we're gonna make the offset to be zero
+as well and so now as we make changes we
+can see the difference down here so far
+we have the rafter on top of the the
+this zero line I actually want a rafter
+to be in a negative side so we're gonna
+just turn this six into a minus six and
+boom just like that the rafter is now
+inside of the negative portion okay and
+it says zero here that's because it is
+also resting on the zero line so we're
+gonna add our second material by
+clicking on the add component button
+here the second one we're gonna call it
+the psyching and the psyching is how
+thick three and a quarter inch this time
+it's going to be on the positive side so
+we don't need a negative before it so
+now you can see it popping up on top of
+there after just like that I'm gonna add
+our third one which would be the roof
+covering and we're giving the roof
+covering a thickness of three inches
+three inches it can be two inches as
+well or depending on the roof covering
+that you're"
+5,"three inches
+three inches it can be two inches as
+well or depending on the roof covering
+that you're using
+so the typical zinc or galvanized sheet
+would be more than like two inches and
+we wanted to start on top of the circle
+which is already three three quarters so
+we need to write the 3/4 here as well so
+we have
+oops let's go back to the front view so
+we have the rafters below six inches
+thick to the zero mark then we have the
+sacking from zero to three quarters and
+we have the roof covering starting at
+the 3/4 up to the three inches and
+that's it we're gonna hit OK and we're
+good to go
+so now we can go ahead and draw our roof
+on top of this so we're gonna go ahead
+and click here and we're gonna go and go
+to roof and just go ahead and draw your
+alright so we're gonna click the first
+corner here and we always draw the roof
+on the exterior of the wall and the roof
+should always be on a load-bearing wall
+so all of these walls on this house are
+load-bearing so we're good
+click here back"
+6,"oad-bearing wall
+so all of these walls on this house are
+load-bearing so we're good
+click here back down to the third corner
+and as we draw you can see the roof
+coming together I'm gonna click over
+here and that's about it we can hit
+enter so now you can see that we have a
+nice hip roof on top of the house we can
+make this a gable roof if we want we
+could just click on it like that and
+drag these points outwards like so all
+right so now this side becomes gable and
+of course we could make this side gable
+as well by pulling it out like that all
+right what we're gonna be using the hip
+style roof so I undo that back to the
+hip roof I'm gonna go to the front view
+like so by the way let's delete this we
+don't need this anymore all right so we
+go back to the front view and I want to
+just show you a couple of things here
+let me put this in
+right so we can change a couple of
+things about this roof after the fact we
+can actually change the thickness of the
+roof which would be how thick the roof"
+7,"f after the fact we
+can actually change the thickness of the
+roof which would be how thick the roof
+is we could change the edge cut which is
+the cut of the edge from square to plum
+and plum is what looks like this I mean
+you know the regular stuff but I'm gonna
+leave it on square the Metallica stand
+the overhang is 1 foot which is usually
+what we use in Jamaica so the overhang
+is from the edge of the wall to where
+the roof ends okay and we have the plate
+height and in order for me to show you
+the plate height I'm gonna have to go
+back into the 2d the plate ad is right
+where the wall meets the roof okay
+so right here is the plate height so the
+plate right as you can see is 10 feet
+which is the same height of the wall so
+the wall is also 10 feet tall
+we need the roof to sit exactly on top
+of the wall just like that so the plate
+height also need to be 10 feet and then
+finally we can change the slope of the
+roof if we want we can make it 45
+degrees and of course the more degrees
+you add th"
+8,"the slope of the
+roof if we want we can make it 45
+degrees and of course the more degrees
+you add the higher the roof will get so
+we don't want to do that but they're not
+trying to bring it down to 30 degrees
+and it should look something like that
+so once you're satisfied with how the
+roof is laid out then we're gonna go
+back to our top view to D and we're
+satisfied with how the roof is laid out
+now is the time to convert the roof okay
+you do not convert if you're not
+satisfied so we're satisfied we're gonna
+convert and you know this is where we
+would select the one that we had created
+earlier
+so we're gonna sneak that we're gonna
+hear hit the erase button to erase this
+one I'm gonna say okay and just like
+that if I should go to 3d we can see
+that our roof is now the one that we did
+it has the profile it has the rafter
+down here it has the Tsar king and it
+also has the roof covering on top of it
+okay and yeah that's that's what we want
+put it in x-ray so we can see it a
+little better s"
+9,"op of it
+okay and yeah that's that's what we want
+put it in x-ray so we can see it a
+little better so what we're gonna do
+next is to add a fascia board on on the
+edge of these roof okay so let's go back
+to top view 2d and our fascia board
+should be 1 inch by 10 inch so what
+we're gonna do is to draw a box anywhere
+somewhere polyline that box should
+measure 1 inches by 10 inches of course
+you have different size fascia boards so
+you'd go ahead and draw the one that you
+would prefer gonna click close the box
+and we're going to click on the box and
+we're going to right click and go down
+to convert to profile definition just
+like that it says here select your
+insertion point so we're gonna select
+the top left corner as the insertion
+point then it says do we want to create
+a new one or add it to an existing one
+we want to create any one
+now we're gonna call this standard 1 by
+10 fascia profile
+okay and just like that we can now add
+it to the edge of our roof so how do we
+do that we're gonna"
+10,"e
+okay and just like that we can now add
+it to the edge of our roof so how do we
+do that we're gonna click on this go to
+edit style we're gonna go down to roof
+slab edge style so modifying the edge of
+the roof and we need to get it inside of
+here okay so it's pretty simple we're
+gonna copy this one and we're gonna
+paste it and we're gonna rename it to
+standard one by ten fish proof you can
+add a description if you want and then
+we go to default and we would turn these
+off go over to design rules and then
+we're gonna add the fascia okay so we
+check it and we go and select the one
+that we just create so we're gonna click
+on that and we're gonna uncheck this you
+can if you want
+I usually just uncheck it cuz I would I
+don't want it to auto adjust and here we
+can also add a soffit
+which would look something like this we
+could actually create our own soffit
+profile and add it inside here just like
+we did with the fascia profile alright
+once that is done guys that's it you hit
+OK and now we n"
+11,"like
+we did with the fascia profile alright
+once that is done guys that's it you hit
+OK and now we need to add that fascia
+board to the edge of these roof all
+right so that's what we're gonna do I'm
+gonna do this box so I'm gonna go to 3d
+so that you can see see it as it
+happened all right
+first age I'm gonna do is this one so
+this particle this side of the roof has
+three edges and we want to add it to
+this edge right here so we're gonna
+click on that roof and we're gonna go to
+edges over here and we want to change
+the first edge style to the one that we
+create okay
+just like that okay now it has a fascia
+board on it can you see that going to do
+the same thing for this one
+edge go to the first one add the fascia
+board to it we're gonna do the same
+thing around here edge finish the board
+just like that
+I'm in for the last one which is this
+guy right here I'm gonna do the same
+thing yep yep just like that so now all
+four edges of our roof has the fascia
+board added to it let me go perspe"
+12,"p just like that so now all
+four edges of our roof has the fascia
+board added to it let me go perspective
+alright so there we can see that our
+roof is now complete
+now there's one thing that I also wanted
+to do which was to make this wall in the
+middle let me show you this wall I want
+to make this wall so that it goes all
+the way up underneath this roof to
+support the roof we don't have to do it
+but I just want to show you how to get
+that done okay and the same principle
+would apply if we're using a gable roof
+where if the roof goes up in goes up
+like a gable roof you would need this
+wall to go up underneath that roof and
+it's pretty simple alright so what we're
+gonna do is to click on the wall like
+just like that now we're gonna go up
+here where it says where is it roof line
+and we're gonna see modify roof no
+modifier roof line if you're not seeing
+it here you could actually just right
+click and go to roof line modify roof
+line don't you do that we're gonna say
+Auto project so I wante"
+13,"click and go to roof line modify roof
+line don't you do that we're gonna say
+Auto project so I wanted to auto project
+and we need to select the objects that
+we want
+- project - I wanted to project this
+wall to this roof rather as well as this
+one around here so you need to select
+these two hoops to reflect this one just
+like that and then we're gonna hit enter
+and it's done it's done you can't see it
+but it's there let me put it in my frame
+so you can see so now you can see that
+that wall goes all the way up underneath
+the roof to support the roof right there
+in the center okay
+and we could do the same thing for all
+the other walls but I just want that
+particular wall to pop and support
+though okay guys so that's it for this
+video really I won't be going any
+further here believing it right there
+but for now this is what we're going to
+do for the 3d aspect of things okay so
+that's it
+[Music]
+if I turn the roof off you can actually
+see what it looks like without the roof
+so this wall wou"
+14,"ic]
+if I turn the roof off you can actually
+see what it looks like without the roof
+so this wall would go all the way how
+beautiful
+[Music]
+[Music]
+all right and don't forget to hit the
+Save button and also don't forget to eat
+like but alright guys so thank you for
+joining me today if you have any
+questions that are as usual drop them in
+the comments we'll have a discussion
+about it and feel free to share like
+subscribe and see you guys in the next
+video
+[Music]"

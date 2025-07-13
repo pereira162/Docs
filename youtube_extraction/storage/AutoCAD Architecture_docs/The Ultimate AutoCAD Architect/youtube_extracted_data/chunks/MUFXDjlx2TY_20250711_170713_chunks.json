@@ -1,0 +1,158 @@
+[
+  {
+    "index": 0,
+    "text": "In this video, I'm going to walk you through the exact roadmap that I used to design this beautiful two-story residential home, complete with a detached garage in AutoCAD architecture. And the best part, you can apply this same workflow to any project that you're working on. Follow these steps and you will be well on your way to creating the best and most organized designs in AutoCAD architecture yet. So let's dive in, shall we? Hi everyone, I'm Edward, an architectural designer and BIM specialist. And if you're passionate about architectural drafting and design, you're definitely in the right place. So thank you for stopping by. If you find this video helpful, be sure to smash the like button as usual. And leave a comment, you know, I'd love to hear your thoughts. Alright, so let's get into it. Now, these are the seven steps that will take you from start to finish when designing in AutoCAD architecture. In fact, they're the same steps I followed in my free one bedroom series here on YouTube. If you want to check that out, there's a link below the like button.",
+    "start_char": 0,
+    "end_char": 1077,
+    "char_count": 1076,
+    "word_count": 190,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "edroom series here on YouTube. If you want to check that out, there's a link below the like button. And like you saw in the intro of this video, these are the exact steps I used to design this two-story project that we're going to be looking at today. I'm really excited to share these with you because it's easy to get lost without a clear path and trust me, I've been there. And so having a simple repeatable workflow can be the difference between standing on the mountain top or ending up in the dumpster. So without further ado, let's get into it. Alright. So here I have a flow chart that I think will do a great job with breaking things down. And so we will begin on the left and we will make our way to the right. And each of those steps are highlighted in this black box here. So those are your critical steps and everything else kind of just feeds into each of those. So we're going to go through these one by one. Now this is the same flow chart I used in my 3D modeling with AutoCard Architecture course. Also I'll provide a PDF of this that you can download below as well.",
+    "start_char": 977,
+    "end_char": 2062,
+    "char_count": 1084,
+    "word_count": 211,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "AutoCard Architecture course. Also I'll provide a PDF of this that you can download below as well. So you can have it for your reference whenever you need. But I let's jump into it. So the first thing here is project setup. Now a project setup may not be required if you're doing a very simple drawing. If you're doing a simple floor plan layout or you know a interior layout of a kitchen, a bedroom or whatever, you may not need to do this entire process even. However, if you're looking to do projects like the one bedroom house or that two story building, then this process would be the one that you want to follow. Alright. So the first thing you want to do is to do a project setup. So in this step, we have three things that you are going to do. The first one being project information. You want to enter these details such as the project name, project number. You may also want to do a bulletin board, company logo or project image. These are things that I've covered in the course, but they are not critical.",
+    "start_char": 1962,
+    "end_char": 2980,
+    "char_count": 1016,
+    "word_count": 193,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "logo or project image. These are things that I've covered in the course, but they are not critical. These are things you can do afterwards or after the fact, but project name and project number is something that I encourage you to do at the start of the project. And so you want to think carefully about what you do here. Then you move over to project standards. This process entails having a sheet template and a model or view template. You can also have details template. There's a lot that goes into project standards, but these are the basic things that you want to cover. Okay. Make sure you have a sheet with your title block, all of that stuff ready. And then you have a model template that will be used to create all of your future drawings. And it contains all of the settings that you are going to need to start drawing, such as your layers, your font styles, your line types, dimension styles. All of these things are set up within your template and ready to be used when you start to create drawings down the line.",
+    "start_char": 2880,
+    "end_char": 3907,
+    "char_count": 1026,
+    "word_count": 192,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "e set up within your template and ready to be used when you start to create drawings down the line. And then of course in project setup, we want to make sure that we add all the levels that we need as well as the division. So if you're having two levels, then you need to do your level one, your level two. You need to set those elevations. And then if you have divisions, you may have a West Wing and East Wing, a Bird Wing, or a Fly Wing. Whatever that wing is, you want to make sure that you add those divisions into your project setup. All right. Now many of these things can be updated along the way, but I encourage you to set them up at the beginning so that you don't have to worry about them in the future. Once all of that is done, you would move over to your create construct step. And this is where the fun really begins because you start to draw building components. Things like walls, floors, roof, doors, openings, furniture, fixtures, we talk about equipment, stairs, railings, all of these things would be included in this part of the process.",
+    "start_char": 3807,
+    "end_char": 4868,
+    "char_count": 1060,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "out equipment, stairs, railings, all of these things would be included in this part of the process. In this step, you may also enter metadata within the elements that you model or draw. So things like, let's say, fire rating for walls, doors, windows, even. You may want to calculate the volume or the surface area of the roof, or you may want to know how much material is needed for creating the foundation. All of these things can be done by entering metadata or property definitions that contains the formulas that will do all of these calculations. And these data can be retrieved or pulled out of your model later on in the process. So when you start to create schedules, you know, the BOMs or the takeoffs, you can have all of these information be extracted out of your model whenever you get to that point. Again, this is something you can come back to and fix, but it's always good to think about these things whenever you're starting out your project so that you can have it all taken care of. So once that is done, then you want to move over into reviewing your 3D model.",
+    "start_char": 4768,
+    "end_char": 5850,
+    "char_count": 1081,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "t all taken care of. So once that is done, then you want to move over into reviewing your 3D model. This is important. I encourage you to do this before you move on because you may find lots of issues with your drawing. And you want to fix those before starting to create views, which is the next step, right? So to do this, you can do it inside of AutoCAD architecture itself. And this is becoming better because AutoCAD is getting much faster now. But most commonly used, I think, Navis works is a great tool to use to review your drawings. So you would export a file, open it up in Navis, you could fly the model, check everything, make sure everything is where it needs to be, so on and so forth. You also have AutoDesk Viewer and Design Review. All three of these right here are free. So I'm going to drop a link below to where you can download these programs for free. If you find issues with your model, then you need to go back and update your construct.",
+    "start_char": 5750,
+    "end_char": 6713,
+    "char_count": 962,
+    "word_count": 186,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "s for free. If you find issues with your model, then you need to go back and update your construct. So if you found an issue with your wall, your door, one of the appliances or whatever, then of course you need to go back, fix that and then you can move on. The next step in the process would be to create your views. And this is straightforward. What you're doing here is to slice your 3D model into multiple parts or pieces, so to speak. So you're going to have multiple plan views, you're going to have some elevation views, sectional views, callouts, details, 3D views and so on and so forth. And you want to start thinking about the scale that you're going to be printing these at. So for example, floor plans are normally done at a quarter inch scale. Also, you have elevation views that you may do at a half inch scale. But you want to start thinking about that because you're moving to a critical step in the process, which is detailing and annotation. Without this process, the drawing makes no sense.",
+    "start_char": 6613,
+    "end_char": 7624,
+    "char_count": 1010,
+    "word_count": 189,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "n the process, which is detailing and annotation. Without this process, the drawing makes no sense. This is very, very important because the details that you add to the drawing is what the builders and the manufacturers and whoever is going to use this drawing, without the details they are unable to read and interpret the drawing. So we have to provide dimensions, we have to annotate a lot of things on the drawing, we have to add tags if necessary and also create a bunch of schedules like your door schedule, your window schedule, a room schedule, furniture schedule. All of these things can be done in this process. And of course, once you're done with that, then it's time to create your sheets. So you would create how many sheets you need and these sheets would be created from your sheet template that was added from the get go of the project right here. So once your sheets are created, you would add all the views to your sheet. And of course, you would update your tight blocks, make sure that all the information in there is correct and you're good.",
+    "start_char": 7524,
+    "end_char": 8588,
+    "char_count": 1063,
+    "word_count": 193,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "d update your tight blocks, make sure that all the information in there is correct and you're good. And once that's done, you're coming down nicely. You would publish that document. So there are a couple of ways you can publish this. You can send out a DWF file. You can also do PDF, which is the most commonly used version. But you can also export a 3D model. It all depends on what the customer requires or what the customer needs. I like to do both PDF and 3D. Even if the client doesn't require it because at this juncture, I like to review the model one last time. And that is where this process comes in, where I would review both the PDF to make sure everything looks good. But I'll also review the 3D model to make sure that everything is good 3D wise, if that makes sense. And so if I find issues or if something is bad, then I would need to go back to the respective step in the process and make that change.",
+    "start_char": 8488,
+    "end_char": 9407,
+    "char_count": 918,
+    "word_count": 180,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "ng is bad, then I would need to go back to the respective step in the process and make that change. So if I had an incorrect dimensioning or an incorrect note or something, then I need to go back to this step in the process, make that change, save it and push it back through the system. Now, if something is wrong with one of my building elements such as the wall, if a wall is in a wrong location or if a door could slightly move over a little bit or something like that, then I would need to go back to my construct all the way up to step 2, make that change and push it through to ensure that everything is correct. Now, once everything is bingo, everything is good, then you can push it through and send it off to the customer, the client or whoever is at the finishing line here. And so your job is done, it's the another minds job. So this is the process that I follow for all of my projects in AutoCAD architecture. I'll go ahead and download a PDF of this so you can have it for your reference in the future.",
+    "start_char": 9307,
+    "end_char": 10325,
+    "char_count": 1017,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "ture. I'll go ahead and download a PDF of this so you can have it for your reference in the future. And also remember to check out that course as well because in that course, I walk through this process teaching how to draw that two store building from start to finish. So let me know your thoughts in the comments section below and of course, go ahead and subscribe for more insights, tutorials and practical tips like this one. That's it. So I'm going to hit stop over here.",
+    "start_char": 10225,
+    "end_char": 11225,
+    "char_count": 476,
+    "word_count": 90,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

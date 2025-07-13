@@ -1,0 +1,1889 @@
+{
+  "video_id": "qeMM5_WIIuU",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "Hello everybody!",
+      "start": 0.0,
+      "end": 29.0,
+      "duration": 29.0
+    },
+    {
+      "index": 1,
+      "text": "Welcome back to the channel and in today's episode we're going to be finishing up our section",
+      "start": 29.0,
+      "end": 33.8,
+      "duration": 4.799999999999997
+    },
+    {
+      "index": 2,
+      "text": "out elevation views.",
+      "start": 33.8,
+      "end": 35.8,
+      "duration": 2.0
+    },
+    {
+      "index": 3,
+      "text": "Be as a calli so that they can look something more like this.",
+      "start": 35.8,
+      "end": 38.8,
+      "duration": 3.0
+    },
+    {
+      "index": 4,
+      "text": "You know what I mean?",
+      "start": 38.8,
+      "end": 39.8,
+      "duration": 1.0
+    },
+    {
+      "index": 5,
+      "text": "So we're going to just add some annotations.",
+      "start": 39.8,
+      "end": 41.8,
+      "duration": 2.0
+    },
+    {
+      "index": 6,
+      "text": "I'm going to just wrap it up, bling bling bling bling bling bling bling.",
+      "start": 41.8,
+      "end": 45.0,
+      "duration": 3.200000000000003
+    },
+    {
+      "index": 7,
+      "text": "So if that's something you're interested in, you can go ahead and download the PDF for this video",
+      "start": 45.0,
+      "end": 50.6,
+      "duration": 5.600000000000001
+    },
+    {
+      "index": 8,
+      "text": "in the description below.",
+      "start": 50.6,
+      "end": 52.2,
+      "duration": 1.6000000000000014
+    },
+    {
+      "index": 9,
+      "text": "And while you're going down there, just hit the like button and guess what?",
+      "start": 52.2,
+      "end": 55.400000000000006,
+      "duration": 3.200000000000003
+    },
+    {
+      "index": 10,
+      "text": "If you want to subscribe it, hit the subscribe button.",
+      "start": 55.400000000000006,
+      "end": 58.400000000000006,
+      "duration": 3.0
+    },
+    {
+      "index": 11,
+      "text": "And drop a comment.",
+      "start": 58.4,
+      "end": 60.8,
+      "duration": 2.3999999999999986
+    },
+    {
+      "index": 12,
+      "text": "When I'll laugh, let's get into the video.",
+      "start": 60.8,
+      "end": 65.4,
+      "duration": 4.6000000000000085
+    },
+    {
+      "index": 13,
+      "text": "Alright, so here we are back in AutoCard architecture and today we're going to be finalizing",
+      "start": 65.4,
+      "end": 73.0,
+      "duration": 7.599999999999994
+    },
+    {
+      "index": 14,
+      "text": "all of the drawings.",
+      "start": 73.0,
+      "end": 74.4,
+      "duration": 1.4000000000000057
+    },
+    {
+      "index": 15,
+      "text": "If time allows it, that we have left to do.",
+      "start": 74.4,
+      "end": 77.4,
+      "duration": 3.0
+    },
+    {
+      "index": 16,
+      "text": "So we do have these sectional elevations and we have some detailed views that we need to",
+      "start": 77.4,
+      "end": 83.2,
+      "duration": 5.799999999999997
+    },
+    {
+      "index": 17,
+      "text": "get done.",
+      "start": 83.2,
+      "end": 84.2,
+      "duration": 1.0
+    },
+    {
+      "index": 18,
+      "text": "As you can see, I have already gone ahead and you know, get some out of the way.",
+      "start": 84.2,
+      "end": 90.0,
+      "duration": 5.799999999999997
+    },
+    {
+      "index": 19,
+      "text": "But I'm going to be showing you these two here, which should give you a pretty good understanding",
+      "start": 90.0,
+      "end": 95.0,
+      "duration": 5.0
+    },
+    {
+      "index": 20,
+      "text": "of how to achieve all of what you're seeing here.",
+      "start": 95.0,
+      "end": 99.2,
+      "duration": 4.200000000000003
+    },
+    {
+      "index": 21,
+      "text": "Alright, so let's go back over to the elevation views.",
+      "start": 99.2,
+      "end": 103.2,
+      "duration": 4.0
+    },
+    {
+      "index": 22,
+      "text": "Now before I get to this, if you miss the elevation views in the previous episode, go",
+      "start": 103.2,
+      "end": 109.0,
+      "duration": 5.799999999999997
+    },
+    {
+      "index": 23,
+      "text": "and watch that video.",
+      "start": 109.0,
+      "end": 111.0,
+      "duration": 2.0
+    },
+    {
+      "index": 24,
+      "text": "Because some of the things I'm going to be doing in today's video, you're going to have",
+      "start": 111.0,
+      "end": 114.8,
+      "duration": 3.799999999999997
+    },
+    {
+      "index": 25,
+      "text": "to watch this video to understand how to do that.",
+      "start": 114.8,
+      "end": 117.6,
+      "duration": 2.799999999999997
+    },
+    {
+      "index": 26,
+      "text": "If you already don't know how to.",
+      "start": 117.6,
+      "end": 119.8,
+      "duration": 2.200000000000003
+    },
+    {
+      "index": 27,
+      "text": "So far, in stance, we brought in the side plan again into this drawing and we dropped it to",
+      "start": 119.8,
+      "end": 126.4,
+      "duration": 6.6000000000000085
+    },
+    {
+      "index": 28,
+      "text": "three foot six inches so that it looks properly on here.",
+      "start": 126.4,
+      "end": 130.8,
+      "duration": 4.400000000000006
+    },
+    {
+      "index": 29,
+      "text": "However, one of the things I actually want to do is to turn off the trees because I don't",
+      "start": 130.8,
+      "end": 135.9,
+      "duration": 5.099999999999994
+    },
+    {
+      "index": 30,
+      "text": "want to see them in these elevation views.",
+      "start": 135.9,
+      "end": 138.4,
+      "duration": 2.5
+    },
+    {
+      "index": 31,
+      "text": "Alright, so I'm going to go to my freeze tool and I'm going to actually freeze and then",
+      "start": 138.4,
+      "end": 143.20000000000002,
+      "duration": 4.800000000000011
+    },
+    {
+      "index": 32,
+      "text": "I'm going to refresh these drawings.",
+      "start": 143.20000000000002,
+      "end": 145.4,
+      "duration": 2.1999999999999886
+    },
+    {
+      "index": 33,
+      "text": "Alright, so I'm just like that we get rid of the trees.",
+      "start": 145.4,
+      "end": 150.8,
+      "duration": 5.400000000000006
+    },
+    {
+      "index": 34,
+      "text": "No, I'm actually going to move these over a little bit more cars.",
+      "start": 150.8,
+      "end": 155.4,
+      "duration": 4.599999999999994
+    },
+    {
+      "index": 35,
+      "text": "Shift this over and then I might shift this one itself over some more.",
+      "start": 155.4,
+      "end": 159.68,
+      "duration": 4.280000000000001
+    },
+    {
+      "index": 36,
+      "text": "So first rule of action here, noise to get rid off of the hatching.",
+      "start": 159.68,
+      "end": 164.12,
+      "duration": 4.439999999999998
+    },
+    {
+      "index": 37,
+      "text": "And as you can see, we have some gray thing inside of the wall, which I absolutely hate",
+      "start": 164.12,
+      "end": 169.08,
+      "duration": 4.960000000000008
+    },
+    {
+      "index": 38,
+      "text": "as well as this red line running around edge off everything basically.",
+      "start": 169.08,
+      "end": 175.12,
+      "duration": 6.039999999999992
+    },
+    {
+      "index": 39,
+      "text": "So we're going to turn those off.",
+      "start": 175.12,
+      "end": 176.52,
+      "duration": 1.4000000000000057
+    },
+    {
+      "index": 40,
+      "text": "So what we did in the last video, the same thing we're going to do again, click on the drawing",
+      "start": 176.52,
+      "end": 181.88,
+      "duration": 5.359999999999985
+    },
+    {
+      "index": 41,
+      "text": "with the view and we're going to go to edit style and we're going to go over to display",
+      "start": 181.88,
+      "end": 187.12,
+      "duration": 5.240000000000009
+    },
+    {
+      "index": 42,
+      "text": "properties and then this little button right here.",
+      "start": 187.12,
+      "end": 191.4,
+      "duration": 4.280000000000001
+    },
+    {
+      "index": 43,
+      "text": "From here we can go ahead and turn off surface hatching.",
+      "start": 191.4,
+      "end": 194.88,
+      "duration": 3.4799999999999898
+    },
+    {
+      "index": 44,
+      "text": "We can also turn off shrink wrap.",
+      "start": 194.88,
+      "end": 198.08,
+      "duration": 3.200000000000017
+    },
+    {
+      "index": 45,
+      "text": "Everything that says shrink wrap.",
+      "start": 198.08,
+      "end": 200.28,
+      "duration": 2.1999999999999886
+    },
+    {
+      "index": 46,
+      "text": "Turn them off.",
+      "start": 200.28,
+      "end": 201.28,
+      "duration": 1.0
+    },
+    {
+      "index": 47,
+      "text": "We're going to hit OK.",
+      "start": 201.28,
+      "end": 202.56,
+      "duration": 1.2800000000000011
+    },
+    {
+      "index": 48,
+      "text": "OK.",
+      "start": 202.56,
+      "end": 203.56,
+      "duration": 1.0
+    },
+    {
+      "index": 49,
+      "text": "And as you can see, now we have the true vision of what we want to see.",
+      "start": 203.56,
+      "end": 208.32,
+      "duration": 4.759999999999991
+    },
+    {
+      "index": 50,
+      "text": "Yeah, understand.",
+      "start": 208.32,
+      "end": 209.96,
+      "duration": 1.6400000000000148
+    },
+    {
+      "index": 51,
+      "text": "The only thing that I am not seeing are some hatching underneath here to represent like the",
+      "start": 209.96,
+      "end": 215.44,
+      "duration": 5.47999999999999
+    },
+    {
+      "index": 52,
+      "text": "earth as well as the backfill and compacted hardcore.",
+      "start": 215.44,
+      "end": 221.12,
+      "duration": 5.680000000000007
+    },
+    {
+      "index": 53,
+      "text": "So let's go ahead and do that.",
+      "start": 221.12,
+      "end": 222.76,
+      "duration": 1.6399999999999864
+    },
+    {
+      "index": 54,
+      "text": "So I'm going to be using polyline and I want to add one foot off hardcore on the need",
+      "start": 222.76,
+      "end": 228.24,
+      "duration": 5.480000000000018
+    },
+    {
+      "index": 55,
+      "text": "to floor.",
+      "start": 228.24,
+      "end": 229.24,
+      "duration": 1.0
+    },
+    {
+      "index": 56,
+      "text": "So I'm going to draw a line from here going up two feet, six inches and then I'm going",
+      "start": 229.24,
+      "end": 234.32,
+      "duration": 5.079999999999984
+    },
+    {
+      "index": 57,
+      "text": "to go across like that.",
+      "start": 234.32,
+      "end": 239.32,
+      "duration": 5.0
+    },
+    {
+      "index": 58,
+      "text": "And I'm going to repeat that process two more times for the rest of the foundation.",
+      "start": 239.32,
+      "end": 246.32,
+      "duration": 7.0
+    },
+    {
+      "index": 59,
+      "text": "All right.",
+      "start": 246.32,
+      "end": 250.12,
+      "duration": 3.8000000000000114
+    },
+    {
+      "index": 60,
+      "text": "Repeat that again.",
+      "start": 250.12,
+      "end": 255.95999999999998,
+      "duration": 5.839999999999975
+    },
+    {
+      "index": 61,
+      "text": "So these areas will become the backfill areas.",
+      "start": 255.95999999999998,
+      "end": 259.4,
+      "duration": 3.4399999999999977
+    },
+    {
+      "index": 62,
+      "text": "And then I kind of want to also hatch underneath here to show earth.",
+      "start": 259.4,
+      "end": 264.84,
+      "duration": 5.439999999999998
+    },
+    {
+      "index": 63,
+      "text": "So I'm going to use pyline this time and I'm going to just draw some random lines.",
+      "start": 264.84,
+      "end": 278.67999999999995,
+      "duration": 13.839999999999975
+    },
+    {
+      "index": 64,
+      "text": "All right.",
+      "start": 278.67999999999995,
+      "end": 283.28,
+      "duration": 4.600000000000023
+    },
+    {
+      "index": 65,
+      "text": "So let's go ahead and start to hatch.",
+      "start": 283.28,
+      "end": 285.03999999999996,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 66,
+      "text": "Age for hatch.",
+      "start": 285.03999999999996,
+      "end": 286.03999999999996,
+      "duration": 1.0
+    },
+    {
+      "index": 67,
+      "text": "And the first place I'm going to hatch is in the hardcore which I'm going to be using",
+      "start": 286.03999999999996,
+      "end": 290.64,
+      "duration": 4.600000000000023
+    },
+    {
+      "index": 68,
+      "text": "a gravel pattern to do this gravel and I'm going to set that at a mere eight scale that",
+      "start": 290.64,
+      "end": 298.32,
+      "duration": 7.680000000000007
+    },
+    {
+      "index": 69,
+      "text": "should give me a good level.",
+      "start": 298.32,
+      "end": 300.32,
+      "duration": 2.0
+    },
+    {
+      "index": 70,
+      "text": "Looks good.",
+      "start": 300.32,
+      "end": 303.32,
+      "duration": 3.0
+    },
+    {
+      "index": 71,
+      "text": "That.",
+      "start": 303.32,
+      "end": 305.76,
+      "duration": 2.4399999999999977
+    },
+    {
+      "index": 72,
+      "text": "So that's my compacted hardcore and backfill.",
+      "start": 305.76,
+      "end": 310.44,
+      "duration": 4.680000000000007
+    },
+    {
+      "index": 73,
+      "text": "So now we're going to hatch again.",
+      "start": 310.44,
+      "end": 311.91999999999996,
+      "duration": 1.4799999999999613
+    },
+    {
+      "index": 74,
+      "text": "Now we're going to hatch the earth.",
+      "start": 311.91999999999996,
+      "end": 314.52,
+      "duration": 2.6000000000000227
+    },
+    {
+      "index": 75,
+      "text": "So we're going to scroll and we're going to look for earth.",
+      "start": 314.52,
+      "end": 316.68,
+      "duration": 2.160000000000025
+    },
+    {
+      "index": 76,
+      "text": "I think it's up some scrolling up earth.",
+      "start": 316.68,
+      "end": 319.52,
+      "duration": 2.839999999999975
+    },
+    {
+      "index": 77,
+      "text": "And I'm going to make this 15.",
+      "start": 320.08,
+      "end": 323.08,
+      "duration": 3.0
+    },
+    {
+      "index": 78,
+      "text": "And I'm also going to make it 45 degree angle.",
+      "start": 323.08,
+      "end": 326.15999999999997,
+      "duration": 3.079999999999984
+    },
+    {
+      "index": 79,
+      "text": "And then we can go ahead and hatch these areas with the earth.",
+      "start": 326.15999999999997,
+      "end": 332.76,
+      "duration": 6.600000000000023
+    },
+    {
+      "index": 80,
+      "text": "All right.",
+      "start": 332.76,
+      "end": 334.76,
+      "duration": 2.0
+    },
+    {
+      "index": 81,
+      "text": "So there we go.",
+      "start": 334.76,
+      "end": 336.56,
+      "duration": 1.8000000000000114
+    },
+    {
+      "index": 82,
+      "text": "I'm going to hit OK.",
+      "start": 336.56,
+      "end": 339.12,
+      "duration": 2.5600000000000023
+    },
+    {
+      "index": 83,
+      "text": "So now we have earth and then we have compacted hardcore.",
+      "start": 339.12,
+      "end": 342.28,
+      "duration": 3.159999999999968
+    },
+    {
+      "index": 84,
+      "text": "I'm going to delete a spyla in the north as I don't want to.",
+      "start": 342.28,
+      "end": 346.12,
+      "duration": 3.840000000000032
+    },
+    {
+      "index": 85,
+      "text": "Nice.",
+      "start": 346.12,
+      "end": 347.12,
+      "duration": 1.0
+    },
+    {
+      "index": 86,
+      "text": "Oh.",
+      "start": 347.36,
+      "end": 348.36,
+      "duration": 1.0
+    },
+    {
+      "index": 87,
+      "text": "You know what I forgot to do?",
+      "start": 348.36,
+      "end": 350.84000000000003,
+      "duration": 2.480000000000018
+    },
+    {
+      "index": 88,
+      "text": "I forgot to create a layer for hatching.",
+      "start": 350.84000000000003,
+      "end": 353.28000000000003,
+      "duration": 2.4399999999999977
+    },
+    {
+      "index": 89,
+      "text": "So I'm going to go to my layer properties here.",
+      "start": 353.28000000000003,
+      "end": 356.52,
+      "duration": 3.2399999999999523
+    },
+    {
+      "index": 90,
+      "text": "I'm going to create a brand new layer.",
+      "start": 356.52,
+      "end": 359.52,
+      "duration": 3.0
+    },
+    {
+      "index": 91,
+      "text": "I'm going to call it a hatch.",
+      "start": 359.52,
+      "end": 363.24,
+      "duration": 3.7200000000000273
+    },
+    {
+      "index": 92,
+      "text": "I'm going to give it a color node that is gray.",
+      "start": 363.24,
+      "end": 366.88,
+      "duration": 3.6399999999999864
+    },
+    {
+      "index": 93,
+      "text": "I'm going to use this gray and I'm going to make it.",
+      "start": 366.88,
+      "end": 369.52,
+      "duration": 2.6399999999999864
+    },
+    {
+      "index": 94,
+      "text": "No, that means a lighter gray and I'm going to make it a true color because if you're",
+      "start": 369.52,
+      "end": 373.24,
+      "duration": 3.7200000000000273
+    },
+    {
+      "index": 95,
+      "text": "watching previous video, you know what this does, we hit OK.",
+      "start": 373.24,
+      "end": 376.92,
+      "duration": 3.680000000000007
+    },
+    {
+      "index": 96,
+      "text": "And the line weight, I'm going to make it about 15.",
+      "start": 376.92,
+      "end": 379.96000000000004,
+      "duration": 3.0400000000000205
+    },
+    {
+      "index": 97,
+      "text": "OK.",
+      "start": 379.96000000000004,
+      "end": 380.96000000000004,
+      "duration": 1.0
+    },
+    {
+      "index": 98,
+      "text": "And so I'm going to replace it all at each hatching on that layer.",
+      "start": 380.96000000000004,
+      "end": 385.28000000000003,
+      "duration": 4.319999999999993
+    },
+    {
+      "index": 99,
+      "text": "So there we go.",
+      "start": 385.28000000000003,
+      "end": 387.48,
+      "duration": 2.1999999999999886
+    },
+    {
+      "index": 100,
+      "text": "All right.",
+      "start": 387.48,
+      "end": 388.48,
+      "duration": 1.0
+    },
+    {
+      "index": 101,
+      "text": "So that takes care of that.",
+      "start": 388.48,
+      "end": 390.08,
+      "duration": 1.599999999999966
+    },
+    {
+      "index": 102,
+      "text": "All right.",
+      "start": 390.08,
+      "end": 391.08,
+      "duration": 1.0
+    },
+    {
+      "index": 103,
+      "text": "So the next thing I'm going to do here is to add our belt beam inside of the walls and also",
+      "start": 391.08,
+      "end": 396.56,
+      "duration": 5.480000000000018
+    },
+    {
+      "index": 104,
+      "text": "lintels over the windows.",
+      "start": 396.56,
+      "end": 398.16,
+      "duration": 1.6000000000000227
+    },
+    {
+      "index": 105,
+      "text": "All right.",
+      "start": 398.16,
+      "end": 399.16,
+      "duration": 1.0
+    },
+    {
+      "index": 106,
+      "text": "Now, there's a tool that we can actually use, which I'm going to be exploring more",
+      "start": 399.16,
+      "end": 403.0,
+      "duration": 3.839999999999975
+    },
+    {
+      "index": 107,
+      "text": "as we get into the details side of things.",
+      "start": 403.0,
+      "end": 406.32,
+      "duration": 3.319999999999993
+    },
+    {
+      "index": 108,
+      "text": "But for now, you'll get a snap-sys of how it works.",
+      "start": 406.32,
+      "end": 410.12,
+      "duration": 3.8000000000000114
+    },
+    {
+      "index": 109,
+      "text": "So on your tool palette, when you go down to detailing, and we're going to click on concrete.",
+      "start": 410.12,
+      "end": 416.24,
+      "duration": 6.1200000000000045
+    },
+    {
+      "index": 110,
+      "text": "And right away, we have a beams activated, which is actually what I want.",
+      "start": 416.24,
+      "end": 420.76,
+      "duration": 4.519999999999982
+    },
+    {
+      "index": 111,
+      "text": "We're going to use a custom size.",
+      "start": 420.76,
+      "end": 422.6,
+      "duration": 1.8400000000000318
+    },
+    {
+      "index": 112,
+      "text": "I'm going to make it six inches wide by a one foot deep.",
+      "start": 422.6,
+      "end": 426.76,
+      "duration": 4.159999999999968
+    },
+    {
+      "index": 113,
+      "text": "And of course, I want to get rid of the shumford edges.",
+      "start": 426.76,
+      "end": 430.2,
+      "duration": 3.4399999999999977
+    },
+    {
+      "index": 114,
+      "text": "So I'm going to say no.",
+      "start": 430.2,
+      "end": 432.28,
+      "duration": 2.079999999999984
+    },
+    {
+      "index": 115,
+      "text": "Do I want the steel reinforcement inside of it at this point?",
+      "start": 432.28,
+      "end": 435.91999999999996,
+      "duration": 3.6399999999999864
+    },
+    {
+      "index": 116,
+      "text": "No.",
+      "start": 435.91999999999996,
+      "end": 436.91999999999996,
+      "duration": 1.0
+    },
+    {
+      "index": 117,
+      "text": "So I turned those off and normalize with this.",
+      "start": 436.91999999999996,
+      "end": 439.52,
+      "duration": 2.6000000000000227
+    },
+    {
+      "index": 118,
+      "text": "So I'm going to be placing this at various points throughout the building mainly where",
+      "start": 439.52,
+      "end": 445.11999999999995,
+      "duration": 5.599999999999966
+    },
+    {
+      "index": 119,
+      "text": "the wall ends at the top of the building.",
+      "start": 445.11999999999995,
+      "end": 448.32,
+      "duration": 3.2000000000000455
+    },
+    {
+      "index": 120,
+      "text": "But one wasn't placed properly.",
+      "start": 448.32,
+      "end": 451.64,
+      "duration": 3.319999999999993
+    },
+    {
+      "index": 121,
+      "text": "This one wasn't placed properly.",
+      "start": 451.64,
+      "end": 453.15999999999997,
+      "duration": 1.5199999999999818
+    },
+    {
+      "index": 122,
+      "text": "So I'm going to fix it.",
+      "start": 453.15999999999997,
+      "end": 456.71999999999997,
+      "duration": 3.5600000000000023
+    },
+    {
+      "index": 123,
+      "text": "So a little bit lower than where it should be.",
+      "start": 456.71999999999997,
+      "end": 459.76,
+      "duration": 3.0400000000000205
+    },
+    {
+      "index": 124,
+      "text": "So, a little bit up.",
+      "start": 459.76,
+      "end": 461.79999999999995,
+      "duration": 2.0399999999999636
+    },
+    {
+      "index": 125,
+      "text": "Yeah.",
+      "start": 461.8,
+      "end": 462.8,
+      "duration": 1.0
+    },
+    {
+      "index": 126,
+      "text": "So that's the bell beam that is wrapping around the building at the top of the wall.",
+      "start": 462.8,
+      "end": 467.40000000000003,
+      "duration": 4.600000000000023
+    },
+    {
+      "index": 127,
+      "text": "Now I want to place lintel and guess what is the same process?",
+      "start": 467.40000000000003,
+      "end": 471.24,
+      "duration": 3.839999999999975
+    },
+    {
+      "index": 128,
+      "text": "All I'm going to be doing is to make it eight inches deep instead of one foot.",
+      "start": 471.24,
+      "end": 478.2,
+      "duration": 6.9599999999999795
+    },
+    {
+      "index": 129,
+      "text": "Do I need reinforcement?",
+      "start": 478.2,
+      "end": 481.12,
+      "duration": 2.920000000000016
+    },
+    {
+      "index": 130,
+      "text": "No.",
+      "start": 481.12,
+      "end": 482.12,
+      "duration": 1.0
+    },
+    {
+      "index": 131,
+      "text": "Shumford?",
+      "start": 482.12,
+      "end": 483.12,
+      "duration": 1.0
+    },
+    {
+      "index": 132,
+      "text": "No.",
+      "start": 483.12,
+      "end": 484.12,
+      "duration": 1.0
+    },
+    {
+      "index": 133,
+      "text": "Now, if you notice, it's the base point is at the top.",
+      "start": 484.12,
+      "end": 487.12,
+      "duration": 3.0
+    },
+    {
+      "index": 134,
+      "text": "And I actually want to make the base point at the bottom.",
+      "start": 487.12,
+      "end": 489.72,
+      "duration": 2.6000000000000227
+    },
+    {
+      "index": 135,
+      "text": "So I'm going to say flip along the X just like that.",
+      "start": 489.72,
+      "end": 492.84000000000003,
+      "duration": 3.1200000000000045
+    },
+    {
+      "index": 136,
+      "text": "And then drop it all the top of the window.",
+      "start": 492.84000000000003,
+      "end": 497.36,
+      "duration": 4.519999999999982
+    },
+    {
+      "index": 137,
+      "text": "Drop it on top of that window.",
+      "start": 497.36,
+      "end": 499.84000000000003,
+      "duration": 2.480000000000018
+    },
+    {
+      "index": 138,
+      "text": "If we had a door, we would do the same thing.",
+      "start": 499.84000000000003,
+      "end": 502.0,
+      "duration": 2.159999999999968
+    },
+    {
+      "index": 139,
+      "text": "But not seeing any door from this view.",
+      "start": 502.0,
+      "end": 504.04,
+      "duration": 2.0400000000000205
+    },
+    {
+      "index": 140,
+      "text": "So yeah.",
+      "start": 504.04,
+      "end": 505.04,
+      "duration": 1.0
+    },
+    {
+      "index": 141,
+      "text": "Basically, when you're caught through the building, you should be seeing the bell beam and also",
+      "start": 505.04,
+      "end": 508.76,
+      "duration": 3.7199999999999704
+    },
+    {
+      "index": 142,
+      "text": "the lintels are both the windows and doors.",
+      "start": 508.76,
+      "end": 511.12,
+      "duration": 2.3600000000000136
+    },
+    {
+      "index": 143,
+      "text": "So that's what that is.",
+      "start": 511.12,
+      "end": 512.5600000000001,
+      "duration": 1.4400000000000546
+    },
+    {
+      "index": 144,
+      "text": "All right.",
+      "start": 512.5600000000001,
+      "end": 513.5600000000001,
+      "duration": 1.0
+    },
+    {
+      "index": 145,
+      "text": "The next thing I'm going to do is to go back to our tool palette and we're going to go",
+      "start": 513.5600000000001,
+      "end": 516.4,
+      "duration": 2.839999999999918
+    },
+    {
+      "index": 146,
+      "text": "down to document.",
+      "start": 516.4,
+      "end": 518.56,
+      "duration": 2.159999999999968
+    },
+    {
+      "index": 147,
+      "text": "Because I want to use this tool right here to create some level markers.",
+      "start": 518.56,
+      "end": 524.16,
+      "duration": 5.600000000000023
+    },
+    {
+      "index": 148,
+      "text": "All right.",
+      "start": 524.16,
+      "end": 525.16,
+      "duration": 1.0
+    },
+    {
+      "index": 149,
+      "text": "So I'm going to drop my first one at the finish for a level.",
+      "start": 525.16,
+      "end": 529.36,
+      "duration": 4.2000000000000455
+    },
+    {
+      "index": 150,
+      "text": "Maybe like I'm going to make it zero degrees.",
+      "start": 529.36,
+      "end": 533.28,
+      "duration": 3.919999999999959
+    },
+    {
+      "index": 151,
+      "text": "And then we're going to draw a line from here inwards.",
+      "start": 533.28,
+      "end": 537.12,
+      "duration": 3.840000000000032
+    },
+    {
+      "index": 152,
+      "text": "Maybe to a more this point.",
+      "start": 537.12,
+      "end": 538.9599999999999,
+      "duration": 1.8399999999999181
+    },
+    {
+      "index": 153,
+      "text": "Turn my awesome mode on.",
+      "start": 538.9599999999999,
+      "end": 540.76,
+      "duration": 1.8000000000000682
+    },
+    {
+      "index": 154,
+      "text": "I'm going to make that line much that line to the same layer as that.",
+      "start": 540.76,
+      "end": 545.0,
+      "duration": 4.240000000000009
+    },
+    {
+      "index": 155,
+      "text": "I'm going to make this line.",
+      "start": 545.0,
+      "end": 546.8,
+      "duration": 1.7999999999999545
+    },
+    {
+      "index": 156,
+      "text": "Maybe like a phantom or something phantom.",
+      "start": 546.8,
+      "end": 549.76,
+      "duration": 2.9600000000000364
+    },
+    {
+      "index": 157,
+      "text": "Yeah.",
+      "start": 549.76,
+      "end": 550.76,
+      "duration": 1.0
+    },
+    {
+      "index": 158,
+      "text": "So that's going to be my level marker.",
+      "start": 550.76,
+      "end": 552.24,
+      "duration": 1.4800000000000182
+    },
+    {
+      "index": 159,
+      "text": "And I'm going to put a text on top of it.",
+      "start": 552.24,
+      "end": 554.44,
+      "duration": 2.2000000000000455
+    },
+    {
+      "index": 160,
+      "text": "And I'm going to call it finished.",
+      "start": 554.44,
+      "end": 557.48,
+      "duration": 3.0399999999999636
+    },
+    {
+      "index": 161,
+      "text": "Then I'm going to call it that.",
+      "start": 557.48,
+      "end": 561.4,
+      "duration": 3.919999999999959
+    },
+    {
+      "index": 162,
+      "text": "Make this a little bit longer.",
+      "start": 561.4,
+      "end": 564.72,
+      "duration": 3.32000000000005
+    },
+    {
+      "index": 163,
+      "text": "Blank that.",
+      "start": 564.72,
+      "end": 565.72,
+      "duration": 1.0
+    },
+    {
+      "index": 164,
+      "text": "And then I'm going to copy this from here up to top of my building.",
+      "start": 565.72,
+      "end": 574.68,
+      "duration": 8.959999999999923
+    },
+    {
+      "index": 165,
+      "text": "And I'm going to say call this wall plate.",
+      "start": 575.64,
+      "end": 578.7199999999999,
+      "duration": 3.0799999999999272
+    },
+    {
+      "index": 166,
+      "text": "That's where the wall plate starts.",
+      "start": 578.7199999999999,
+      "end": 581.3199999999999,
+      "duration": 2.6000000000000227
+    },
+    {
+      "index": 167,
+      "text": "Are you can say top of beam, top of built, something like that.",
+      "start": 581.3199999999999,
+      "end": 585.16,
+      "duration": 3.840000000000032
+    },
+    {
+      "index": 168,
+      "text": "You can do it on both sides.",
+      "start": 585.16,
+      "end": 586.64,
+      "duration": 1.4800000000000182
+    },
+    {
+      "index": 169,
+      "text": "I'm going to actually just do it on one side of the building.",
+      "start": 586.64,
+      "end": 589.56,
+      "duration": 2.919999999999959
+    },
+    {
+      "index": 170,
+      "text": "And yeah, leave it at that.",
+      "start": 589.56,
+      "end": 591.8399999999999,
+      "duration": 2.2799999999999727
+    },
+    {
+      "index": 171,
+      "text": "Then we're going to add some dimensions now.",
+      "start": 591.8399999999999,
+      "end": 593.92,
+      "duration": 2.080000000000041
+    },
+    {
+      "index": 172,
+      "text": "So let's use a big point.",
+      "start": 593.92,
+      "end": 597.4399999999999,
+      "duration": 3.519999999999982
+    },
+    {
+      "index": 173,
+      "text": "I want to add some dimension.",
+      "start": 597.4399999999999,
+      "end": 599.0,
+      "duration": 1.5600000000000591
+    },
+    {
+      "index": 174,
+      "text": "The first dimension I'm going to add is between my two points here.",
+      "start": 599.0,
+      "end": 605.32,
+      "duration": 6.32000000000005
+    },
+    {
+      "index": 175,
+      "text": "So that's the distance between levels there.",
+      "start": 605.32,
+      "end": 608.92,
+      "duration": 3.599999999999909
+    },
+    {
+      "index": 176,
+      "text": "Actually, I probably should add one at the base of the different thing.",
+      "start": 608.92,
+      "end": 612.04,
+      "duration": 3.1200000000000045
+    },
+    {
+      "index": 177,
+      "text": "I could do that.",
+      "start": 612.04,
+      "end": 613.84,
+      "duration": 1.8000000000000682
+    },
+    {
+      "index": 178,
+      "text": "Let's add one down here.",
+      "start": 613.84,
+      "end": 616.36,
+      "duration": 2.519999999999982
+    },
+    {
+      "index": 179,
+      "text": "And call this.",
+      "start": 616.36,
+      "end": 618.96,
+      "duration": 2.6000000000000227
+    },
+    {
+      "index": 180,
+      "text": "And let's leave it at that.",
+      "start": 618.96,
+      "end": 621.16,
+      "duration": 2.199999999999932
+    },
+    {
+      "index": 181,
+      "text": "I'm going to add extension line to here.",
+      "start": 621.16,
+      "end": 624.84,
+      "duration": 3.6800000000000637
+    },
+    {
+      "index": 182,
+      "text": "And good.",
+      "start": 624.84,
+      "end": 627.44,
+      "duration": 2.6000000000000227
+    },
+    {
+      "index": 183,
+      "text": "So our foundation is 4 feet deep.",
+      "start": 627.44,
+      "end": 629.8000000000001,
+      "duration": 2.3600000000000136
+    },
+    {
+      "index": 184,
+      "text": "So we're going to add some more dimensions.",
+      "start": 629.8000000000001,
+      "end": 632.0,
+      "duration": 2.199999999999932
+    },
+    {
+      "index": 185,
+      "text": "By the way, guys, before you start to add any of these, please, I'm asking you.",
+      "start": 632.0,
+      "end": 636.9200000000001,
+      "duration": 4.920000000000073
+    },
+    {
+      "index": 186,
+      "text": "Remember to set your scale.",
+      "start": 636.9200000000001,
+      "end": 638.48,
+      "duration": 1.5599999999999454
+    },
+    {
+      "index": 187,
+      "text": "All right, I forgot to mention that.",
+      "start": 638.48,
+      "end": 641.32,
+      "duration": 2.840000000000032
+    },
+    {
+      "index": 188,
+      "text": "So if your dimension or text is coming out at a wrong size, like it too bigger, too small,",
+      "start": 641.32,
+      "end": 648.2800000000001,
+      "duration": 6.960000000000036
+    },
+    {
+      "index": 189,
+      "text": "that's because you're on the wrong scale.",
+      "start": 648.2800000000001,
+      "end": 650.5600000000001,
+      "duration": 2.2799999999999727
+    },
+    {
+      "index": 190,
+      "text": "So set your scale before you start to add any of these worded items.",
+      "start": 650.5600000000001,
+      "end": 654.6,
+      "duration": 4.039999999999964
+    },
+    {
+      "index": 191,
+      "text": "Now we're going to add some dimension to our windows.",
+      "start": 654.6,
+      "end": 657.8000000000001,
+      "duration": 3.2000000000000455
+    },
+    {
+      "index": 192,
+      "text": "So pick my picking my points here and turn drag it out.",
+      "start": 657.8000000000001,
+      "end": 661.4,
+      "duration": 3.599999999999909
+    },
+    {
+      "index": 193,
+      "text": "And I drop my windows size right there.",
+      "start": 661.4,
+      "end": 664.6,
+      "duration": 3.2000000000000455
+    },
+    {
+      "index": 194,
+      "text": "I'm going to put some dimensions for the countertop as well as the case work.",
+      "start": 664.6,
+      "end": 673.72,
+      "duration": 9.120000000000005
+    },
+    {
+      "index": 195,
+      "text": "And if you put it right there, I'm going to pull these back somewhat and move this back.",
+      "start": 673.72,
+      "end": 680.96,
+      "duration": 7.240000000000009
+    },
+    {
+      "index": 196,
+      "text": "I'm going to drop another one for this window.",
+      "start": 681.9200000000001,
+      "end": 684.64,
+      "duration": 2.7199999999999136
+    },
+    {
+      "index": 197,
+      "text": "Now I'm bearing my own guys that you only want to show height of objects.",
+      "start": 684.64,
+      "end": 690.44,
+      "duration": 5.800000000000068
+    },
+    {
+      "index": 198,
+      "text": "You don't want to be shown without anything because those dimensions, as I said before,",
+      "start": 690.44,
+      "end": 695.48,
+      "duration": 5.039999999999964
+    },
+    {
+      "index": 199,
+      "text": "in previous episodes that those dimensions are found on the floor plan.",
+      "start": 695.48,
+      "end": 700.24,
+      "duration": 4.759999999999991
+    },
+    {
+      "index": 200,
+      "text": "So we just need to represent height on these drawings.",
+      "start": 700.24,
+      "end": 704.4000000000001,
+      "duration": 4.160000000000082
+    },
+    {
+      "index": 201,
+      "text": "All right, we do have one more window over here, which again, we need to show.",
+      "start": 704.4000000000001,
+      "end": 709.96,
+      "duration": 5.559999999999945
+    },
+    {
+      "index": 202,
+      "text": "So I'm going to actually put it on the outside of the building rather than inside.",
+      "start": 709.96,
+      "end": 715.44,
+      "duration": 5.480000000000018
+    },
+    {
+      "index": 203,
+      "text": "I'm not right there.",
+      "start": 715.44,
+      "end": 716.44,
+      "duration": 1.0
+    },
+    {
+      "index": 204,
+      "text": "All right, one dimension that is missing and that is one from the ceiling down to the ground.",
+      "start": 716.44,
+      "end": 722.9200000000001,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 205,
+      "text": "I don't know what I'm using that AEC.",
+      "start": 725.32,
+      "end": 728.64,
+      "duration": 3.3199999999999363
+    },
+    {
+      "index": 206,
+      "text": "I'm going to place it right there.",
+      "start": 731.96,
+      "end": 733.8000000000001,
+      "duration": 1.8400000000000318
+    },
+    {
+      "index": 207,
+      "text": "All right, let's add some text now.",
+      "start": 733.8000000000001,
+      "end": 735.5600000000001,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 208,
+      "text": "So we're going to label the rooms.",
+      "start": 735.5600000000001,
+      "end": 737.08,
+      "duration": 1.5199999999999818
+    },
+    {
+      "index": 209,
+      "text": "So this will be the kitchen.",
+      "start": 737.08,
+      "end": 739.08,
+      "duration": 2.0
+    },
+    {
+      "index": 210,
+      "text": "Copy on the piece one here.",
+      "start": 740.9200000000001,
+      "end": 744.76,
+      "duration": 3.839999999999918
+    },
+    {
+      "index": 211,
+      "text": "And then I want there.",
+      "start": 744.76,
+      "end": 746.0400000000001,
+      "duration": 1.2800000000000864
+    },
+    {
+      "index": 212,
+      "text": "So this would be bathroom.",
+      "start": 746.0400000000001,
+      "end": 749.8000000000001,
+      "duration": 3.759999999999991
+    },
+    {
+      "index": 213,
+      "text": "And then we go over to the bedroom.",
+      "start": 749.8000000000001,
+      "end": 752.9200000000001,
+      "duration": 3.1200000000000045
+    },
+    {
+      "index": 214,
+      "text": "Now so, and then we can go ahead and start to add some other information in.",
+      "start": 754.12,
+      "end": 759.96,
+      "duration": 5.840000000000032
+    },
+    {
+      "index": 215,
+      "text": "So for instance, I'm going to be adding inside of this area here.",
+      "start": 759.96,
+      "end": 764.2,
+      "duration": 4.240000000000009
+    },
+    {
+      "index": 216,
+      "text": "Come, pocket hard.",
+      "start": 764.2,
+      "end": 766.76,
+      "duration": 2.5599999999999454
+    },
+    {
+      "index": 217,
+      "text": "All right, so this is like some gravel and our limestone, whatever it is that you put on",
+      "start": 766.84,
+      "end": 776.04,
+      "duration": 9.199999999999932
+    },
+    {
+      "index": 218,
+      "text": "the floor as a stabilizing agent to keep the floor in check.",
+      "start": 776.04,
+      "end": 782.28,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 219,
+      "text": "Make sure that it doesn't sink or fall in or anything like that.",
+      "start": 782.28,
+      "end": 785.56,
+      "duration": 3.2799999999999727
+    },
+    {
+      "index": 220,
+      "text": "All right, I'm going to copy this over to these other areas.",
+      "start": 785.56,
+      "end": 790.12,
+      "duration": 4.560000000000059
+    },
+    {
+      "index": 221,
+      "text": "I mean, this area is a little bit narrow, so I'm not going to put any in there.",
+      "start": 790.12,
+      "end": 794.2,
+      "duration": 4.080000000000041
+    },
+    {
+      "index": 222,
+      "text": "These two will suffice.",
+      "start": 794.2,
+      "end": 796.2,
+      "duration": 2.0
+    },
+    {
+      "index": 223,
+      "text": "And of course, we know that underneath here is the earth.",
+      "start": 796.2,
+      "end": 798.9200000000001,
+      "duration": 2.7200000000000273
+    },
+    {
+      "index": 224,
+      "text": "So all that's left is for me to add this note here, which I written up earlier before,",
+      "start": 798.9200000000001,
+      "end": 806.2800000000001,
+      "duration": 7.360000000000014
+    },
+    {
+      "index": 225,
+      "text": "because it's so long.",
+      "start": 806.2800000000001,
+      "end": 807.48,
+      "duration": 1.1999999999999318
+    },
+    {
+      "index": 226,
+      "text": "I couldn't bother to type it in this video, so I typed it ahead of time.",
+      "start": 807.48,
+      "end": 811.08,
+      "duration": 3.6000000000000227
+    },
+    {
+      "index": 227,
+      "text": "And this is basically a label for the wall telling us what type of wall it is and what is in the wall.",
+      "start": 811.08,
+      "end": 817.5600000000001,
+      "duration": 6.480000000000018
+    },
+    {
+      "index": 228,
+      "text": "And that kind of stuff has a lot of information in there.",
+      "start": 817.5600000000001,
+      "end": 820.44,
+      "duration": 2.8799999999999955
+    },
+    {
+      "index": 229,
+      "text": "Then I'm going to go over to my elevation view and copy some stuff like the slope.",
+      "start": 820.44,
+      "end": 824.7600000000001,
+      "duration": 4.32000000000005
+    },
+    {
+      "index": 230,
+      "text": "And I'm also going to copy this note right here.",
+      "start": 824.7600000000001,
+      "end": 827.72,
+      "duration": 2.9599999999999227
+    },
+    {
+      "index": 231,
+      "text": "Copy.",
+      "start": 827.72,
+      "end": 829.72,
+      "duration": 2.0
+    },
+    {
+      "index": 232,
+      "text": "Paste.",
+      "start": 830.9200000000001,
+      "end": 831.4000000000001,
+      "duration": 0.4800000000000182
+    },
+    {
+      "index": 233,
+      "text": "So I kind of want this right there as usual.",
+      "start": 833.4000000000001,
+      "end": 836.2800000000001,
+      "duration": 2.8799999999999955
+    },
+    {
+      "index": 234,
+      "text": "And I'm going to put this one in the black right here.",
+      "start": 836.2800000000001,
+      "end": 840.0400000000001,
+      "duration": 3.759999999999991
+    },
+    {
+      "index": 235,
+      "text": "But I'm going to write something else in there, timber, roof covering to all our stripes.",
+      "start": 841.0,
+      "end": 847.24,
+      "duration": 6.240000000000009
+    },
+    {
+      "index": 236,
+      "text": "Yeah, all right.",
+      "start": 847.24,
+      "end": 848.6800000000001,
+      "duration": 1.4400000000000546
+    },
+    {
+      "index": 237,
+      "text": "So that would be it for this.",
+      "start": 848.76,
+      "end": 850.76,
+      "duration": 2.0
+    },
+    {
+      "index": 238,
+      "text": "I'm not leaving anything out.",
+      "start": 850.76,
+      "end": 852.52,
+      "duration": 1.759999999999991
+    },
+    {
+      "index": 239,
+      "text": "I feel you know, in a feel like you're leaving something out, but it just can't point your finger at it.",
+      "start": 852.52,
+      "end": 858.68,
+      "duration": 6.159999999999968
+    },
+    {
+      "index": 240,
+      "text": "Okay, I think I figured it out.",
+      "start": 858.68,
+      "end": 860.3599999999999,
+      "duration": 1.67999999999995
+    },
+    {
+      "index": 241,
+      "text": "All right. So we do have to put in our FFL for a finished rule level.",
+      "start": 860.3599999999999,
+      "end": 864.92,
+      "duration": 4.560000000000059
+    },
+    {
+      "index": 242,
+      "text": "And we do want to put one also in for ground level, which would be GL.",
+      "start": 865.56,
+      "end": 871.0799999999999,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 243,
+      "text": "And I think that should be enough for this view.",
+      "start": 871.0799999999999,
+      "end": 874.5999999999999,
+      "duration": 3.519999999999982
+    },
+    {
+      "index": 244,
+      "text": "I'm going to go ahead and do the next one.",
+      "start": 874.5999999999999,
+      "end": 877.16,
+      "duration": 2.560000000000059
+    },
+    {
+      "index": 245,
+      "text": "So let's kind of fast forward that point.",
+      "start": 877.16,
+      "end": 880.12,
+      "duration": 2.9600000000000364
+    },
+    {
+      "index": 246,
+      "text": "All right.",
+      "start": 967.88,
+      "end": 973.4,
+      "duration": 5.519999999999982
+    },
+    {
+      "index": 247,
+      "text": "So there we go.",
+      "start": 973.4,
+      "end": 974.6,
+      "duration": 1.2000000000000455
+    },
+    {
+      "index": 248,
+      "text": "As you can see, it's a matter of just copying and pasting stuff and just changing things",
+      "start": 974.6,
+      "end": 979.56,
+      "duration": 4.959999999999923
+    },
+    {
+      "index": 249,
+      "text": "around to get.",
+      "start": 979.56,
+      "end": 980.76,
+      "duration": 1.2000000000000455
+    },
+    {
+      "index": 250,
+      "text": "I think this would actually do better over here.",
+      "start": 980.76,
+      "end": 984.4399999999999,
+      "duration": 3.67999999999995
+    },
+    {
+      "index": 251,
+      "text": "Let me do this one over.",
+      "start": 984.4399999999999,
+      "end": 985.48,
+      "duration": 1.0400000000000773
+    },
+    {
+      "index": 252,
+      "text": "All right.",
+      "start": 985.48,
+      "end": 995.96,
+      "duration": 10.480000000000018
+    },
+    {
+      "index": 253,
+      "text": "So that wraps it up for this video.",
+      "start": 995.96,
+      "end": 997.5600000000001,
+      "duration": 1.6000000000000227
+    },
+    {
+      "index": 254,
+      "text": "That is where we're going to stop if you haven't already.",
+      "start": 997.5600000000001,
+      "end": 1000.52,
+      "duration": 2.9599999999999227
+    },
+    {
+      "index": 255,
+      "text": "Hit the subscribe button and like and share.",
+      "start": 1000.52,
+      "end": 1004.2,
+      "duration": 3.6800000000000637
+    },
+    {
+      "index": 256,
+      "text": "That's what we do our own here.",
+      "start": 1005.4,
+      "end": 1006.76,
+      "duration": 1.3600000000000136
+    },
+    {
+      "index": 257,
+      "text": "And I remember, don't load the PDF if you haven't already for your reference.",
+      "start": 1009.0,
+      "end": 1014.28,
+      "duration": 5.279999999999973
+    },
+    {
+      "index": 258,
+      "text": "All right. So you have some filling up.",
+      "start": 1014.36,
+      "end": 1016.28,
+      "duration": 1.919999999999959
+    },
+    {
+      "index": 259,
+      "text": "And guess what guys?",
+      "start": 1016.28,
+      "end": 1018.28,
+      "duration": 2.0
+    },
+    {
+      "index": 260,
+      "text": "The next episode will be right here.",
+      "start": 1018.28,
+      "end": 1020.52,
+      "duration": 2.240000000000009
+    },
+    {
+      "index": 261,
+      "text": "So if you haven't seen it as yet,",
+      "start": 1020.52,
+      "end": 1022.1999999999999,
+      "duration": 1.67999999999995
+    },
+    {
+      "index": 262,
+      "text": "watch the next episode.",
+      "start": 1023.24,
+      "end": 1024.36,
+      "duration": 1.1199999999998909
+    },
+    {
+      "index": 263,
+      "text": "Watch the previous episode.",
+      "start": 1026.84,
+      "end": 1028.2,
+      "duration": 1.3600000000001273
+    },
+    {
+      "index": 264,
+      "text": "Our vice versa.",
+      "start": 1029.24,
+      "end": 1030.52,
+      "duration": 1.2799999999999727
+    },
+    {
+      "index": 265,
+      "text": "Whichever one. Just click one and watch.",
+      "start": 1030.52,
+      "end": 1033.0,
+      "duration": 2.480000000000018
+    },
+    {
+      "index": 266,
+      "text": "So now's it.",
+      "start": 1033.0,
+      "end": 1035.96,
+      "duration": 2.9600000000000364
+    }
+  ],
+  "full_text": "Hello everybody! Welcome back to the channel and in today's episode we're going to be finishing up our section out elevation views. Be as a calli so that they can look something more like this. You know what I mean? So we're going to just add some annotations. I'm going to just wrap it up, bling bling bling bling bling bling bling. So if that's something you're interested in, you can go ahead and download the PDF for this video in the description below. And while you're going down there, just hit the like button and guess what? If you want to subscribe it, hit the subscribe button. And drop a comment. When I'll laugh, let's get into the video. Alright, so here we are back in AutoCard architecture and today we're going to be finalizing all of the drawings. If time allows it, that we have left to do. So we do have these sectional elevations and we have some detailed views that we need to get done. As you can see, I have already gone ahead and you know, get some out of the way. But I'm going to be showing you these two here, which should give you a pretty good understanding of how to achieve all of what you're seeing here. Alright, so let's go back over to the elevation views. Now before I get to this, if you miss the elevation views in the previous episode, go and watch that video. Because some of the things I'm going to be doing in today's video, you're going to have to watch this video to understand how to do that. If you already don't know how to. So far, in stance, we brought in the side plan again into this drawing and we dropped it to three foot six inches so that it looks properly on here. However, one of the things I actually want to do is to turn off the trees because I don't want to see them in these elevation views. Alright, so I'm going to go to my freeze tool and I'm going to actually freeze and then I'm going to refresh these drawings. Alright, so I'm just like that we get rid of the trees. No, I'm actually going to move these over a little bit more cars. Shift this over and then I might shift this one itself over some more. So first rule of action here, noise to get rid off of the hatching. And as you can see, we have some gray thing inside of the wall, which I absolutely hate as well as this red line running around edge off everything basically. So we're going to turn those off. So what we did in the last video, the same thing we're going to do again, click on the drawing with the view and we're going to go to edit style and we're going to go over to display properties and then this little button right here. From here we can go ahead and turn off surface hatching. We can also turn off shrink wrap. Everything that says shrink wrap. Turn them off. We're going to hit OK. OK. And as you can see, now we have the true vision of what we want to see. Yeah, understand. The only thing that I am not seeing are some hatching underneath here to represent like the earth as well as the backfill and compacted hardcore. So let's go ahead and do that. So I'm going to be using polyline and I want to add one foot off hardcore on the need to floor. So I'm going to draw a line from here going up two feet, six inches and then I'm going to go across like that. And I'm going to repeat that process two more times for the rest of the foundation. All right. Repeat that again. So these areas will become the backfill areas. And then I kind of want to also hatch underneath here to show earth. So I'm going to use pyline this time and I'm going to just draw some random lines. All right. So let's go ahead and start to hatch. Age for hatch. And the first place I'm going to hatch is in the hardcore which I'm going to be using a gravel pattern to do this gravel and I'm going to set that at a mere eight scale that should give me a good level. Looks good. That. So that's my compacted hardcore and backfill. So now we're going to hatch again. Now we're going to hatch the earth. So we're going to scroll and we're going to look for earth. I think it's up some scrolling up earth. And I'm going to make this 15. And I'm also going to make it 45 degree angle. And then we can go ahead and hatch these areas with the earth. All right. So there we go. I'm going to hit OK. So now we have earth and then we have compacted hardcore. I'm going to delete a spyla in the north as I don't want to. Nice. Oh. You know what I forgot to do? I forgot to create a layer for hatching. So I'm going to go to my layer properties here. I'm going to create a brand new layer. I'm going to call it a hatch. I'm going to give it a color node that is gray. I'm going to use this gray and I'm going to make it. No, that means a lighter gray and I'm going to make it a true color because if you're watching previous video, you know what this does, we hit OK. And the line weight, I'm going to make it about 15. OK. And so I'm going to replace it all at each hatching on that layer. So there we go. All right. So that takes care of that. All right. So the next thing I'm going to do here is to add our belt beam inside of the walls and also lintels over the windows. All right. Now, there's a tool that we can actually use, which I'm going to be exploring more as we get into the details side of things. But for now, you'll get a snap-sys of how it works. So on your tool palette, when you go down to detailing, and we're going to click on concrete. And right away, we have a beams activated, which is actually what I want. We're going to use a custom size. I'm going to make it six inches wide by a one foot deep. And of course, I want to get rid of the shumford edges. So I'm going to say no. Do I want the steel reinforcement inside of it at this point? No. So I turned those off and normalize with this. So I'm going to be placing this at various points throughout the building mainly where the wall ends at the top of the building. But one wasn't placed properly. This one wasn't placed properly. So I'm going to fix it. So a little bit lower than where it should be. So, a little bit up. Yeah. So that's the bell beam that is wrapping around the building at the top of the wall. Now I want to place lintel and guess what is the same process? All I'm going to be doing is to make it eight inches deep instead of one foot. Do I need reinforcement? No. Shumford? No. Now, if you notice, it's the base point is at the top. And I actually want to make the base point at the bottom. So I'm going to say flip along the X just like that. And then drop it all the top of the window. Drop it on top of that window. If we had a door, we would do the same thing. But not seeing any door from this view. So yeah. Basically, when you're caught through the building, you should be seeing the bell beam and also the lintels are both the windows and doors. So that's what that is. All right. The next thing I'm going to do is to go back to our tool palette and we're going to go down to document. Because I want to use this tool right here to create some level markers. All right. So I'm going to drop my first one at the finish for a level. Maybe like I'm going to make it zero degrees. And then we're going to draw a line from here inwards. Maybe to a more this point. Turn my awesome mode on. I'm going to make that line much that line to the same layer as that. I'm going to make this line. Maybe like a phantom or something phantom. Yeah. So that's going to be my level marker. And I'm going to put a text on top of it. And I'm going to call it finished. Then I'm going to call it that. Make this a little bit longer. Blank that. And then I'm going to copy this from here up to top of my building. And I'm going to say call this wall plate. That's where the wall plate starts. Are you can say top of beam, top of built, something like that. You can do it on both sides. I'm going to actually just do it on one side of the building. And yeah, leave it at that. Then we're going to add some dimensions now. So let's use a big point. I want to add some dimension. The first dimension I'm going to add is between my two points here. So that's the distance between levels there. Actually, I probably should add one at the base of the different thing. I could do that. Let's add one down here. And call this. And let's leave it at that. I'm going to add extension line to here. And good. So our foundation is 4 feet deep. So we're going to add some more dimensions. By the way, guys, before you start to add any of these, please, I'm asking you. Remember to set your scale. All right, I forgot to mention that. So if your dimension or text is coming out at a wrong size, like it too bigger, too small, that's because you're on the wrong scale. So set your scale before you start to add any of these worded items. Now we're going to add some dimension to our windows. So pick my picking my points here and turn drag it out. And I drop my windows size right there. I'm going to put some dimensions for the countertop as well as the case work. And if you put it right there, I'm going to pull these back somewhat and move this back. I'm going to drop another one for this window. Now I'm bearing my own guys that you only want to show height of objects. You don't want to be shown without anything because those dimensions, as I said before, in previous episodes that those dimensions are found on the floor plan. So we just need to represent height on these drawings. All right, we do have one more window over here, which again, we need to show. So I'm going to actually put it on the outside of the building rather than inside. I'm not right there. All right, one dimension that is missing and that is one from the ceiling down to the ground. I don't know what I'm using that AEC. I'm going to place it right there. All right, let's add some text now. So we're going to label the rooms. So this will be the kitchen. Copy on the piece one here. And then I want there. So this would be bathroom. And then we go over to the bedroom. Now so, and then we can go ahead and start to add some other information in. So for instance, I'm going to be adding inside of this area here. Come, pocket hard. All right, so this is like some gravel and our limestone, whatever it is that you put on the floor as a stabilizing agent to keep the floor in check. Make sure that it doesn't sink or fall in or anything like that. All right, I'm going to copy this over to these other areas. I mean, this area is a little bit narrow, so I'm not going to put any in there. These two will suffice. And of course, we know that underneath here is the earth. So all that's left is for me to add this note here, which I written up earlier before, because it's so long. I couldn't bother to type it in this video, so I typed it ahead of time. And this is basically a label for the wall telling us what type of wall it is and what is in the wall. And that kind of stuff has a lot of information in there. Then I'm going to go over to my elevation view and copy some stuff like the slope. And I'm also going to copy this note right here. Copy. Paste. So I kind of want this right there as usual. And I'm going to put this one in the black right here. But I'm going to write something else in there, timber, roof covering to all our stripes. Yeah, all right. So that would be it for this. I'm not leaving anything out. I feel you know, in a feel like you're leaving something out, but it just can't point your finger at it. Okay, I think I figured it out. All right. So we do have to put in our FFL for a finished rule level. And we do want to put one also in for ground level, which would be GL. And I think that should be enough for this view. I'm going to go ahead and do the next one. So let's kind of fast forward that point. All right. So there we go. As you can see, it's a matter of just copying and pasting stuff and just changing things around to get. I think this would actually do better over here. Let me do this one over. All right. So that wraps it up for this video. That is where we're going to stop if you haven't already. Hit the subscribe button and like and share. That's what we do our own here. And I remember, don't load the PDF if you haven't already for your reference. All right. So you have some filling up. And guess what guys? The next episode will be right here. So if you haven't seen it as yet, watch the next episode. Watch the previous episode. Our vice versa. Whichever one. Just click one and watch. So now's it.",
+  "total_segments": 267,
+  "total_duration": 1035.96,
+  "extraction_timestamp": "2025-07-11T14:25:03.102209",
+  "transcript_info": {
+    "language": "en",
+    "type": "whisper_local",
+    "model_size": "tiny"
+  },
+  "source": "whisper_audio_download",
+  "quality": "high",
+  "reused_from": "storage\\AutoCAD Architecture 2023 Tutorial\\[22] DETAILING Part 6 - (Secti\\youtube_extracted_data\\transcripts\\qeMM5_WIIuU_20250711_161404_transcript.json",
+  "reused_timestamp": "2025-07-11T16:43:55.721353"
+}

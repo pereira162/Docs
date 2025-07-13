@@ -1,0 +1,1963 @@
+{
+  "video_id": "9Euo8sbkyh4",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "[Music]",
+      "start": 1.52,
+      "duration": 6.92,
+      "end": 8.44
+    },
+    {
+      "index": 1,
+      "text": "all right so here we are back again in",
+      "start": 6.72,
+      "duration": 4.32,
+      "end": 11.04
+    },
+    {
+      "index": 2,
+      "text": "articad architecture and in this video I",
+      "start": 8.44,
+      "duration": 5.8,
+      "end": 14.239999999999998
+    },
+    {
+      "index": 3,
+      "text": "want to show you guys how to add",
+      "start": 11.04,
+      "duration": 5.56,
+      "end": 16.599999999999998
+    },
+    {
+      "index": 4,
+      "text": "openings to a curve now this can be a",
+      "start": 14.24,
+      "duration": 5.68,
+      "end": 19.92
+    },
+    {
+      "index": 5,
+      "text": "little bit uh challenging if you have",
+      "start": 16.6,
+      "duration": 5.519,
+      "end": 22.119
+    },
+    {
+      "index": 6,
+      "text": "never done it before um of course I'm",
+      "start": 19.92,
+      "duration": 5.119,
+      "end": 25.039
+    },
+    {
+      "index": 7,
+      "text": "using a technique that I recently",
+      "start": 22.119,
+      "duration": 5.08,
+      "end": 27.198999999999998
+    },
+    {
+      "index": 8,
+      "text": "discovered after someone asked me the",
+      "start": 25.039,
+      "duration": 4.56,
+      "end": 29.599
+    },
+    {
+      "index": 9,
+      "text": "question but it's good when you guys ask",
+      "start": 27.199,
+      "duration": 5.841,
+      "end": 33.04
+    },
+    {
+      "index": 10,
+      "text": "me question like this and allows me to",
+      "start": 29.599,
+      "duration": 6.28,
+      "end": 35.879
+    },
+    {
+      "index": 11,
+      "text": "challenge myself and to figure out a way",
+      "start": 33.04,
+      "duration": 4.76,
+      "end": 37.8
+    },
+    {
+      "index": 12,
+      "text": "to do it turns out there's actually a",
+      "start": 35.879,
+      "duration": 4.921,
+      "end": 40.8
+    },
+    {
+      "index": 13,
+      "text": "pretty decent way to do it and so I'm",
+      "start": 37.8,
+      "duration": 4.439,
+      "end": 42.239
+    },
+    {
+      "index": 14,
+      "text": "going to be showing you guys how to do",
+      "start": 40.8,
+      "duration": 3.48,
+      "end": 44.279999999999994
+    },
+    {
+      "index": 15,
+      "text": "that in this video now of course if",
+      "start": 42.239,
+      "duration": 5.281,
+      "end": 47.519999999999996
+    },
+    {
+      "index": 16,
+      "text": "you're familiar with adding openings to",
+      "start": 44.28,
+      "duration": 5.64,
+      "end": 49.92
+    },
+    {
+      "index": 17,
+      "text": "A straight piece of wall um you know if",
+      "start": 47.52,
+      "duration": 4.559,
+      "end": 52.079
+    },
+    {
+      "index": 18,
+      "text": "you've never done that before it's very",
+      "start": 49.92,
+      "duration": 5.0,
+      "end": 54.92
+    },
+    {
+      "index": 19,
+      "text": "simple um all we got to do is to go to",
+      "start": 52.079,
+      "duration": 4.48,
+      "end": 56.559
+    },
+    {
+      "index": 20,
+      "text": "the Home tab and if you click on the",
+      "start": 54.92,
+      "duration": 4.319,
+      "end": 59.239000000000004
+    },
+    {
+      "index": 21,
+      "text": "door drop down you have opening here you",
+      "start": 56.559,
+      "duration": 5.041,
+      "end": 61.599999999999994
+    },
+    {
+      "index": 22,
+      "text": "can type the command",
+      "start": 59.239,
+      "duration": 7.2,
+      "end": 66.439
+    },
+    {
+      "index": 23,
+      "text": "opening in the command line or uh you",
+      "start": 61.6,
+      "duration": 7.8,
+      "end": 69.4
+    },
+    {
+      "index": 24,
+      "text": "can come to the tool palet here and if",
+      "start": 66.439,
+      "duration": 6.201,
+      "end": 72.63999999999999
+    },
+    {
+      "index": 25,
+      "text": "you go up to design I believe we have it",
+      "start": 69.4,
+      "duration": 5.52,
+      "end": 74.92
+    },
+    {
+      "index": 26,
+      "text": "here as well so any direction you take",
+      "start": 72.64,
+      "duration": 5.08,
+      "end": 77.72
+    },
+    {
+      "index": 27,
+      "text": "it it's the same thing and you can click",
+      "start": 74.92,
+      "duration": 6.32,
+      "end": 81.24000000000001
+    },
+    {
+      "index": 28,
+      "text": "and add that opening to a piece of wall",
+      "start": 77.72,
+      "duration": 5.88,
+      "end": 83.6
+    },
+    {
+      "index": 29,
+      "text": "before I place it what I'm going to do",
+      "start": 81.24,
+      "duration": 5.32,
+      "end": 86.56
+    },
+    {
+      "index": 30,
+      "text": "is to set a width of 10",
+      "start": 83.6,
+      "duration": 7.28,
+      "end": 90.88
+    },
+    {
+      "index": 31,
+      "text": "ft and a height of 7 ft that's okay okay",
+      "start": 86.56,
+      "duration": 5.879,
+      "end": 92.43900000000001
+    },
+    {
+      "index": 32,
+      "text": "and then I'm going to place it on this",
+      "start": 90.88,
+      "duration": 4.44,
+      "end": 95.32
+    },
+    {
+      "index": 33,
+      "text": "wall here so of course I can just drop",
+      "start": 92.439,
+      "duration": 6.32,
+      "end": 98.75899999999999
+    },
+    {
+      "index": 34,
+      "text": "it right there and uh from a 3D view you",
+      "start": 95.32,
+      "duration": 7.4,
+      "end": 102.72
+    },
+    {
+      "index": 35,
+      "text": "can see that uh that opening was created",
+      "start": 98.759,
+      "duration": 6.96,
+      "end": 105.719
+    },
+    {
+      "index": 36,
+      "text": "and of course we can uh change the size",
+      "start": 102.72,
+      "duration": 5.719,
+      "end": 108.439
+    },
+    {
+      "index": 37,
+      "text": "of it we can move it one side to the",
+      "start": 105.719,
+      "duration": 5.601,
+      "end": 111.32
+    },
+    {
+      "index": 38,
+      "text": "next by just dragging this here we can",
+      "start": 108.439,
+      "duration": 7.04,
+      "end": 115.479
+    },
+    {
+      "index": 39,
+      "text": "change the height um also what we can do",
+      "start": 111.32,
+      "duration": 7.88,
+      "end": 119.19999999999999
+    },
+    {
+      "index": 40,
+      "text": "is uh change the shape of this opening",
+      "start": 115.479,
+      "duration": 7.32,
+      "end": 122.799
+    },
+    {
+      "index": 41,
+      "text": "based on some uh presets that were",
+      "start": 119.2,
+      "duration": 6.8,
+      "end": 126.0
+    },
+    {
+      "index": 42,
+      "text": "already included with AutoCAD so you can",
+      "start": 122.799,
+      "duration": 5.8,
+      "end": 128.59900000000002
+    },
+    {
+      "index": 43,
+      "text": "pick one of these I tend to use the arch",
+      "start": 126.0,
+      "duration": 5.16,
+      "end": 131.16
+    },
+    {
+      "index": 44,
+      "text": "more often than not but we'll keep it",
+      "start": 128.599,
+      "duration": 5.28,
+      "end": 133.879
+    },
+    {
+      "index": 45,
+      "text": "rectangular for now one last thing I",
+      "start": 131.16,
+      "duration": 6.24,
+      "end": 137.4
+    },
+    {
+      "index": 46,
+      "text": "would like to do is to make the layer of",
+      "start": 133.879,
+      "duration": 6.681,
+      "end": 140.56
+    },
+    {
+      "index": 47,
+      "text": "this opening to be dotted lines and so",
+      "start": 137.4,
+      "duration": 5.8,
+      "end": 143.20000000000002
+    },
+    {
+      "index": 48,
+      "text": "of course we know that this is currently",
+      "start": 140.56,
+      "duration": 6.88,
+      "end": 147.44
+    },
+    {
+      "index": 49,
+      "text": "on the a wall open layer so what I like",
+      "start": 143.2,
+      "duration": 7.08,
+      "end": 150.28
+    },
+    {
+      "index": 50,
+      "text": "to do is to go to my layer properties",
+      "start": 147.44,
+      "duration": 4.76,
+      "end": 152.2
+    },
+    {
+      "index": 51,
+      "text": "and I would like to go to that",
+      "start": 150.28,
+      "duration": 5.44,
+      "end": 155.72
+    },
+    {
+      "index": 52,
+      "text": "particular layer and change its line",
+      "start": 152.2,
+      "duration": 6.88,
+      "end": 159.07999999999998
+    },
+    {
+      "index": 53,
+      "text": "type to Hidden once that's done this is",
+      "start": 155.72,
+      "duration": 6.4,
+      "end": 162.12
+    },
+    {
+      "index": 54,
+      "text": "how I would prefer to have my opening",
+      "start": 159.08,
+      "duration": 5.439,
+      "end": 164.519
+    },
+    {
+      "index": 55,
+      "text": "look all right now what I'm going to do",
+      "start": 162.12,
+      "duration": 6.08,
+      "end": 168.20000000000002
+    },
+    {
+      "index": 56,
+      "text": "is to add a similar opening to The Curve",
+      "start": 164.519,
+      "duration": 6.161,
+      "end": 170.68
+    },
+    {
+      "index": 57,
+      "text": "wall using the same method and I'm going",
+      "start": 168.2,
+      "duration": 4.88,
+      "end": 173.07999999999998
+    },
+    {
+      "index": 58,
+      "text": "to show you what the issue is when you",
+      "start": 170.68,
+      "duration": 5.199,
+      "end": 175.87900000000002
+    },
+    {
+      "index": 59,
+      "text": "try to do it this way so we're using the",
+      "start": 173.08,
+      "duration": 5.76,
+      "end": 178.84
+    },
+    {
+      "index": 60,
+      "text": "same dimensions here and I'm going to",
+      "start": 175.879,
+      "duration": 5.601,
+      "end": 181.48
+    },
+    {
+      "index": 61,
+      "text": "click",
+      "start": 178.84,
+      "duration": 5.119,
+      "end": 183.959
+    },
+    {
+      "index": 62,
+      "text": "and I'm going to add it maybe like right",
+      "start": 181.48,
+      "duration": 4.92,
+      "end": 186.39999999999998
+    },
+    {
+      "index": 63,
+      "text": "here now I'm sure you can see the",
+      "start": 183.959,
+      "duration": 6.761,
+      "end": 190.72
+    },
+    {
+      "index": 64,
+      "text": "problem right away uh the fact that it",
+      "start": 186.4,
+      "duration": 7.72,
+      "end": 194.12
+    },
+    {
+      "index": 65,
+      "text": "chop The Arc or the curve and make it",
+      "start": 190.72,
+      "duration": 5.879,
+      "end": 196.599
+    },
+    {
+      "index": 66,
+      "text": "flat uh I don't like that that looks",
+      "start": 194.12,
+      "duration": 5.0,
+      "end": 199.12
+    },
+    {
+      "index": 67,
+      "text": "ugly that looks weird um as a matter of",
+      "start": 196.599,
+      "duration": 5.441,
+      "end": 202.04
+    },
+    {
+      "index": 68,
+      "text": "fact if we go into a 3D view I guess it",
+      "start": 199.12,
+      "duration": 4.32,
+      "end": 203.44
+    },
+    {
+      "index": 69,
+      "text": "looks",
+      "start": 202.04,
+      "duration": 5.24,
+      "end": 207.28
+    },
+    {
+      "index": 70,
+      "text": "okay um but it's kind of still weird",
+      "start": 203.44,
+      "duration": 6.719,
+      "end": 210.159
+    },
+    {
+      "index": 71,
+      "text": "because instead of having the these",
+      "start": 207.28,
+      "duration": 6.56,
+      "end": 213.84
+    },
+    {
+      "index": 72,
+      "text": "edges cutting at a perpendicular to the",
+      "start": 210.159,
+      "duration": 6.841,
+      "end": 217.0
+    },
+    {
+      "index": 73,
+      "text": "curve it's cutting at an angle I'd",
+      "start": 213.84,
+      "duration": 7.959,
+      "end": 221.799
+    },
+    {
+      "index": 74,
+      "text": "rather The Arc to come around and finish",
+      "start": 217.0,
+      "duration": 8.08,
+      "end": 225.08
+    },
+    {
+      "index": 75,
+      "text": "off perpendicular to The Arc in that",
+      "start": 221.799,
+      "duration": 6.36,
+      "end": 228.15900000000002
+    },
+    {
+      "index": 76,
+      "text": "manner so the method I'm going to be",
+      "start": 225.08,
+      "duration": 5.4,
+      "end": 230.48000000000002
+    },
+    {
+      "index": 77,
+      "text": "showing you we'll be able to do that it",
+      "start": 228.159,
+      "duration": 5.8,
+      "end": 233.959
+    },
+    {
+      "index": 78,
+      "text": "involves a few additional steps but",
+      "start": 230.48,
+      "duration": 6.16,
+      "end": 236.64
+    },
+    {
+      "index": 79,
+      "text": "lucky enough I don't think any of us",
+      "start": 233.959,
+      "duration": 4.961,
+      "end": 238.92000000000002
+    },
+    {
+      "index": 80,
+      "text": "design buildings that have so many",
+      "start": 236.64,
+      "duration": 4.64,
+      "end": 241.27999999999997
+    },
+    {
+      "index": 81,
+      "text": "curves that it becomes an issue to add",
+      "start": 238.92,
+      "duration": 5.8,
+      "end": 244.72
+    },
+    {
+      "index": 82,
+      "text": "these uh maybe you have one or two",
+      "start": 241.28,
+      "duration": 5.519,
+      "end": 246.799
+    },
+    {
+      "index": 83,
+      "text": "openings that you need to add which",
+      "start": 244.72,
+      "duration": 3.76,
+      "end": 248.48
+    },
+    {
+      "index": 84,
+      "text": "means that this method would be",
+      "start": 246.799,
+      "duration": 5.0,
+      "end": 251.799
+    },
+    {
+      "index": 85,
+      "text": "worthwhile to use all right without",
+      "start": 248.48,
+      "duration": 5.36,
+      "end": 253.84
+    },
+    {
+      "index": 86,
+      "text": "chatting anymore let's jump into it so",
+      "start": 251.799,
+      "duration": 3.481,
+      "end": 255.28
+    },
+    {
+      "index": 87,
+      "text": "what we're going to do is to click on",
+      "start": 253.84,
+      "duration": 3.799,
+      "end": 257.639
+    },
+    {
+      "index": 88,
+      "text": "the wall and one of the things we can do",
+      "start": 255.28,
+      "duration": 5.88,
+      "end": 261.16
+    },
+    {
+      "index": 89,
+      "text": "in AutoCAD is to modify the floor line",
+      "start": 257.639,
+      "duration": 6.521,
+      "end": 264.16
+    },
+    {
+      "index": 90,
+      "text": "and the roof line so you might be",
+      "start": 261.16,
+      "duration": 5.64,
+      "end": 266.8
+    },
+    {
+      "index": 91,
+      "text": "familiar with modifying the roof line",
+      "start": 264.16,
+      "duration": 5.36,
+      "end": 269.52000000000004
+    },
+    {
+      "index": 92,
+      "text": "cuz I've shown that in previous videos",
+      "start": 266.8,
+      "duration": 4.36,
+      "end": 271.16
+    },
+    {
+      "index": 93,
+      "text": "but but in this one we're going to be",
+      "start": 269.52,
+      "duration": 3.56,
+      "end": 273.08
+    },
+    {
+      "index": 94,
+      "text": "working on the floor line and we're",
+      "start": 271.16,
+      "duration": 3.96,
+      "end": 275.12
+    },
+    {
+      "index": 95,
+      "text": "going to just modify the floor line so",
+      "start": 273.08,
+      "duration": 6.08,
+      "end": 279.15999999999997
+    },
+    {
+      "index": 96,
+      "text": "that we get that opening in the floor or",
+      "start": 275.12,
+      "duration": 6.96,
+      "end": 282.08
+    },
+    {
+      "index": 97,
+      "text": "on the lower portion of the wall now",
+      "start": 279.16,
+      "duration": 5.0,
+      "end": 284.16
+    },
+    {
+      "index": 98,
+      "text": "instead of using these options here one",
+      "start": 282.08,
+      "duration": 6.119,
+      "end": 288.19899999999996
+    },
+    {
+      "index": 99,
+      "text": "of the options we can use is the edit in",
+      "start": 284.16,
+      "duration": 6.4,
+      "end": 290.56
+    },
+    {
+      "index": 100,
+      "text": "place feature so what this does it",
+      "start": 288.199,
+      "duration": 4.401,
+      "end": 292.6
+    },
+    {
+      "index": 101,
+      "text": "straightens the wall out and make it",
+      "start": 290.56,
+      "duration": 4.12,
+      "end": 294.68
+    },
+    {
+      "index": 102,
+      "text": "into a straight line and if we rotate in",
+      "start": 292.6,
+      "duration": 6.08,
+      "end": 298.68
+    },
+    {
+      "index": 103,
+      "text": "a 3D uh view you can see that it gives",
+      "start": 294.68,
+      "duration": 6.68,
+      "end": 301.36
+    },
+    {
+      "index": 104,
+      "text": "you a profile of the wall and you can",
+      "start": 298.68,
+      "duration": 6.56,
+      "end": 305.24
+    },
+    {
+      "index": 105,
+      "text": "create the shape you want uh to cut out",
+      "start": 301.36,
+      "duration": 7.839,
+      "end": 309.199
+    },
+    {
+      "index": 106,
+      "text": "in the wall using these tools up here so",
+      "start": 305.24,
+      "duration": 6.32,
+      "end": 311.56
+    },
+    {
+      "index": 107,
+      "text": "before we go on if you are an architect",
+      "start": 309.199,
+      "duration": 5.801,
+      "end": 315.0
+    },
+    {
+      "index": 108,
+      "text": "a designer or specialist maybe you are a",
+      "start": 311.56,
+      "duration": 7.079,
+      "end": 318.639
+    },
+    {
+      "index": 109,
+      "text": "student an educator a DIY or even",
+      "start": 315.0,
+      "duration": 6.039,
+      "end": 321.039
+    },
+    {
+      "index": 110,
+      "text": "hobbyist and you desire to go deeper",
+      "start": 318.639,
+      "duration": 4.56,
+      "end": 323.199
+    },
+    {
+      "index": 111,
+      "text": "with articad architecture please check",
+      "start": 321.039,
+      "duration": 5.041,
+      "end": 326.08
+    },
+    {
+      "index": 112,
+      "text": "out my 3D modeling course that would be",
+      "start": 323.199,
+      "duration": 5.601,
+      "end": 328.8
+    },
+    {
+      "index": 113,
+      "text": "the first link below the like button now",
+      "start": 326.08,
+      "duration": 7.64,
+      "end": 333.71999999999997
+    },
+    {
+      "index": 114,
+      "text": "this self P course has over 120 lessons",
+      "start": 328.8,
+      "duration": 7.519,
+      "end": 336.319
+    },
+    {
+      "index": 115,
+      "text": "with over 18 hours of video content so",
+      "start": 333.72,
+      "duration": 4.599,
+      "end": 338.319
+    },
+    {
+      "index": 116,
+      "text": "it's a lot of things packed in there and",
+      "start": 336.319,
+      "duration": 4.6,
+      "end": 340.91900000000004
+    },
+    {
+      "index": 117,
+      "text": "this course was also designed for uh",
+      "start": 338.319,
+      "duration": 5.681,
+      "end": 344.0
+    },
+    {
+      "index": 118,
+      "text": "beginners to intermediate level users",
+      "start": 340.919,
+      "duration": 5.601,
+      "end": 346.52
+    },
+    {
+      "index": 119,
+      "text": "but is also perfect for individuals who",
+      "start": 344.0,
+      "duration": 6.16,
+      "end": 350.16
+    },
+    {
+      "index": 120,
+      "text": "want to expand on their skills you know",
+      "start": 346.52,
+      "duration": 6.04,
+      "end": 352.56
+    },
+    {
+      "index": 121,
+      "text": "individuals uh looking to start working",
+      "start": 350.16,
+      "duration": 6.4,
+      "end": 356.56
+    },
+    {
+      "index": 122,
+      "text": "with 3D designs instead of 2D and uh I",
+      "start": 352.56,
+      "duration": 5.44,
+      "end": 358.0
+    },
+    {
+      "index": 123,
+      "text": "tell you you will learn everything you",
+      "start": 356.56,
+      "duration": 3.72,
+      "end": 360.28000000000003
+    },
+    {
+      "index": 124,
+      "text": "need to know to be profit efficient with",
+      "start": 358.0,
+      "duration": 4.96,
+      "end": 362.96
+    },
+    {
+      "index": 125,
+      "text": "articad architecture so if you're",
+      "start": 360.28,
+      "duration": 5.24,
+      "end": 365.52
+    },
+    {
+      "index": 126,
+      "text": "interested check it out in the link I'll",
+      "start": 362.96,
+      "duration": 4.92,
+      "end": 367.88
+    },
+    {
+      "index": 127,
+      "text": "also drop it in the first pin comment",
+      "start": 365.52,
+      "duration": 4.2,
+      "end": 369.71999999999997
+    },
+    {
+      "index": 128,
+      "text": "below but yeah let's jump back into the",
+      "start": 367.88,
+      "duration": 4.759,
+      "end": 372.639
+    },
+    {
+      "index": 129,
+      "text": "video You could also use a polyline to",
+      "start": 369.72,
+      "duration": 6.16,
+      "end": 375.88000000000005
+    },
+    {
+      "index": 130,
+      "text": "draw whatever shape you want and then",
+      "start": 372.639,
+      "duration": 6.641,
+      "end": 379.28000000000003
+    },
+    {
+      "index": 131,
+      "text": "convert that polyline to get your shape",
+      "start": 375.88,
+      "duration": 6.719,
+      "end": 382.599
+    },
+    {
+      "index": 132,
+      "text": "using this tool over here now of course",
+      "start": 379.28,
+      "duration": 5.08,
+      "end": 384.35999999999996
+    },
+    {
+      "index": 133,
+      "text": "I'm not going to do that because I've",
+      "start": 382.599,
+      "duration": 4.761,
+      "end": 387.36
+    },
+    {
+      "index": 134,
+      "text": "found that method of doing this to be",
+      "start": 384.36,
+      "duration": 5.88,
+      "end": 390.24
+    },
+    {
+      "index": 135,
+      "text": "problematic for some reason it should",
+      "start": 387.36,
+      "duration": 5.64,
+      "end": 393.0
+    },
+    {
+      "index": 136,
+      "text": "work flawlessly but it doesn't I think",
+      "start": 390.24,
+      "duration": 5.28,
+      "end": 395.52
+    },
+    {
+      "index": 137,
+      "text": "that's just a glitch in the software so",
+      "start": 393.0,
+      "duration": 4.88,
+      "end": 397.88
+    },
+    {
+      "index": 138,
+      "text": "I'm not even going to go down that route",
+      "start": 395.52,
+      "duration": 4.44,
+      "end": 399.96
+    },
+    {
+      "index": 139,
+      "text": "what we'll do is to go here and go down",
+      "start": 397.88,
+      "duration": 5.0,
+      "end": 402.88
+    },
+    {
+      "index": 140,
+      "text": "to roof line floorline edit and what",
+      "start": 399.96,
+      "duration": 4.959,
+      "end": 404.919
+    },
+    {
+      "index": 141,
+      "text": "this does is to bring up a dialogue box",
+      "start": 402.88,
+      "duration": 5.92,
+      "end": 408.8
+    },
+    {
+      "index": 142,
+      "text": "to where we can dial in the exact shape",
+      "start": 404.919,
+      "duration": 6.641,
+      "end": 411.56
+    },
+    {
+      "index": 143,
+      "text": "and details that we need based on",
+      "start": 408.8,
+      "duration": 5.16,
+      "end": 413.96000000000004
+    },
+    {
+      "index": 144,
+      "text": "coordinates okay so if you understand",
+      "start": 411.56,
+      "duration": 6.16,
+      "end": 417.72
+    },
+    {
+      "index": 145,
+      "text": "how X and Y and distances work you",
+      "start": 413.96,
+      "duration": 6.239,
+      "end": 420.19899999999996
+    },
+    {
+      "index": 146,
+      "text": "should have no issues here at all",
+      "start": 417.72,
+      "duration": 4.759,
+      "end": 422.47900000000004
+    },
+    {
+      "index": 147,
+      "text": "so instead of modifying the roof line",
+      "start": 420.199,
+      "duration": 5.201,
+      "end": 425.40000000000003
+    },
+    {
+      "index": 148,
+      "text": "which is what is active currently we're",
+      "start": 422.479,
+      "duration": 4.641,
+      "end": 427.12
+    },
+    {
+      "index": 149,
+      "text": "going to go down to the floor line and",
+      "start": 425.4,
+      "duration": 4.96,
+      "end": 430.35999999999996
+    },
+    {
+      "index": 150,
+      "text": "as you can see the nodes move down to",
+      "start": 427.12,
+      "duration": 6.56,
+      "end": 433.68
+    },
+    {
+      "index": 151,
+      "text": "the floor line and right now we can go",
+      "start": 430.36,
+      "duration": 5.44,
+      "end": 435.8
+    },
+    {
+      "index": 152,
+      "text": "ahead and make changes to the floorline",
+      "start": 433.68,
+      "duration": 4.4,
+      "end": 438.08
+    },
+    {
+      "index": 153,
+      "text": "so what we want to do is to add four",
+      "start": 435.8,
+      "duration": 6.16,
+      "end": 441.96000000000004
+    },
+    {
+      "index": 154,
+      "text": "more vertices to this Baseline here we",
+      "start": 438.08,
+      "duration": 6.119,
+      "end": 444.19899999999996
+    },
+    {
+      "index": 155,
+      "text": "want to add our first one out here",
+      "start": 441.96,
+      "duration": 5.04,
+      "end": 447.0
+    },
+    {
+      "index": 156,
+      "text": "whatever distance we want from this Edge",
+      "start": 444.199,
+      "duration": 5.801,
+      "end": 450.0
+    },
+    {
+      "index": 157,
+      "text": "then we're going to go up 7 ft we're",
+      "start": 447.0,
+      "duration": 5.599,
+      "end": 452.599
+    },
+    {
+      "index": 158,
+      "text": "going to go across 10 ft and then we're",
+      "start": 450.0,
+      "duration": 4.12,
+      "end": 454.12
+    },
+    {
+      "index": 159,
+      "text": "going to come back down so what we're",
+      "start": 452.599,
+      "duration": 6.561,
+      "end": 459.15999999999997
+    },
+    {
+      "index": 160,
+      "text": "going to do first is to add a Vertex so",
+      "start": 454.12,
+      "duration": 8.199,
+      "end": 462.319
+    },
+    {
+      "index": 161,
+      "text": "insert vertex right here and we want",
+      "start": 459.16,
+      "duration": 6.84,
+      "end": 466.0
+    },
+    {
+      "index": 162,
+      "text": "this vertex to be inserted away from",
+      "start": 462.319,
+      "duration": 6.201,
+      "end": 468.52000000000004
+    },
+    {
+      "index": 163,
+      "text": "this point all right so we can choose",
+      "start": 466.0,
+      "duration": 4.44,
+      "end": 470.44
+    },
+    {
+      "index": 164,
+      "text": "whatever options you want here we can",
+      "start": 468.52,
+      "duration": 4.799,
+      "end": 473.31899999999996
+    },
+    {
+      "index": 165,
+      "text": "say from the start of the wall which is",
+      "start": 470.44,
+      "duration": 5.52,
+      "end": 475.96
+    },
+    {
+      "index": 166,
+      "text": "usually this side here and this would be",
+      "start": 473.319,
+      "duration": 5.44,
+      "end": 478.759
+    },
+    {
+      "index": 167,
+      "text": "the end of the wall so from the start we",
+      "start": 475.96,
+      "duration": 6.079,
+      "end": 482.039
+    },
+    {
+      "index": 168,
+      "text": "want to start maybe like 5 ft away and",
+      "start": 478.759,
+      "duration": 8.0,
+      "end": 486.759
+    },
+    {
+      "index": 169,
+      "text": "we want it to sit 0 in on the Baseline",
+      "start": 482.039,
+      "duration": 7.761,
+      "end": 489.8
+    },
+    {
+      "index": 170,
+      "text": "so it doesn't move up or down so we",
+      "start": 486.759,
+      "duration": 6.12,
+      "end": 492.879
+    },
+    {
+      "index": 171,
+      "text": "leave it at zero hit okay so we have our",
+      "start": 489.8,
+      "duration": 5.239,
+      "end": 495.039
+    },
+    {
+      "index": 172,
+      "text": "first vertex here we're going to click",
+      "start": 492.879,
+      "duration": 4.0,
+      "end": 496.879
+    },
+    {
+      "index": 173,
+      "text": "on that one and then we're going to",
+      "start": 495.039,
+      "duration": 4.321,
+      "end": 499.36
+    },
+    {
+      "index": 174,
+      "text": "insert another one and this time we're",
+      "start": 496.879,
+      "duration": 5.401,
+      "end": 502.28000000000003
+    },
+    {
+      "index": 175,
+      "text": "going to say from the previous point and",
+      "start": 499.36,
+      "duration": 4.799,
+      "end": 504.159
+    },
+    {
+      "index": 176,
+      "text": "this is important so this is the",
+      "start": 502.28,
+      "duration": 4.0,
+      "end": 506.28
+    },
+    {
+      "index": 177,
+      "text": "previous Point",
+      "start": 504.159,
+      "duration": 4.081,
+      "end": 508.24
+    },
+    {
+      "index": 178,
+      "text": "horizontally which would be in this",
+      "start": 506.28,
+      "duration": 4.68,
+      "end": 510.96
+    },
+    {
+      "index": 179,
+      "text": "direction it's it's going to be zero",
+      "start": 508.24,
+      "duration": 5.32,
+      "end": 513.5600000000001
+    },
+    {
+      "index": 180,
+      "text": "right because we want to go up so this",
+      "start": 510.96,
+      "duration": 5.759,
+      "end": 516.7189999999999
+    },
+    {
+      "index": 181,
+      "text": "is the distance we want to make positive",
+      "start": 513.56,
+      "duration": 5.919,
+      "end": 519.4789999999999
+    },
+    {
+      "index": 182,
+      "text": "okay so we're going to say",
+      "start": 516.719,
+      "duration": 5.32,
+      "end": 522.0390000000001
+    },
+    {
+      "index": 183,
+      "text": "vertically from the Baseline we want",
+      "start": 519.479,
+      "duration": 6.281,
+      "end": 525.76
+    },
+    {
+      "index": 184,
+      "text": "this to go up 7 ft we hit okay and so we",
+      "start": 522.039,
+      "duration": 6.401,
+      "end": 528.4399999999999
+    },
+    {
+      "index": 185,
+      "text": "have our second vertex so click on that",
+      "start": 525.76,
+      "duration": 5.68,
+      "end": 531.4399999999999
+    },
+    {
+      "index": 186,
+      "text": "one and we keep going just like that we",
+      "start": 528.44,
+      "duration": 6.56,
+      "end": 535.0
+    },
+    {
+      "index": 187,
+      "text": "want uh this one to be from the previous",
+      "start": 531.44,
+      "duration": 7.399,
+      "end": 538.839
+    },
+    {
+      "index": 188,
+      "text": "point and then it's going to be 10 ft",
+      "start": 535.0,
+      "duration": 5.0,
+      "end": 540.0
+    },
+    {
+      "index": 189,
+      "text": "for this one",
+      "start": 538.839,
+      "duration": 4.361,
+      "end": 543.2
+    },
+    {
+      "index": 190,
+      "text": "so it's going to be 10 ft over but now",
+      "start": 540.0,
+      "duration": 6.36,
+      "end": 546.36
+    },
+    {
+      "index": 191,
+      "text": "we want this side also to be 7 ft which",
+      "start": 543.2,
+      "duration": 6.56,
+      "end": 549.76
+    },
+    {
+      "index": 192,
+      "text": "would be the same level as this one all",
+      "start": 546.36,
+      "duration": 5.8,
+      "end": 552.16
+    },
+    {
+      "index": 193,
+      "text": "right we're going to hit okay so we have",
+      "start": 549.76,
+      "duration": 5.56,
+      "end": 555.3199999999999
+    },
+    {
+      "index": 194,
+      "text": "it at 10 ft away from this one as well",
+      "start": 552.16,
+      "duration": 7.799,
+      "end": 559.959
+    },
+    {
+      "index": 195,
+      "text": "as 7 ft above get that and then we click",
+      "start": 555.32,
+      "duration": 6.48,
+      "end": 561.8000000000001
+    },
+    {
+      "index": 196,
+      "text": "on this one and we're going to insert",
+      "start": 559.959,
+      "duration": 6.241,
+      "end": 566.1999999999999
+    },
+    {
+      "index": 197,
+      "text": "another one from the previous point and",
+      "start": 561.8,
+      "duration": 6.96,
+      "end": 568.76
+    },
+    {
+      "index": 198,
+      "text": "uh it's going to be zero because we're",
+      "start": 566.2,
+      "duration": 4.96,
+      "end": 571.1600000000001
+    },
+    {
+      "index": 199,
+      "text": "not moving horizontally it's going to",
+      "start": 568.76,
+      "duration": 4.96,
+      "end": 573.72
+    },
+    {
+      "index": 200,
+      "text": "come down straight like that so that's",
+      "start": 571.16,
+      "duration": 4.4,
+      "end": 575.56
+    },
+    {
+      "index": 201,
+      "text": "going to be zero and then from the",
+      "start": 573.72,
+      "duration": 5.92,
+      "end": 579.64
+    },
+    {
+      "index": 202,
+      "text": "Baseline we want this also to be uh zero",
+      "start": 575.56,
+      "duration": 6.12,
+      "end": 581.68
+    },
+    {
+      "index": 203,
+      "text": "so we're going to hit okay and just like",
+      "start": 579.64,
+      "duration": 3.96,
+      "end": 583.6
+    },
+    {
+      "index": 204,
+      "text": "that you would have created a similar",
+      "start": 581.68,
+      "duration": 4.76,
+      "end": 586.4399999999999
+    },
+    {
+      "index": 205,
+      "text": "opening to what we have on our straight",
+      "start": 583.6,
+      "duration": 4.919,
+      "end": 588.519
+    },
+    {
+      "index": 206,
+      "text": "wall except that this is going to be",
+      "start": 586.44,
+      "duration": 3.8,
+      "end": 590.24
+    },
+    {
+      "index": 207,
+      "text": "done on the curve and it's going to look",
+      "start": 588.519,
+      "duration": 4.241,
+      "end": 592.76
+    },
+    {
+      "index": 208,
+      "text": "much nicer check this out I'm going to",
+      "start": 590.24,
+      "duration": 6.24,
+      "end": 596.48
+    },
+    {
+      "index": 209,
+      "text": "hit okay and we have our opening created",
+      "start": 592.76,
+      "duration": 6.079,
+      "end": 598.8389999999999
+    },
+    {
+      "index": 210,
+      "text": "now of course you don't get this nice",
+      "start": 596.48,
+      "duration": 5.24,
+      "end": 601.72
+    },
+    {
+      "index": 211,
+      "text": "looking shape that you can move and",
+      "start": 598.839,
+      "duration": 5.24,
+      "end": 604.0790000000001
+    },
+    {
+      "index": 212,
+      "text": "manipulate uh with this one it's just a",
+      "start": 601.72,
+      "duration": 5.72,
+      "end": 607.44
+    },
+    {
+      "index": 213,
+      "text": "fixed thing and if you wanted to make",
+      "start": 604.079,
+      "duration": 5.32,
+      "end": 609.399
+    },
+    {
+      "index": 214,
+      "text": "changes to it you would have to come",
+      "start": 607.44,
+      "duration": 6.16,
+      "end": 613.6
+    },
+    {
+      "index": 215,
+      "text": "back into the floor line section here",
+      "start": 609.399,
+      "duration": 7.56,
+      "end": 616.959
+    },
+    {
+      "index": 216,
+      "text": "and make that change or at this point",
+      "start": 613.6,
+      "duration": 6.0,
+      "end": 619.6
+    },
+    {
+      "index": 217,
+      "text": "you could possibly go into your edit in",
+      "start": 616.959,
+      "duration": 5.481,
+      "end": 622.4399999999999
+    },
+    {
+      "index": 218,
+      "text": "place and you can see that that shape uh",
+      "start": 619.6,
+      "duration": 5.16,
+      "end": 624.76
+    },
+    {
+      "index": 219,
+      "text": "has been created and at this point you",
+      "start": 622.44,
+      "duration": 5.16,
+      "end": 627.6
+    },
+    {
+      "index": 220,
+      "text": "can come and grab you know this point",
+      "start": 624.76,
+      "duration": 5.68,
+      "end": 630.4399999999999
+    },
+    {
+      "index": 221,
+      "text": "and move it however you want to move it",
+      "start": 627.6,
+      "duration": 4.6,
+      "end": 632.2
+    },
+    {
+      "index": 222,
+      "text": "all right so I'm going to cancel out of",
+      "start": 630.44,
+      "duration": 5.28,
+      "end": 635.72
+    },
+    {
+      "index": 223,
+      "text": "that I do have the shape that I need and",
+      "start": 632.2,
+      "duration": 7.48,
+      "end": 639.6800000000001
+    },
+    {
+      "index": 224,
+      "text": "when I go back to my plan view now this",
+      "start": 635.72,
+      "duration": 6.44,
+      "end": 642.1600000000001
+    },
+    {
+      "index": 225,
+      "text": "is what we have so now you can see that",
+      "start": 639.68,
+      "duration": 5.399,
+      "end": 645.079
+    },
+    {
+      "index": 226,
+      "text": "the opening is cutting perpendicular to",
+      "start": 642.16,
+      "duration": 5.28,
+      "end": 647.4399999999999
+    },
+    {
+      "index": 227,
+      "text": "the arc which is perfect that's exactly",
+      "start": 645.079,
+      "duration": 4.921,
+      "end": 650.0
+    },
+    {
+      "index": 228,
+      "text": "what I want to see now the only thing is",
+      "start": 647.44,
+      "duration": 5.199,
+      "end": 652.639
+    },
+    {
+      "index": 229,
+      "text": "that I'm not seeing the dotted lines",
+      "start": 650.0,
+      "duration": 6.48,
+      "end": 656.48
+    },
+    {
+      "index": 230,
+      "text": "above my opening so we can make some",
+      "start": 652.639,
+      "duration": 6.281,
+      "end": 658.92
+    },
+    {
+      "index": 231,
+      "text": "adjustments to be able to see that and",
+      "start": 656.48,
+      "duration": 5.12,
+      "end": 661.6
+    },
+    {
+      "index": 232,
+      "text": "so we're going to do is to click on this",
+      "start": 658.92,
+      "duration": 4.919,
+      "end": 663.8389999999999
+    },
+    {
+      "index": 233,
+      "text": "wall and we're going to go to the",
+      "start": 661.6,
+      "duration": 5.96,
+      "end": 667.5600000000001
+    },
+    {
+      "index": 234,
+      "text": "display settings here and uh I think",
+      "start": 663.839,
+      "duration": 5.361,
+      "end": 669.2
+    },
+    {
+      "index": 235,
+      "text": "what we can do is to click on this drop",
+      "start": 667.56,
+      "duration": 6.2,
+      "end": 673.76
+    },
+    {
+      "index": 236,
+      "text": "down here sa this object",
+      "start": 669.2,
+      "duration": 7.8,
+      "end": 677.0
+    },
+    {
+      "index": 237,
+      "text": "override and",
+      "start": 673.76,
+      "duration": 3.24,
+      "end": 677.0
+    },
+    {
+      "index": 238,
+      "text": "then here we go right so what I did",
+      "start": 677.279,
+      "duration": 7.0,
+      "end": 684.279
+    },
+    {
+      "index": 239,
+      "text": "there was to uh change the second",
+      "start": 680.959,
+      "duration": 6.481,
+      "end": 687.4399999999999
+    },
+    {
+      "index": 240,
+      "text": "settings here to this object that will",
+      "start": 684.279,
+      "duration": 6.521,
+      "end": 690.8
+    },
+    {
+      "index": 241,
+      "text": "apply an override to this wall only and",
+      "start": 687.44,
+      "duration": 5.68,
+      "end": 693.12
+    },
+    {
+      "index": 242,
+      "text": "that's important as well cuz this type",
+      "start": 690.8,
+      "duration": 4.24,
+      "end": 695.04
+    },
+    {
+      "index": 243,
+      "text": "of setting you wouldn't want it to be",
+      "start": 693.12,
+      "duration": 4.36,
+      "end": 697.48
+    },
+    {
+      "index": 244,
+      "text": "applied to every single wall in your",
+      "start": 695.04,
+      "duration": 5.16,
+      "end": 700.1999999999999
+    },
+    {
+      "index": 245,
+      "text": "project you would just want it to be for",
+      "start": 697.48,
+      "duration": 5.0,
+      "end": 702.48
+    },
+    {
+      "index": 246,
+      "text": "this particular wall so you want to",
+      "start": 700.2,
+      "duration": 5.12,
+      "end": 705.32
+    },
+    {
+      "index": 247,
+      "text": "change that to this object and then make",
+      "start": 702.48,
+      "duration": 6.08,
+      "end": 708.5600000000001
+    },
+    {
+      "index": 248,
+      "text": "sure you come in here and turn on the",
+      "start": 705.32,
+      "duration": 6.519,
+      "end": 711.839
+    },
+    {
+      "index": 249,
+      "text": "above cut plane uh settings here that",
+      "start": 708.56,
+      "duration": 5.36,
+      "end": 713.92
+    },
+    {
+      "index": 250,
+      "text": "would give you your dotted lines cutting",
+      "start": 711.839,
+      "duration": 4.761,
+      "end": 716.6
+    },
+    {
+      "index": 251,
+      "text": "across like that and so just like that",
+      "start": 713.92,
+      "duration": 5.64,
+      "end": 719.56
+    },
+    {
+      "index": 252,
+      "text": "now we have a beautiful opening",
+      "start": 716.6,
+      "duration": 5.64,
+      "end": 722.24
+    },
+    {
+      "index": 253,
+      "text": "measuring the same height as this one",
+      "start": 719.56,
+      "duration": 5.04,
+      "end": 724.5999999999999
+    },
+    {
+      "index": 254,
+      "text": "the same width as well and now we have",
+      "start": 722.24,
+      "duration": 4.96,
+      "end": 727.2
+    },
+    {
+      "index": 255,
+      "text": "the dotted lines running across you can",
+      "start": 724.6,
+      "duration": 4.12,
+      "end": 728.72
+    },
+    {
+      "index": 256,
+      "text": "take this a little further if you wanted",
+      "start": 727.2,
+      "duration": 3.04,
+      "end": 730.24
+    },
+    {
+      "index": 257,
+      "text": "to I'm going to just play around with",
+      "start": 728.72,
+      "duration": 4.6,
+      "end": 733.32
+    },
+    {
+      "index": 258,
+      "text": "curtain walls here and uh and just do",
+      "start": 730.24,
+      "duration": 5.599,
+      "end": 735.839
+    },
+    {
+      "index": 259,
+      "text": "something crazy um let's see what I can",
+      "start": 733.32,
+      "duration": 6.44,
+      "end": 739.7600000000001
+    },
+    {
+      "index": 260,
+      "text": "do and I'm going to draw it from here to",
+      "start": 735.839,
+      "duration": 8.281,
+      "end": 744.12
+    },
+    {
+      "index": 261,
+      "text": "here to here enter and I'm going to make",
+      "start": 739.76,
+      "duration": 7.84,
+      "end": 747.6
+    },
+    {
+      "index": 262,
+      "text": "it 7 ft tall since my uh",
+      "start": 744.12,
+      "duration": 6.839,
+      "end": 750.9590000000001
+    },
+    {
+      "index": 263,
+      "text": "thing my open is 7 ft and I'm going to",
+      "start": 747.6,
+      "duration": 5.88,
+      "end": 753.48
+    },
+    {
+      "index": 264,
+      "text": "move",
+      "start": 750.959,
+      "duration": 2.521,
+      "end": 753.4799999999999
+    },
+    {
+      "index": 265,
+      "text": "this yeah there we go so now I have a",
+      "start": 760.199,
+      "duration": 7.361,
+      "end": 767.56
+    },
+    {
+      "index": 266,
+      "text": "curtain wall inside of my other wall and",
+      "start": 764.68,
+      "duration": 4.8,
+      "end": 769.4799999999999
+    },
+    {
+      "index": 267,
+      "text": "this is just another thing that you guys",
+      "start": 767.56,
+      "duration": 7.279,
+      "end": 774.8389999999999
+    },
+    {
+      "index": 268,
+      "text": "can explore and uh test out um of course",
+      "start": 769.48,
+      "duration": 7.919,
+      "end": 777.399
+    },
+    {
+      "index": 269,
+      "text": "we can add doors and windows into this",
+      "start": 774.839,
+      "duration": 4.44,
+      "end": 779.2790000000001
+    },
+    {
+      "index": 270,
+      "text": "thing here I just wanted to show you",
+      "start": 777.399,
+      "duration": 5.56,
+      "end": 782.959
+    },
+    {
+      "index": 271,
+      "text": "guys how to add um openings to your",
+      "start": 779.279,
+      "duration": 7.041,
+      "end": 786.32
+    },
+    {
+      "index": 272,
+      "text": "curved walls and adding a curtain wall",
+      "start": 782.959,
+      "duration": 5.24,
+      "end": 788.199
+    },
+    {
+      "index": 273,
+      "text": "inside of it uh just to give you guys a",
+      "start": 786.32,
+      "duration": 4.199,
+      "end": 790.519
+    },
+    {
+      "index": 274,
+      "text": "little bit extra anyways hope you guys",
+      "start": 788.199,
+      "duration": 4.401,
+      "end": 792.5999999999999
+    },
+    {
+      "index": 275,
+      "text": "learned something drop a comment below",
+      "start": 790.519,
+      "duration": 4.56,
+      "end": 795.079
+    },
+    {
+      "index": 276,
+      "text": "um you know let me know what you think",
+      "start": 792.6,
+      "duration": 7.479,
+      "end": 800.0790000000001
+    },
+    {
+      "index": 277,
+      "text": "and if you found this uh valuable",
+      "start": 795.079,
+      "duration": 5.0,
+      "end": 800.079
+    }
+  ],
+  "full_text": "[Music] all right so here we are back again in articad architecture and in this video I want to show you guys how to add openings to a curve now this can be a little bit uh challenging if you have never done it before um of course I'm using a technique that I recently discovered after someone asked me the question but it's good when you guys ask me question like this and allows me to challenge myself and to figure out a way to do it turns out there's actually a pretty decent way to do it and so I'm going to be showing you guys how to do that in this video now of course if you're familiar with adding openings to A straight piece of wall um you know if you've never done that before it's very simple um all we got to do is to go to the Home tab and if you click on the door drop down you have opening here you can type the command opening in the command line or uh you can come to the tool palet here and if you go up to design I believe we have it here as well so any direction you take it it's the same thing and you can click and add that opening to a piece of wall before I place it what I'm going to do is to set a width of 10 ft and a height of 7 ft that's okay okay and then I'm going to place it on this wall here so of course I can just drop it right there and uh from a 3D view you can see that uh that opening was created and of course we can uh change the size of it we can move it one side to the next by just dragging this here we can change the height um also what we can do is uh change the shape of this opening based on some uh presets that were already included with AutoCAD so you can pick one of these I tend to use the arch more often than not but we'll keep it rectangular for now one last thing I would like to do is to make the layer of this opening to be dotted lines and so of course we know that this is currently on the a wall open layer so what I like to do is to go to my layer properties and I would like to go to that particular layer and change its line type to Hidden once that's done this is how I would prefer to have my opening look all right now what I'm going to do is to add a similar opening to The Curve wall using the same method and I'm going to show you what the issue is when you try to do it this way so we're using the same dimensions here and I'm going to click and I'm going to add it maybe like right here now I'm sure you can see the problem right away uh the fact that it chop The Arc or the curve and make it flat uh I don't like that that looks ugly that looks weird um as a matter of fact if we go into a 3D view I guess it looks okay um but it's kind of still weird because instead of having the these edges cutting at a perpendicular to the curve it's cutting at an angle I'd rather The Arc to come around and finish off perpendicular to The Arc in that manner so the method I'm going to be showing you we'll be able to do that it involves a few additional steps but lucky enough I don't think any of us design buildings that have so many curves that it becomes an issue to add these uh maybe you have one or two openings that you need to add which means that this method would be worthwhile to use all right without chatting anymore let's jump into it so what we're going to do is to click on the wall and one of the things we can do in AutoCAD is to modify the floor line and the roof line so you might be familiar with modifying the roof line cuz I've shown that in previous videos but but in this one we're going to be working on the floor line and we're going to just modify the floor line so that we get that opening in the floor or on the lower portion of the wall now instead of using these options here one of the options we can use is the edit in place feature so what this does it straightens the wall out and make it into a straight line and if we rotate in a 3D uh view you can see that it gives you a profile of the wall and you can create the shape you want uh to cut out in the wall using these tools up here so before we go on if you are an architect a designer or specialist maybe you are a student an educator a DIY or even hobbyist and you desire to go deeper with articad architecture please check out my 3D modeling course that would be the first link below the like button now this self P course has over 120 lessons with over 18 hours of video content so it's a lot of things packed in there and this course was also designed for uh beginners to intermediate level users but is also perfect for individuals who want to expand on their skills you know individuals uh looking to start working with 3D designs instead of 2D and uh I tell you you will learn everything you need to know to be profit efficient with articad architecture so if you're interested check it out in the link I'll also drop it in the first pin comment below but yeah let's jump back into the video You could also use a polyline to draw whatever shape you want and then convert that polyline to get your shape using this tool over here now of course I'm not going to do that because I've found that method of doing this to be problematic for some reason it should work flawlessly but it doesn't I think that's just a glitch in the software so I'm not even going to go down that route what we'll do is to go here and go down to roof line floorline edit and what this does is to bring up a dialogue box to where we can dial in the exact shape and details that we need based on coordinates okay so if you understand how X and Y and distances work you should have no issues here at all so instead of modifying the roof line which is what is active currently we're going to go down to the floor line and as you can see the nodes move down to the floor line and right now we can go ahead and make changes to the floorline so what we want to do is to add four more vertices to this Baseline here we want to add our first one out here whatever distance we want from this Edge then we're going to go up 7 ft we're going to go across 10 ft and then we're going to come back down so what we're going to do first is to add a Vertex so insert vertex right here and we want this vertex to be inserted away from this point all right so we can choose whatever options you want here we can say from the start of the wall which is usually this side here and this would be the end of the wall so from the start we want to start maybe like 5 ft away and we want it to sit 0 in on the Baseline so it doesn't move up or down so we leave it at zero hit okay so we have our first vertex here we're going to click on that one and then we're going to insert another one and this time we're going to say from the previous point and this is important so this is the previous Point horizontally which would be in this direction it's it's going to be zero right because we want to go up so this is the distance we want to make positive okay so we're going to say vertically from the Baseline we want this to go up 7 ft we hit okay and so we have our second vertex so click on that one and we keep going just like that we want uh this one to be from the previous point and then it's going to be 10 ft for this one so it's going to be 10 ft over but now we want this side also to be 7 ft which would be the same level as this one all right we're going to hit okay so we have it at 10 ft away from this one as well as 7 ft above get that and then we click on this one and we're going to insert another one from the previous point and uh it's going to be zero because we're not moving horizontally it's going to come down straight like that so that's going to be zero and then from the Baseline we want this also to be uh zero so we're going to hit okay and just like that you would have created a similar opening to what we have on our straight wall except that this is going to be done on the curve and it's going to look much nicer check this out I'm going to hit okay and we have our opening created now of course you don't get this nice looking shape that you can move and manipulate uh with this one it's just a fixed thing and if you wanted to make changes to it you would have to come back into the floor line section here and make that change or at this point you could possibly go into your edit in place and you can see that that shape uh has been created and at this point you can come and grab you know this point and move it however you want to move it all right so I'm going to cancel out of that I do have the shape that I need and when I go back to my plan view now this is what we have so now you can see that the opening is cutting perpendicular to the arc which is perfect that's exactly what I want to see now the only thing is that I'm not seeing the dotted lines above my opening so we can make some adjustments to be able to see that and so we're going to do is to click on this wall and we're going to go to the display settings here and uh I think what we can do is to click on this drop down here sa this object override and then here we go right so what I did there was to uh change the second settings here to this object that will apply an override to this wall only and that's important as well cuz this type of setting you wouldn't want it to be applied to every single wall in your project you would just want it to be for this particular wall so you want to change that to this object and then make sure you come in here and turn on the above cut plane uh settings here that would give you your dotted lines cutting across like that and so just like that now we have a beautiful opening measuring the same height as this one the same width as well and now we have the dotted lines running across you can take this a little further if you wanted to I'm going to just play around with curtain walls here and uh and just do something crazy um let's see what I can do and I'm going to draw it from here to here to here enter and I'm going to make it 7 ft tall since my uh thing my open is 7 ft and I'm going to move this yeah there we go so now I have a curtain wall inside of my other wall and this is just another thing that you guys can explore and uh test out um of course we can add doors and windows into this thing here I just wanted to show you guys how to add um openings to your curved walls and adding a curtain wall inside of it uh just to give you guys a little bit extra anyways hope you guys learned something drop a comment below um you know let me know what you think and if you found this uh valuable",
+  "total_segments": 278,
+  "total_duration": 800.0790000000001,
+  "extraction_timestamp": "2025-07-11T18:00:15.864696",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

@@ -1,0 +1,407 @@
+chunk_id,content
+0,"hi everyone thank you for joining me and
+episode number five for one bedroom sins
+so in the last video we did was and of
+course you know we need we need to find
+a way to enter the house correct so in
+this video we're gonna be putting in our
+doors and our openings I wanted to do
+windows as well but the video will be a
+little bit too long so I'm gonna just
+cut it right there and then we do
+windows
+[Music]
+all right so before we get started what
+I want you to do is to get familiar with
+the different types of doors and windows
+it's important that you know how each
+type of your work and all each type of
+window work so without further ado let's
+get into it all right so here we are in
+autocad and the first thing i want to
+mention is that you don't need to worry
+about layers at this point because
+AutoCAD will generate your layers for
+you all right so for every tool that we
+use over here for instance last video we
+placed our wall AutoCAD creates a wall
+layer for us it gives us a color it
+gives"
+1,"ance last video we
+placed our wall AutoCAD creates a wall
+layer for us it gives us a color it
+gives us the line weight let me show you
+alright so here we are it gives us a
+color we can change the color it gives
+us the line tab and the line width all
+right the only thing I would probably
+change is the color if I'm gonna change
+anything I wouldn't change the line
+weight because the line width is
+actually a good line weight to use the
+recommended line width that AutoCAD
+gives is what we're gonna work with all
+right and it's the same thing when we
+create our doors we will get a layer
+four doors same thing for Windows and
+other other elements that we're gonna be
+creating all right without further ado
+let's begin so I'm gonna go back to our
+top view and I'm gonna go back to 2d
+wireframe so this is where we left off
+and we're gonna move forward from here
+if you look at the bottom right of your
+screen you're gonna see the door
+schedule so on this building we have
+three doors we have one at the"
+2,"screen you're gonna see the door
+schedule so on this building we have
+three doors we have one at the entry
+here from the porch to the living the
+second door would be at the bedroom from
+your living room to the bedroom and then
+the third door would be from the bus
+from the living ear to the bathroom so
+we only have three simple doors on this
+house and then we have three openings as
+well we have one at the front here and
+we have one here
+and we have one to enter into the
+kitchen alright so the first thing we're
+gonna do is to put in our openings which
+is actually very very easy by the way if
+you need to this drawing you can
+download it from the link in the
+description as well as all the other
+materials that are related to this
+particular drawing so let's go so of
+course if you look under your tool
+palette which is right here again if you
+don't see this go to tools and click on
+content no sorry
+click on design tools alright and it
+should bring up your tool palette and
+under your tool pale"
+3,"orry
+click on design tools alright and it
+should bring up your tool palette and
+under your tool palette we have a quite
+a few stuff and now we're doing doors
+under doors we do have this opening but
+this is not opening that we're looking
+for
+this is cased opening which means that
+this opening has a frame okay and we
+don't need a opening with a frame so
+where we want to find the right opening
+is we go back to design and we go down
+to the opening we can find it here or we
+can go to doors at the top here and we
+find it here is the same thing so I'm
+gonna use this one and the first thing
+we're gonna do here it says select a
+wall or enter so we're going to select
+this wall right here so we need a
+opening right there
+we need one right there we need one on
+this wall so that's the first thing we
+did was to just place our three openings
+of course if you knew the size we could
+set it over here before but sometimes we
+just have to do it free handed nothing
+is wrong with that
+minimize that and then"
+4,"re but sometimes we
+just have to do it free handed nothing
+is wrong with that
+minimize that and then what we're going
+to do is just stretch these out all
+right
+that's really simple I'm gonna stretch
+these out like that all right so that's
+good so we are left with a little square
+here which we're gonna use as a column
+in this corner and then we're going to
+fix this one
+if you look at the properties it is
+three feet wide and we need it to be
+four feet so let's fix that seven feet
+high that's good and everything is looks
+good so and then we're going to move it
+over into this corner so to go and grab
+our move tool and we're going to move it
+over like that so now all our openings
+are done let's look at it in 3d
+so now we can see that our openings have
+been created beautiful so now we can get
+on to the porch
+no we need to get into the house muscle
+all right bus let's get it back to the
+plant view before we move to the doors
+what I'm gonna do is to put these the
+openings on a hidden line laye"
+5,"iew before we move to the doors
+what I'm gonna do is to put these the
+openings on a hidden line layer all
+right so as a matter of fact a layer has
+been created for it already there we go
+so what we're gonna do is to open our
+layers palette you know if you can't
+find this this is the little guy that is
+responsible so you just click on that
+and it's gonna bring up your layers
+palette and then we're gonna go to
+opening and we're going to change it
+from continuous to hidden and then we're
+gonna minimize that so now you can see
+that your your arch are your openings
+are being represented by dotted lines
+which is what we want
+all right the next thing we're gonna do
+is to enter our doors all right
+so we go back to our tool palette I'm
+gonna stick it over I would go down to
+doors all right now if you look on the
+door schedule it says that door one
+which is located at the entryway right
+here is a single hinge six panel
+half-light all right now if you look
+over here I already have it in my pallet"
+6,"single hinge six panel
+half-light all right now if you look
+over here I already have it in my pallet
+but I don't think you would have it in
+yours all right so where do you find it
+you would go to the more tools all right
+which would bring up more all right and
+in here you'll find a good amount of
+doors
+we have bifold double we have buy a full
+single these are the ones would use on
+that closet we have the keys open the
+one that we spoke about earlier know
+when you see double this means that that
+door is
+Dumbledore it has two doors swinging
+alright what we need is a single doors
+of the go across until we find single
+door and this is the one that I chose
+for this project you can go ahead I
+think this would be the more suitable
+one to use in Jamaica you know the six
+panel solid rock
+nobody can push it on back too easily
+this is the one you don't want to use
+alright any at all in Jamaica that is
+what I'm gonna just use this one for fun
+what you would do is to insert into your
+drawing or add"
+7,"is
+what I'm gonna just use this one for fun
+what you would do is to insert into your
+drawing or add to palette in this case I
+have already added it to my palette
+which is right here so I'm gonna just
+get rid of that so I click on it right
+here and then I'll go ahead and drop the
+door where I want it of course we could
+actually just click on any wall but we
+want it on this wall and we want it to
+be on the inside of it if I wanted it on
+the outside we could you know click on
+the outside there so when you click the
+door we could actually change the
+direction of the door by clicking these
+arrows alright and if you notice this
+door is too small that's because we did
+not set the size door that we wanted so
+this door should be three feet wide by
+seven feet high and we wanted to measure
+to the outside of the frame I'm going to
+explain that to you in a minute and then
+we want a swing to be 90 degrees all
+right if we change this to let's say 45
+degrees
+you notice what happened over here the
+doo"
+8,"grees all
+right if we change this to let's say 45
+degrees
+you notice what happened over here the
+door is now at a 45 degree angle we
+could actually close the door
+if we want it to but we're going to
+leave it at 90 and everything else looks
+good alright so you can see the type of
+door that we have here that's the one
+that we need and we're gonna go ahead
+and we're gonna move it from here
+down to the corner there alright so
+that's all front door
+so what I wanted to explain to you is
+what is what does it mean by measure
+outside of the frame so if I should
+actually measure the width of this door
+which we set for a three feet it would
+measure to the outside of the frame all
+right in some instances you might want
+to put it on the inside of the frame
+which would mean that the three feet
+would measure on the inside of the frame
+okay guys so we're gonna leave it at
+outside and the next thing I'm gonna do
+is to Center this door in between these
+walls all right I know that
+on the drawing the door"
+9,"gonna do
+is to Center this door in between these
+walls all right I know that
+on the drawing the door is exactly right
+here but we're gonna Center it on this
+wall for this project so let's go ahead
+and hit the center button up here and
+we're gonna hit enter twice one two once
+you hit Enter twice then we're gonna
+click on the first corner and then we're
+gonna click on the second corner and the
+door would automatically move to the
+center of the space this can be done
+with any thing in a drawing I could
+Center this wall using the same method
+between these two walls all right by
+right clicking going to a EC Center is
+the same thing all right so our first
+door has been placed let's go ahead and
+place our second door which is on the
+bedroom and this door is a single hinge
+now we don't need to search for this
+door because it's actually right here so
+we're gonna just click on it like so and
+let's do something let's actually pick
+the size that we need before we place it
+so the size we actually n"
+10,"do something let's actually pick
+the size that we need before we place it
+so the size we actually need is 3 feet
+by 7 and we're going to do a couple of
+adjustments let's say outside of frame
+perfect 90 degrees
+all right this time we're gonna actually
+put in some location now what I want is
+for the door to be exactly in the center
+this one this piece of wall right here
+from here to here alright so how do you
+do that we could actually change that to
+offset Center and I'm gonna change the
+justification to Center and how far from
+the center do you want it zero because
+you want it exactly in the center so
+we're going to let that be zero now
+we're just gonna click on this wall now
+if you'll notice if i zoom in a little
+bit you see those two measurement on the
+top on the bottom that it that says nine
+inches on both sides that's what I'm
+talking about so the door would snap to
+the exact center of the world any wall
+that I have so guess what if I put it on
+this wall the door automatically snap"
+11,"of the world any wall
+that I have so guess what if I put it on
+this wall the door automatically snap to
+the middle of the wall let me try
+another one so you can see look at that
+alright and this is what we're gonna do
+for our windows cuz all our windows will
+be centered in the wall all right
+so let's place this door right here
+again go ahead and flip the door like
+that by the way guys a general rule of
+thumb is to always flip your door or
+swing your door towards a wall okay you
+don't want your doors to be swinging up
+into the room like that this is poor
+design and it's a waste of space
+alright so if you'll notice on this
+building all doors are swinging towards
+a wall unless it's a very tight
+situation you just have to do what you
+have to do but always practice to swing
+your doors towards a wall alright so
+let's go ahead and create our third door
+which is the bathroom door now it's
+actually the same door so we could
+actually go ahead and click on that over
+there and then we're gonna set"
+12,"ly the same door so we could
+actually go ahead and click on that over
+there and then we're gonna set the size
+of the door which is what two feet eight
+inches and we're going to search for
+that in here by seven outside of frame
+19 and this time I want to do it to be
+exactly
+here so what we could actually do is in
+down here is to say offset left okay
+now when you click on the wall the door
+would actually be adjusted exactly on
+the wall any side of the wall because I
+have the offset to be zero let's say I
+wanted the door three inches off of the
+wall
+I could actually type in three inches
+here three inches all right so three
+inches would you can know you can see
+that the door is offset at three inches
+from the corner of the wall
+all right so there we have it our three
+doors have been placed I know of course
+we can't leave without looking at it in
+3d so of course let's go ahead and put
+it in 3d I'm gonna turn this into 3d and
+we're gonna make it perspective
+alright so that is it for this vid"
+13,"d I'm gonna turn this into 3d and
+we're gonna make it perspective
+alright so that is it for this video
+guys except one thing that I'm gonna do
+and is to put a little arch here and
+it's pretty ain't pretty simple you
+click on the opening let's see if I
+can't click on it from here click on the
+opening aisle over here is the shape you
+could actually change it from rectangle
+to round if you change it to arch you
+can change it
+yeah we could change it to a lot of
+things all right just go ahead choose
+the one that you like and stick with it
+I like to use arch and you can see it
+has a little design here to show you
+which measurement is is responsible for
+what so B which is the height from the
+base to the peak which is several feet
+I'm gonna make this eight feet all right
+and then the rise which is C which would
+be from the start off the curve all the
+way up to the peak is one foot so I have
+lifted it up a little bit so that the
+curve will come would come down and line
+up with this one over her"
+14,"ed it up a little bit so that the
+curve will come would come down and line
+up with this one over here right so I'm
+going to need this one has rectangle and
+then this one I'm Nikki barrage alright
+guys so that's what these are all doors
+no openings so so far so good
+[Music]
+alright guys so that wraps it up for
+this video I hope that you enjoyed it
+and hope you learned something today if
+you learned something drop a like and if
+you have any questions drop it in the
+comments below and don't forget to
+subscribe
+take care of yourself see
+[Music]"

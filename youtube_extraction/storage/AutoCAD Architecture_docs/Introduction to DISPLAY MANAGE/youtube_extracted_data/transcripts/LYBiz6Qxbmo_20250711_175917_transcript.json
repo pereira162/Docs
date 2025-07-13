@@ -1,0 +1,2957 @@
+{
+  "video_id": "LYBiz6Qxbmo",
+  "language": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "index": 0,
+      "text": "hello everyone welcome back to another",
+      "start": 0.16,
+      "duration": 4.72,
+      "end": 4.88
+    },
+    {
+      "index": 1,
+      "text": "video today we are going to be talking",
+      "start": 2.48,
+      "duration": 5.279,
+      "end": 7.759
+    },
+    {
+      "index": 2,
+      "text": "about the display manager in autocad",
+      "start": 4.88,
+      "duration": 5.36,
+      "end": 10.24
+    },
+    {
+      "index": 3,
+      "text": "architecture now the display manager is",
+      "start": 7.759,
+      "duration": 5.04,
+      "end": 12.799
+    },
+    {
+      "index": 4,
+      "text": "more on the advanced side of things it",
+      "start": 10.24,
+      "duration": 5.12,
+      "end": 15.36
+    },
+    {
+      "index": 5,
+      "text": "is a powerful and comprehensive tool and",
+      "start": 12.799,
+      "duration": 5.361,
+      "end": 18.16
+    },
+    {
+      "index": 6,
+      "text": "can be overwhelming if i try to teach it",
+      "start": 15.36,
+      "duration": 5.919,
+      "end": 21.279
+    },
+    {
+      "index": 7,
+      "text": "all in one video so today i'll be giving",
+      "start": 18.16,
+      "duration": 5.039,
+      "end": 23.198999999999998
+    },
+    {
+      "index": 8,
+      "text": "you somewhat of an introduction to the",
+      "start": 21.279,
+      "duration": 4.801,
+      "end": 26.08
+    },
+    {
+      "index": 9,
+      "text": "display manager which i do hope will",
+      "start": 23.199,
+      "duration": 5.121,
+      "end": 28.32
+    },
+    {
+      "index": 10,
+      "text": "spark the fire in your brain",
+      "start": 26.08,
+      "duration": 4.16,
+      "end": 30.24
+    },
+    {
+      "index": 11,
+      "text": "and thereby causing you to do more",
+      "start": 28.32,
+      "duration": 4.399,
+      "end": 32.719
+    },
+    {
+      "index": 12,
+      "text": "exploration and discover learning on",
+      "start": 30.24,
+      "duration": 5.04,
+      "end": 35.28
+    },
+    {
+      "index": 13,
+      "text": "your own now i must disclaim that i do",
+      "start": 32.719,
+      "duration": 4.961,
+      "end": 37.68
+    },
+    {
+      "index": 14,
+      "text": "not have a lot of experience with the",
+      "start": 35.28,
+      "duration": 5.04,
+      "end": 40.32
+    },
+    {
+      "index": 15,
+      "text": "display manager mainly because i tend to",
+      "start": 37.68,
+      "duration": 5.68,
+      "end": 43.36
+    },
+    {
+      "index": 16,
+      "text": "use a lot of the default settings on my",
+      "start": 40.32,
+      "duration": 5.759,
+      "end": 46.079
+    },
+    {
+      "index": 17,
+      "text": "own projects however i have been doing a",
+      "start": 43.36,
+      "duration": 4.879,
+      "end": 48.239
+    },
+    {
+      "index": 18,
+      "text": "little bit more exploration with the",
+      "start": 46.079,
+      "duration": 3.761,
+      "end": 49.84
+    },
+    {
+      "index": 19,
+      "text": "display manager",
+      "start": 48.239,
+      "duration": 3.84,
+      "end": 52.07899999999999
+    },
+    {
+      "index": 20,
+      "text": "this is coming off of the heels of the",
+      "start": 49.84,
+      "duration": 4.719,
+      "end": 54.559000000000005
+    },
+    {
+      "index": 21,
+      "text": "previous video that i did on skylight",
+      "start": 52.079,
+      "duration": 4.561,
+      "end": 56.64
+    },
+    {
+      "index": 22,
+      "text": "windows if you haven't seen that video",
+      "start": 54.559,
+      "duration": 3.84,
+      "end": 58.399
+    },
+    {
+      "index": 23,
+      "text": "as yet i might just drop the link below",
+      "start": 56.64,
+      "duration": 4.48,
+      "end": 61.120000000000005
+    },
+    {
+      "index": 24,
+      "text": "or above somewhere just check it out",
+      "start": 58.399,
+      "duration": 4.881,
+      "end": 63.28
+    },
+    {
+      "index": 25,
+      "text": "um but in that video i mentioned that",
+      "start": 61.12,
+      "duration": 4.64,
+      "end": 65.75999999999999
+    },
+    {
+      "index": 26,
+      "text": "there was something that cannot be done",
+      "start": 63.28,
+      "duration": 4.72,
+      "end": 68.0
+    },
+    {
+      "index": 27,
+      "text": "in autocad architecture here's a recap",
+      "start": 65.76,
+      "duration": 4.88,
+      "end": 70.64
+    },
+    {
+      "index": 28,
+      "text": "of that here is the caveat now when",
+      "start": 68.0,
+      "duration": 4.64,
+      "end": 72.64
+    },
+    {
+      "index": 29,
+      "text": "you're looking at it from a plan view",
+      "start": 70.64,
+      "duration": 3.839,
+      "end": 74.479
+    },
+    {
+      "index": 30,
+      "text": "this is what the window looks like for",
+      "start": 72.64,
+      "duration": 4.159,
+      "end": 76.799
+    },
+    {
+      "index": 31,
+      "text": "some reason autocad doesn't allow the",
+      "start": 74.479,
+      "duration": 5.521,
+      "end": 80.0
+    },
+    {
+      "index": 32,
+      "text": "window to look as is and of course after",
+      "start": 76.799,
+      "duration": 5.36,
+      "end": 82.159
+    },
+    {
+      "index": 33,
+      "text": "that video a fellow subscriber reached",
+      "start": 80.0,
+      "duration": 4.56,
+      "end": 84.56
+    },
+    {
+      "index": 34,
+      "text": "out to me and explained that there is",
+      "start": 82.159,
+      "duration": 5.441,
+      "end": 87.60000000000001
+    },
+    {
+      "index": 35,
+      "text": "actually a way to fix the issue using",
+      "start": 84.56,
+      "duration": 5.76,
+      "end": 90.32000000000001
+    },
+    {
+      "index": 36,
+      "text": "the display manager so now that i have",
+      "start": 87.6,
+      "duration": 5.36,
+      "end": 92.96
+    },
+    {
+      "index": 37,
+      "text": "learned how to fix the issue i would",
+      "start": 90.32,
+      "duration": 4.96,
+      "end": 95.27999999999999
+    },
+    {
+      "index": 38,
+      "text": "love to pass that knowledge on to you",
+      "start": 92.96,
+      "duration": 5.92,
+      "end": 98.88
+    },
+    {
+      "index": 39,
+      "text": "guys my beloved audience",
+      "start": 95.28,
+      "duration": 5.839,
+      "end": 101.119
+    },
+    {
+      "index": 40,
+      "text": "so yeah here we go um let's jump into",
+      "start": 98.88,
+      "duration": 4.0,
+      "end": 102.88
+    },
+    {
+      "index": 41,
+      "text": "autocad architecture and try to learn",
+      "start": 101.119,
+      "duration": 5.36,
+      "end": 106.479
+    },
+    {
+      "index": 42,
+      "text": "something new shall we",
+      "start": 102.88,
+      "duration": 3.599,
+      "end": 106.479
+    },
+    {
+      "index": 43,
+      "text": "okay so here we are in autocad",
+      "start": 112.479,
+      "duration": 5.121,
+      "end": 117.6
+    },
+    {
+      "index": 44,
+      "text": "architecture i'm using the 2023 version",
+      "start": 114.399,
+      "duration": 5.68,
+      "end": 120.07900000000001
+    },
+    {
+      "index": 45,
+      "text": "but you shouldn't have any problems if",
+      "start": 117.6,
+      "duration": 4.64,
+      "end": 122.24
+    },
+    {
+      "index": 46,
+      "text": "you're using earlier versions i'm pretty",
+      "start": 120.079,
+      "duration": 4.32,
+      "end": 124.399
+    },
+    {
+      "index": 47,
+      "text": "sure that you can do everything i'm",
+      "start": 122.24,
+      "duration": 4.8,
+      "end": 127.03999999999999
+    },
+    {
+      "index": 48,
+      "text": "doing here so no worries um but yeah",
+      "start": 124.399,
+      "duration": 5.121,
+      "end": 129.52
+    },
+    {
+      "index": 49,
+      "text": "let's jump right into it uh no",
+      "start": 127.04,
+      "duration": 5.04,
+      "end": 132.08
+    },
+    {
+      "index": 50,
+      "text": "hesitation uh where do we find the",
+      "start": 129.52,
+      "duration": 4.799,
+      "end": 134.31900000000002
+    },
+    {
+      "index": 51,
+      "text": "display manager so we go over to the",
+      "start": 132.08,
+      "duration": 5.28,
+      "end": 137.36
+    },
+    {
+      "index": 52,
+      "text": "manage tab and this is where that guy is",
+      "start": 134.319,
+      "duration": 4.161,
+      "end": 138.48
+    },
+    {
+      "index": 53,
+      "text": "located",
+      "start": 137.36,
+      "duration": 2.239,
+      "end": 139.59900000000002
+    },
+    {
+      "index": 54,
+      "text": "right here",
+      "start": 138.48,
+      "duration": 3.04,
+      "end": 141.51999999999998
+    },
+    {
+      "index": 55,
+      "text": "now before we jump into it there's so",
+      "start": 139.599,
+      "duration": 4.081,
+      "end": 143.67999999999998
+    },
+    {
+      "index": 56,
+      "text": "much to explain here guys but i'm gonna",
+      "start": 141.52,
+      "duration": 4.48,
+      "end": 146.0
+    },
+    {
+      "index": 57,
+      "text": "try to break it down as simple as i",
+      "start": 143.68,
+      "duration": 5.44,
+      "end": 149.12
+    },
+    {
+      "index": 58,
+      "text": "possibly can um but yeah the display",
+      "start": 146.0,
+      "duration": 6.48,
+      "end": 152.48
+    },
+    {
+      "index": 59,
+      "text": "manager pretty much controls your",
+      "start": 149.12,
+      "duration": 6.32,
+      "end": 155.44
+    },
+    {
+      "index": 60,
+      "text": "display configurations down here okay",
+      "start": 152.48,
+      "duration": 5.36,
+      "end": 157.84
+    },
+    {
+      "index": 61,
+      "text": "these are the default ones",
+      "start": 155.44,
+      "duration": 5.519,
+      "end": 160.959
+    },
+    {
+      "index": 62,
+      "text": "and these control the visibility",
+      "start": 157.84,
+      "duration": 6.56,
+      "end": 164.4
+    },
+    {
+      "index": 63,
+      "text": "graphics of various objects within your",
+      "start": 160.959,
+      "duration": 7.441,
+      "end": 168.4
+    },
+    {
+      "index": 64,
+      "text": "model your drawing depending on the view",
+      "start": 164.4,
+      "duration": 6.8,
+      "end": 171.20000000000002
+    },
+    {
+      "index": 65,
+      "text": "that you're looking at okay",
+      "start": 168.4,
+      "duration": 5.04,
+      "end": 173.44
+    },
+    {
+      "index": 66,
+      "text": "so that's the first complication right",
+      "start": 171.2,
+      "duration": 3.039,
+      "end": 174.23899999999998
+    },
+    {
+      "index": 67,
+      "text": "there",
+      "start": 173.44,
+      "duration": 2.96,
+      "end": 176.4
+    },
+    {
+      "index": 68,
+      "text": "um so for example if we're looking at a",
+      "start": 174.239,
+      "duration": 4.481,
+      "end": 178.72
+    },
+    {
+      "index": 69,
+      "text": "plan view why is it that when we look at",
+      "start": 176.4,
+      "duration": 4.8,
+      "end": 181.20000000000002
+    },
+    {
+      "index": 70,
+      "text": "this door from a plan view we can see",
+      "start": 178.72,
+      "duration": 3.68,
+      "end": 182.4
+    },
+    {
+      "index": 71,
+      "text": "the swing",
+      "start": 181.2,
+      "duration": 3.36,
+      "end": 184.56
+    },
+    {
+      "index": 72,
+      "text": "and you know stuff like that but when we",
+      "start": 182.4,
+      "duration": 4.8,
+      "end": 187.20000000000002
+    },
+    {
+      "index": 73,
+      "text": "go to a 3d view we are seeing different",
+      "start": 184.56,
+      "duration": 5.679,
+      "end": 190.239
+    },
+    {
+      "index": 74,
+      "text": "details okay the display manager is what",
+      "start": 187.2,
+      "duration": 5.759,
+      "end": 192.959
+    },
+    {
+      "index": 75,
+      "text": "controls the visibility graphics of",
+      "start": 190.239,
+      "duration": 4.321,
+      "end": 194.56
+    },
+    {
+      "index": 76,
+      "text": "these objects so",
+      "start": 192.959,
+      "duration": 4.161,
+      "end": 197.12
+    },
+    {
+      "index": 77,
+      "text": "it applies to walls windows you know",
+      "start": 194.56,
+      "duration": 4.48,
+      "end": 199.04
+    },
+    {
+      "index": 78,
+      "text": "even the stairs you know all of these",
+      "start": 197.12,
+      "duration": 3.92,
+      "end": 201.04
+    },
+    {
+      "index": 79,
+      "text": "things are being controlled um as a",
+      "start": 199.04,
+      "duration": 4.64,
+      "end": 203.67999999999998
+    },
+    {
+      "index": 80,
+      "text": "matter of fact let me kind of isolate",
+      "start": 201.04,
+      "duration": 5.36,
+      "end": 206.4
+    },
+    {
+      "index": 81,
+      "text": "this door here and uh what i'm gonna do",
+      "start": 203.68,
+      "duration": 5.6,
+      "end": 209.28
+    },
+    {
+      "index": 82,
+      "text": "is switch from the medium",
+      "start": 206.4,
+      "duration": 6.0,
+      "end": 212.4
+    },
+    {
+      "index": 83,
+      "text": "detail to for example a high detail",
+      "start": 209.28,
+      "duration": 6.239,
+      "end": 215.519
+    },
+    {
+      "index": 84,
+      "text": "configuration and this particular",
+      "start": 212.4,
+      "duration": 6.479,
+      "end": 218.87900000000002
+    },
+    {
+      "index": 85,
+      "text": "configuration what it does is to display",
+      "start": 215.519,
+      "duration": 5.681,
+      "end": 221.20000000000002
+    },
+    {
+      "index": 86,
+      "text": "more details about the door all right it",
+      "start": 218.879,
+      "duration": 4.881,
+      "end": 223.76
+    },
+    {
+      "index": 87,
+      "text": "displays the actual position of the door",
+      "start": 221.2,
+      "duration": 5.52,
+      "end": 226.72
+    },
+    {
+      "index": 88,
+      "text": "panel which is closed it displays this",
+      "start": 223.76,
+      "duration": 5.6,
+      "end": 229.35999999999999
+    },
+    {
+      "index": 89,
+      "text": "door stop it also goes as far as to",
+      "start": 226.72,
+      "duration": 5.28,
+      "end": 232.0
+    },
+    {
+      "index": 90,
+      "text": "display the door panels within the door",
+      "start": 229.36,
+      "duration": 5.36,
+      "end": 234.72000000000003
+    },
+    {
+      "index": 91,
+      "text": "and so is this something you want to see",
+      "start": 232.0,
+      "duration": 5.04,
+      "end": 237.04
+    },
+    {
+      "index": 92,
+      "text": "from a plan view perspective probably",
+      "start": 234.72,
+      "duration": 5.519,
+      "end": 240.239
+    },
+    {
+      "index": 93,
+      "text": "not so more than likely most people like",
+      "start": 237.04,
+      "duration": 5.919,
+      "end": 242.959
+    },
+    {
+      "index": 94,
+      "text": "myself would prefer to have the door",
+      "start": 240.239,
+      "duration": 5.601,
+      "end": 245.84
+    },
+    {
+      "index": 95,
+      "text": "represented in this particular",
+      "start": 242.959,
+      "duration": 5.121,
+      "end": 248.08
+    },
+    {
+      "index": 96,
+      "text": "configuration since you know on a plan",
+      "start": 245.84,
+      "duration": 4.24,
+      "end": 250.08
+    },
+    {
+      "index": 97,
+      "text": "view this is what you normally want to",
+      "start": 248.08,
+      "duration": 4.32,
+      "end": 252.4
+    },
+    {
+      "index": 98,
+      "text": "see all right and so",
+      "start": 250.08,
+      "duration": 5.2,
+      "end": 255.28
+    },
+    {
+      "index": 99,
+      "text": "the same thing occurs if we were to",
+      "start": 252.4,
+      "duration": 6.16,
+      "end": 258.56
+    },
+    {
+      "index": 100,
+      "text": "rotate this in a 3d view now we can see",
+      "start": 255.28,
+      "duration": 5.6,
+      "end": 260.88
+    },
+    {
+      "index": 101,
+      "text": "the panels and we can see different",
+      "start": 258.56,
+      "duration": 4.72,
+      "end": 263.28000000000003
+    },
+    {
+      "index": 102,
+      "text": "elements or parts of the door",
+      "start": 260.88,
+      "duration": 4.879,
+      "end": 265.759
+    },
+    {
+      "index": 103,
+      "text": "if we were to go to an elevation view",
+      "start": 263.28,
+      "duration": 5.12,
+      "end": 268.4
+    },
+    {
+      "index": 104,
+      "text": "like the left view here you can see even",
+      "start": 265.759,
+      "duration": 5.361,
+      "end": 271.12
+    },
+    {
+      "index": 105,
+      "text": "additional information telling us where",
+      "start": 268.4,
+      "duration": 5.68,
+      "end": 274.08
+    },
+    {
+      "index": 106,
+      "text": "the door hinges are located so all of",
+      "start": 271.12,
+      "duration": 5.28,
+      "end": 276.4
+    },
+    {
+      "index": 107,
+      "text": "this is being controlled again by your",
+      "start": 274.08,
+      "duration": 5.28,
+      "end": 279.35999999999996
+    },
+    {
+      "index": 108,
+      "text": "display manager which is controlling",
+      "start": 276.4,
+      "duration": 6.64,
+      "end": 283.03999999999996
+    },
+    {
+      "index": 109,
+      "text": "your display configuration and this now",
+      "start": 279.36,
+      "duration": 6.64,
+      "end": 286.0
+    },
+    {
+      "index": 110,
+      "text": "tells autocad what to show on your",
+      "start": 283.04,
+      "duration": 6.159,
+      "end": 289.199
+    },
+    {
+      "index": 111,
+      "text": "drawing depending on what view you're",
+      "start": 286.0,
+      "duration": 5.04,
+      "end": 291.04
+    },
+    {
+      "index": 112,
+      "text": "looking at okay",
+      "start": 289.199,
+      "duration": 3.761,
+      "end": 292.96000000000004
+    },
+    {
+      "index": 113,
+      "text": "back to top view this is what we are",
+      "start": 291.04,
+      "duration": 3.2,
+      "end": 294.24
+    },
+    {
+      "index": 114,
+      "text": "seeing",
+      "start": 292.96,
+      "duration": 3.519,
+      "end": 296.479
+    },
+    {
+      "index": 115,
+      "text": "uh let me kind of",
+      "start": 294.24,
+      "duration": 4.08,
+      "end": 298.32
+    },
+    {
+      "index": 116,
+      "text": "you know bring everything back in the",
+      "start": 296.479,
+      "duration": 3.041,
+      "end": 299.52
+    },
+    {
+      "index": 117,
+      "text": "scene here",
+      "start": 298.32,
+      "duration": 4.0,
+      "end": 302.32
+    },
+    {
+      "index": 118,
+      "text": "um so what happened now is that it does",
+      "start": 299.52,
+      "duration": 5.36,
+      "end": 304.88
+    },
+    {
+      "index": 119,
+      "text": "that sort of thing to every single",
+      "start": 302.32,
+      "duration": 5.439,
+      "end": 307.759
+    },
+    {
+      "index": 120,
+      "text": "object within your drawing so when we go",
+      "start": 304.88,
+      "duration": 5.599,
+      "end": 310.479
+    },
+    {
+      "index": 121,
+      "text": "over to the roof design where we had our",
+      "start": 307.759,
+      "duration": 5.601,
+      "end": 313.36
+    },
+    {
+      "index": 122,
+      "text": "issue before where we have our roof we",
+      "start": 310.479,
+      "duration": 5.28,
+      "end": 315.75899999999996
+    },
+    {
+      "index": 123,
+      "text": "can see the outline of our roof",
+      "start": 313.36,
+      "duration": 5.119,
+      "end": 318.47900000000004
+    },
+    {
+      "index": 124,
+      "text": "but the window on top of that roof is",
+      "start": 315.759,
+      "duration": 5.521,
+      "end": 321.28000000000003
+    },
+    {
+      "index": 125,
+      "text": "seen as if it were still in a plan view",
+      "start": 318.479,
+      "duration": 4.481,
+      "end": 322.96
+    },
+    {
+      "index": 126,
+      "text": "and so this is the issue we want to",
+      "start": 321.28,
+      "duration": 5.28,
+      "end": 326.55999999999995
+    },
+    {
+      "index": 127,
+      "text": "attempt to fix in today's video",
+      "start": 322.96,
+      "duration": 5.679,
+      "end": 328.63899999999995
+    },
+    {
+      "index": 128,
+      "text": "the roof is a little difficult to see so",
+      "start": 326.56,
+      "duration": 4.079,
+      "end": 330.639
+    },
+    {
+      "index": 129,
+      "text": "what i'm going to do here is to edit",
+      "start": 328.639,
+      "duration": 4.721,
+      "end": 333.36
+    },
+    {
+      "index": 130,
+      "text": "this roof style here",
+      "start": 330.639,
+      "duration": 4.641,
+      "end": 335.28000000000003
+    },
+    {
+      "index": 131,
+      "text": "and i'm going to go to",
+      "start": 333.36,
+      "duration": 3.44,
+      "end": 336.8
+    },
+    {
+      "index": 132,
+      "text": "i'm just going to click on this right",
+      "start": 335.28,
+      "duration": 4.0,
+      "end": 339.28
+    },
+    {
+      "index": 133,
+      "text": "here and i'm going to change the cut",
+      "start": 336.8,
+      "duration": 4.16,
+      "end": 340.96000000000004
+    },
+    {
+      "index": 134,
+      "text": "above and the cut below i'm going to",
+      "start": 339.28,
+      "duration": 4.32,
+      "end": 343.59999999999997
+    },
+    {
+      "index": 135,
+      "text": "change the color to maybe this orange",
+      "start": 340.96,
+      "duration": 4.56,
+      "end": 345.52
+    },
+    {
+      "index": 136,
+      "text": "color here just to brighten it up a",
+      "start": 343.6,
+      "duration": 4.08,
+      "end": 347.68
+    },
+    {
+      "index": 137,
+      "text": "little bit so that we can see it much",
+      "start": 345.52,
+      "duration": 3.92,
+      "end": 349.44
+    },
+    {
+      "index": 138,
+      "text": "clearer all right so i think that's",
+      "start": 347.68,
+      "duration": 4.16,
+      "end": 351.84000000000003
+    },
+    {
+      "index": 139,
+      "text": "better you can tell me if it uh if you",
+      "start": 349.44,
+      "duration": 4.64,
+      "end": 354.08
+    },
+    {
+      "index": 140,
+      "text": "like that drop a like underneath this",
+      "start": 351.84,
+      "duration": 3.199,
+      "end": 355.039
+    },
+    {
+      "index": 141,
+      "text": "video",
+      "start": 354.08,
+      "duration": 3.679,
+      "end": 357.75899999999996
+    },
+    {
+      "index": 142,
+      "text": "so what we want to do is to make it so",
+      "start": 355.039,
+      "duration": 5.521,
+      "end": 360.56
+    },
+    {
+      "index": 143,
+      "text": "that when we see this window is almost",
+      "start": 357.759,
+      "duration": 4.56,
+      "end": 362.319
+    },
+    {
+      "index": 144,
+      "text": "as if we're looking at it from an",
+      "start": 360.56,
+      "duration": 4.16,
+      "end": 364.72
+    },
+    {
+      "index": 145,
+      "text": "elevation view even though we are",
+      "start": 362.319,
+      "duration": 5.361,
+      "end": 367.68
+    },
+    {
+      "index": 146,
+      "text": "looking from a top view here okay now",
+      "start": 364.72,
+      "duration": 5.599,
+      "end": 370.319
+    },
+    {
+      "index": 147,
+      "text": "the display manager is all about fixing",
+      "start": 367.68,
+      "duration": 5.44,
+      "end": 373.12
+    },
+    {
+      "index": 148,
+      "text": "that problem as a matter of fact if we",
+      "start": 370.319,
+      "duration": 5.361,
+      "end": 375.68
+    },
+    {
+      "index": 149,
+      "text": "were to switch from medium to high",
+      "start": 373.12,
+      "duration": 5.04,
+      "end": 378.16
+    },
+    {
+      "index": 150,
+      "text": "detail sorry to",
+      "start": 375.68,
+      "duration": 3.92,
+      "end": 379.6
+    },
+    {
+      "index": 151,
+      "text": "high detail",
+      "start": 378.16,
+      "duration": 4.08,
+      "end": 382.24
+    },
+    {
+      "index": 152,
+      "text": "uh you can see that it actually give us",
+      "start": 379.6,
+      "duration": 4.159,
+      "end": 383.759
+    },
+    {
+      "index": 153,
+      "text": "what we need",
+      "start": 382.24,
+      "duration": 4.239,
+      "end": 386.479
+    },
+    {
+      "index": 154,
+      "text": "but then it changes the outline of the",
+      "start": 383.759,
+      "duration": 5.361,
+      "end": 389.12
+    },
+    {
+      "index": 155,
+      "text": "roof it makes it solid all the way and",
+      "start": 386.479,
+      "duration": 5.44,
+      "end": 391.919
+    },
+    {
+      "index": 156,
+      "text": "that's that's another issue okay so i'm",
+      "start": 389.12,
+      "duration": 5.519,
+      "end": 394.639
+    },
+    {
+      "index": 157,
+      "text": "gonna switch back to medium detail and",
+      "start": 391.919,
+      "duration": 5.761,
+      "end": 397.68
+    },
+    {
+      "index": 158,
+      "text": "what i'm going to do here is to go to my",
+      "start": 394.639,
+      "duration": 5.201,
+      "end": 399.84000000000003
+    },
+    {
+      "index": 159,
+      "text": "display manager the first thing you'll",
+      "start": 397.68,
+      "duration": 4.72,
+      "end": 402.40000000000003
+    },
+    {
+      "index": 160,
+      "text": "notice is that we have four different",
+      "start": 399.84,
+      "duration": 3.68,
+      "end": 403.52
+    },
+    {
+      "index": 161,
+      "text": "drawings",
+      "start": 402.4,
+      "duration": 3.68,
+      "end": 406.08
+    },
+    {
+      "index": 162,
+      "text": "here and that's because those are the",
+      "start": 403.52,
+      "duration": 5.92,
+      "end": 409.44
+    },
+    {
+      "index": 163,
+      "text": "four drawings i have open up currently",
+      "start": 406.08,
+      "duration": 4.32,
+      "end": 410.4
+    },
+    {
+      "index": 164,
+      "text": "but",
+      "start": 409.44,
+      "duration": 3.52,
+      "end": 412.96
+    },
+    {
+      "index": 165,
+      "text": "the roof design has been expanded that's",
+      "start": 410.4,
+      "duration": 6.16,
+      "end": 416.56
+    },
+    {
+      "index": 166,
+      "text": "because that's the one we are working on",
+      "start": 412.96,
+      "duration": 6.0,
+      "end": 418.96
+    },
+    {
+      "index": 167,
+      "text": "now within this drawing you can see that",
+      "start": 416.56,
+      "duration": 4.96,
+      "end": 421.52
+    },
+    {
+      "index": 168,
+      "text": "we have three folders",
+      "start": 418.96,
+      "duration": 5.04,
+      "end": 424.0
+    },
+    {
+      "index": 169,
+      "text": "one for configurations which would be",
+      "start": 421.52,
+      "duration": 5.04,
+      "end": 426.56
+    },
+    {
+      "index": 170,
+      "text": "the same things down here",
+      "start": 424.0,
+      "duration": 5.759,
+      "end": 429.759
+    },
+    {
+      "index": 171,
+      "text": "one for sets and one for representation",
+      "start": 426.56,
+      "duration": 4.96,
+      "end": 431.52
+    },
+    {
+      "index": 172,
+      "text": "by objects",
+      "start": 429.759,
+      "duration": 3.361,
+      "end": 433.12
+    },
+    {
+      "index": 173,
+      "text": "now i'm not going to go through all the",
+      "start": 431.52,
+      "duration": 3.519,
+      "end": 435.039
+    },
+    {
+      "index": 174,
+      "text": "knicks knocks and the ins and outs of",
+      "start": 433.12,
+      "duration": 3.68,
+      "end": 436.8
+    },
+    {
+      "index": 175,
+      "text": "every single thing here but i'm gonna",
+      "start": 435.039,
+      "duration": 4.481,
+      "end": 439.52
+    },
+    {
+      "index": 176,
+      "text": "just show you enough to where we can fix",
+      "start": 436.8,
+      "duration": 5.92,
+      "end": 442.72
+    },
+    {
+      "index": 177,
+      "text": "this issue so what we are gonna do",
+      "start": 439.52,
+      "duration": 4.239,
+      "end": 443.75899999999996
+    },
+    {
+      "index": 178,
+      "text": "is to",
+      "start": 442.72,
+      "duration": 3.36,
+      "end": 446.08000000000004
+    },
+    {
+      "index": 179,
+      "text": "drop down our configuration you can see",
+      "start": 443.759,
+      "duration": 5.601,
+      "end": 449.36
+    },
+    {
+      "index": 180,
+      "text": "that the medium detail is active",
+      "start": 446.08,
+      "duration": 5.36,
+      "end": 451.44
+    },
+    {
+      "index": 181,
+      "text": "as you can see down here all right let's",
+      "start": 449.36,
+      "duration": 3.839,
+      "end": 453.199
+    },
+    {
+      "index": 182,
+      "text": "click on this one here and as you can",
+      "start": 451.44,
+      "duration": 4.64,
+      "end": 456.08
+    },
+    {
+      "index": 183,
+      "text": "see we have a cut plane",
+      "start": 453.199,
+      "duration": 5.601,
+      "end": 458.8
+    },
+    {
+      "index": 184,
+      "text": "default settings which we can you know",
+      "start": 456.08,
+      "duration": 4.8,
+      "end": 460.88
+    },
+    {
+      "index": 185,
+      "text": "change if we want or you know leave it",
+      "start": 458.8,
+      "duration": 3.2,
+      "end": 462.0
+    },
+    {
+      "index": 186,
+      "text": "as is",
+      "start": 460.88,
+      "duration": 3.759,
+      "end": 464.639
+    },
+    {
+      "index": 187,
+      "text": "we have configuration and this is where",
+      "start": 462.0,
+      "duration": 4.8,
+      "end": 466.8
+    },
+    {
+      "index": 188,
+      "text": "the magic happens and as you can see",
+      "start": 464.639,
+      "duration": 4.881,
+      "end": 469.52
+    },
+    {
+      "index": 189,
+      "text": "here we have different views directions",
+      "start": 466.8,
+      "duration": 6.32,
+      "end": 473.12
+    },
+    {
+      "index": 190,
+      "text": "like we have over here and for each view",
+      "start": 469.52,
+      "duration": 7.2,
+      "end": 476.71999999999997
+    },
+    {
+      "index": 191,
+      "text": "we have a set that is being assigned",
+      "start": 473.12,
+      "duration": 4.96,
+      "end": 478.08
+    },
+    {
+      "index": 192,
+      "text": "and this is where things start to get",
+      "start": 476.72,
+      "duration": 4.4,
+      "end": 481.12
+    },
+    {
+      "index": 193,
+      "text": "complicated guys but bear with me",
+      "start": 478.08,
+      "duration": 5.76,
+      "end": 483.84
+    },
+    {
+      "index": 194,
+      "text": "so where do we find these sets and how",
+      "start": 481.12,
+      "duration": 5.919,
+      "end": 487.039
+    },
+    {
+      "index": 195,
+      "text": "can we modify these sets here to show",
+      "start": 483.84,
+      "duration": 5.12,
+      "end": 488.96
+    },
+    {
+      "index": 196,
+      "text": "exactly what we want",
+      "start": 487.039,
+      "duration": 4.401,
+      "end": 491.44
+    },
+    {
+      "index": 197,
+      "text": "when we look from top view because we're",
+      "start": 488.96,
+      "duration": 4.56,
+      "end": 493.52
+    },
+    {
+      "index": 198,
+      "text": "more concerned about top view here than",
+      "start": 491.44,
+      "duration": 4.319,
+      "end": 495.759
+    },
+    {
+      "index": 199,
+      "text": "anything else so i'm going to focus on",
+      "start": 493.52,
+      "duration": 4.16,
+      "end": 497.68
+    },
+    {
+      "index": 200,
+      "text": "top view here so the first thing i'm",
+      "start": 495.759,
+      "duration": 4.72,
+      "end": 500.47900000000004
+    },
+    {
+      "index": 201,
+      "text": "going to actually do here is to create",
+      "start": 497.68,
+      "duration": 5.359,
+      "end": 503.039
+    },
+    {
+      "index": 202,
+      "text": "a configuration all right",
+      "start": 500.479,
+      "duration": 4.0,
+      "end": 504.479
+    },
+    {
+      "index": 203,
+      "text": "so i'm going to right click here and i'm",
+      "start": 503.039,
+      "duration": 4.081,
+      "end": 507.12
+    },
+    {
+      "index": 204,
+      "text": "going to say new and this is it down",
+      "start": 504.479,
+      "duration": 5.44,
+      "end": 509.919
+    },
+    {
+      "index": 205,
+      "text": "here so click on that guy here",
+      "start": 507.12,
+      "duration": 4.639,
+      "end": 511.759
+    },
+    {
+      "index": 206,
+      "text": "go over to general and i'm going to",
+      "start": 509.919,
+      "duration": 4.081,
+      "end": 514.0
+    },
+    {
+      "index": 207,
+      "text": "rename this to be roof",
+      "start": 511.759,
+      "duration": 4.001,
+      "end": 515.76
+    },
+    {
+      "index": 208,
+      "text": "plan now once you create a new",
+      "start": 514.0,
+      "duration": 3.839,
+      "end": 517.839
+    },
+    {
+      "index": 209,
+      "text": "configuration",
+      "start": 515.76,
+      "duration": 3.079,
+      "end": 518.8389999999999
+    },
+    {
+      "index": 210,
+      "text": "and hit",
+      "start": 517.839,
+      "duration": 4.161,
+      "end": 522.0
+    },
+    {
+      "index": 211,
+      "text": "apply okay if we click on this pull up",
+      "start": 518.839,
+      "duration": 5.481,
+      "end": 524.32
+    },
+    {
+      "index": 212,
+      "text": "button here you will see your new",
+      "start": 522.0,
+      "duration": 4.48,
+      "end": 526.48
+    },
+    {
+      "index": 213,
+      "text": "configuration here i'm not going to",
+      "start": 524.32,
+      "duration": 4.079,
+      "end": 528.399
+    },
+    {
+      "index": 214,
+      "text": "click on it as yet since we haven't you",
+      "start": 526.48,
+      "duration": 4.64,
+      "end": 531.12
+    },
+    {
+      "index": 215,
+      "text": "know make all the necessary adjustments",
+      "start": 528.399,
+      "duration": 4.721,
+      "end": 533.12
+    },
+    {
+      "index": 216,
+      "text": "so let's go back to the display manager",
+      "start": 531.12,
+      "duration": 4.48,
+      "end": 535.6
+    },
+    {
+      "index": 217,
+      "text": "drop down our configurations and we have",
+      "start": 533.12,
+      "duration": 5.6,
+      "end": 538.72
+    },
+    {
+      "index": 218,
+      "text": "our roof plan configuration here we go",
+      "start": 535.6,
+      "duration": 4.96,
+      "end": 540.5600000000001
+    },
+    {
+      "index": 219,
+      "text": "over to configuration",
+      "start": 538.72,
+      "duration": 3.52,
+      "end": 542.24
+    },
+    {
+      "index": 220,
+      "text": "and as you can see",
+      "start": 540.56,
+      "duration": 5.279,
+      "end": 545.8389999999999
+    },
+    {
+      "index": 221,
+      "text": "uh no set has been assigned to these",
+      "start": 542.24,
+      "duration": 6.4,
+      "end": 548.64
+    },
+    {
+      "index": 222,
+      "text": "ones here as you can see there but the",
+      "start": 545.839,
+      "duration": 6.321,
+      "end": 552.1600000000001
+    },
+    {
+      "index": 223,
+      "text": "top and the 3d view has an assignment",
+      "start": 548.64,
+      "duration": 4.56,
+      "end": 553.1999999999999
+    },
+    {
+      "index": 224,
+      "text": "okay",
+      "start": 552.16,
+      "duration": 3.92,
+      "end": 556.0799999999999
+    },
+    {
+      "index": 225,
+      "text": "i'm fine with the 3d view being model",
+      "start": 553.2,
+      "duration": 5.28,
+      "end": 558.48
+    },
+    {
+      "index": 226,
+      "text": "high detail that's fine",
+      "start": 556.08,
+      "duration": 5.439,
+      "end": 561.519
+    },
+    {
+      "index": 227,
+      "text": "but when we get to the top view it has a",
+      "start": 558.48,
+      "duration": 5.6,
+      "end": 564.08
+    },
+    {
+      "index": 228,
+      "text": "set that i don't want to use all right",
+      "start": 561.519,
+      "duration": 4.0,
+      "end": 565.519
+    },
+    {
+      "index": 229,
+      "text": "so i'm going to remove this one i'm",
+      "start": 564.08,
+      "duration": 3.04,
+      "end": 567.12
+    },
+    {
+      "index": 230,
+      "text": "going to say none but the question is",
+      "start": 565.519,
+      "duration": 4.481,
+      "end": 570.0
+    },
+    {
+      "index": 231,
+      "text": "where do we go to create a new set",
+      "start": 567.12,
+      "duration": 5.279,
+      "end": 572.399
+    },
+    {
+      "index": 232,
+      "text": "for this configuration",
+      "start": 570.0,
+      "duration": 5.36,
+      "end": 575.36
+    },
+    {
+      "index": 233,
+      "text": "that is right in the next folder okay so",
+      "start": 572.399,
+      "duration": 4.961,
+      "end": 577.36
+    },
+    {
+      "index": 234,
+      "text": "if we drop this down these are all the",
+      "start": 575.36,
+      "duration": 5.52,
+      "end": 580.88
+    },
+    {
+      "index": 235,
+      "text": "sets that are available to assign to all",
+      "start": 577.36,
+      "duration": 6.32,
+      "end": 583.6800000000001
+    },
+    {
+      "index": 236,
+      "text": "of your views so if i click on this",
+      "start": 580.88,
+      "duration": 4.8,
+      "end": 585.68
+    },
+    {
+      "index": 237,
+      "text": "particular set here",
+      "start": 583.68,
+      "duration": 2.88,
+      "end": 586.56
+    },
+    {
+      "index": 238,
+      "text": "and",
+      "start": 585.68,
+      "duration": 2.8,
+      "end": 588.4799999999999
+    },
+    {
+      "index": 239,
+      "text": "i'm gonna just big this up a little bit",
+      "start": 586.56,
+      "duration": 4.719,
+      "end": 591.279
+    },
+    {
+      "index": 240,
+      "text": "more so you can see what's going on this",
+      "start": 588.48,
+      "duration": 5.2,
+      "end": 593.6800000000001
+    },
+    {
+      "index": 241,
+      "text": "is where things become confusing and",
+      "start": 591.279,
+      "duration": 3.841,
+      "end": 595.12
+    },
+    {
+      "index": 242,
+      "text": "complicated",
+      "start": 593.68,
+      "duration": 2.56,
+      "end": 596.2399999999999
+    },
+    {
+      "index": 243,
+      "text": "all right guys",
+      "start": 595.12,
+      "duration": 3.6,
+      "end": 598.72
+    },
+    {
+      "index": 244,
+      "text": "but no worries i'm here to kind of break",
+      "start": 596.24,
+      "duration": 4.159,
+      "end": 600.399
+    },
+    {
+      "index": 245,
+      "text": "it down for you a little bit",
+      "start": 598.72,
+      "duration": 3.92,
+      "end": 602.64
+    },
+    {
+      "index": 246,
+      "text": "so as you can see a number of boxes have",
+      "start": 600.399,
+      "duration": 6.0,
+      "end": 606.399
+    },
+    {
+      "index": 247,
+      "text": "been checked in here based on the object",
+      "start": 602.64,
+      "duration": 6.08,
+      "end": 608.72
+    },
+    {
+      "index": 248,
+      "text": "these are all the various objects that",
+      "start": 606.399,
+      "duration": 5.361,
+      "end": 611.76
+    },
+    {
+      "index": 249,
+      "text": "are available in autocad architecture",
+      "start": 608.72,
+      "duration": 6.2,
+      "end": 614.9200000000001
+    },
+    {
+      "index": 250,
+      "text": "and up here we have different display",
+      "start": 611.76,
+      "duration": 4.96,
+      "end": 616.72
+    },
+    {
+      "index": 251,
+      "text": "representation",
+      "start": 614.92,
+      "duration": 4.68,
+      "end": 619.5999999999999
+    },
+    {
+      "index": 252,
+      "text": "okay so i mean you know we have general",
+      "start": 616.72,
+      "duration": 5.76,
+      "end": 622.48
+    },
+    {
+      "index": 253,
+      "text": "views we have elevation views we have uh",
+      "start": 619.6,
+      "duration": 5.76,
+      "end": 625.36
+    },
+    {
+      "index": 254,
+      "text": "model views we have model high detail we",
+      "start": 622.48,
+      "duration": 4.88,
+      "end": 627.36
+    },
+    {
+      "index": 255,
+      "text": "have plan views",
+      "start": 625.36,
+      "duration": 4.64,
+      "end": 630.0
+    },
+    {
+      "index": 256,
+      "text": "all the possible views that are in",
+      "start": 627.36,
+      "duration": 4.719,
+      "end": 632.0790000000001
+    },
+    {
+      "index": 257,
+      "text": "autocad are up here you know i think it",
+      "start": 630.0,
+      "duration": 4.32,
+      "end": 634.32
+    },
+    {
+      "index": 258,
+      "text": "would be easier if i create one and then",
+      "start": 632.079,
+      "duration": 4.32,
+      "end": 636.399
+    },
+    {
+      "index": 259,
+      "text": "show you how it works so what we're",
+      "start": 634.32,
+      "duration": 5.68,
+      "end": 640.0
+    },
+    {
+      "index": 260,
+      "text": "going to do is to create a new set",
+      "start": 636.399,
+      "duration": 3.601,
+      "end": 640.0
+    },
+    {
+      "index": 261,
+      "text": "it's right here",
+      "start": 640.32,
+      "duration": 4.88,
+      "end": 645.2
+    },
+    {
+      "index": 262,
+      "text": "and i'm going to rename this to be the",
+      "start": 641.839,
+      "duration": 5.68,
+      "end": 647.519
+    },
+    {
+      "index": 263,
+      "text": "roof plan",
+      "start": 645.2,
+      "duration": 4.72,
+      "end": 649.9200000000001
+    },
+    {
+      "index": 264,
+      "text": "set okay let's go over to display",
+      "start": 647.519,
+      "duration": 5.76,
+      "end": 653.279
+    },
+    {
+      "index": 265,
+      "text": "representation control just like we were",
+      "start": 649.92,
+      "duration": 6.32,
+      "end": 656.24
+    },
+    {
+      "index": 266,
+      "text": "looking at previously and as you can see",
+      "start": 653.279,
+      "duration": 5.921,
+      "end": 659.2
+    },
+    {
+      "index": 267,
+      "text": "here nothing has been selected at this",
+      "start": 656.24,
+      "duration": 5.76,
+      "end": 662.0
+    },
+    {
+      "index": 268,
+      "text": "point we can actually go ahead and",
+      "start": 659.2,
+      "duration": 6.079,
+      "end": 665.279
+    },
+    {
+      "index": 269,
+      "text": "select some things that we want to see",
+      "start": 662.0,
+      "duration": 6.399,
+      "end": 668.399
+    },
+    {
+      "index": 270,
+      "text": "because right now as is if we were to go",
+      "start": 665.279,
+      "duration": 6.721,
+      "end": 672.0
+    },
+    {
+      "index": 271,
+      "text": "ahead and assign this new set",
+      "start": 668.399,
+      "duration": 5.041,
+      "end": 673.44
+    },
+    {
+      "index": 272,
+      "text": "to our",
+      "start": 672.0,
+      "duration": 4.48,
+      "end": 676.48
+    },
+    {
+      "index": 273,
+      "text": "new configuration so let's do that go to",
+      "start": 673.44,
+      "duration": 4.0,
+      "end": 677.44
+    },
+    {
+      "index": 274,
+      "text": "roof",
+      "start": 676.48,
+      "duration": 3.44,
+      "end": 679.9200000000001
+    },
+    {
+      "index": 275,
+      "text": "let's go to this here let's assign our",
+      "start": 677.44,
+      "duration": 5.76,
+      "end": 683.2
+    },
+    {
+      "index": 276,
+      "text": "new set which is a roof plan set",
+      "start": 679.92,
+      "duration": 5.039,
+      "end": 684.959
+    },
+    {
+      "index": 277,
+      "text": "let's hit apply",
+      "start": 683.2,
+      "duration": 3.36,
+      "end": 686.5600000000001
+    },
+    {
+      "index": 278,
+      "text": "hit ok",
+      "start": 684.959,
+      "duration": 3.361,
+      "end": 688.3199999999999
+    },
+    {
+      "index": 279,
+      "text": "and then what we're going to do is to go",
+      "start": 686.56,
+      "duration": 4.88,
+      "end": 691.4399999999999
+    },
+    {
+      "index": 280,
+      "text": "down here and select roof plan",
+      "start": 688.32,
+      "duration": 5.199,
+      "end": 693.519
+    },
+    {
+      "index": 281,
+      "text": "now if you notice everything disappears",
+      "start": 691.44,
+      "duration": 5.28,
+      "end": 696.72
+    },
+    {
+      "index": 282,
+      "text": "and the reason for that is because",
+      "start": 693.519,
+      "duration": 5.041,
+      "end": 698.5600000000001
+    },
+    {
+      "index": 283,
+      "text": "nothing was selected",
+      "start": 696.72,
+      "duration": 4.48,
+      "end": 701.2
+    },
+    {
+      "index": 284,
+      "text": "in our set earlier so if we go back to",
+      "start": 698.56,
+      "duration": 5.68,
+      "end": 704.2399999999999
+    },
+    {
+      "index": 285,
+      "text": "display configure display manager",
+      "start": 701.2,
+      "duration": 4.639,
+      "end": 705.839
+    },
+    {
+      "index": 286,
+      "text": "go down to sets",
+      "start": 704.24,
+      "duration": 4.24,
+      "end": 708.48
+    },
+    {
+      "index": 287,
+      "text": "go to our roof plan set and if we start",
+      "start": 705.839,
+      "duration": 4.56,
+      "end": 710.399
+    },
+    {
+      "index": 288,
+      "text": "to check some boxes here of things that",
+      "start": 708.48,
+      "duration": 4.88,
+      "end": 713.36
+    },
+    {
+      "index": 289,
+      "text": "we actually want to see within",
+      "start": 710.399,
+      "duration": 5.041,
+      "end": 715.44
+    },
+    {
+      "index": 290,
+      "text": "this configuration then things are going",
+      "start": 713.36,
+      "duration": 3.84,
+      "end": 717.2
+    },
+    {
+      "index": 291,
+      "text": "to start to turn on",
+      "start": 715.44,
+      "duration": 5.04,
+      "end": 720.48
+    },
+    {
+      "index": 292,
+      "text": "and so for example we want to see walls",
+      "start": 717.2,
+      "duration": 5.439,
+      "end": 722.639
+    },
+    {
+      "index": 293,
+      "text": "but we want to see walls from a plan",
+      "start": 720.48,
+      "duration": 5.919,
+      "end": 726.399
+    },
+    {
+      "index": 294,
+      "text": "view perspective so we look for plan",
+      "start": 722.639,
+      "duration": 5.76,
+      "end": 728.399
+    },
+    {
+      "index": 295,
+      "text": "and we look for a wall and we check that",
+      "start": 726.399,
+      "duration": 5.68,
+      "end": 732.079
+    },
+    {
+      "index": 296,
+      "text": "box okay likewise for roof roof and roof",
+      "start": 728.399,
+      "duration": 6.161,
+      "end": 734.56
+    },
+    {
+      "index": 297,
+      "text": "slab we're going to turn those on",
+      "start": 732.079,
+      "duration": 3.361,
+      "end": 735.4399999999999
+    },
+    {
+      "index": 298,
+      "text": "so",
+      "start": 734.56,
+      "duration": 5.44,
+      "end": 740.0
+    },
+    {
+      "index": 299,
+      "text": "we go to plan and we turn these on",
+      "start": 735.44,
+      "duration": 4.56,
+      "end": 740.0
+    },
+    {
+      "index": 300,
+      "text": "same thing for doors",
+      "start": 740.079,
+      "duration": 4.081,
+      "end": 744.16
+    },
+    {
+      "index": 301,
+      "text": "go up to doors",
+      "start": 742.079,
+      "duration": 5.361,
+      "end": 747.4399999999999
+    },
+    {
+      "index": 302,
+      "text": "we want to see these from plan but any",
+      "start": 744.16,
+      "duration": 5.119,
+      "end": 749.279
+    },
+    {
+      "index": 303,
+      "text": "object that you think you're going to be",
+      "start": 747.44,
+      "duration": 4.88,
+      "end": 752.32
+    },
+    {
+      "index": 304,
+      "text": "seeing within this view here uh you want",
+      "start": 749.279,
+      "duration": 5.041,
+      "end": 754.32
+    },
+    {
+      "index": 305,
+      "text": "to turn those on okay",
+      "start": 752.32,
+      "duration": 4.639,
+      "end": 756.9590000000001
+    },
+    {
+      "index": 306,
+      "text": "now the issue is where do you turn it on",
+      "start": 754.32,
+      "duration": 5.12,
+      "end": 759.44
+    },
+    {
+      "index": 307,
+      "text": "under is it plan view is it normal is it",
+      "start": 756.959,
+      "duration": 4.56,
+      "end": 761.5189999999999
+    },
+    {
+      "index": 308,
+      "text": "this or is it that as it regards to the",
+      "start": 759.44,
+      "duration": 4.8,
+      "end": 764.24
+    },
+    {
+      "index": 309,
+      "text": "window you don't want to turn this on",
+      "start": 761.519,
+      "duration": 5.281,
+      "end": 766.8
+    },
+    {
+      "index": 310,
+      "text": "underneath plan because we want to see",
+      "start": 764.24,
+      "duration": 4.64,
+      "end": 768.88
+    },
+    {
+      "index": 311,
+      "text": "the elevation of the window we are going",
+      "start": 766.8,
+      "duration": 5.039,
+      "end": 771.8389999999999
+    },
+    {
+      "index": 312,
+      "text": "to scroll over to the elevation check",
+      "start": 768.88,
+      "duration": 5.199,
+      "end": 774.079
+    },
+    {
+      "index": 313,
+      "text": "box and we're going to check this box so",
+      "start": 771.839,
+      "duration": 4.881,
+      "end": 776.72
+    },
+    {
+      "index": 314,
+      "text": "even though we're looking at a top view",
+      "start": 774.079,
+      "duration": 5.121,
+      "end": 779.1999999999999
+    },
+    {
+      "index": 315,
+      "text": "we are going to see the elevation of the",
+      "start": 776.72,
+      "duration": 5.44,
+      "end": 782.1600000000001
+    },
+    {
+      "index": 316,
+      "text": "window within that view so when we hit",
+      "start": 779.2,
+      "duration": 5.36,
+      "end": 784.5600000000001
+    },
+    {
+      "index": 317,
+      "text": "ok everything that we wanted is now",
+      "start": 782.16,
+      "duration": 5.119,
+      "end": 787.279
+    },
+    {
+      "index": 318,
+      "text": "turned on the roof uh we don't have any",
+      "start": 784.56,
+      "duration": 4.8,
+      "end": 789.3599999999999
+    },
+    {
+      "index": 319,
+      "text": "walls in this drawing right now",
+      "start": 787.279,
+      "duration": 4.721,
+      "end": 792.0
+    },
+    {
+      "index": 320,
+      "text": "but if we did you would be seeing those",
+      "start": 789.36,
+      "duration": 4.8,
+      "end": 794.16
+    },
+    {
+      "index": 321,
+      "text": "most importantly we can now see the",
+      "start": 792.0,
+      "duration": 5.36,
+      "end": 797.36
+    },
+    {
+      "index": 322,
+      "text": "elevation of the window from plan view",
+      "start": 794.16,
+      "duration": 6.16,
+      "end": 800.3199999999999
+    },
+    {
+      "index": 323,
+      "text": "and this is pretty pretty cool now the",
+      "start": 797.36,
+      "duration": 6.08,
+      "end": 803.44
+    },
+    {
+      "index": 324,
+      "text": "window is being shown in this uh color",
+      "start": 800.32,
+      "duration": 5.6,
+      "end": 805.9200000000001
+    },
+    {
+      "index": 325,
+      "text": "and i don't like that color so if we",
+      "start": 803.44,
+      "duration": 3.92,
+      "end": 807.36
+    },
+    {
+      "index": 326,
+      "text": "want to change this color we can",
+      "start": 805.92,
+      "duration": 4.64,
+      "end": 810.56
+    },
+    {
+      "index": 327,
+      "text": "actually change it uh within this object",
+      "start": 807.36,
+      "duration": 5.599,
+      "end": 812.9590000000001
+    },
+    {
+      "index": 328,
+      "text": "by itself you know we can change this",
+      "start": 810.56,
+      "duration": 5.2,
+      "end": 815.76
+    },
+    {
+      "index": 329,
+      "text": "particular object's color if we want or",
+      "start": 812.959,
+      "duration": 6.0,
+      "end": 818.959
+    },
+    {
+      "index": 330,
+      "text": "we can do something that applies that",
+      "start": 815.76,
+      "duration": 5.519,
+      "end": 821.279
+    },
+    {
+      "index": 331,
+      "text": "setting to every other window",
+      "start": 818.959,
+      "duration": 5.12,
+      "end": 824.079
+    },
+    {
+      "index": 332,
+      "text": "that is being shown from an elevation",
+      "start": 821.279,
+      "duration": 4.321,
+      "end": 825.6
+    },
+    {
+      "index": 333,
+      "text": "view if we go back to the display",
+      "start": 824.079,
+      "duration": 4.161,
+      "end": 828.2399999999999
+    },
+    {
+      "index": 334,
+      "text": "manager here go down to representation",
+      "start": 825.6,
+      "duration": 5.44,
+      "end": 831.0400000000001
+    },
+    {
+      "index": 335,
+      "text": "by object and if we go down to windows",
+      "start": 828.24,
+      "duration": 5.039,
+      "end": 833.279
+    },
+    {
+      "index": 336,
+      "text": "and we drop this down and we go to",
+      "start": 831.04,
+      "duration": 3.919,
+      "end": 834.959
+    },
+    {
+      "index": 337,
+      "text": "elevation since we're looking at the",
+      "start": 833.279,
+      "duration": 4.56,
+      "end": 837.8389999999999
+    },
+    {
+      "index": 338,
+      "text": "window from an elevation perspective uh",
+      "start": 834.959,
+      "duration": 4.88,
+      "end": 839.8389999999999
+    },
+    {
+      "index": 339,
+      "text": "we can change these two colors here",
+      "start": 837.839,
+      "duration": 3.841,
+      "end": 841.6800000000001
+    },
+    {
+      "index": 340,
+      "text": "which would be the sash and the frame",
+      "start": 839.839,
+      "duration": 4.081,
+      "end": 843.9200000000001
+    },
+    {
+      "index": 341,
+      "text": "and this and the that and we can just",
+      "start": 841.68,
+      "duration": 4.159,
+      "end": 845.8389999999999
+    },
+    {
+      "index": 342,
+      "text": "you know change it to something else",
+      "start": 843.92,
+      "duration": 5.52,
+      "end": 849.4399999999999
+    },
+    {
+      "index": 343,
+      "text": "let's choose this yellow here",
+      "start": 845.839,
+      "duration": 5.281,
+      "end": 851.12
+    },
+    {
+      "index": 344,
+      "text": "for example",
+      "start": 849.44,
+      "duration": 3.199,
+      "end": 852.639
+    },
+    {
+      "index": 345,
+      "text": "um",
+      "start": 851.12,
+      "duration": 4.079,
+      "end": 855.199
+    },
+    {
+      "index": 346,
+      "text": "that yellow all right okay",
+      "start": 852.639,
+      "duration": 4.481,
+      "end": 857.12
+    },
+    {
+      "index": 347,
+      "text": "and i'm gonna hit okay",
+      "start": 855.199,
+      "duration": 4.0,
+      "end": 859.199
+    },
+    {
+      "index": 348,
+      "text": "and now you can see that the windows has",
+      "start": 857.12,
+      "duration": 3.36,
+      "end": 860.48
+    },
+    {
+      "index": 349,
+      "text": "been changed",
+      "start": 859.199,
+      "duration": 3.281,
+      "end": 862.4799999999999
+    },
+    {
+      "index": 350,
+      "text": "one thing to note is that when you make",
+      "start": 860.48,
+      "duration": 4.56,
+      "end": 865.04
+    },
+    {
+      "index": 351,
+      "text": "changes within the display manager it",
+      "start": 862.48,
+      "duration": 5.919,
+      "end": 868.399
+    },
+    {
+      "index": 352,
+      "text": "applies the change to your entire view",
+      "start": 865.04,
+      "duration": 6.0,
+      "end": 871.04
+    },
+    {
+      "index": 353,
+      "text": "so if i had some additional windows over",
+      "start": 868.399,
+      "duration": 5.12,
+      "end": 873.519
+    },
+    {
+      "index": 354,
+      "text": "here it would apply those changes um if",
+      "start": 871.04,
+      "duration": 4.08,
+      "end": 875.12
+    },
+    {
+      "index": 355,
+      "text": "i wanted to make changes to this",
+      "start": 873.519,
+      "duration": 4.801,
+      "end": 878.32
+    },
+    {
+      "index": 356,
+      "text": "particular window by itself for example",
+      "start": 875.12,
+      "duration": 6.399,
+      "end": 881.519
+    },
+    {
+      "index": 357,
+      "text": "i want to make these windows",
+      "start": 878.32,
+      "duration": 4.72,
+      "end": 883.0400000000001
+    },
+    {
+      "index": 358,
+      "text": "in a hidden line",
+      "start": 881.519,
+      "duration": 3.361,
+      "end": 884.88
+    },
+    {
+      "index": 359,
+      "text": "like the roof itself",
+      "start": 883.04,
+      "duration": 3.84,
+      "end": 886.88
+    },
+    {
+      "index": 360,
+      "text": "and the second thing i want to do is to",
+      "start": 884.88,
+      "duration": 4.16,
+      "end": 889.04
+    },
+    {
+      "index": 361,
+      "text": "turn off some of these other lines that",
+      "start": 886.88,
+      "duration": 4.24,
+      "end": 891.12
+    },
+    {
+      "index": 362,
+      "text": "we're seeing here um the reason why",
+      "start": 889.04,
+      "duration": 3.599,
+      "end": 892.639
+    },
+    {
+      "index": 363,
+      "text": "we're seeing all of these lines is",
+      "start": 891.12,
+      "duration": 3.76,
+      "end": 894.88
+    },
+    {
+      "index": 364,
+      "text": "because you know you can see the window",
+      "start": 892.639,
+      "duration": 5.521,
+      "end": 898.16
+    },
+    {
+      "index": 365,
+      "text": "frame you can see the window sash you",
+      "start": 894.88,
+      "duration": 5.68,
+      "end": 900.56
+    },
+    {
+      "index": 366,
+      "text": "can see the window",
+      "start": 898.16,
+      "duration": 4.96,
+      "end": 903.12
+    },
+    {
+      "index": 367,
+      "text": "the window pane itself all right so we",
+      "start": 900.56,
+      "duration": 4.719,
+      "end": 905.279
+    },
+    {
+      "index": 368,
+      "text": "don't we we probably don't want to see",
+      "start": 903.12,
+      "duration": 4.079,
+      "end": 907.199
+    },
+    {
+      "index": 369,
+      "text": "all of that stuff so we can turn them",
+      "start": 905.279,
+      "duration": 5.12,
+      "end": 910.399
+    },
+    {
+      "index": 370,
+      "text": "off and i'm gonna do so to this window",
+      "start": 907.199,
+      "duration": 5.921,
+      "end": 913.12
+    },
+    {
+      "index": 371,
+      "text": "only okay so what we can do here uh",
+      "start": 910.399,
+      "duration": 5.12,
+      "end": 915.519
+    },
+    {
+      "index": 372,
+      "text": "we're gonna go to the edit style here",
+      "start": 913.12,
+      "duration": 5.04,
+      "end": 918.16
+    },
+    {
+      "index": 373,
+      "text": "and if you notice elevation here is",
+      "start": 915.519,
+      "duration": 5.921,
+      "end": 921.44
+    },
+    {
+      "index": 374,
+      "text": "active being that it is bold that tells",
+      "start": 918.16,
+      "duration": 5.52,
+      "end": 923.68
+    },
+    {
+      "index": 375,
+      "text": "us that this window here is being",
+      "start": 921.44,
+      "duration": 5.519,
+      "end": 926.9590000000001
+    },
+    {
+      "index": 376,
+      "text": "seen in an elevation view that's perfect",
+      "start": 923.68,
+      "duration": 5.36,
+      "end": 929.04
+    },
+    {
+      "index": 377,
+      "text": "we're going to check this box here",
+      "start": 926.959,
+      "duration": 5.361,
+      "end": 932.3199999999999
+    },
+    {
+      "index": 378,
+      "text": "and we are going to turn off some of",
+      "start": 929.04,
+      "duration": 5.28,
+      "end": 934.3199999999999
+    },
+    {
+      "index": 379,
+      "text": "these things here so maybe we want to",
+      "start": 932.32,
+      "duration": 3.92,
+      "end": 936.24
+    },
+    {
+      "index": 380,
+      "text": "turn off the sash and",
+      "start": 934.32,
+      "duration": 3.28,
+      "end": 937.6
+    },
+    {
+      "index": 381,
+      "text": "the glass",
+      "start": 936.24,
+      "duration": 3.36,
+      "end": 939.6
+    },
+    {
+      "index": 382,
+      "text": "just to reduce the amount of lines that",
+      "start": 937.6,
+      "duration": 3.76,
+      "end": 941.36
+    },
+    {
+      "index": 383,
+      "text": "we're seeing here",
+      "start": 939.6,
+      "duration": 4.56,
+      "end": 944.16
+    },
+    {
+      "index": 384,
+      "text": "you definitely want to leave this on",
+      "start": 941.36,
+      "duration": 4.64,
+      "end": 946.0
+    },
+    {
+      "index": 385,
+      "text": "especially if you are",
+      "start": 944.16,
+      "duration": 5.44,
+      "end": 949.6
+    },
+    {
+      "index": 386,
+      "text": "if you have a window that opens up in a",
+      "start": 946.0,
+      "duration": 5.92,
+      "end": 951.92
+    },
+    {
+      "index": 387,
+      "text": "particular direction you want to see the",
+      "start": 949.6,
+      "duration": 4.799,
+      "end": 954.399
+    },
+    {
+      "index": 388,
+      "text": "swings so i would leave this on",
+      "start": 951.92,
+      "duration": 4.08,
+      "end": 956.0
+    },
+    {
+      "index": 389,
+      "text": "and then the next thing i want to do is",
+      "start": 954.399,
+      "duration": 5.041,
+      "end": 959.44
+    },
+    {
+      "index": 390,
+      "text": "to change the the line type of the frame",
+      "start": 956.0,
+      "duration": 5.12,
+      "end": 961.12
+    },
+    {
+      "index": 391,
+      "text": "okay so i'm going to change it from this",
+      "start": 959.44,
+      "duration": 3.92,
+      "end": 963.36
+    },
+    {
+      "index": 392,
+      "text": "to hidden",
+      "start": 961.12,
+      "duration": 4.24,
+      "end": 965.36
+    },
+    {
+      "index": 393,
+      "text": "and yeah that's it that this is all i",
+      "start": 963.36,
+      "duration": 3.44,
+      "end": 966.8000000000001
+    },
+    {
+      "index": 394,
+      "text": "want to see really i just want to see",
+      "start": 965.36,
+      "duration": 3.599,
+      "end": 968.9590000000001
+    },
+    {
+      "index": 395,
+      "text": "the frame change it to hidden",
+      "start": 966.8,
+      "duration": 4.959,
+      "end": 971.7589999999999
+    },
+    {
+      "index": 396,
+      "text": "and i'm going to hit ok ok and just like",
+      "start": 968.959,
+      "duration": 3.68,
+      "end": 972.6389999999999
+    },
+    {
+      "index": 397,
+      "text": "that",
+      "start": 971.759,
+      "duration": 4.721,
+      "end": 976.48
+    },
+    {
+      "index": 398,
+      "text": "we now have a situation where we are",
+      "start": 972.639,
+      "duration": 7.12,
+      "end": 979.759
+    },
+    {
+      "index": 399,
+      "text": "only seeing the window frame it's now in",
+      "start": 976.48,
+      "duration": 5.919,
+      "end": 982.399
+    },
+    {
+      "index": 400,
+      "text": "hidden lines and if i zoom out that's",
+      "start": 979.759,
+      "duration": 5.2,
+      "end": 984.9590000000001
+    },
+    {
+      "index": 401,
+      "text": "what it looks like and i'm gonna bring",
+      "start": 982.399,
+      "duration": 5.68,
+      "end": 988.079
+    },
+    {
+      "index": 402,
+      "text": "the upper floor in and see what it looks",
+      "start": 984.959,
+      "duration": 5.601,
+      "end": 990.56
+    },
+    {
+      "index": 403,
+      "text": "like here all right so this is what we",
+      "start": 988.079,
+      "duration": 6.081,
+      "end": 994.16
+    },
+    {
+      "index": 404,
+      "text": "have as an end result and um i hope you",
+      "start": 990.56,
+      "duration": 5.36,
+      "end": 995.92
+    },
+    {
+      "index": 405,
+      "text": "learned something from this uh",
+      "start": 994.16,
+      "duration": 4.16,
+      "end": 998.3199999999999
+    },
+    {
+      "index": 406,
+      "text": "definitely give it a shot on your",
+      "start": 995.92,
+      "duration": 4.96,
+      "end": 1000.88
+    },
+    {
+      "index": 407,
+      "text": "project uh mess around with it",
+      "start": 998.32,
+      "duration": 5.12,
+      "end": 1003.44
+    },
+    {
+      "index": 408,
+      "text": "and uh and see where it goes all right",
+      "start": 1000.88,
+      "duration": 4.959,
+      "end": 1005.8389999999999
+    },
+    {
+      "index": 409,
+      "text": "all right that's it that's where we will",
+      "start": 1003.44,
+      "duration": 4.88,
+      "end": 1008.32
+    },
+    {
+      "index": 410,
+      "text": "stop for today go ahead drop a like on",
+      "start": 1005.839,
+      "duration": 4.481,
+      "end": 1010.32
+    },
+    {
+      "index": 411,
+      "text": "this video if you learned something new",
+      "start": 1008.32,
+      "duration": 3.759,
+      "end": 1012.0790000000001
+    },
+    {
+      "index": 412,
+      "text": "drop your comments and your questions",
+      "start": 1010.32,
+      "duration": 3.759,
+      "end": 1014.0790000000001
+    },
+    {
+      "index": 413,
+      "text": "your thoughts in the comment section",
+      "start": 1012.079,
+      "duration": 3.921,
+      "end": 1016.0
+    },
+    {
+      "index": 414,
+      "text": "below finally i would like to thank my",
+      "start": 1014.079,
+      "duration": 3.76,
+      "end": 1017.8389999999999
+    },
+    {
+      "index": 415,
+      "text": "patrons and channel members for your",
+      "start": 1016.0,
+      "duration": 4.8,
+      "end": 1020.8
+    },
+    {
+      "index": 416,
+      "text": "support and finally finally thank all of",
+      "start": 1017.839,
+      "duration": 4.961,
+      "end": 1022.8000000000001
+    },
+    {
+      "index": 417,
+      "text": "you for checking out my videos my",
+      "start": 1020.8,
+      "duration": 4.239,
+      "end": 1025.039
+    },
+    {
+      "index": 418,
+      "text": "channel i appreciate you all see you",
+      "start": 1022.8,
+      "duration": 6.279,
+      "end": 1029.079
+    },
+    {
+      "index": 419,
+      "text": "guys in the next video",
+      "start": 1025.039,
+      "duration": 4.04,
+      "end": 1029.079
+    }
+  ],
+  "full_text": "hello everyone welcome back to another video today we are going to be talking about the display manager in autocad architecture now the display manager is more on the advanced side of things it is a powerful and comprehensive tool and can be overwhelming if i try to teach it all in one video so today i'll be giving you somewhat of an introduction to the display manager which i do hope will spark the fire in your brain and thereby causing you to do more exploration and discover learning on your own now i must disclaim that i do not have a lot of experience with the display manager mainly because i tend to use a lot of the default settings on my own projects however i have been doing a little bit more exploration with the display manager this is coming off of the heels of the previous video that i did on skylight windows if you haven't seen that video as yet i might just drop the link below or above somewhere just check it out um but in that video i mentioned that there was something that cannot be done in autocad architecture here's a recap of that here is the caveat now when you're looking at it from a plan view this is what the window looks like for some reason autocad doesn't allow the window to look as is and of course after that video a fellow subscriber reached out to me and explained that there is actually a way to fix the issue using the display manager so now that i have learned how to fix the issue i would love to pass that knowledge on to you guys my beloved audience so yeah here we go um let's jump into autocad architecture and try to learn something new shall we okay so here we are in autocad architecture i'm using the 2023 version but you shouldn't have any problems if you're using earlier versions i'm pretty sure that you can do everything i'm doing here so no worries um but yeah let's jump right into it uh no hesitation uh where do we find the display manager so we go over to the manage tab and this is where that guy is located right here now before we jump into it there's so much to explain here guys but i'm gonna try to break it down as simple as i possibly can um but yeah the display manager pretty much controls your display configurations down here okay these are the default ones and these control the visibility graphics of various objects within your model your drawing depending on the view that you're looking at okay so that's the first complication right there um so for example if we're looking at a plan view why is it that when we look at this door from a plan view we can see the swing and you know stuff like that but when we go to a 3d view we are seeing different details okay the display manager is what controls the visibility graphics of these objects so it applies to walls windows you know even the stairs you know all of these things are being controlled um as a matter of fact let me kind of isolate this door here and uh what i'm gonna do is switch from the medium detail to for example a high detail configuration and this particular configuration what it does is to display more details about the door all right it displays the actual position of the door panel which is closed it displays this door stop it also goes as far as to display the door panels within the door and so is this something you want to see from a plan view perspective probably not so more than likely most people like myself would prefer to have the door represented in this particular configuration since you know on a plan view this is what you normally want to see all right and so the same thing occurs if we were to rotate this in a 3d view now we can see the panels and we can see different elements or parts of the door if we were to go to an elevation view like the left view here you can see even additional information telling us where the door hinges are located so all of this is being controlled again by your display manager which is controlling your display configuration and this now tells autocad what to show on your drawing depending on what view you're looking at okay back to top view this is what we are seeing uh let me kind of you know bring everything back in the scene here um so what happened now is that it does that sort of thing to every single object within your drawing so when we go over to the roof design where we had our issue before where we have our roof we can see the outline of our roof but the window on top of that roof is seen as if it were still in a plan view and so this is the issue we want to attempt to fix in today's video the roof is a little difficult to see so what i'm going to do here is to edit this roof style here and i'm going to go to i'm just going to click on this right here and i'm going to change the cut above and the cut below i'm going to change the color to maybe this orange color here just to brighten it up a little bit so that we can see it much clearer all right so i think that's better you can tell me if it uh if you like that drop a like underneath this video so what we want to do is to make it so that when we see this window is almost as if we're looking at it from an elevation view even though we are looking from a top view here okay now the display manager is all about fixing that problem as a matter of fact if we were to switch from medium to high detail sorry to high detail uh you can see that it actually give us what we need but then it changes the outline of the roof it makes it solid all the way and that's that's another issue okay so i'm gonna switch back to medium detail and what i'm going to do here is to go to my display manager the first thing you'll notice is that we have four different drawings here and that's because those are the four drawings i have open up currently but the roof design has been expanded that's because that's the one we are working on now within this drawing you can see that we have three folders one for configurations which would be the same things down here one for sets and one for representation by objects now i'm not going to go through all the knicks knocks and the ins and outs of every single thing here but i'm gonna just show you enough to where we can fix this issue so what we are gonna do is to drop down our configuration you can see that the medium detail is active as you can see down here all right let's click on this one here and as you can see we have a cut plane default settings which we can you know change if we want or you know leave it as is we have configuration and this is where the magic happens and as you can see here we have different views directions like we have over here and for each view we have a set that is being assigned and this is where things start to get complicated guys but bear with me so where do we find these sets and how can we modify these sets here to show exactly what we want when we look from top view because we're more concerned about top view here than anything else so i'm going to focus on top view here so the first thing i'm going to actually do here is to create a configuration all right so i'm going to right click here and i'm going to say new and this is it down here so click on that guy here go over to general and i'm going to rename this to be roof plan now once you create a new configuration and hit apply okay if we click on this pull up button here you will see your new configuration here i'm not going to click on it as yet since we haven't you know make all the necessary adjustments so let's go back to the display manager drop down our configurations and we have our roof plan configuration here we go over to configuration and as you can see uh no set has been assigned to these ones here as you can see there but the top and the 3d view has an assignment okay i'm fine with the 3d view being model high detail that's fine but when we get to the top view it has a set that i don't want to use all right so i'm going to remove this one i'm going to say none but the question is where do we go to create a new set for this configuration that is right in the next folder okay so if we drop this down these are all the sets that are available to assign to all of your views so if i click on this particular set here and i'm gonna just big this up a little bit more so you can see what's going on this is where things become confusing and complicated all right guys but no worries i'm here to kind of break it down for you a little bit so as you can see a number of boxes have been checked in here based on the object these are all the various objects that are available in autocad architecture and up here we have different display representation okay so i mean you know we have general views we have elevation views we have uh model views we have model high detail we have plan views all the possible views that are in autocad are up here you know i think it would be easier if i create one and then show you how it works so what we're going to do is to create a new set it's right here and i'm going to rename this to be the roof plan set okay let's go over to display representation control just like we were looking at previously and as you can see here nothing has been selected at this point we can actually go ahead and select some things that we want to see because right now as is if we were to go ahead and assign this new set to our new configuration so let's do that go to roof let's go to this here let's assign our new set which is a roof plan set let's hit apply hit ok and then what we're going to do is to go down here and select roof plan now if you notice everything disappears and the reason for that is because nothing was selected in our set earlier so if we go back to display configure display manager go down to sets go to our roof plan set and if we start to check some boxes here of things that we actually want to see within this configuration then things are going to start to turn on and so for example we want to see walls but we want to see walls from a plan view perspective so we look for plan and we look for a wall and we check that box okay likewise for roof roof and roof slab we're going to turn those on so we go to plan and we turn these on same thing for doors go up to doors we want to see these from plan but any object that you think you're going to be seeing within this view here uh you want to turn those on okay now the issue is where do you turn it on under is it plan view is it normal is it this or is it that as it regards to the window you don't want to turn this on underneath plan because we want to see the elevation of the window we are going to scroll over to the elevation check box and we're going to check this box so even though we're looking at a top view we are going to see the elevation of the window within that view so when we hit ok everything that we wanted is now turned on the roof uh we don't have any walls in this drawing right now but if we did you would be seeing those most importantly we can now see the elevation of the window from plan view and this is pretty pretty cool now the window is being shown in this uh color and i don't like that color so if we want to change this color we can actually change it uh within this object by itself you know we can change this particular object's color if we want or we can do something that applies that setting to every other window that is being shown from an elevation view if we go back to the display manager here go down to representation by object and if we go down to windows and we drop this down and we go to elevation since we're looking at the window from an elevation perspective uh we can change these two colors here which would be the sash and the frame and this and the that and we can just you know change it to something else let's choose this yellow here for example um that yellow all right okay and i'm gonna hit okay and now you can see that the windows has been changed one thing to note is that when you make changes within the display manager it applies the change to your entire view so if i had some additional windows over here it would apply those changes um if i wanted to make changes to this particular window by itself for example i want to make these windows in a hidden line like the roof itself and the second thing i want to do is to turn off some of these other lines that we're seeing here um the reason why we're seeing all of these lines is because you know you can see the window frame you can see the window sash you can see the window the window pane itself all right so we don't we we probably don't want to see all of that stuff so we can turn them off and i'm gonna do so to this window only okay so what we can do here uh we're gonna go to the edit style here and if you notice elevation here is active being that it is bold that tells us that this window here is being seen in an elevation view that's perfect we're going to check this box here and we are going to turn off some of these things here so maybe we want to turn off the sash and the glass just to reduce the amount of lines that we're seeing here you definitely want to leave this on especially if you are if you have a window that opens up in a particular direction you want to see the swings so i would leave this on and then the next thing i want to do is to change the the line type of the frame okay so i'm going to change it from this to hidden and yeah that's it that this is all i want to see really i just want to see the frame change it to hidden and i'm going to hit ok ok and just like that we now have a situation where we are only seeing the window frame it's now in hidden lines and if i zoom out that's what it looks like and i'm gonna bring the upper floor in and see what it looks like here all right so this is what we have as an end result and um i hope you learned something from this uh definitely give it a shot on your project uh mess around with it and uh and see where it goes all right all right that's it that's where we will stop for today go ahead drop a like on this video if you learned something new drop your comments and your questions your thoughts in the comment section below finally i would like to thank my patrons and channel members for your support and finally finally thank all of you for checking out my videos my channel i appreciate you all see you guys in the next video",
+  "total_segments": 420,
+  "total_duration": 1029.079,
+  "extraction_timestamp": "2025-07-11T17:59:43.994198",
+  "transcript_info": {
+    "language": "en",
+    "type": "generated"
+  },
+  "proxy_used": null,
+  "source": "youtube_transcript_api_direct"
+}

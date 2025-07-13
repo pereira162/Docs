@@ -1,0 +1,65 @@
+{
+  "video_id": "oHc2lYwCV50",
+  "video_title": "BEST AutoCAD Dimension Tips You Need to Know...",
+  "folder_name": "BEST AutoCAD Dimension Tips Yo",
+  "extraction_date": "20250711_175947",
+  "files_created": {
+    "transcript_json": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\transcripts\\oHc2lYwCV50_20250711_175947_transcript.json",
+    "metadata": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\metadata\\oHc2lYwCV50_20250711_175947_metadata.json",
+    "chunks": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\chunks\\oHc2lYwCV50_20250711_175947_chunks.json",
+    "analysis": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\rag_content\\oHc2lYwCV50_20250711_175947_analysis.json",
+    "text": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\rag_content\\oHc2lYwCV50_20250711_175947_text.txt",
+    "chunks_csv": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\chunks\\oHc2lYwCV50_20250711_175947_chunks.csv",
+    "database": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\database\\youtube_transcripts.db",
+    "thumbnail": "storage\\AutoCAD Architecture_docs\\BEST AutoCAD Dimension Tips Yo\\youtube_extracted_data\\rag_content\\oHc2lYwCV50_thumbnail.jpg"
+  },
+  "statistics": {
+    "total_segments": 450,
+    "total_chunks": 18,
+    "text_length": 15581,
+    "duration_minutes": 18.65
+  },
+  "metadata": {
+    "video_id": "oHc2lYwCV50",
+    "title": "BEST AutoCAD Dimension Tips You Need to Know...",
+    "description": "🎓3D Modeling With AutoCAD Architecture course: \nhttps://learn.tdvisionuniversity.com/courses/3d-autocad-architecture-beginners-intermediate-course\n🎓Views, Annotations and Sheets with AutoCAD Architecture course: https://learn.tdvisionuniversity.com/courses/views-annotations-with-autocad-architecture\n\n---\n\nIn this video, I demonstrate five (5) AutoCAD dimension tips and trick, if you will, that I think will help you to work faster in AutoCAD. I covered the following tools: DIMLAYER, DIMSPACE, DIMBREAK, DIM, as well as other things like Fixed Extension Lines, Continuous Dimensions, Stretch Group Dimensions and Baseline Dimensions, etc.\n\nI do hope that you enjoyed this video. \n\nSubscribe if you did. Or like this video.\n\n---\n\n***RESOURSES***\n\n⬇️ Download project/drawing files seen in this video\nhttps://tdvisionuniversity.com/store/p/2-story-2-bedroom-residence-project-files\n\n⭐ Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UC4Pjm4B8uD6XQJhvkPu6ETA/join\n\n⭐ Or join my Patreon Page:\nhttps://www.patreon.com/tdvision\n\n⭐Dimension & Annotation\nPart 1: https://youtu.be/O_R9B5OsHYo\nPart 2: https://youtu.be/CtWDoOTz6RE\nPart 3: https://youtu.be/JSQCSt-3CRE\n\n⭐AEC Dimensions\nhttps://youtu.be/0KGOwPLFErA\n\n---\n\n#AutoCAD2023 #Architecture \n\n---\n\nGEARS I USE:\nhttps://kit.co/TDVisionU\n\nFOLLOW ME ON SOCIAL MEDIA:\nhttps://linktr.ee/tdvisionu\n\nCREDITS:\nMusic: YouTube Audio Library (free audio)",
+    "uploader": "TD Vision U",
+    "upload_date": "20220416",
+    "duration": 1119,
+    "view_count": 7544,
+    "like_count": 261,
+    "comment_count": 15,
+    "thumbnail": "https://i.ytimg.com/vi_webp/oHc2lYwCV50/maxresdefault.webp",
+    "url": "https://www.youtube.com/watch?v=oHc2lYwCV50",
+    "extraction_date": "2025-07-11T17:59:50.170563",
+    "extractor_version": "3.0.0",
+    "proxy_used": null
+  },
+  "analysis_summary": {
+    "summary": {
+      "total_words": 1000,
+      "total_sentences": 2,
+      "avg_words_per_sentence": 500.0,
+      "language": "en"
+    },
+    "keywords": [
+      "layer"
+    ],
+    "metadata": {
+      "analysis_version": "2.0_light",
+      "timestamp": "2025-07-11T17:59:52.229949",
+      "processing_mode": "memory_optimized"
+    }
+  },
+  "extractor_version": "5.0",
+  "features_used": {
+    "advanced_mode": true,
+    "save_audio": false,
+    "reuse_data": true
+  },
+  "reused_data": {
+    "transcript": false,
+    "metadata": false,
+    "audio": false
+  }
+}

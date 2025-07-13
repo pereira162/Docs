@@ -1,0 +1,210 @@
+[
+  {
+    "index": 0,
+    "text": "hello everyone welcome back to another video today we are going to be talking about the display manager in autocad architecture now the display manager is more on the advanced side of things it is a powerful and comprehensive tool and can be overwhelming if i try to teach it all in one video so today i'll be giving you somewhat of an introduction to the display manager which i do hope will spark the fire in your brain and thereby causing you to do more exploration and discover learning on your own now i must disclaim that i do not have a lot of experience with the display manager mainly because i tend to use a lot of the default settings on my own projects however i have been doing a little bit more exploration with the display manager this is coming off of the heels of the previous video that i did on skylight windows if you haven't seen that video as yet i might just drop the link below or above somewhere just check it out um but in that video i mentioned that there was something tha",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 1000,
+    "word_count": 191,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "w or above somewhere just check it out um but in that video i mentioned that there was something that cannot be done in autocad architecture here's a recap of that here is the caveat now when you're looking at it from a plan view this is what the window looks like for some reason autocad doesn't allow the window to look as is and of course after that video a fellow subscriber reached out to me and explained that there is actually a way to fix the issue using the display manager so now that i have learned how to fix the issue i would love to pass that knowledge on to you guys my beloved audience so yeah here we go um let's jump into autocad architecture and try to learn something new shall we okay so here we are in autocad architecture i'm using the 2023 version but you shouldn't have any problems if you're using earlier versions i'm pretty sure that you can do everything i'm doing here so no worries um but yeah let's jump right into it uh no hesitation uh where do we find the display m",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 1000,
+    "word_count": 194,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "o no worries um but yeah let's jump right into it uh no hesitation uh where do we find the display manager so we go over to the manage tab and this is where that guy is located right here now before we jump into it there's so much to explain here guys but i'm gonna try to break it down as simple as i possibly can um but yeah the display manager pretty much controls your display configurations down here okay these are the default ones and these control the visibility graphics of various objects within your model your drawing depending on the view that you're looking at okay so that's the first complication right there um so for example if we're looking at a plan view why is it that when we look at this door from a plan view we can see the swing and you know stuff like that but when we go to a 3d view we are seeing different details okay the display manager is what controls the visibility graphics of these objects so it applies to walls windows you know even the stairs you know all of th",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 195,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "graphics of these objects so it applies to walls windows you know even the stairs you know all of these things are being controlled um as a matter of fact let me kind of isolate this door here and uh what i'm gonna do is switch from the medium detail to for example a high detail configuration and this particular configuration what it does is to display more details about the door all right it displays the actual position of the door panel which is closed it displays this door stop it also goes as far as to display the door panels within the door and so is this something you want to see from a plan view perspective probably not so more than likely most people like myself would prefer to have the door represented in this particular configuration since you know on a plan view this is what you normally want to see all right and so the same thing occurs if we were to rotate this in a 3d view now we can see the panels and we can see different elements or parts of the door if we were to go to",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 196,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "now we can see the panels and we can see different elements or parts of the door if we were to go to an elevation view like the left view here you can see even additional information telling us where the door hinges are located so all of this is being controlled again by your display manager which is controlling your display configuration and this now tells autocad what to show on your drawing depending on what view you're looking at okay back to top view this is what we are seeing uh let me kind of you know bring everything back in the scene here um so what happened now is that it does that sort of thing to every single object within your drawing so when we go over to the roof design where we had our issue before where we have our roof we can see the outline of our roof but the window on top of that roof is seen as if it were still in a plan view and so this is the issue we want to attempt to fix in today's video the roof is a little difficult to see so what i'm going to do here is to",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 1000,
+    "word_count": 205,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "mpt to fix in today's video the roof is a little difficult to see so what i'm going to do here is to edit this roof style here and i'm going to go to i'm just going to click on this right here and i'm going to change the cut above and the cut below i'm going to change the color to maybe this orange color here just to brighten it up a little bit so that we can see it much clearer all right so i think that's better you can tell me if it uh if you like that drop a like underneath this video so what we want to do is to make it so that when we see this window is almost as if we're looking at it from an elevation view even though we are looking from a top view here okay now the display manager is all about fixing that problem as a matter of fact if we were to switch from medium to high detail sorry to high detail uh you can see that it actually give us what we need but then it changes the outline of the roof it makes it solid all the way and that's that's another issue okay so i'm gonna swit",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 214,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "ine of the roof it makes it solid all the way and that's that's another issue okay so i'm gonna switch back to medium detail and what i'm going to do here is to go to my display manager the first thing you'll notice is that we have four different drawings here and that's because those are the four drawings i have open up currently but the roof design has been expanded that's because that's the one we are working on now within this drawing you can see that we have three folders one for configurations which would be the same things down here one for sets and one for representation by objects now i'm not going to go through all the knicks knocks and the ins and outs of every single thing here but i'm gonna just show you enough to where we can fix this issue so what we are gonna do is to drop down our configuration you can see that the medium detail is active as you can see down here all right let's click on this one here and as you can see we have a cut plane default settings which we can",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 1000,
+    "word_count": 198,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "ht let's click on this one here and as you can see we have a cut plane default settings which we can you know change if we want or you know leave it as is we have configuration and this is where the magic happens and as you can see here we have different views directions like we have over here and for each view we have a set that is being assigned and this is where things start to get complicated guys but bear with me so where do we find these sets and how can we modify these sets here to show exactly what we want when we look from top view because we're more concerned about top view here than anything else so i'm going to focus on top view here so the first thing i'm going to actually do here is to create a configuration all right so i'm going to right click here and i'm going to say new and this is it down here so click on that guy here go over to general and i'm going to rename this to be roof plan now once you create a new configuration and hit apply okay if we click on this pull u",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "o be roof plan now once you create a new configuration and hit apply okay if we click on this pull up button here you will see your new configuration here i'm not going to click on it as yet since we haven't you know make all the necessary adjustments so let's go back to the display manager drop down our configurations and we have our roof plan configuration here we go over to configuration and as you can see uh no set has been assigned to these ones here as you can see there but the top and the 3d view has an assignment okay i'm fine with the 3d view being model high detail that's fine but when we get to the top view it has a set that i don't want to use all right so i'm going to remove this one i'm going to say none but the question is where do we go to create a new set for this configuration that is right in the next folder okay so if we drop this down these are all the sets that are available to assign to all of your views so if i click on this particular set here and i'm gonna jus",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "available to assign to all of your views so if i click on this particular set here and i'm gonna just big this up a little bit more so you can see what's going on this is where things become confusing and complicated all right guys but no worries i'm here to kind of break it down for you a little bit so as you can see a number of boxes have been checked in here based on the object these are all the various objects that are available in autocad architecture and up here we have different display representation okay so i mean you know we have general views we have elevation views we have uh model views we have model high detail we have plan views all the possible views that are in autocad are up here you know i think it would be easier if i create one and then show you how it works so what we're going to do is to create a new set it's right here and i'm going to rename this to be the roof plan set okay let's go over to display representation control just like we were looking at previously",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 1000,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "lan set okay let's go over to display representation control just like we were looking at previously and as you can see here nothing has been selected at this point we can actually go ahead and select some things that we want to see because right now as is if we were to go ahead and assign this new set to our new configuration so let's do that go to roof let's go to this here let's assign our new set which is a roof plan set let's hit apply hit ok and then what we're going to do is to go down here and select roof plan now if you notice everything disappears and the reason for that is because nothing was selected in our set earlier so if we go back to display configure display manager go down to sets go to our roof plan set and if we start to check some boxes here of things that we actually want to see within this configuration then things are going to start to turn on and so for example we want to see walls but we want to see walls from a plan view perspective so we look for plan and w",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 1000,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "we want to see walls but we want to see walls from a plan view perspective so we look for plan and we look for a wall and we check that box okay likewise for roof roof and roof slab we're going to turn those on so we go to plan and we turn these on same thing for doors go up to doors we want to see these from plan but any object that you think you're going to be seeing within this view here uh you want to turn those on okay now the issue is where do you turn it on under is it plan view is it normal is it this or is it that as it regards to the window you don't want to turn this on underneath plan because we want to see the elevation of the window we are going to scroll over to the elevation check box and we're going to check this box so even though we're looking at a top view we are going to see the elevation of the window within that view so when we hit ok everything that we wanted is now turned on the roof uh we don't have any walls in this drawing right now but if we did you would b",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 1000,
+    "word_count": 217,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "ow turned on the roof uh we don't have any walls in this drawing right now but if we did you would be seeing those most importantly we can now see the elevation of the window from plan view and this is pretty pretty cool now the window is being shown in this uh color and i don't like that color so if we want to change this color we can actually change it uh within this object by itself you know we can change this particular object's color if we want or we can do something that applies that setting to every other window that is being shown from an elevation view if we go back to the display manager here go down to representation by object and if we go down to windows and we drop this down and we go to elevation since we're looking at the window from an elevation perspective uh we can change these two colors here which would be the sash and the frame and this and the that and we can just you know change it to something else let's choose this yellow here for example um that yellow all rig",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 1000,
+    "word_count": 199,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "ou know change it to something else let's choose this yellow here for example um that yellow all right okay and i'm gonna hit okay and now you can see that the windows has been changed one thing to note is that when you make changes within the display manager it applies the change to your entire view so if i had some additional windows over here it would apply those changes um if i wanted to make changes to this particular window by itself for example i want to make these windows in a hidden line like the roof itself and the second thing i want to do is to turn off some of these other lines that we're seeing here um the reason why we're seeing all of these lines is because you know you can see the window frame you can see the window sash you can see the window the window pane itself all right so we don't we we probably don't want to see all of that stuff so we can turn them off and i'm gonna do so to this window only okay so what we can do here uh we're gonna go to the edit style here",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 999,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 14,
+    "text": "onna do so to this window only okay so what we can do here uh we're gonna go to the edit style here and if you notice elevation here is active being that it is bold that tells us that this window here is being seen in an elevation view that's perfect we're going to check this box here and we are going to turn off some of these things here so maybe we want to turn off the sash and the glass just to reduce the amount of lines that we're seeing here you definitely want to leave this on especially if you are if you have a window that opens up in a particular direction you want to see the swings so i would leave this on and then the next thing i want to do is to change the the line type of the frame okay so i'm going to change it from this to hidden and yeah that's it that this is all i want to see really i just want to see the frame change it to hidden and i'm going to hit ok ok and just like that we now have a situation where we are only seeing the window frame it's now in hidden lines an",
+    "start_char": 12600,
+    "end_char": 13600,
+    "char_count": 1000,
+    "word_count": 213,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 15,
+    "text": "e that we now have a situation where we are only seeing the window frame it's now in hidden lines and if i zoom out that's what it looks like and i'm gonna bring the upper floor in and see what it looks like here all right so this is what we have as an end result and um i hope you learned something from this uh definitely give it a shot on your project uh mess around with it and uh and see where it goes all right all right that's it that's where we will stop for today go ahead drop a like on this video if you learned something new drop your comments and your questions your thoughts in the comment section below finally i would like to thank my patrons and channel members for your support and finally finally thank all of you for checking out my videos my channel i appreciate you all see you guys in the next video",
+    "start_char": 13500,
+    "end_char": 14500,
+    "char_count": 822,
+    "word_count": 165,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]

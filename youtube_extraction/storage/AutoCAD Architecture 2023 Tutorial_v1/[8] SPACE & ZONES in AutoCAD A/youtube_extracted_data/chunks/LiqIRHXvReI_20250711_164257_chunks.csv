@@ -1,0 +1,406 @@
+chunk_id,content
+0,"all right so thank you for joining me
+this is episode 8 of our one bedroom
+series and today we're gonna talk about
+space so in AutoCAD there is a tool that
+is called the space too so as you can
+see it can be found right here
+and also if you go into the enter the
+tool palette and we go to design and if
+you scroll down you have the same thing
+down here so we're gonna talk about what
+it is used for and how to put it in your
+drawing make sense I guess so the best
+way for me to explain what this space
+tool is is to illustrate it so here I
+have a box better yet let's make this
+box look like something we are familiar
+with a building yeah so this is a
+one-room building and inside this
+one-room building we have nothing and
+what we want to do though is to replace
+this nothingness with what we call space
+its own crazy but I hope that you kind
+of get the idea so in AutoCAD what we
+would do is to add space within each
+room all right and each room is bounded
+by the walls that make up that room
+okay"
+1,"space within each
+room all right and each room is bounded
+by the walls that make up that room
+okay and this space object would be able
+to give us a lot of information about
+that particular room so for instance we
+would be able to name that space such as
+let's say the bedroom once we give this
+space a name we would also be able to
+use autocad's
+smart tag to populate the name of the
+room when we're ready to annotate the
+drawing and also plot the drawing we
+would also be able to pull various
+information about the room such as the
+floor area the volume of the
+the parameter of the room also we would
+be able to pull the types of finishes
+that are being used within that room
+whether it be let's say for instance
+ceramic tiles on the floor red paints on
+the walls
+wooden ceilings whatever is in that room
+the space tool allows us to capture all
+that information and push them into
+let's say for instance a schedule all
+right so as you can see that the speech
+tool becomes very important and very
+he"
+2,"tance a schedule all
+right so as you can see that the speech
+tool becomes very important and very
+helpful and will save you a lot of time
+in the future especially if you're
+working on a very large project so let's
+move over to AutoCAD where I will show
+you how to get this done the last thing
+we did was our foundation and what we're
+going to do is to go back over to our
+floor or ground the floor plan so let's
+go back over and of course all of these
+can be found in our project navigator
+that we have been using all this time so
+we have the foundation we would go back
+to our ground floor drawing which is
+this that is opening open up here and
+we're going to go back to the top view
+to be so we're going to add spaces to
+each of these rooms which is quite
+simple we'd go to the Home tab and we go
+down to generate space we're gonna use a
+generate space because it automatically
+identify your boundaries and create a
+space within those boundaries for us if
+we were to use just a space tool we
+would"
+3,"ries and create a
+space within those boundaries for us if
+we were to use just a space tool we
+would have two draw boxes two to the
+size of your room and that kind of stuff
+if you're not seeing it up here we're
+gonna go we can find it down here and we
+would go down to the space generic tool
+right here okay no actually if you go
+down the side of this bar we have one
+that is dedicated to spaces and inside
+of it we have some pre-loaded spaces
+that we could actually use but these
+were specifically made for office
+buildings and
+kind of stuff so for instance lobbies
+reception stairway corridors that kind
+of thing you know so we're not gonna use
+those we're gonna just stick with the
+one that is up here where we can create
+our own space so we're gonna click on
+the generate space minimize that zoom in
+a little bit and now you can see as I
+move the mouse over each room you see a
+red box being generated within each room
+and what it does is to use the walls as
+a boundary for each one okay so before"
+4,"ated within each room
+and what it does is to use the walls as
+a boundary for each one okay so before
+we click though what we're gonna do is
+to go over to the properties box and
+we're gonna make sure that everything is
+okay over here so the first thing you
+want to do is to change the name of this
+space so we're gonna call this the
+kitchen enter everything is here looks
+good we're gonna go down to the
+component dimensions we can change a
+couple of things here if we need to all
+right so I usually make the surface
+height of my space the same height as
+the wall okay so the walls on this
+building are 10 feet tall so we're gonna
+make sure that our surface height is
+also 10 feet high once that is set then
+we're now clear to go ahead and add
+spaces so I'm gonna just go ahead and
+add the first piece here that's what it
+looks like when you add it so as you go
+on at each you want to change the name
+as you go along so we're gonna do the
+bathroom now we're going to change this
+to through click do th"
+5,"as you go along so we're gonna do the
+bathroom now we're going to change this
+to through click do the bedroom
+click to the living click and then we're
+gonna do porch I mean you can go back
+and change these names afterwards it it
+doesn't matter all of these you can do
+afterwards actually so there we have all
+five species being added it hit enter
+then we're out of that command so what
+I'm gonna do about now is to go into the
+3d mode so you can see what's happening
+here
+x-ray so each room has a space object
+inside of it like this box and this box
+can give us all the information that we
+mentioned earlier in the video such as
+the area volume parameter all of that
+can be found down here okay area 132
+square feet volume 1001 22 cubic feet
+parameter it gives you everything and
+these can be helpful especially if you
+know you're doing a large project and
+you would like to know the total area or
+the area of our the volume of a
+particular space and that kind of stuff
+all right it also can be used"
+6,"e area of our the volume of a
+particular space and that kind of stuff
+all right it also can be used to pull
+finishes that would be used in that rule
+and we would find all of that under what
+we call extended beta all right we will
+click on this button here to add some
+property sets but we're not gonna get
+into all of that in this video we're
+gonna just stick to the you know just
+the regular stuff here and call it that
+know what I'm gonna do is to isolate
+these objects so just to show you what's
+happening here so let's say we select
+all and we're gonna isolate them so we
+go to this button down here click on it
+and we're gonna see isolate
+so these are what species look would
+look like by themselves all right just
+some boxes to fill the the voids
+basically all right no AutoCAD actually
+gives us the ability to add ceilings
+inside of these space and also floor
+slab so in the previous video when we
+did a floor slab we could actually skip
+that step and add the floor slab right
+here from the sp"
+7,"n we
+did a floor slab we could actually skip
+that step and add the floor slab right
+here from the space object but I wanted
+to show you that way as well as this way
+and let you decide which one you prefer
+to use all right and how do we do that
+though in the component dimensions over
+here you would see a section for ceiling
+height which is already set at 8 feet 6
+and what the ceiling thickness is 0 that
+is why we're not seeing a ceiling as yet
+so let's let's add a ceiling thickness
+off I'm gonna give it 2 inches okay and
+that would include the ceiling finishing
+material as well as the the joist and
+all of those stuff so let's say 2 inches
+now you can see a ceiling appear within
+that space all right and it is at a
+height of what 8 feet 6 inches all right
+now let's say I want the ceiling to be
+in 9 feet up all right
+now you can see that the entire thing
+goes up above the rest which I don't
+want that that would be the space above
+the ceiling which would which we can
+find right here all rig"
+8,"want that that would be the space above
+the ceiling which would which we can
+find right here all right we can
+minimize it here or we can just go back
+to our default surface height and put it
+back down to 10 feet and I would just
+bring it back down to what we want okay
+the same thing we can do for floor
+thickness so our floor thickness will
+actually be 6 inch not 6 feet 6 inch and
+just like that we have
+of a floor thickness all right so we
+could do it here as well but of course
+we did that in the previous video so
+we're not gonna leave that we're gonna
+actually remove that but I'm gonna keep
+the ceiling so we're gonna add sealing
+to all of these rooms what I would do is
+you just click on all of them and just
+do one thing yes there are nine feet I'm
+gonna add a ceiling thickness of two and
+I'm gonna drop this back down to 10 feet
+so everybody is on the same height now
+of course you could put like say for
+instance the bedroom ceiling could be a
+little lower or higher depending on how
+you"
+9,"ut like say for
+instance the bedroom ceiling could be a
+little lower or higher depending on how
+you want it same thing for the kitchen
+or the bathroom you can decide and it
+all depends on how you are doing your
+design so I'm gonna annihilate so we go
+to end isolation
+now we're having another problem okay in
+our 3d view we're seeing the call the
+box itself and I don't want us to see
+the box I just want the seating alone
+and get rid of the box okay so what I'm
+gonna do is to hide that layer so what
+we will do is to click on it go to edit
+style and if you don't see the edit
+style button you could actually just
+right-click on it and you just edit
+style and it brings you to the same spot
+okay
+and then we would go over to the volume
+option and we're gonna override this
+photo again we're getting into some deep
+stuff but no worry self you'll get the
+hang of it and what we do is basically
+just turn it off turn off the visibility
+of that entity okay now we hit OK and
+just like that it is God bec"
+10,"rn it off turn off the visibility
+of that entity okay now we hit OK and
+just like that it is God because at the
+end of the day we don't want to see that
+space when we're gonna print the drawing
+okay it is just there to give us the
+information that we need it is still
+there in the background what we don't
+want to see it so now you can see that
+we have our ceiling and we can actually
+see inside of the house actually let me
+put this in unsexual so you can see what
+is happening all right so the horse
+actually was ceiling to come together
+nicely man alright so let's go back to
+the top view and to the way through also
+when we are printing the drawing we do
+not want to see these hatch lines so we
+could actually hide these hatch lines or
+put them on a layer that will not print
+how do you do that simply click on it
+and we would go to edit style again
+where is it
+edit style and we would go to the plan
+view we're gonna over edit and these two
+top ones we're gonna actually put them
+on a layer that"
+11,"plan
+view we're gonna over edit and these two
+top ones we're gonna actually put them
+on a layer that will not print so when
+you go to print them they won't show
+on the people so you put them on a deaf
+point there cuz we all know that the
+Deaf point layer does not print okay
+at that point I'm gonna put this one a
+deaf point as well gonna hit okay and
+you could do the same thing for the high
+low details but I'm gonna just do the
+that one and I'm going to leave it there
+and I hit okay so even though you're
+seeing it here on this drawing when you
+go to print it you will not see it okay
+and that's important because we don't
+want it all these hatching and all of
+that in the drawing when we're going to
+print it alright the last thing I want
+to show you is how to separate a space
+without a wall so like this living area
+i I kind of want to break this area into
+two but there is no wall to break that
+area so what I'm gonna do is to draw a
+line here using the space separator
+alright this tool righ"
+12,"at
+area so what I'm gonna do is to draw a
+line here using the space separator
+alright this tool right here so I will
+just click on it and now we can go ahead
+and draw the line where we want the
+space to be divided so I'm gonna draw a
+line from here I'm gonna start it on the
+edge of the wall come across and I'm
+gonna kind of track it down like so
+click on that X then we're gonna bring
+it up like that and I'm gonna hit enter
+just like that this space kill them
+let's go down here know what should
+happen here is that this this error
+should be divided into two sections but
+it didn't happen and I think I know why
+what we're gonna do is go back to our
+edit style because we had turned off the
+volume that's the problem there so what
+we're going to do is turn it back on
+and we're gonna put it again on a layer
+that doesn't print so let's put it on a
+deaf point layer and we're gonna turn
+down the transparency all the way to 90
+cuz when we're going to 3d we don't want
+to see the space at all
+so we"
+13,"ansparency all the way to 90
+cuz when we're going to 3d we don't want
+to see the space at all
+so we want to make it as transparent as
+possible even though it is still there
+so initially we had turned it off so
+that's why the separation tool is not
+working so we're gonna say okay okay and
+we're gonna redo this so let's do it
+again separate I'm gonna click bring it
+down I'm gonna just hover over that
+point so that I can get that a tracking
+line now click there and move over click
+once you draw the lines where you want
+it just hit enter and that should give
+you two separate species just like that
+all right so what we're gonna do now is
+to rename this space and we could call
+it no I will not call it passage
+something like that and we're gonna call
+this well it's a living already we're
+just gonna remove the tool from off of
+it and so we have our species just like
+that
+so we're going to go back to 3d go back
+to x-ray mode
+so now we can see that the species are
+still there but there are kind"
+14,"k to 3d go back
+to x-ray mode
+so now we can see that the species are
+still there but there are kind of
+transparent especially the box itself
+yeah it's very very transparent alright
+alright guys so by the way you guys
+don't forget to hit the Save button also
+don't forget to hit the like button
+yes ma'am I like what let see them so
+all right so let's hit the safe one
+first and then we're gonna go down and
+hit the black one okay so that wraps it
+up for this video I hope that you'll
+learn something if you have any
+questions at all any questions with
+regards to space art cut those drop them
+in the comments okay
+and don't forget to hit the like button
+and if you haven't already subscribed
+alright so thanks again for watching and
+I respect"

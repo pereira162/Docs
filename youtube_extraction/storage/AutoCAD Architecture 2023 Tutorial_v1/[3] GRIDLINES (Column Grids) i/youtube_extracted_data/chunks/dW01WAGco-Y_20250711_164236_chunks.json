@@ -1,0 +1,184 @@
+[
+  {
+    "index": 0,
+    "text": "[Music]\n[Music]\nhi everyone thank you for joining me on\nepisode number three for one bedroom\nseries in the previous video we learned\nhow to set up our project in ArchiCAD\nusing the project browser and project\nnavigator alright so if you missed that\nepisode you need to watch it click the\nlink up there or click the link down\nthere because it's important that you\nunderstand how to set up your project\nbefore we move into the more exciting\nstuff you're I'm saying yeah so in the\nprevious video we learned how to set up\nour projects using the project browser\nwhich is it's little about right here\nand also the project navigator alright\nbecause if you look over here this is\nwhat we did we went through we set our\nproject settings we did our levels and\nwe also did our divisions alright so you\ncan't afford to miss that alright so\ntoday is gonna be a little bit more\ninteresting because now we're going to\nmove to our constructs and this is where\nwe're gonna start to do actual drawing\nall right now as",
+    "start_char": 0,
+    "end_char": 1000,
+    "char_count": 999,
+    "word_count": 187,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 1,
+    "text": "to\nmove to our constructs and this is where\nwe're gonna start to do actual drawing\nall right now as you can see I have two\nof the constructs open up here we have\nthe foundation and we also have the\nground floor which you can actually see\nthem over here alright so we would draw\nour ground floor in this drawing and we\nwill draw our foundation in this drawing\nbut before we do any of these drawings\nwhat we want to draw first is our grid\nall right so today's video is about\ngridlines how do we draw or unset up our\ngrid lines now for those of you who\ndon't know what grid lines are grid\nlines are also commonly referred as\ncolumn grids okay now most times column\ngrids are used on large buildings where\nthere's a lot of columns throughout the\nbuilding so take for instance this\nbuilding right all right\nthis building has quite a few columns\nthroughout it all right now can you\nidentify any of the columns in this\nbuilding of course you can all right you\ncan see one here and there but what if I\nwere t",
+    "start_char": 900,
+    "end_char": 1900,
+    "char_count": 1000,
+    "word_count": 197,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 2,
+    "text": "mns in this\nbuilding of course you can all right you\ncan see one here and there but what if I\nwere to add some column grids to it like\nthat now you're able to identify each\ncolumn by name so for instance if I say\nto you where is column f1 you'll be able\nto locate column f1 if I say where is\ncolumn a tube we'll be able to locate\ncolumn a2 and so now you can start to\nappreciate significance of column grids\nthroughout a building all right\nit helps to layout your columns and it\nalso help you to locate columns all\nright now there are many more advantages\nof column grids but we're gonna stick to\nthose two for today all right\nso what would a column grid look like\nfor a one bedroom house like the one\nthat we're about to do now it would look\nsomething like this\nall right of course a tiny bedroom house\nlike this doesn't need column grids but\nthis way you will be able to apply these\nprinciples to your larger projects okay\nguys so what we're gonna do is to open\nup our grid line drawing so what we'",
+    "start_char": 1800,
+    "end_char": 2800,
+    "char_count": 1000,
+    "word_count": 202,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 3,
+    "text": "our larger projects okay\nguys so what we're gonna do is to open\nup our grid line drawing so what we're\ngoing to do so just open it like that\nand it is in this project or this\ndrawing that we're gonna do\ngridlines of course we could go ahead\nand start to just draw our grid lines\nstarting at the zero zero point here but\nI want to start mine somewhere up here\nso our grid line will take up this space\nhere so what I'm gonna do is to draw a\nline from 0 0 up at a 45 degree angle so\nlet's click on our line tool and I'm\ngonna type it says here specify your\nfirst point I want my first point to be\n0 0 now you can see that man I'm\nstarting at 0 0 and then I'm gonna draw\na line at 45 degrees so I'm gonna put\nthe less than sign 45 enter now my line\nis running on the 45-degree angle\nalright so I can't draw another a line\nat any other angle because I set it at a\n45 degree and then I'm gonna type how\nfar away do I want it to go so I'm gonna\nput 25 feet enter alright so that is\nwhere we're gonna start t",
+    "start_char": 2700,
+    "end_char": 3700,
+    "char_count": 1000,
+    "word_count": 220,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 4,
+    "text": "away do I want it to go so I'm gonna\nput 25 feet enter alright so that is\nwhere we're gonna start to draw our grid\nlines so our grid lines should take up\nthis space right there let me minimize\nthat so we can see a little bit clearer\nalright so let's go ahead and draw our\nfirst grid line now we need 4 vertical\nlines and two horizontal lines\nso our first vertical line is going to\nbe drawn upwards now if you notice I\ndon't have my 90 degrees turned on this\nis important because grid lines must be\nperfectly straight so you want to turn\nthis on that way your your your lines\nwill be perfectly straight all right\nline up 90 degrees so let's go ahead and\nwe're going to draw our first grid line\nwhich\nbe 16 feet enta now this is what 16 feet\nlooks like looks let's check it perfect\n16 foot and then our next line vertical\nline is 9 feet 6 inches away from this\none\nso what we're going to use is the offset\ntool offset how far you want it off of\nthat would be 9 feet 6 inches enter and\nthen we're gonna",
+    "start_char": 3600,
+    "end_char": 4600,
+    "char_count": 999,
+    "word_count": 206,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 5,
+    "text": "fset\ntool offset how far you want it off of\nthat would be 9 feet 6 inches enter and\nthen we're gonna click on the side that\nyou want it on so of course we don't\nwant it on the side we want it on this\nside so we're gonna click over there\nthen though the other line would be 5\nfoot 6 inches away from this one so\nwe're going to offset again offset type\nin your distance which would be 5 feet 6\ninches and then we're gonna just do like\nthat click over there and then of course\nour fourth grid would be offset again 12\nfoot are feet 6 inches oh dear we have\nit so now we have all 4 vertical lines\nno our horizontal lines actually they\nare just two and there they would be\nexactly at the top and at the bottom of\nthese lines now of course if you had\nsome in the middle we would go ahead and\nuse the offset tool to offset those but\nbeing that we only have two here we just\nneed to complete the box there all right\nof course we're gonna go ahead and\ndelete this because we don't need that\nagain this is what",
+    "start_char": 4500,
+    "end_char": 5500,
+    "char_count": 1000,
+    "word_count": 210,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 6,
+    "text": "l right\nof course we're gonna go ahead and\ndelete this because we don't need that\nagain this is what we need so what we're\ngonna do next is to extend each line\noutwards out of the box about 12 inches\nall right now there are many ways you\ncan do this but I'm gonna just use a\nvery simple way that everybody can\nunderstand so what we're going to do is\njust click on the box here\nagain ensure that your artha is turned\non all right click on this box drag it\nout and type 12 inches enter okay so\nwe're going to do that for all of these\nlines drag it out twelve launches all\nright so I'm gonna just move a little\nquick quickly here so we can speed\nthrough this part I'm gonna do all of\nthem like that\nbut those of you who know easier way to\ndo it please feel free to go ahead and\nuse it easier method there we go so now\nwe have something that is looking pretty\nclose to what we need all we need now is\nour bubble all right\nnow that is the part that AutoCAD will\nactually generate for us all right so\nwhat",
+    "start_char": 5400,
+    "end_char": 6400,
+    "char_count": 999,
+    "word_count": 208,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 7,
+    "text": "bubble all right\nnow that is the part that AutoCAD will\nactually generate for us all right so\nwhat we're gonna do is to open up what\nis called our tool palette or design\ntool palette now if you're not seeing\nthis guy right here you can actually\nfind it up here so click on this thing\nand click on this little guy right here\nthere you'll find this tool palette all\nright now when you open it up you'll\nhave a lot of stuff you have design wall\ndoors windows everything is right here\nwhat we want to go to design and under\ndesign you will find column grid okay so\nof course if we click on it like that\nAutoCAD is giving us a grid but we don't\nwant that great because we already have\nour layout here so what we're gonna do\nis to right click and say apply to line\nwork good\nso because we had already create some\nlines here we want AutoCAD to use our\nlines so we're gonna highlight them all\nright and it says here select your line\nwork we already selected it or selected\nthem now we're gonna hit enter\nit",
+    "start_char": 6300,
+    "end_char": 7300,
+    "char_count": 998,
+    "word_count": 200,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 8,
+    "text": "ays here select your line\nwork we already selected it or selected\nthem now we're gonna hit enter\nit says here enter your how far away\nfrom these lines do you want your\nbubbles 4 feet that's the standard enter\ndo you want to erase these line work the\nanswer is yes so click on yes and what\nit does here is to erase your line work\nand replace them with\nthe proper gridlines all right so of\ncourse this is what AutoCAD generates\nfor us all right so we have a wonderful\ngrid line set up here now if you'll\nnotice the bubbles are a little bit too\nbig and that's because of the scale that\nwe are using the correct scale would be\none in 50 which which is equivalent to\nquarter inch to one foot so they're\ngonna click on that and now our bubbles\nare now at the correct size all right\nnow it's important that you adjust that\nbecause when you're gonna print your\ndrawing you're going to be printing it\non that scale so you need to ensure that\nyour bubbles are at the correct scale\nand size all right guys so we",
+    "start_char": 7200,
+    "end_char": 8200,
+    "char_count": 1000,
+    "word_count": 199,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 9,
+    "text": "scale so you need to ensure that\nyour bubbles are at the correct scale\nand size all right guys so we're gonna\nmove on from here what you can do from\nthis point is to just check to ensure\nthat your grid lines are where there\nshould be so that's nine foot six this\none is five foot six in fact let's let's\nadd these dimensions\nnow for those of you who do know where\nto find the dimension is right here so\nit could click on it click on linear and\nthis one would be what 16-foot right\nperfect\nalright now I'm gonna put these on a\nseparate layer dimensions so let's do\nthat\noh if you don't know how layers work I\nhave a video on this so I'm gonna link\nit up there go and watch the video as\nwell alright so we're gonna create a\nlayer for this and call it the dimension\nlayer and when I give it another color\nswitch this to its whatever yellow line\nweight so I'm going to select all of\nthese select similar and I'm gonna move\nthem to the dimension layer all right so\nnow we verify that our dimensions are\npe",
+    "start_char": 8100,
+    "end_char": 9100,
+    "char_count": 1000,
+    "word_count": 203,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 10,
+    "text": "and I'm gonna move\nthem to the dimension layer all right so\nnow we verify that our dimensions are\nperfect where they're at now we need to\nput in some labels into these bubbles\nalright so what we're gonna do is to\nclick on the grid line itself and say\nedit label once we say edit label it\nsays here pick the first custom column\ngrid line so I wanna do we're gonna do\nthese ones first and we're gonna label\nthese numerically okay so we're gonna\nstart at 1 2 3 4 so what you want to do\nis to pick them in the order in which\nyou want the numbers to to follow so\nlet's say that would be 1 this would be\n2 this would be 3 and this would be 4\nand then what you're gonna do is to hit\nenter and then it asked you know what do\nyou what do you want a pallet to be this\nis where you say ok you want it to be\nnumerical so I wanted to start at number\none enter and now you can see AutoCAD\npopulates your bubbles with the numbers\nthat you need one two three four and it\nwould have done the same at the bottom\nfield",
+    "start_char": 9000,
+    "end_char": 10000,
+    "char_count": 999,
+    "word_count": 213,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 11,
+    "text": "th the numbers\nthat you need one two three four and it\nwould have done the same at the bottom\nfield so I'm gonna do the same thing at\nthe side this time we're gonna use\nalphabet alright so click on the grid\nedit label and we're going to select\nthis to be a and then this would be B\nenter now we're gonna enter the first\nletter in our sequence which would be a\nnow make sure you use capital e because\nif you use common a it's gonna populate\nthe entire thing with common letters all\nright so a B now guess what we're done\nour grid line is done there's nothing\nelse left to do here more than to save\nso we're gonna go ahead and we're gonna\nhit save and that would be our grid line\nno let's say if you wanted to add more\ngrid lines of course you just click on\nthe grid and say add a grid line and\nthen of course you click on that line\nthat you drew and follow through the\ncommands down here but for this project\nthis is where we're going to stop it\nthat's all we need\nwe're gonna hit the same button agai",
+    "start_char": 9900,
+    "end_char": 10900,
+    "char_count": 1000,
+    "word_count": 207,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 12,
+    "text": "project\nthis is where we're going to stop it\nthat's all we need\nwe're gonna hit the same button again\njust to be sure\nso what we're gonna do in our next video\nis to move to our ground floor which is\nwhere we're gonna now draw our ground\nfloor here no this is the beautiful\nthing we can actually bring in our grid\nlines into this project all we would\nneed to do is to right-click on the grid\nand say xref overlay\nalright xref means external reference so\nwhat this is doing is to pull the the\nexcel file from out\nside into your current drunk so we're\npulling the gridlines into this drawing\nso now we're in or groan for what or\nglory or gridlines are now showing up\nwithin our ground floor now if you\nnotice it comes in as a block all right\nso we can edit the grid line from here\nwe would have to go back to our grid\nlines to edit our grid line all right\nnow we know that grid line is good so\nwe're not gonna change anything over\nthere so this is where we're at with our\nground floor all right so we're",
+    "start_char": 10800,
+    "end_char": 11800,
+    "char_count": 1000,
+    "word_count": 204,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  },
+  {
+    "index": 13,
+    "text": "gonna change anything over\nthere so this is where we're at with our\nground floor all right so we're gonna\nstop it right here in the next video\nwe're gonna be drawing our walls gonna\nput in some doors and windows now we're\ngonna kick it off real good alright guys\nso pick up on yourself I'm gonna for\nwatching this episode again trust me for\nthe like the video just hit the like\nbutton and let me know owner enjoy the\nteam\n[Music]",
+    "start_char": 11700,
+    "end_char": 12700,
+    "char_count": 429,
+    "word_count": 84,
+    "metadata": {
+      "chunk_size": 1000,
+      "overlap": 100,
+      "mode": "advanced"
+    }
+  }
+]
